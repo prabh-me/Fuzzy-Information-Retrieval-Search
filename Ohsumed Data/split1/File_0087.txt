@@ -1,0 +1,15 @@
+ 39873
+.U
+87073066
+.S
+AJR Am J Roentgenol 8703; 148(1):71-5
+.M
+Comparative Study; Human; Infertility, Male/*ET; Male; Scrotum/RI; Semen/AN; Sperm Count; Technetium Tc 99m Pertechnetate/DU; Ultrasonography; Varicocele/CO/*DI.
+.T
+Diagnosis of subclinical varicocele in infertility.
+.P
+JOURNAL ARTICLE.
+.W
+The clinically obvious varicocele is perhaps the most common identifiable and correctable cause of male infertility. However, less is known about the subclinical (not palpable) varicocele and its relationship to infertility. We undertook this study to compare the ability of high-resolution sonography and radionuclide scrotal scanning to detect subclinical varicocele. Fifty patients who were referred to our department with a diagnosis of infertility, an abnormal semen analysis, and a normal physical examination of the scrotum underwent both sonography and nuclear scanning. The final study group included 20 men who agreed to surgical ligation of the spermatic vein(s) after a positive sonographic and/or radionuclide study. Sonography was considered positive for subclinical varicocele in 95% of patients, while nuclear scanning was considered positive in only 55%. Postoperatively, all patients showed improvement in their semen and 40% (eight patients) became fertile. Subclinical varicocele seems to be an important causal factor in infertility and, in our experience, high-resolution sonography is superior to radionuclide scanning in its diagnosis.
+.A
+Gonda RL Jr; Karo JJ; Forte RA; O'Donnell KT.

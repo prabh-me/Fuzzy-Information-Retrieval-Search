@@ -1,0 +1,15 @@
+ 39814
+.U
+87070543
+.S
+Thorax 8703; 41(6):442-7
+.M
+alpha Macroglobulins/ME; Aged; Blood Proteins/ME; Bronchitis/DT/*EN; Female; Human; Male; Middle Age; Pancreatopeptidase/ME; Prednisolone/TU; Protease Inhibitors/*ME; Pulmonary Emphysema/*EN; Sputum/*EN; Support, Non-U.S. Gov't.
+.T
+Elastase inhibitors of sputum sol phase: variability, relationship to neutrophil elastase inhibition, and effect of corticosteroid treatment.
+.P
+JOURNAL ARTICLE.
+.W
+The concentrations of three known elastase inhibitors (alpha 1 proteinase inhibitor, antileucoprotease, and alpha 2 macroglobulin) have been determined in the sputum of six patients with obstructive bronchitis over five consecutive days. Antileucoprotease was the major inhibitor measured and potentially could provide more than 80% of the elastase inhibition, whereas the contribution of alpha 2 macroglobulin was less than 0.2%. Comparison with the inhibitory capacity of the secretions active against human neutrophil elastase showed that the inhibitors could account for only about half of the inhibition measured. This suggests the presence of a substantial amount of unrecognised inhibitor. Corticosteroid treatment in 10 patients reduced the mean alpha 1 proteinase inhibitor concentration (p less than 0.025) from 18.6 micrograms/ml (SD 22.5) to 9.8 (6.6). Antileucoprotease, however, increased (p less than 0.05) from 20.5 micrograms/ml (24.3) to 39.3 (23.4). These changes were associated with an increase in elastase inhibition (p less than 0.025) from 180 (160) micrograms elastase/ml secretion to 310 (130), suggesting a beneficial effect of steroid treatment on the antielastases in lung secretions.
+.A
+Stockley RA; Morrison HM; Kramps JA; Dijkman JH; Burnett D.

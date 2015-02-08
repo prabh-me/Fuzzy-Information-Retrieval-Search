@@ -1,0 +1,15 @@
+ 40114
+.U
+87079384
+.S
+Clin Lab Med 8704; 6(4):805-13
+.M
+Laboratories/MA/*ST; Office Management/*ST; Quality Control.
+.T
+Quality control in the office laboratory.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Assuring quality of testing is as important in the doctor's office laboratory as it is in the hospital and independent laboratory. However, the office laboratory's problems and needs are different from those of the larger lab, and the professional laboratorian's solutions are not always appropriate for the office laboratory. It is necessary to recognize that the education and skill levels of the office laboratory staff preclude some of the quality control methods used in professionally staffed laboratories. For some test systems, new control methods will need to be developed. The professional laboratorian can provide valuable assistance to the doctor's office laboratory in assuring quality.
+.A
+Baer DM; Belsey RE.

@@ -1,0 +1,15 @@
+ 39982
+.U
+87074742
+.S
+Ann Neurol 8703; 20(5):597-602
+.M
+Adult; Aged; Aged, 80 and over; Brain/*PP; Creutzfeldt-Jakob Syndrome/GE/*PP; Electroencephalography; Female; France; Human; Male; Middle Age; Movement Disorders/PP; Vision Disorders/PP.
+.T
+Creutzfeldt-Jakob disease: clinical analysis of a consecutive series of 230 neuropathologically verified cases.
+.P
+JOURNAL ARTICLE.
+.W
+In this consecutive series of 230 patients with neuropathologically verified Creutzfeldt-Jakob disease (CJD), the disease was found to affect men and women with approximately equal frequency in a peak plateau between the ages of 55 and 75 years (mean, 61.5 years). Familial cases accounted for 4 to 8% of the total series. Nonspecific prodromal symptoms occurred in one third of the patients, and the neurological presentation, although usually a gradually evolving mental deterioration, was of rapid onset in 20% of patients and in 36% of patients consisted exclusively of neurological symptoms. The great majority of these symptoms were of cerebellar or visual origin. Extrapyramidal muscular rigidity, myoclonus, and characteristic periodic electroencephalographic (EEG) complexes were observed comparatively late in the illness, and some type of involuntary movement or periodic EEG activity was seen in over 95% of the patients. The median duration of illness was 4 months (mean, 7.6 months); 90% of patients died within a year of onset.
+.A
+Brown P; Cathala F; Castaigne P; Gajdusek DC.

@@ -1,0 +1,15 @@
+ 40070
+.U
+87078756
+.S
+Circulation 8704; 75(1):2-9
+.M
+Age Factors; Heart/*TR; Heart Diseases/*DI/MO/SU; Heart Transplantation/*; Heart-Assist Devices; Human; Myocardial Diseases/*DI/MO/SU; Patient Care Planning; Prognosis; Quality of Life; Registries; Tissue Donors; United States.
+.T
+Selection of patients for cardiac transplantation.
+.P
+JOURNAL ARTICLE.
+.W
+Selection of potential cardiac recipients is not a simple process. Identification of patients who are declining from end-stage cardiac disease and may be expected to die within 12 months or less and deciding which of a number of cardiac invalids are reasonable candidates for cardiac transplantation involves prognostication as well as a working knowledge of the expected benefits and survival rates in cardiac transplantation. Screening by means of the currently accepted contraindications for cardiac transplantation is somewhat more difficult in 1986 than it was 10 years ago when these contraindications were changing less rapidly. However, for optimal use of the limited supply of donor organs and maintenance of reasonable survival rates such screening is absolutely necessary. A second area of restriction that is less approachable by the physician is that of financial limitations. It would appear that the working poor and lower middle class may be deprived of the opportunity for cardiac transplantation much as they are deprived of the opportunity for optimal medical care in our society today.
+.A
+Copeland JG; Emery RW; Levinson MM; Icenogle TB; Carrier M; Ott RA; Copeland JA; McAleer-Rhenman MJ; Nicholson SM.

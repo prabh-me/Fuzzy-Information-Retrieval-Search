@@ -1,0 +1,15 @@
+ 39905
+.U
+87073489
+.S
+Am J Med 8703; 81(5A):61-6
+.M
+Administration, Inhalation; Adolescence; Adult; Asthma/*DT/PP; Atropine Derivatives/*AD; Clinical Trials; Comparative Study; Double-Blind Method; Drug Therapy, Combination; Female; Forced Expiratory Volume; Human; Male; Middle Age; N-Isopropylatropine/*AD/AE; Orciprenaline/AD/AE; Random Allocation; Time Factors.
+.T
+Use of ipratropium bromide in asthma. Results of a multi-clinic study.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A multi-center, double-blind, 90-day study compared an ipratropium bromide metered-dose inhaler (40 microgram four times a day) with a metaproterenol metered-dose inhaler (1,500 micrograms four times a day) in 164 patients with asthma; of the 144 patients who completed the study, 71 received ipratropium and 73 received metaproterenol. Our results suggest that both drugs were equally effective bronchodilators. Although the shape of the pulmonary function response curves suggested that ipratropium has different bronchodilator kinetics than metaproterenol (in that it has a slower onset of action and a more prolonged duration), comparison of the areas under the curves for the two drugs showed that there was no statistical difference between ipratropium or metaproterenol. The only significant side effects noted with ipratropium were cough and exacerbation of symptoms; no anticholinergic side effects were noted.
+.A
+Storms WW; Bodman SF; Nathan RA; Busse WW; Bush RK; Falliers CJ; O'Hollaren JD; Weg JG.

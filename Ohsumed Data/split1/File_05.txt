@@ -1,0 +1,15 @@
+ 39791
+.U
+87070029
+.S
+South Med J 8703; 79(12):1554-61
+.M
+Anaphylaxis/CI; Anesthesia/*MT; Chymopapain/AE/TU; Drug Evaluation; Female; Human; Intervertebral Disk Chemolysis/*.
+.T
+Anesthetic management of chemonucleolysis with chymopapain.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Chemonucleolysis and lumbar laminectomy after unsuccessful chemonucleolysis are now common and accepted surgical procedures that require precise perioperative management based on a thorough understanding of the pathophysiology of chymopapain-induced anaphylaxis and the herniating nucleus pulposus syndrome. Preoperative management with appropriate screening tests, antihistamines, and steroids, combined with thoughtful premedication and vigilant monitoring during local or general anesthesia, can provide safe anesthetic management of patients having chemonucleolysis with chymopapain.
+.A
+Diaz JH; Connolly ES.

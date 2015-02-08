@@ -1,0 +1,13 @@
+ 46
+.U
+87049300
+.S
+ASAIO Trans 8703; 32(1):217-20
+.M
+Animal; Aorta/SU; Assisted Circulation/*; Cardiac Output; Coronary Circulation; Dogs; Heart/PP; Heart Atrium/SU; Heart-Assist Devices/*; Myocardial Infarction/PP/*TH.
+.T
+The effect of left ventricular assistance on the area of infarcted myocardium.
+.P
+JOURNAL ARTICLE.
+.A
+Wei CM; Yada I; Kusagawa M.

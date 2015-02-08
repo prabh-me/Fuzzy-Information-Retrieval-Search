@@ -1,0 +1,15 @@
+ 40008
+.U
+87075159
+.S
+Ann Thorac Surg 8703; 42(6 Suppl):S22-7
+.M
+Human; Internal Mammary Artery Implantation/MT/*TD; Myocardial Revascularization/*TD.
+.T
+Fifteen years' experience with the internal mammary artery graft.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Initially, the internal mammary artery (IMA) was implanted into the myocardium, and 10 years later it was anastomosed directly to coronary arteries. Our experience with the IMA started with single attached grafts. To reduce injury to the pedicle and improve anastomotic accuracy, magnification, microsurgical techniques, and cardioplegia were introduced. After establishing excellent long-term patency of the IMA and knowing of the high incidence of obstruction in saphenous vein grafts 7 to 10 years after operation, we hypothesized that multiple IMA coronary anastomoses could improve the long-term results of coronary artery bypass grafting. Bilateral IMA, sequential IMA, and IMA Y-grafts were used to increase the number of mammary coronary anastomoses to 3.1 per patient. Early clinical results and patency evaluations are encouraging. In our experience, the IMA has evolved from being implanted into the myocardium, to a single bypass graft to the left anterior descending coronary artery, and finally to being the bypass conduit of choice supplying blood to three or more obstructed coronary arteries or their branches.
+.A
+Tector AJ.

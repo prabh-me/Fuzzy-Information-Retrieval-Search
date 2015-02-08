@@ -1,0 +1,13 @@
+ 51
+.U
+87049309
+.S
+ASAIO Trans 8703; 32(1):258-62
+.M
+Comparative Study; Evaluation Studies; Heart/PH/PP; Heart, Artificial/*; Human; Microcomputers; Prosthesis Design; Support, Non-U.S. Gov't; Ultrasonics.
+.T
+Instrumentation for deriving pneumatic TAH control signals from the driveline pressure and flow.
+.P
+JOURNAL ARTICLE.
+.A
+Wurzel D; Wildevuur W; Kolff J.

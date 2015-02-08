@@ -1,0 +1,15 @@
+ 39841
+.U
+87071073
+.S
+Transplant Proc 8703; 18(6 Suppl 5):188-93
+.M
+Chromatography, High Pressure Liquid; Cyclosporins/*BL/ME; Drug Interactions; Human; Liver/*TR; Liver Transplantation/*; Radioimmunoassay; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Cyclosporine trough concentration monitoring in liver transplant patients.
+.P
+JOURNAL ARTICLE.
+.W
+Trough blood or plasma concentration measurements of CsA must be carefully interpreted in OLT patients in relation to hepatic function, sample timing, assay specificity, and concurrent drug therapy. The RIA:HPLC ratio of blood or plasma measurements will vary with the patient's liver function, the time of blood sampling in reference to the time of drug administration, the absolute CsA concentration, and concurrent use of drugs that may alter the metabolism of CsA. The RIA assay should be used in conjunction with HPLC for trough blood or plasma measurement during the first postoperative weeks, during periods of changing hepatic function, and during changing drug regimens. In the future, the specific measurement of active or toxic metabolites of CsA should improve trough CsA concentration monitoring in OLT patients.
+.A
+Burckart GJ; Ptachcinski RJ; Venkataramanan R; Iwatsuki S; Esquivel C; Van Thiel DH; Starzl TE.

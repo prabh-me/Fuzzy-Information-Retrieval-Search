@@ -1,0 +1,15 @@
+ 39929
+.U
+87073651
+.S
+Am J Pathol 8703; 125(2):227-43
+.M
+Animal; Astrocytes/UL; Disease Models, Animal; Electrophoresis, Polyacrylamide Gel; Glial Fibrillary Acidic Protein/*AN; Histocytochemistry; Immunosorbent Techniques; Leukodystrophy, Globoid Cell/*PA; Mice; Mice, Inbred C57BL; Mice, Neurologic Mutants; Microscopy, Electron; Nervous System/*PA; Schwann Cells/UL; Sciatic Nerve/PA; Support, U.S. Gov't, P.H.S.; Tissue Distribution; Vimentin/AN.
+.T
+Expression of glial fibrillary acidic protein in the CNS and PNS of murine globoid cell leukodystrophy, the twitcher.
+.P
+JOURNAL ARTICLE.
+.W
+The expression of glial fibrillary acidic protein (GFAP) was found to be markedly enhanced immunohistochemically and biochemically both in the central (CNS) and peripheral (PNS) nervous systems of the twitcher mutant, an authentic murine model of human globoid cell leukodystrophy. The astrocytes in the CNS, the unmyelinated Schwann cells in the sciatic nerve, and the satellite cells in the trigeminal ganglion stained heavily with anti-GFAP antiserum. These changes in GFAP expression occurred shortly before the initiation of demyelination and coincided chronologically and topographically with infiltration of macrophages, suggesting that the same or closely related factors trigger the infiltration of macrophages and activate expression of GFAP. Cytoskeletal protein preparations showed increases in GFAP as well as in vimentin in the brainstem, spinal cord, and sciatic nerve. These results demonstrate that at least two types of peripheral glia (the unmyelinated Schwann cell and the satellite cell), in addition to the astrocyte, respond to some pathologic stimuli with an increased expression of GFAP. However, two other GFAP-positive structures, the Bergmann and radial glia, showed no significant changes in their immunostaining.
+.A
+Kobayashi S; Chiu FC; Katayama M; Sacchi RS; Suzuki K; Suzuki K.

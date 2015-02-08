@@ -1,0 +1,15 @@
+ 40067
+.U
+87077854
+.S
+Cancer 8704; 59(3):566-71
+.M
+Anemia/*ET; Bone Marrow/ME; Carcinoma, Renal Cell/BL/CO/*PP; Human; Immunoenzyme Techniques; Iron/ME; Kidney Neoplasms/BL/CO/*PP; Lactoferrin/*ME; Lactoglobulins/*ME.
+.T
+The relationship of lactoferrin to the anemia of renal cell carcinoma.
+.P
+JOURNAL ARTICLE.
+.W
+This study was designed to examine whether lactoferrin, a glycoprotein contained in neutrophils which binds free iron, mediates the anemia associated with renal cell carcinoma. Preoperative hematocrit, urinalysis, serum iron, total iron binding capacity, and ferritin levels were obtained in 24 patients with hypernephroma. At the time of radical nephrectomy, a tumor specimen was obtained from all 24 patients and corresponding normal renal tissue was obtained from eight patients. Fifteen patients had low serum iron, whereas nine patients had normal serum iron. All tissue samples were snap frozen at the time of surgery and were subsequently sectioned into 3-microns slices using the cryostat. Then all the sectioned specimens were stained with FITC (fluorescein isothiocyanate) and peroxidase conjugated rabbit derived anti-human lactoferrin. Ten of the 15 patients with low serum iron had positive anti-lactoferrin staining in both the FITC and peroxidase systems. None of the tumors from patients with normal serum iron and none of the normal renal parenchyma exhibited positive anti-lactoferrin uptake. Stains for iron in the bone marrow of two patients with low serum iron showed increased iron stores. These studies suggest that lactoferrin mediates the anemia often seen in association with renal cell carcinoma.
+.A
+Loughlin KR; Gittes RF; Partridge D; Stelos P.

@@ -1,0 +1,15 @@
+ 40030
+.U
+87076956
+.S
+Blood 8704; 69(1):224-30
+.M
+Actins/GE; Cell Line; DNA/GE; Factor X/*GE; Gene Expression Regulation/DE; Hepatoma/GE; Human; Liver/*PH; Liver Neoplasms; RNA, Messenger/GE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Vitamin K/PD; Warfarin/PD.
+.T
+Steady state levels of factor X mRNA in liver and Hep G2 cells.
+.P
+JOURNAL ARTICLE.
+.W
+In order to examine the control of human factor X biosynthesis we have molecularly cloned the cDNA and investigated the expression of the Factor X gene. A recombinant clone of approximately 1100 base pairs in length containing the sequence of factor X was identified in a lambda gt11 human liver cDNA library by screening with polyclonal antibodies. One plaque was selected and confirmed for specificity with a mixture of five factor X specific monoclonal antibodies (MoAbs). A partial nucleic acid sequence of the 5' end of the cDNA corresponded to the described amino acid sequence between residues 41 and 56 of the light chain of factor X. Northern blot analysis of RNA from human liver and the hepatoma cell line, Hep G2, identified the factor X mRNA as a single molecular species of approximately 1700 bases. Cell lines which do not secrete factor X did not contain factor X mRNA indicating restriction of transcription to hepatocytes. Slot-blot hybridization analysis of factor X and actin mRNA demonstrated no change in the levels of total or specific factor X mRNA in Hep G2 cells following treatment with warfarin or vitamin K. We conclude that modulation of factor X production by these drugs, known to influence gamma-carboxylation and total factor X secretion by these cells, is mediated by changes in posttranscriptional events rather than by effects on the steady state levels of factor X mRNA.
+.A
+Bahnak BR; Howk R; Morrissey JH; Ricca GA; Edgington TS; Jaye MC; Drohan WW; Fair DS.

@@ -1,0 +1,15 @@
+ 40055
+.U
+87077809
+.S
+Cancer 8704; 59(1):19-23
+.M
+Adult; Antineoplastic Agents, Combined/AE/*TU; Clinical Trials; Human; Infection/CI; Leukemia, Lymphocytic/*DT/PC; Random Allocation; Sulfamethoxazole/AD; Support, U.S. Gov't, P.H.S.; Trimethoprim/AD.
+.T
+Effect of trimethoprim/sulfamethoxazole prophylaxis on outcome of childhood lymphocytic leukemia. A Pediatric Oncology Group Study.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The Pediatric Oncology Group (POG) undertook a prospective randomized trial using a single chemotherapy regimen with or without trimethoprim/sulfamethoxazole (TS). In a previous acute lymphocytic leukemia (ALL) study of initial therapy, investigators were free to use TS prophylaxis or not. Analysis of those data seemed to favor TS for duration of continuous complete remission. In the study reported here, of 126 randomized patients with ALL, 63 received TS. There was no effect of TS on disease-free survival after 3 years follow-up. Overall severe toxicity did not differ. However, granulocytopenia was somewhat more severe in the TS group. Hepatic toxicity, measured by enzyme elevation approached significance in the TS group versus controls. Some institutions declined randomization and treated with or without TS as a routine. Outcome and toxicities did not differ from randomized patients. There was no statistically significant effect on severe, life-threatening or fatal infection between the randomized TS versus control groups. Children not receiving TS developed varicella more often, a disease for which one would not expect TS to show a preventative effect. Pneumocystis pneumonias were not reported. The authors conclude that TS prophylaxis did not increase the continuous complete remission rate in children with ALL or decrease the incidence of infection. Toxicity is somewhat higher on TS.
+.A
+van Eys J; Berry DM; Crist W; Doering EJ; Fernbach DJ; Pullen J; Shuster J.

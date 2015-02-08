@@ -1,0 +1,13 @@
+ 28
+.U
+87049279
+.S
+ASAIO Trans 8703; 32(1):130-3
+.M
+Animal; Artificial Organs; Capsules; Endocrine Glands/*TR; Peritoneal Cavity/*SU; Rats; Rats, Inbred Strains.
+.T
+An intraperitoneal receptacle for macroencapsulated endocrine tissue.
+.P
+JOURNAL ARTICLE.
+.A
+Aebischer P; Panol G; Galletti PM.

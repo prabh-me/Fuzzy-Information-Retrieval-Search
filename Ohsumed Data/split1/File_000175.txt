@@ -1,0 +1,15 @@
+ 39961
+.U
+87074402
+.S
+Am Rev Respir Dis 8703; 134(6):1289-314
+.M
+Adrenergic Fibers/AH; Afferent Pathways/AH; Autonomic Nervous System/AH; Bronchi/IR/PH; Cholinergic Fibers/AH; Comparative Study; Human; Lung/*IR/PH; Lung Diseases/*PP; Neuropeptides/PH; Receptors, Adrenergic/PH; Receptors, Cholinergic/PH; Receptors, Sensory/AH; Reflex/PH; Support, Non-U.S. Gov't.
+.T
+Neural control of human airways in health and disease.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Several aspects of airway function are under autonomic control: airway smooth muscle tone, submucosal gland secretion, epithelial cell function, bronchial vascular tone and permeability, and probably secretion from mast cells and other inflammatory cells. Neural control of human airways is more complex than previously recognized. In addition to afferent nerves and cholinergic adrenergic mechanisms (including circulating catecholamines), there are nonadrenergic, noncholinergic nerves that may be both excitatory and inhibitory. The neurotransmitters of this third nervous system are uncertain, but there is some evidence that neuropeptides may be involved. Several neuropeptides have recently been identified in human airways and, although they have potent effects, their pathophysiologic role is uncertain. There is much evidence that autonomic control of the airways may be abnormal in airway disease, particularly in asthma, but the precise role of neural mechanisms in the pathogenesis of air-flow obstruction and bronchial hyperresponsiveness remains to be defined.
+.A
+Barnes PJ.

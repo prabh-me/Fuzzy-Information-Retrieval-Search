@@ -1,0 +1,15 @@
+ 39992
+.U
+87074977
+.S
+Arch Dermatol 8703; 122(12):1396-9
+.M
+Adult; Aged; Female; Human; Immune Tolerance; Kidney/TR; Kidney Transplantation; Male; Methods; Middle Age; Neoplasms, Multiple Primary/RT; Radiotherapy Dosage; Sarcoma, Kaposi's/*RT; Skin Neoplasms/*RT.
+.T
+Kaposi's sarcoma and its management by radiotherapy.
+.P
+JOURNAL ARTICLE.
+.W
+Thirteen patients with Kaposi's sarcoma were treated by radiotherapy between 1975 and 1984. Five patients were kidney transplant recipients receiving immunosuppressive drugs, while eight patients had spontaneous Kaposi's sarcoma. Eleven patients were followed up for periods from two to 63 months (mean, 27 months). All patients had complete response throughout the period of follow-up except one patient who developed recurrence one year after completion of radiotherapy. There was no difference in the response between transplant recipients and patients with spontaneous disease. This response was also unrelated to the dose or type of radiation used. Radiotherapy has been found effective in the local control of Kaposi's sarcoma with complete relief of symptoms and minimal morbidity.
+.A
+el-Akkad S; Bull CA; el-Senoussi MA; Griffin JT; Amer M.

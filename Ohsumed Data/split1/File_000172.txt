@@ -1,0 +1,13 @@
+ 39958
+.U
+87074291
+.S
+Ann Allergy 8703; 57(6):389-96
+.M
+Asthma/CI/DI/PP; Cyanates/AE/IM; Drug Hypersensitivity/*CO; Human; Occupational Diseases/CI; Respiratory Hypersensitivity/*CI/ET; Respiratory System/DE; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Toluene Diisocyanate/TO.
+.T
+Isocyanate-induced respiratory disease.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Banks DE; Butcher BT; Salvaggio JE.

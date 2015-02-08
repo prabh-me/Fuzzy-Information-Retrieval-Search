@@ -1,0 +1,15 @@
+ 39900
+.U
+87073483
+.S
+Am J Med 8703; 81(5A):2-7
+.M
+Animal; Asthma/ET/PP; Dogs; Epithelium/PP; Human; Lung/PP; Lung Diseases, Obstructive/*ET/PP; Mast Cells/PA/PH; Muscle, Smooth/PP; Pneumonia/*CO/PP; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Role of inflammation and inflammatory mediators in airways disease.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Recent evidence suggests that airway inflammation is linked to hyper-responsiveness of airway smooth muscle. Increases in airway responsiveness after many stimuli are accompanied by increases in inflammatory cells in bronchoalveolar lavage fluid and in the airway epithelium. Airway epithelial cells may themselves be an important source of inflammatory mediators, producing metabolites that can cause chemotaxis of neutrophils and that can selectively activate other cells in the lungs. Mast cells produce a variety of enzymes and vasoactive, chemotactic, and bronchoconstrictor substances in response to non-immunologic as well as immunologic stimuli. The secretory profile of a mast cell may depend upon the specific stimulus applied. In addition, different populations of mast cells exist and distinct enzymatic pathways may predominate in different cell types. Mediators released by these cells may activate target cells by direct or indirect mechanisms. These inflammatory mediators, together with inflammatory cells, are important in the complex interactions involving airway epithelial cells, neutrophils, mast cells, smooth muscle, respiratory secretory cells, and nerves, which, in concert, are responsible for the pathophysiologic manifestations of obstructive lung disease.
+.A
+Lazarus SC.

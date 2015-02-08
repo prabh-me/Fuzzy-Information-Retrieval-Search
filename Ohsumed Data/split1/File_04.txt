@@ -1,0 +1,15 @@
+ 39790
+.U
+87070028
+.S
+South Med J 8703; 79(12):1544-53
+.M
+Adrenal Cortex Hormones/AE/*TU; Asthma/*DT; Female; Human; Pregnancy.
+.T
+Corticosteroids in the treatment of asthma.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Corticosteroid medications have been regularly used in the management of asthma for more than 30 years. Review of the published literature suggests that steroids may enhance sensitivity to beta-adrenergic agonists and reduce local inflammation. These effects may not be clinically evident for six to 12 hours after steroid administration. Optimum dose, dose forms, and the role of plasma levels remain to be determined. Iatrogenic side effects, notably cushingoid features and hypothalamic-pituitary-related adrenal suppression, are dose-related and may be minimized with alternate-day regimens or the use of inhaled beclomethasone dipropionate. Beclomethasone may facilitate weaning from systemic corticosteroid therapy but usually cannot replace systemic therapy unless the daily dose is less than 20 mg of prednisone or its equivalent. Weaning should be undertaken cautiously, using objective measurements of pulmonary function, to reach a goal of the lowest daily dose consonant with control of symptoms, rather than complete withdrawal.
+.A
+Laurens RG Jr; Honig EG.

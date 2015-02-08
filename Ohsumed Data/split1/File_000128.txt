@@ -1,0 +1,15 @@
+ 39914
+.U
+87073501
+.S
+Am J Med 8703; 81(5B):36-43
+.M
+Animal; Anti-Inflammatory Agents, Non-Steroidal/PD/*TU; Cartilage, Articular/DE/*ME; Human; Mice; Osteoarthritis/*DT/ME; Synovial Membrane/DE/ME.
+.T
+Cartilage metabolism and anti-inflammatory drugs in osteoarthritis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The issue of selecting nonsteroidal anti-inflammatory drugs (NSAIDs) for the management of osteoarthritis based upon their direct effect on normal cartilage metabolism and their ability to modulate mechanisms that disturb such metabolism is addressed. This article provides an overview of the anatomic and biochemical changes that occur in diseased synovial tissue and cartilage, and the pathophysiologic mechanisms presumed to function in the induction and perpetuation of cartilage failure. Studies using experimental animal models of osteoarthritis are reviewed to evaluate the natural history of the disease, as well as the direct effect of NSAIDs on anabolic and catabolic cartilage function. Experimental evidence strongly indicates that NSAIDs of different classes, as well as members within a given class, function differently and manifest activity in addition to cyclo-oxygenase inhibition.
+.A
+Hess EV; Herman JH.

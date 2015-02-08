@@ -1,0 +1,15 @@
+ 40125
+.U
+87079921
+.S
+Dis Colon Rectum 8704; 29(12):810-3
+.M
+Colon/*AH; Human; Intestinal Mucosa/AN; Rectum/*AH; Support, Non-U.S. Gov't; Ultrasonography/*.
+.T
+The endosonic appearances of normal colon and rectum.
+.P
+JOURNAL ARTICLE.
+.W
+With the increasing use of transrectal sonography, accurate preoperative staging of rectal cancer requires correct identification of the normal ultrasonographic appearances of the colon and rectum. Fifteen rectal and colonic specimens have been studied in vitro to define the normal anatomy. Five distinct ultrasonic layers have been identified; a first echogenic layer that corresponds to the mucosa, a second echopoor layer made up of mucosa and muscularis mucosae, a third echogenic layer that is submucosa, a fourth echopoor layer that is muscularis propria, and a fifth echogenic layer made up of serosa and perirectal fat.
+.A
+Beynon J; Foy DM; Temple LN; Channer JL; Virjee J; Mortensen NJ.

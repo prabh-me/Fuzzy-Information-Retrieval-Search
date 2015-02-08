@@ -1,0 +1,15 @@
+ 39802
+.U
+87070314
+.S
+Surg Gynecol Obstet 8703; 163(6):561-7
+.M
+Animal; Antibiotics/AN/*ME; Bacteriological Techniques; Bacteroides fragilis/DE; Dogs; Escherichia coli/DE; Infusions, Intravenous; Intestinal Absorption; Intestinal Mucosa/ME/MI; Intestine, Small/*ME/MI; Kinetics.
+.T
+Antibiotic levels in the small intestine.
+.P
+JOURNAL ARTICLE.
+.W
+It is unknown if parenteral antibiotics commonly used for prophylaxis reach adequate therapeutic levels in the intestinal tissue to inhibit the growth of bacteria, such as Escherichia coli and Bacteroids fragilis, commonly associated with injury to the gastrointestinal tract. We have designed an experiment using dogs to study this problem. We considered an antibiotic to be effective if a single dose reached increased levels in the intestinal tissue to inhibit the growth of the majority of Escherichia coli and Bacteroides fragilis strains isolated from the gastrointestinal tract. Of 14 different antibiotics studied, we conclude that carbenicillin, mezlocillin, piperacillin, cefbuperazone and cefoxitin as single drugs and Timentin (ticarcillin with clavulanic acid) and clindamycin with gentamicin and co-trimoxazole (trimethoprium and sulfamethoxazole) achieved therapeutic levels. Azlocillin, cefoperazone, cefmenoxime and minocycline failed to achieve significant concentrations. This experiment using dogs was extremely useful to determine the pharmacokinetics of antibiotics in the small intestine and to predict the efficacy of antibiotics considered for prophylaxis.
+.A
+Thadepalli H; Mandal AK; Prabhala RH; Brown J.

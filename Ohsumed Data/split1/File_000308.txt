@@ -1,0 +1,15 @@
+ 40094
+.U
+87079249
+.S
+Clin Perinatol 8704; 13(4):741-54
+.M
+Antibiotics/TU; Blood Volume; Female; Human; Pregnancy; Pregnancy Complications, Infectious/*; Respiratory Distress Syndrome, Adult/ET; Shock, Septic/*/DI/ET/PP/SU/TH.
+.T
+Septic shock in obstetrics.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Septic shock in the obstetric population remains an uncommon yet potentially lethal complication of infection. Effective therapy mandates early recognition and aggressive intervention. Although numerous similarities exist in comparison to the nonobstetric patient, differences in potential pathogens and alterations in physiologic parameters should be kept in mind. In addition, the antepartum subject carries with her another potentially viable human being who deserves consideration. Optimal therapy should be directed at reestablishing an effective intravascular volume, maintaining adequate oxygen delivery to peripheral and central tissues, and the initiation of appropriate broad-spectrum antimicrobial agents to eradicate the causative pathogens.
+.A
+Gonik B.

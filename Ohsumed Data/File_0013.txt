@@ -1,0 +1,15 @@
+ 12
+.U
+87049101
+.S
+Am J Emerg Med 8703; 4(6):543-4
+.M
+Adult; Case Report; Cellulitis/CI; Human; Injections, Intravenous; Male; Pulmonary Edema/CI; Suicide, Attempted/*; Turpentine/*AD.
+.T
+Intravenous hydrocarbon abuse.
+.P
+JOURNAL ARTICLE.
+.W
+The case of a man who injected turpentine intravenously in an attempt to kill himself is reported. The patient developed immediate pulmonary edema and hypoxia, followed later by cellulitis at the site of injection. Although only one death to date has been attributed to this form of chemical abuse, extensive local reactions, pulmonary involvement, central nervous system depression, and febrile reactions should be anticipated, and such patients should be admitted to the hospital. Patients should be observed for local reactions and myonecrosis around the site of injection, especially as these occur 12-24 hours later.
+.A
+Wason S; Greiner PT.

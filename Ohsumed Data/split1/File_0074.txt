@@ -1,0 +1,13 @@
+ 39860
+.U
+87071811
+.S
+West J Med 8703; 145(4):546-50
+.M
+Attitude of Health Personnel; California; Female; Follow-Up Studies; Human; Male; Medicaid/*; Pediatrics/*; Random Allocation; Sampling Studies; Support, U.S. Gov't, Non-P.H.S.; United States.
+.T
+Pediatrician participation in Medicaid--findings of a five-year-follow-up study in California and elsewhere.
+.P
+JOURNAL ARTICLE.
+.A
+Perloff JD; Neckerman K; Kletke PR.

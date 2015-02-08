@@ -1,0 +1,13 @@
+ 74
+.U
+87049342
+.S
+ASAIO Trans 8703; 32(1):388-91
+.M
+Human; Hypercholesterolemia, Familial/BL/*TH; Lipoproteins, LDL/*BL/IP; Microscopy, Electron, Scanning; Plasmapheresis/IS/*MT; Temperature; Ultrafiltration/IS/MT.
+.T
+Comparison of plasmafractionation filters and filtration techniques in the clinical practice of LDL-apheresis.
+.P
+JOURNAL ARTICLE.
+.A
+Kochinke F; Baeyer HV; Schwaner I; Schwerdtfeger R.

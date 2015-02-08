@@ -1,0 +1,13 @@
+ 40037
+.U
+87077278
+.S
+Br J Radiol 8704; 59(707):1057-64
+.M
+Artificial Intelligence; Decision Making, Computer-Assisted; Diagnosis, Computer-Assisted; Expert Systems/*; Human; Software.
+.T
+The sharing and computer exercising of human Know-How.
+.P
+JOURNAL ARTICLE.
+.A
+d'Agapeyeff A.

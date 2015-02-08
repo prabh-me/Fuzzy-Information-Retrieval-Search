@@ -1,0 +1,15 @@
+ 40073
+.U
+87078761
+.S
+Circulation 8704; 75(1):229-34
+.M
+Animal; Bradykinin/PD; Comparative Study; Diatrizoate/DU; Diatrizoate Meglumine/DU; Dogs; Drug Combinations/DU; Hemodynamics/DE; Kidney/*AH/DE; Norepinephrine/PD; Renal Circulation/*/DE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors; Ultrasonography/IS/*MT.
+.T
+Contrast ultrasonography of the kidney: a new method for evaluation of renal perfusion in vivo.
+.P
+JOURNAL ARTICLE.
+.W
+Assessment of the effects of pharmacologic agents on renal blood flow (RBF) is clinically important in many disease states, including hypertension and congestive heart failure. However, because of the complexities of RBF, quantitation in vivo has been technically difficult. This study demonstrates the utility of ultrasound imaging of the kidney combined with injection of a sonicated radiocontrast solution (Renografin-76) for the assessment of regional renal blood flow. The technique uses a suspension of uniform microbubbles (diameter 4.4 +/- 2.8 micron), which when injected directly into the descending aorta are distinctly visualized by renal ultrasound. Five dogs were studied. Catheters were placed in the descending aorta for injection of sonicated Renografin and in the renal artery for drug infusions. Data were collected before and during intrarenal artery infusions of bradykinin and norepinephrine. Total RBF was measured by electromagnetic flowmeter. Video density time curves were generated for comparable segments of the outer renal cortex and fit to a monoexponential decay curve. This allowed calculation of the mean exponential decay index (t1/2). An increase in t1/2 paralleled decreased renal perfusion (i.e., longer washout of contrast material). The opposite was true for a decrease in t1/2. Bradykinin increased RBF from 134 +/- 26 to 249 +/- 19 ml/min (p less than .01 vs control), and norepinephrine decreased RBF from 130 +/- 25 to 51 +/- 17 ml/min (p less than .01 vs control).(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Lang RM; Feinstein SB; Powsner SM; McCoy CE; Frederickson ED; Neumann A; Goldberg LI; Borow KM.

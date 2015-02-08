@@ -1,0 +1,13 @@
+ 39888
+.U
+87073355
+.S
+Am J Forensic Med Pathol 8703; 7(3):267-8
+.M
+Adult; Arrhythmia/*ET; Case Report; Fear/*; Heart Arrest/*ET/PX; Human; Male; Seizures/*ET/PX; Syncope/*ET/PX.
+.T
+"Scared to death" [letter]
+.P
+LETTER.
+.A
+Case ME.

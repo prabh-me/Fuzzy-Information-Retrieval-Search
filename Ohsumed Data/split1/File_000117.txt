@@ -1,0 +1,15 @@
+ 39903
+.U
+87073486
+.S
+Am J Med 8703; 81(5A):36-44
+.M
+Administration, Inhalation; Asthma/CO/*DT; Asthma, Exercise-Induced/DT/PP; Atropine Derivatives/*TU; Bronchial Provocation Tests/MT; Bronchial Spasm/*DT/ET/PP; Comparative Study; Dose-Response Relationship, Drug; Drug Evaluation; Human; N-Isopropylatropine/AD/*TU; Time Factors.
+.T
+Review of ipratropium bromide in induced bronchospasm in patients with asthma.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+This article reviews published reports on the efficacy of ipratropium bromide in preventing stimulus-induced bronchospasm in patients with asthma. The efficacy of ipratropium was assessed by its influence on airway constrictor responses to various bronchoprovocation stimuli; effects of medication on resting (pre-challenge) pulmonary functions were considered separately. The results indicate that administration of a single dose of ipratropium 30 to 90 minutes before challenge offers some protection against induced bronchospasm. However, in most instances, including challenge with histamine, allergen, or exercise, the protection is variable and incomplete; as expected, the anticholinergic drug provides better protection when the stimulus is methacholine. Most bronchoprovocation stimuli evoke mixed-airway responses with constriction of peripheral as well as central airways. The effects of ipratropium are exerted predominately on central airways. Other therapeutic agents, such as the beta agonists, with more influence on small, peripheral airways, offer greater protection than ipratropium on stimulus-induced bronchospasm.
+.A
+Morris HG.

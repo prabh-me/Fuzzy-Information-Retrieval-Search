@@ -1,0 +1,13 @@
+ 97
+.U
+87049377
+.S
+ASAIO Trans 8703; 32(1):521-4
+.M
+Animal; Artificial Organs/*; Cardiopulmonary Bypass/*IS; Dogs; Extracorporeal Circulation/IS; Hemodynamics; Lung/*PH; Membranes, Artificial.
+.T
+A portable, pumpless, AV bypass ECCO2R system, with a hollow fiber membrane lung.
+.P
+JOURNAL ARTICLE.
+.A
+Fukui Y; Kawamura T.

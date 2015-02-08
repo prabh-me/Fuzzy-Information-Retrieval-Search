@@ -1,0 +1,15 @@
+ 39893
+.U
+87073425
+.S
+Am J Kidney Dis 8703; 8(5):323-31
+.M
+Animal; Cyclosporins/*AE; Glomerular Filtration Rate/DE; Human; Kidney/DE/TR; Kidney Diseases/*CI/PC/PP/TH; Kidney Transplantation; Kidney Tubules/DE/PP.
+.T
+Cyclosporine nephrotoxicity: pathogenesis, prophylaxis, therapy, and prognosis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Although cyclosporine (CsA) therapy has improved the outcome of allotransplantation, drug-induced nephrotoxicity presents a potentially serious complication in a significant proportion of patients. The nephrotoxic injury, which may present acutely in the peritransplant period, subacutely in the first few months, or chronically, may be caused by toxic effects at various levels of the nephron: arteriole, glomerulus, and/or proximal tubule. The nephrotoxic picture of decreased glomerular filtration rate, impaired urea secretion, hyperkalemia, hypertension, and tubular dysfunction with preserved sodium reabsorption occurs not only in the renal allotransplant setting, wherein it obscures the diagnosis of rejection, but also in recipients of other grafts and patients under treatment for autoimmune disease. Because conversion from CsA to other immunosuppressive agents carries a high risk of rejection and allograft loss (or recrudescence of autoimmune disease), the present management strategy uses cautious CsA does reduction with concomitant institution of full-dose azathioprine (Aza) therapy. Definition of pharmacokinetic and pharmacodynamic properties that predict patients at risk for nephrotoxic complications may lead to new CsA dosing regimens yielding an improved therapeutic index.
+.A
+Kahan BD.

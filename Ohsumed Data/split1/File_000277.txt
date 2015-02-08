@@ -1,0 +1,15 @@
+ 40063
+.U
+87077839
+.S
+Cancer 8704; 59(3):471-6
+.M
+Adenoma/AN/PA; Antibodies, Monoclonal/DU; Carcinoma/*AN/PA; Carcinoma, Papillary/AN/PA; Cell Differentiation; Human; Immunoenzyme Techniques; Thyroglobulin/*AN; Thyroid Neoplasms/*AN/PA.
+.T
+Immunohistochemical study of thyroglobulin in thyroid carcinomas with monoclonal antibodies.
+.P
+JOURNAL ARTICLE.
+.W
+The effectiveness of an immunoperoxidase technique using four monoclonal antibodies (mAb) is compared to a technique using one polyclonal antibody (pAb) to detect human thyroglobulin (Tg) in paraffin sections of 55 thyroid carcinomas. With the pAb, a positive reaction was found in 82% of the cases. With the four mAb, the presence of Tg was demonstrated in 96.5% of the cases. The mAb gave better results than the pAb on poorly differentiated and anaplastic thyroid carcinomas. Many of the thyroid carcinomas in this study, especially the poorly differentiated and anaplastic type, failed to react with all four mAb to Tg. These results confirm the notion of the heterogeneity of Tg in thyroid carcinomas and indicate that a battery of carefully selected mAb can be successfully used for routine histopathologic detection of Tg in these tumors.
+.A
+de Micco C; Ruf J; Carayon P; Chrestian MA; Henry JF; Toga M.

@@ -1,0 +1,13 @@
+ 40
+.U
+87049294
+.S
+ASAIO Trans 8703; 32(1):187-92
+.M
+Animal; Blood Platelets/*PH; Blood Vessel Prosthesis/*; Dogs; Femoral Artery/*SU; Femoral Vein/DE/*TR; Fibrinogen/*PH; Indium/DU; Iodine Radioisotopes/DU; Polytetrafluoroethylene/*; Radioisotopes/DU; Support, U.S. Gov't, P.H.S.; Thrombosis/*PP; Tropolone/AA/DU; Vitamin E/BL/*PD.
+.T
+Quantitation of platelet and fibrinogen deposition on PTFE and vein grafts in dogs and the effect of vitamin E on graft thrombosis in the acute phase.
+.P
+JOURNAL ARTICLE.
+.A
+Dewanjee MK; Solis E; Mackey ST; Gonzales G; Chesebro JH; Kaye MP.

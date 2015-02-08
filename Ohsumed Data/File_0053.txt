@@ -1,0 +1,13 @@
+ 52
+.U
+87049310
+.S
+ASAIO Trans 8703; 32(1):263-8
+.M
+Animal; Arterioles/PA; Assisted Circulation/*; Cattle; Heart/*PP; Heart Ventricle/PP; Heart-Assist Devices/*; Hemodynamics; Prosthesis Design; Pulse; Regional Blood Flow; Renal Circulation; Support, Non-U.S. Gov't.
+.T
+Idioperipheral pulsation during nonpulsatile biventricular bypass experiments.
+.P
+JOURNAL ARTICLE.
+.A
+Tsutsui T; Sutton C; Harasaki H; Jacobs G; Golding L; Nose Y.

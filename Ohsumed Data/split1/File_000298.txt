@@ -1,0 +1,15 @@
+ 40084
+.U
+87078793
+.S
+Circulation 8704; 75(1 Pt 2):I168-74
+.M
+Adult; Animal; Captopril/*TU; Coronary Circulation/*DE; Furosemide/TU; Hemodynamics/DE; Human; Kininase II/*AI; Male; Middle Age; Rats; Rats, Inbred Strains; Renin/BL; Support, Non-U.S. Gov't.
+.T
+Converting-enzyme inhibition and coronary blood flow.
+.P
+JOURNAL ARTICLE.
+.W
+The effects of converting-enzyme inhibition (25 mg oral captopril) on coronary hemodynamics in the presence and absence of activation of the renin-angiotension system were studied in 10 patients with mild essential hypertension with no evidence of ischemic heart disease. Coronary blood flow was determined by thermodilution before and after 1 week of diuretic therapy in six patients and before and after placebo in four patients. The diuretic (50 mg/day furosemide) reduced coronary blood flow and increased coronary vascular resistance; in these same patients, captopril reduced mean arterial pressure and the rate-pressure product but increased coronary flow significantly. There was no change in any of these variables after captopril in the placebo group. Similar results were obtained in normotensive rats treated with hydrochlorothiazide; the increase in coronary flow after captopril correlated significantly with the control plasma renin activity. These results in hypertensive humans and normotensive experimental animals indicate that diuretic therapy reduces coronary blood flow significantly, and angiotensin can play a significant role in modulating coronary vascular resistance under conditions associated with activation of the renin-angiotensin system.
+.A
+Magrini F; Shimizu M; Roberts N; Fouad FM; Tarazi RC; Zanchetti A.

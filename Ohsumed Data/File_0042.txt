@@ -1,0 +1,13 @@
+ 41
+.U
+87049295
+.S
+ASAIO Trans 8703; 32(1):193-7
+.M
+Animal; Biocompatible Materials/*; Blood Vessel Prosthesis/*; Dogs; Microscopy, Electron, Scanning; Polyurethanes/*; Silicones/*; Siloxanes/*; Surface Properties; Thrombosis/*PC.
+.T
+Evaluation of a new antithrombogenic polyurethane-polysiloxane complex biomaterial.
+.P
+JOURNAL ARTICLE.
+.A
+Ohkubo N; Hirose H; Matsuda H; Nakano S; Shirakura R; Maeda S; Ohtani M; Yoda R; Kawashima Y.

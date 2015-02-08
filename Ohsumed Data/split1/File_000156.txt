@@ -1,0 +1,15 @@
+ 39942
+.U
+87073945
+.S
+Am J Trop Med Hyg 8703; 35(6):1210-7
+.M
+Animal; Antigens, Helminth/IM/*IP; Cattle; Electrophoresis, Polyacrylamide Gel; Enzyme-Linked Immunosorbent Assay; Fasciola hepatica/*IM; Fascioliasis/IM; Human; Immunoenzyme Techniques; Mice; Rabbits; Rats; Sheep; Support, U.S. Gov't, P.H.S..
+.T
+Isolation of potential serodiagnostic Fasciola hepatica antigens by electroelution from polyacrylamide gels.
+.P
+JOURNAL ARTICLE.
+.W
+In the present study a partially purified antigen preparation enriched in Fasciola-specific antigens (designated p3 and 4) was used in the enzyme-linked immunoelectrotransfer blot (EITB) to identify polypeptides which induce antibody formation in acute fascioliasis. The pattern of antigens recognized by the sera of infected rabbits, humans, and cows was also compared. Similar but not identical patterns of recognition were obtained for the different models tested; the main antigenic polypeptides recognized were in clusters within 27-38, 18-23, and 11-14 Kd molecular weight (Mr) ranges. An antigen of 31-33 Kd was one of the most prominently recognized by all of the acute infection sera tested. This antigen, as well as those in the 18-23 Kd range, appear to have good specificity, as they are not recognized by antibodies to S. mansoni or P. westermani adult worm extracts. To further characterize and evaluate these low Mr antigens, we have isolated polypeptides by electrophoresing p3 and 4 F. hepatica antigens in 10%-15% gradient gels, identifying the desired Mr range with prestained markers, cutting individual gel strips, and then isolating them by electroelution. Antigen fractions of 19-23 and 31-33 Kd were isolated in this manner, re-electrophoresed, transferred to nitrocellulose and found to be reactive with the sera from a rabbit with acute fascioliasis. At least one of these antigens, of 20 Kd Mr, has been obtained by this means with a high degree of purity. This, as well as other antigen fractions isolated, showed high absorbance values in ELISA when reacted with the serum from a rabbit with an 8-week-old F. hepatica infection.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Santiago N; Hillyer GV.

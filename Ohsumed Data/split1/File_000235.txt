@@ -1,0 +1,15 @@
+ 40021
+.U
+87076289
+.S
+Br J Anaesth 8704; 58(12):1453-68
+.M
+Adrenal Gland Neoplasms/DI/*TH; Anesthesia/*; Human; Pheochromocytoma/DI/*TH; Preoperative Care.
+.T
+Phaeochromocytoma. Diagnosis, preoperative preparation and anaesthetic management.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Unless patients harbouring this uncommon tumour are correctly prepared and protected from the effects of excessive catecholamine release, they are greatly at risk when undergoing surgical procedures of any kind. This short review describes the clinical syndromes associated with phaeochromocytoma, the diagnostic procedures which may identify and localize the tumour(s), the principles and practical aspects of pharmacological control, and a method of anaesthetic management which has proved safe and effective in many patients.
+.A
+Hull CJ.

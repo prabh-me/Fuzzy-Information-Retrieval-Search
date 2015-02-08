@@ -1,0 +1,15 @@
+ 39935
+.U
+87073847
+.S
+Am J Psychiatry 8703; 143(12):1507-17
+.M
+Human; Mental Disorders/PX/TH; Psychoanalytic Therapy/MT; Psychotherapy, Brief/*MT.
+.T
+A review of brief individual psychotherapies.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The authors review and contrast four brief individual psychodynamic psychotherapies: focal, anxiety-provoking, time-limited, and broad-focus. They also summarize the techniques associated with two other brief individual psychotherapies that rely less on psychodynamic techniques: interpersonal psychotherapy and cognitive therapy. They find that differences among the therapies in the timing and type of interventions are at times more striking than the differences in their goals or identified problem areas. The authors also discuss educational and cost/benefit issues associated with the brief psychotherapies and recommend further empirical studies to determine the most effective brief therapy for selected psychiatric disorders.
+.A
+Ursano RJ; Hales RE.

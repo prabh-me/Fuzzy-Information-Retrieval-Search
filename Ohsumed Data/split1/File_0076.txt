@@ -1,0 +1,15 @@
+ 39862
+.U
+87073026
+.S
+AJR Am J Roentgenol 8703; 148(1):121-3
+.M
+Adult; Hematoma/*DI/ET; Hemophilia/*CO; Human; Male; Muscular Diseases/*DI/ET; Ultrasonography/*.
+.T
+Sonographic localization of hematomas in hemophilic patients with positive iliopsoas sign.
+.P
+JOURNAL ARTICLE.
+.W
+Sonography was performed on 23 hemophilic patients presenting with positive iliopsoas sign. In 21 of these patients sonography confirmed the presence of hematomas. Comparison of the presumed clinical location and the sonographic location, however, revealed a significant discrepancy. Only seven of 15 hematomas that were clinically suspected to be in the iliopsoas muscle were confirmed by sonography at that location. Of the remaining cases, three were localized in the hip joint, one in the proximal thigh, one in the abdominal wall, and one in the iliac fossa. Hemorrhage was not found in two cases. This study indicates that sonography provides valuable information about the site of hematoma in these patients.
+.A
+Graif M; Martinovitz U; Strauss S; Heim M; Itzchak Y.

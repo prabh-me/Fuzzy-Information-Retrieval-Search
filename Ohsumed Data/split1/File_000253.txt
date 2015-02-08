@@ -1,0 +1,13 @@
+ 40039
+.U
+87077293
+.S
+Br J Radiol 8704; 59(707):1123-5
+.M
+Adult; Histiocytosis, Langerhans-Cell/*DI/RA; Human; Liver Diseases/*DI/RA; Tomography, X-Ray Computed/*; Ultrasonography/*.
+.T
+Liver lesions in histiocytosis X: findings on sonography and computed tomography.
+.P
+JOURNAL ARTICLE.
+.A
+Paivansalo M; Makarainen H.

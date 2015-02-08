@@ -1,0 +1,13 @@
+ 79
+.U
+87049349
+.S
+ASAIO Trans 8703; 32(1):414-7
+.M
+Assisted Circulation/*; Blood/*; Cardiopulmonary Bypass; Creatinine/ME; Female; Heart Surgery; Heart-Assist Devices/*; Human; Intra-Aortic Balloon Pumping/*; Kidney Failure, Acute/ET/*TH; Male; Middle Age; Postoperative Complications/*TH; Ultrafiltration/*.
+.T
+Continuous renal replacement therapy in patients with acute renal dysfunction undergoing intraaortic balloon pump and/or left ventricular device support.
+.P
+JOURNAL ARTICLE.
+.A
+Paganini EP; Suhoza K; Swann S; Golding L; Nakamoto S.

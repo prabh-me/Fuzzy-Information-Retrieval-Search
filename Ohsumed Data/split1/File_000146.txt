@@ -1,0 +1,15 @@
+ 39932
+.U
+87073660
+.S
+Am J Pathol 8703; 125(2):309-18
+.M
+Animal; Epithelium/CY; Gold; Histocytochemistry; Immunoenzyme Techniques; Kidney Glomerulus/*CY; Male; Microscopy, Electron; Rabbits; Rats; Rats, Inbred Strains; Sialoglycoproteins/*AN; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tissue Distribution.
+.T
+Epithelial polyanion (podocalyxin) is found on the sides but not the soles of the foot processes of the glomerular epithelium.
+.P
+JOURNAL ARTICLE.
+.W
+The distribution of podocalyxin was determined by several different immunoelectron microscopic methods, which included so-called diffusion methods carried out on cryostat sections and surface methods done on ultrathin sections. When localization was carried out by three different indirect immunogold methods (using ultrathin frozen sections, ultrathin sections cut from tissues embedded in Lowicryl K4M or LR White, or 20- mu cryostat sections for incubations), gold particles were found exclusively on the urinary surfaces of glomerular epithelial cells and, at a lower concentration, on the luminal surface of glomerular endothelial cells. No gold was bound to the basal surfaces (soles) of the epithelial foot processes, the filtration slit diaphragms, the glomerular basement membrane (GBM), or those regions of the endothelial plasmalemma that face the GBM. When podocalyxin was localized by an indirect immunoperoxidase method on cryostat sections, heavy deposits of reaction product were seen on the same cell surfaces as with the immunogold methods. Each of the methods used had certain advantages as well as limitations, but the collective results obtained were convergent and complimentary. It is concluded that podocalyxin is restricted in its distribution to the urinary surfaces of epithelial cells and the luminal surface of endothelial cells; it is missing or present in very low concentrations on the soles (basal surface) of the epithelial foot processes, the slit diaphragms and the basement membrane surface of the endothelium; and the podocalyxin-containing regions of the epithelial and endothelial plasmalemmae constitute microdomains of distinctive membrane protein composition on the corresponding cell surfaces.
+.A
+Sawada H; Stukenbrok H; Kerjaschki D; Farquhar MG.

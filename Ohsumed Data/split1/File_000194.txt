@@ -1,0 +1,15 @@
+ 39980
+.U
+87074737
+.S
+Ann Neurol 8703; 20(5):547-65
+.M
+Alzheimer's Disease/ME; Basal Ganglia/ME; Brain Diseases/*ME/PP; Cerebral Cortex/ME; Human; Huntington Chorea/ME; Neurons/ME; Neuropeptides/CF/*ME; Parkinson Disease/ME; Support, U.S. Gov't, P.H.S..
+.T
+Neuropeptides in neurological disease.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Neuropeptides are widely distributed in the central nervous system, where they serve as neuroregulators. Recent interest has focused on their role in degenerative neurological diseases. We describe the normal anatomy of neuropeptides in both the cerebral cortex and basal ganglia as a framework for interpreting neuropeptide alterations in Alzheimer's disease (AD), Huntington's disease, and Parkinson's disease. Concentrations of cortical somatostatin are reduced in AD and in dementia associated with Parkinson's disease. Concentrations of neuropeptide Y and corticotropin-releasing factor are also reduced in AD cerebral cortex. The reduced cortical concentrations of somatostatin and neuropeptide Y in AD cerebral cortex may reflect a loss of neurons or terminals in which these two peptides are co-localized. In Huntington's disease, basal ganglia neurons in which somatostatin and neuropeptide Y are co-localized are selectively preserved. Cerebrospinal fluid concentrations of neuropeptides in AD reflect alterations in cortical concentrations. Improved understanding of neuropeptides in degenerative neurological illnesses will help define which neuronal populations are specifically vulnerable to the pathological processes, and this could lead to improved therapy.
+.A
+Beal MF; Martin JB.

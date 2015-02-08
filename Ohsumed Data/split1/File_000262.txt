@@ -1,0 +1,13 @@
+ 40048
+.U
+87077736
+.S
+Can Med Assoc J 8704; 136(2):155-6
+.M
+Aorta, Thoracic; Aortic Diseases/*ET; Aspergillosis/*CO; Case Report; Child; Female; Human; Immune Tolerance; Leukemia, Lymphocytic/IM; Opportunistic Infections/CO; Streptococcal Infections/CO; Streptococcus pyogenes; Thrombosis/*ET.
+.T
+Aspergillus-related aortic thrombosis.
+.P
+JOURNAL ARTICLE.
+.A
+Byard RW; Jimenez CL; Carpenter BF; Hsu E.

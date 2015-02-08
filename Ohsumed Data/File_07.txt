@@ -1,0 +1,15 @@
+ 6
+.U
+87049093
+.S
+Am J Emerg Med 8703; 4(6):514-5
+.M
+Abdominal Injuries/ET; Accidents, Occupational; Accidents, Traffic/*; Adult; Amputation; Blood Transfusion/*; Case Report; Female; Fractures/ET; Human; Pelvic Bones/IN; Shock, Hemorrhagic/ET/*TH; Wounds, Nonpenetrating/*CO.
+.T
+Massive transfusion without major complications after trauma.
+.P
+JOURNAL ARTICLE.
+.W
+A case of massive degloving injury of the trunk, with open pelvic fracture, and evisceration of abdominal contents from blunt trauma is presented. The most significant aspect of this case was the transfusion of 173 units of packed cells and 176 units of fresh frozen plasma in the first thirty hours. The patient ultimately recovered and returned to work.
+.A
+Brotman S; Lamonica C; Cowley RA.

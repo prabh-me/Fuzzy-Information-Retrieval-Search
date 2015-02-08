@@ -1,0 +1,15 @@
+ 40035
+.U
+87076983
+.S
+Blood 8704; 69(1):43-51
+.M
+Antibody-Dependent Cell Cytotoxicity/DE; Bone Marrow/CY; Cell Division/DE; Chromatography, High Pressure Liquid; Erythropoiesis/DE; Erythropoietin/PD; Escherichia coli/GE; Granulocytes/DE; Hematopoiesis/DE; Hematopoietic Stem Cells/CY; Human; Interleukin-3/GE/*IP/PD; Molecular Weight; Muramidase/SE; Phagocytosis/DE; Promoter Regions (Genetics); Recombinant Proteins/IP/PD; Superoxide/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Purification and properties of bacterially synthesized human granulocyte-macrophage colony stimulating factor.
+.P
+JOURNAL ARTICLE.
+.W
+Human granulocyte-macrophage colony stimulating factor (GM-CSF) has been synthesized in high yield using a temperature inducible plasmid in Escherichia coli. The human GM-CSF is readily isolated from the bacterial proteins because of its differential solubility and chromatographic properties. The bacterially synthesized form of the human GM-CSF contains an extra methionine residue at position 1, but otherwise it is identical to the polypeptide predicted from the cDNA sequence. The specific activity of 2.9 X 10(7) units/mg of protein for purified bacterially synthesized human GM-CSF indicates that despite the lack of glycosylation, the molecule is substantially in its native conformation. This molecule stimulated the same number and type of both seven- and 14-day human bone marrow colonies as the CSF alpha preparation from human placental conditioned medium. Human GM-CSF had no activity on murine bone marrow or murine leukemic cells. There was no detectable, direct stimulation of adult human erythroid burst forming units (BFU-E) by the bacterially synthesized human GM-CSF. Although impure preparations containing native human GM-CSF (eg, human placental conditioned medium) stimulated the formation of mixed colonies, even in the presence of erythropoietin, the bacterially synthesized human GM-CSF failed to stimulate the formation of mixed colonies from adult human bone marrow cells. The bacterially synthesized human GM-CSF increased N-formyl-methionyl-leucyl-phenylalanine (FMLP)-induced superoxide production and lysozyme secretion. Antibody-dependent cytotoxicity and phagocytosis by human neutrophils was stimulated by the bacterially synthesized human GM-CSF and eosinophils were also activated in the antibody-dependent cytotoxicity assay.
+.A
+Burgess AW; Begley CG; Johnson GR; Lopez AF; Williamson DJ; Mermod JJ; Simpson RJ; Schmitz A; DeLamarter JF.

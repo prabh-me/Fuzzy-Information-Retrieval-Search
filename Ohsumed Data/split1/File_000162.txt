@@ -1,0 +1,15 @@
+ 39948
+.U
+87074103
+.S
+Anaesthesia 8703; 41(10):1007-10
+.M
+Aged; Anesthesia, Inhalation/*; Human; Lung/PP/SU; Middle Age; Oxygen/BL; Positive-Pressure Respiration/*; Pulmonary Gas Exchange.
+.T
+One-lung ventilation. The effect of positive end expiratory pressure to the nondependent and dependent lung.
+.P
+JOURNAL ARTICLE.
+.W
+We applied positive end expiratory pressure to the nondependent, nonventilated lung, or both nondependent and dependent, ventilated lung during one lung anaesthesia, and compared the results to those obtained by other techniques, such as increasing the inspired oxygen concentration in the dependent lung, or insufflating with oxygen using positive end expiratory pressure in the nondependent lung. Our study suggests that arterial oxygenation and intrapulmonary shunt can be lessened during one lung ventilation by continuous oxygen insufflation of the nondependent lung at 0.98 kPa positive end expiratory pressure while the dependent lung is ventilated with 0.49 kPa positive end expiratory pressure.
+.A
+Obara H; Tanaka O; Hoshino Y; Kaetsu H; Maekawa N; Iwai S.

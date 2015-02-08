@@ -1,0 +1,13 @@
+ 88
+.U
+87049365
+.S
+ASAIO Trans 8703; 32(1):482-5
+.M
+Animal; Antibody Formation; Drug Hypersensitivity/*; Ethylene Oxide/*TO; Female; Hemodialysis; Human; IgE/AN; Male; Mice; Mice, Inbred Strains; Passive Cutaneous Anaphylaxis/*; Rats; Rats, Inbred Strains.
+.T
+Animal model for ethylene oxide (EtO) associated hypersensitivity reactions.
+.P
+JOURNAL ARTICLE.
+.A
+Chapman J; Lee W; Youkilis E; Martis L.

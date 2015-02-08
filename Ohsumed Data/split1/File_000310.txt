@@ -1,0 +1,15 @@
+ 40096
+.U
+87079251
+.S
+Clin Perinatol 8704; 13(4):765-79
+.M
+Cardiovascular System/*PH; Catheterization; Electrocardiography; Female; Heart Diseases/CO; Hemodynamics/*; Human; Lung Diseases/CO; Pregnancy; Pulmonary Artery; Pulmonary Edema/ET; Veins.
+.T
+Principles of invasive hemodynamic monitoring.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The development of the flow-directed pulmonary artery catheter in the early 1970s moved invasive monitoring from the laboratory to the patient's bedside. Its current use in obstetrics is directed toward definition of certain pathophysiologic states unique to pregnancy and toward diagnosis and management of critically ill or potentially critically ill patients.
+.A
+Hankins GD.

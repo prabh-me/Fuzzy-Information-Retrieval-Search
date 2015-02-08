@@ -1,0 +1,15 @@
+ 39967
+.U
+87074446
+.S
+Ann Intern Med 8703; 106(1):130-8
+.M
+Adolescence; Adult; Clinical Trials; Comparative Study; Fees, Medical; Health/*; Health Maintenance Organizations/*; Health Status/*; Health Status Indicators; Human; Income; Insurance, Health; Middle Age; Random Allocation; Support, U.S. Gov't, P.H.S.; Washington.
+.T
+Effect of a health maintenance organization on physiologic health. Results from a randomized trial.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+In a previous comparison of persons between 14 and 62 years of age randomly assigned to receive care through a fee-for-service system (n = 784) or through a health maintenance organization (HMO) (n = 738) in Seattle, Washington, persons in the HMO had much lower hospital expenditures and admissions, more bed days, a higher prevalence of serious symptoms, and less satisfaction with care. We report an examination of 20 additional health status measures. Our results are consistent with a hypothesis of no differences in health status measures between the two systems. In addition, a comparison of nine health practices between the systems also indicated no overall differences. Most physiologic measures and health practices for a typical person were not affected by care received through the fee-for-service system or the HMO. However, we are less certain of this result in specific subgroups, such as persons of lower income initially at elevated risk, because confidence intervals are necessarily wider. We conclude that the cost savings achieved by this HMO through lower hospitalization rates were not reflected in lower levels of health status.
+.A
+Sloss EM; Keeler EB; Brook RH; Operskalski BH; Goldberg GA; Newhouse JP.

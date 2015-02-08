@@ -1,0 +1,13 @@
+ 39868
+.U
+87073042
+.S
+AJR Am J Roentgenol 8703; 148(1):175-6
+.M
+Case Report; Female; Human; Infant; Ovarian Cysts/*CN/DI; Remission, Spontaneous; Ultrasonography/*.
+.T
+Spontaneous resolution of neonatal ovarian cysts.
+.P
+JOURNAL ARTICLE.
+.A
+Nussbaum AR; Sanders RC; Benator RM; Haller JA Jr; Dudgeon DL.

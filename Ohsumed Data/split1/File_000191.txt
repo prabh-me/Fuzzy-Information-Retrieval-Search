@@ -1,0 +1,15 @@
+ 39977
+.U
+87074558
+.S
+Ann Otol Rhinol Laryngol 8703; 95(6 Pt 1):603-7
+.M
+Adult; Aged; Antigens, Viral/*AN; Capsid/*IM; Carcinoma in Situ/*IM/SU; Female; Human; Immunoenzyme Techniques; Laryngeal Neoplasms/*IM/SU; Male; Middle Age; Papillomaviruses/*IM; Retrospective Studies; Support, U.S. Gov't, P.H.S.; Tumor Virus Infections/IM.
+.T
+Demonstration of human papillomavirus capsid antigen in carcinoma in situ of the larynx.
+.P
+JOURNAL ARTICLE.
+.W
+We have undertaken a retrospective study to investigate the role of human papillomavirus (HPV) in the development of laryngeal carcinoma in situ (CIS). Sixty paraffin-embedded tissue specimens, collected from 20 patients with a history of laryngeal CIS, were examined for the presence of HPV capsid antigen. All but four individuals were men, with an average age at diagnosis of 64 years. An immunoperoxidase technique showed that 20 specimens from 14 patients contained detectable HPV capsid antigen. An independent evaluation for histopathologic features characteristic of HPV infection identified viral changes in the 14 patients as well as an additional two. No correlation was found between clinical course, as determined by histologic severity of vocal cord lesions, and presence of HPV. These results suggest that HPV should be considered an etiologic agent in the development of laryngeal CIS.
+.A
+Kashima H; Mounts P; Kuhajda F; Loury M.

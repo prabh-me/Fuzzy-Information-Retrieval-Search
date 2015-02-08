@@ -1,0 +1,15 @@
+ 40012
+.U
+87076098
+.S
+Arch Otolaryngol Head Neck Surg 8704; 113(1):63-8
+.M
+Adult; Female; Histological Techniques; Human; Infant; Laryngeal Muscles/*IR; Male; Models, Anatomic; Motor Endplate/*AH/UL; Muscles/*IR; Neuromuscular Junction/*AH; Stains and Staining; Support, U.S. Gov't, P.H.S..
+.T
+Motor end-plate distribution in the human interarytenoid muscle.
+.P
+JOURNAL ARTICLE.
+.W
+Histochemical and computer graphic techniques were used to determine the distribution of neuromuscular junctions in the human interarytenoid (IA) muscle. The motor end-plates of four IA specimens obtained from normal postmortem larynges were visualized using an acetylcholinesterase stain. The three-dimensional distribution of motor end-plates was later reconstructed using computer graphics. The motor end-plates in the IA were found to be distributed in an inverted "Y" configuration. A broad band of end-plates was found at the midpoint of the muscle fibers in the superior and middle aspect of the muscle. This band divided obliquely in a lateral direction toward the inferior border of the muscle. This pattern of motor end-plate distribution is possibly consistent with the bilateral innervation of the IA by the recurrent laryngeal nerves.
+.A
+Freije J; Malmgren LT; Gacek RR.

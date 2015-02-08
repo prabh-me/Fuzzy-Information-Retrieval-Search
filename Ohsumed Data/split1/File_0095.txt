@@ -1,0 +1,15 @@
+ 39881
+.U
+87073228
+.S
+Am J Clin Nutr 8703; 44(6):847-56
+.M
+Adult; Amino Acids/BL; Blood Glucose/ME; C-Peptide/BL; Dietary Carbohydrates/*PD; Dietary Proteins/*PD; Fatty Acids, Nonesterified/BL; Female; Glucagon/BL; Glucose/*PD; Human; Insulin/BL/*SE; Male; Middle Age; Support, U.S. Gov't, Non-P.H.S..
+.T
+The effect of protein ingestion on the metabolic response to oral glucose in normal individuals.
+.P
+JOURNAL ARTICLE.
+.W
+Eight normal subjects were given 50 g protein, 50 g glucose, or 50 g protein + 50 g glucose. Plasma glucose, insulin, C-peptide, glucagon, alpha-amino nitrogen (AAN), and nonesterified fatty acid (NEFA) responses were then determined over 4 h. Protein stimulated only a modest insulin rise and the area above fasting baseline was only 28% of that after glucose. The sum of the serum insulin area following protein ingestion and that following glucose ingestion was 100.4% of the combination meal. C-peptide changes confirmed the insulin response. The addition of glucose to the protein meal resulted in a 60 min delay in glucagon and AAN rise compared to the protein meal alone. Subsequently AAN and glucagon increased to levels greater than or equal to those observed after protein ingestion alone. In summary, protein is a much less potent secretagogue for insulin than is glucose in normal individuals, and the effect on insulin secretion is not synergistic. Addition of glucose to a protein meal results in a delayed rise in AAN and glucagon concentrations in normal subjects.
+.A
+Krezowski PA; Nuttall FQ; Gannon MC; Bartosh NH.

@@ -1,0 +1,13 @@
+ 39838
+.U
+87071070
+.S
+Transplant Proc 8703; 18(6 Suppl 5):16-24
+.M
+Adult; Case Report; Cyclosporins/*ME/PD; Female; Human; Kidney/*TR; Kidney Transplantation/*; Kinetics; Leukocyte Culture Test, Mixed; Longitudinal Studies; Lymphocyte Transformation/DE; Lymphocytes/*DE; Male; Middle Age; Support, Non-U.S. Gov't.
+.T
+A longitudinal study of the pharmacokinetics of cyclosporine A and in vitro lymphocyte responses in renal transplant patients.
+.P
+JOURNAL ARTICLE.
+.A
+Tufveson G; Odlind B; Sjoberg O; Lindberg A; Gabrielsson J; Lindstrom B; Lithell H; Selinus I; Totterman T; Wahlberg J.

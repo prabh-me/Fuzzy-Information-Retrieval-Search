@@ -1,0 +1,15 @@
+ 40117
+.U
+87079630
+.S
+Crit Care Med 8704; 15(1):38-40
+.M
+Acute Disease; Animal; Blood Pressure; Cardiac Output; Disease Models, Animal; Lung Compliance/*; Oxygen/*BL/TU; Positive-Pressure Respiration/*/MT; Respiratory Function Tests; Respiratory Insufficiency/BL/PP/*TH; Swine.
+.T
+Does compliance reflect oxygen delivery in porcine septic respiratory failure treated with positive end-expiratory pressure?
+.P
+JOURNAL ARTICLE.
+.W
+Oxygen delivery (DO2) in patients with acute respiratory failure has been correlated with total lung and chest wall compliance (CT), the optimal positive end-expiratory pressure (PEEP) level reportedly corresponds to maximal DO2. To test the validity of the relationship, we studied the correlation between CT and DO2 in 12 septic pigs with acute respiratory failure induced by continuous infusion of live Pseudomonas aeruginosa bacteria. Cardiac output, pulmonary and systemic arterial BP, blood gases, extravascular lung water, tidal volume, and airway pressure were measured serially in six control animals and six animals receiving increasing amounts of PEEP. There was no significant correlation between DO2 and CT in either group; however, animals receiving PEEP had less extravascular lung water.
+.A
+Myers JC; Reilley TE; Vento JM; McDonald JS; Carey LC; Cloutier CT.

@@ -1,0 +1,15 @@
+ 39821
+.U
+87070579
+.S
+Thorax 8703; 41(8):602-5
+.M
+Adolescence; Asthma/*DT; Beclomethasone/*AD; Child; Clinical Trials; Double-Blind Method; Drug Administration Schedule; Female; Human; Male.
+.T
+Twice daily versus four times daily treatment with beclomethasone dipropionate in the control of mild childhood asthma.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The effects of controlling childhood asthma of the same daily dose (400 micrograms) of beclomethasone dipropionate, given in two or four equal divided doses from a metered aerosol, were compared in a double blind crossover study. Thirty one children aged 6-14 years completed the study. They had previously been shown to need beclomethasone by showing either symptoms or reduced peak flow when the treatment was withdrawn. They recorded their daytime and night time symptoms on a visual analogue scale and their morning and evening peak expiratory flow (PEF), and recorded their symptomatic use of bronchodilator aerosols. Spirometry was performed at the end of each treatment period. Control of asthma was good on both regimens. There were small differences in both objective and subjective measurements in favour of the four times daily regimen, but none reached statistical significance, apart from patients' assessment of daytime wheeze (p less than 0.05). In particular, the differences in the results of lung function tests were very small. Compliance was better for morning and evening doses. These results suggest that beclomethasone given as 200 micrograms twice daily is effective in controlling mild childhood asthma. It may be preferable to 100 micrograms four times daily because of better compliance and because it is unnecessary to take medication to school.
+.A
+Williams H; Jones ER; Sibert JR.

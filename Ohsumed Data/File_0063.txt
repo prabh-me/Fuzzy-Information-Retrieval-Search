@@ -1,0 +1,13 @@
+ 62
+.U
+87049323
+.S
+ASAIO Trans 8703; 32(1):319-22
+.M
+Blood Coagulation/*DE; Blood Coagulation Tests; Fibrinolysis/*DE; Human; Kinetics; Microscopy, Electron, Scanning; Polymethacrylic Acids/*PD.
+.T
+Effect of a hydrogel with long polyethyleneoxide chains on blood coagulation and fibrinolysis.
+.P
+JOURNAL ARTICLE.
+.A
+Nakao A; Ohkura K; Nonami T; Harada A; Takagi H; Mori Y.

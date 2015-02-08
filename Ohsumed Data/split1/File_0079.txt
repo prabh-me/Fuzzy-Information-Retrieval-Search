@@ -1,0 +1,15 @@
+ 39865
+.U
+87073036
+.S
+AJR Am J Roentgenol 8703; 148(1):155-9
+.M
+Abnormalities/*ET; Adult; Female; Fetal Diseases/*DI; Human; Infant, Newborn; Polyhydramnios/*CO/DI; Pregnancy; Prenatal Diagnosis/*; Prognosis; Risk; Ultrasonography/*.
+.T
+Severe polyhydramnios: incidence of anomalies.
+.P
+JOURNAL ARTICLE.
+.W
+The sonograms of 195 singleton pregnancies complicated by polyhydramnios were reviewed, and follow-up information was obtained on 191 patients. A grading system was developed that differentiated mild from severe polyhydramnios using real-time or static sonographic equipment. Mild polyhydramnios was present in 138 (71%), and severe polyhydramnios was present in 57 (29%). Previously it has been reported that 60% of cases of polyhydramnios are idiopathic and the pregnancies have a normal outcome. Twenty percent are associated with maternal abnormalities and 20% are associated with fetal anomalies. In this study, pregnancies with severe polyhydramnios had a much greater prevalence of fetal anomalies (75%) than pregnancies with mild polyhydramnios (29%). The 57 singleton pregnancies with severe polyhydramnios were analyzed in depth. Fourteen (25%) of the fetuses were normal; 43 (75%) had significant congenital abnormalities that predominantly involved the CNS, gastrointestinal tract, heart, and genitourinary tract. In all fetuses with primary CNS abnormalities, polyhydramnios was diagnosed at or before 30 weeks of gestation, while in most of the fetuses (83%) with gastrointestinal abnormalities it was diagnosed after 30 weeks. Sonographic findings correlated closely with the findings noted at birth or autopsy. In patients with severe polyhydramnios, normal sonograms were sensitive in excluding major congenital anomalies and, thus, were helpful in providing the parents with favorable prognoses. Sonograms should be performed in patients with polyhydramnios to identify congenital anomalies and to provide information regarding prognosis for fetal outcome.
+.A
+Barkin SZ; Pretorius DH; Beckett MK; Manchester DK; Nelson TR; Manco-Johnson ML.

@@ -1,0 +1,15 @@
+ 39981
+.U
+87074739
+.S
+Ann Neurol 8703; 20(5):573-82
+.M
+Antigens, Viral, Tumor/*GE; Bungarotoxins/ME; Cell Differentiation/DE; Cell Division/DE; Cells, Cultured; Creatine Kinase/ME; Fluorescent Antibody Technique; Genes, Viral; Human; Metallothionein/*GE; Muscles/DE/*ME; Oncogene Proteins, Viral/*GE; Promoter Regions (Genetics)/*; Receptors, Nicotinic/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; SV40 Virus/*GE; Transfection/*; Zinc/PD.
+.T
+Transfection of human skeletal muscle cells with SV40 large T antigen gene coupled to a metallothionein promoter.
+.P
+JOURNAL ARTICLE.
+.W
+We have undertaken to increase the proliferative capacity of cultured human skeletal myocytes by transfection with a plasmid construct that contains the immortalizing and transforming large T antigen gene of simian virus 40 (SV40) under the control of a zinc-sensitive metallothionein promoter. This construct was chosen to permit rapid growth of transformants in zinc-containing medium, which induces high levels of T antigen expression, and muscle-specific differentiation after withdrawal of exogenous zinc, which reduces levels of T antigen. When grown in 100 microM Zn2+, transformed myocytes expressed the large T antigen, divided rapidly, and acquired an apparently unlimited proliferative capacity. Transfer of these cells to a zinc-poor medium resulted in decreased T antigen immunofluorescence, growth rate, and saturation density as well as a return to a physiological spindle morphology. Despite transformation, these cells expressed differentiation markers characteristic of myoblasts: the B isoform of creatine kinase, and surface antigens 5.1H11, D5, and Thy 1 in the presence or absence of Zn2+. When grown to high density in a serum-poor medium, these cells differentiated further into typical multinucleated myotubes that expressed the M isoform of creatine kinase and increased levels of surface antigen 5.1H11, creatine kinase, and nicotinic acetylcholine receptors, but no detectable Thy 1 antigen. The specific activity of these differentiation markers was higher when the cells were grown in the absence of added zinc. These results indicate that transformation of human skeletal myocytes with a regulatable SV40 large T antigen gene allows an increase of the proliferative capacity of these cells with preservation of their capacity to differentiate in a physiological manner.
+.A
+Hurko O; McKee L; Zuurveld JG.

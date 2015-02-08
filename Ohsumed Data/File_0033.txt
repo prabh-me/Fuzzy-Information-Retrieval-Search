@@ -1,0 +1,13 @@
+ 32
+.U
+87049284
+.S
+ASAIO Trans 8703; 32(1):148-50
+.M
+Animal; Blood Glucose/*AN; Dogs; Electrodes; Insulin Infusion Systems/*; Prosthesis Design; Rabbits; Support, U.S. Gov't, P.H.S..
+.T
+Short-term in vivo operation of a glucose sensor.
+.P
+JOURNAL ARTICLE.
+.A
+Gough DA; Armour JC; Lucisano JY; McKean BD.

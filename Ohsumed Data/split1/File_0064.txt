@@ -1,0 +1,15 @@
+ 39850
+.U
+87071367
+.S
+Urology 8703; 28(5):432-3
+.M
+Centrifugation; Cytological Techniques; Human; Urine/*CY.
+.T
+Centrifugal cytology: a new technique for urine cytology.
+.P
+JOURNAL ARTICLE.
+.W
+A new technique, centrifugal cytology, appears to have a high recovery rate of malignant cells from voided urine specimens resulting in a high probability of early disease detection and should be considered a good supplement to cytoscopic evaluation of high-risk populations.
+.A
+Bondhus M; Leif R; Bobbitt D; Lockhart J; Ng A; Silverman M; Politano VA; Hindman D.

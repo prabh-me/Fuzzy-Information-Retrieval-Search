@@ -1,0 +1,13 @@
+ 25
+.U
+87049276
+.S
+ASAIO Trans 8703; 32(1):120-2
+.M
+Adolescence; Adult; Aged; Aluminum/*TU; Antacids/AN/*TU; Hemodialysis/*; Human; Middle Age; Strontium/AN/*BL; Uremia/*BL/TH.
+.T
+Strontium overload in uremic patients on regular dialytic treatment.
+.P
+JOURNAL ARTICLE.
+.A
+Canavese C; Pacitti A; Salomone M; Santoro MA; Stratta P; Mangiarotti G; Talarico S; Sabbioni E; Pietra R; Vercellone A.

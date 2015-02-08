@@ -1,0 +1,15 @@
+ 39933
+.U
+87073662
+.S
+Am J Pathol 8703; 125(2):327-31
+.M
+Animal; Diabetes Mellitus, Experimental/PA; Hypotension/*CO; Islets of Langerhans/*PA; Rats; Sclerosis; Shock/*CO; Support, Non-U.S. Gov't.
+.T
+Obliterative segmental sclerosis of pancreatic islets. A possible consequence of hypotensive shock in young BB rats.
+.P
+JOURNAL ARTICLE.
+.W
+During the conduct of a time-course study of peripheral blood T lymphocytes in BB rats, a hitherto unreported islet lesion was recognized in 8 of 17 glucose-tolerant rats which had been subjected to repetitive cardiac puncture in early life and sacrificed at 186-190 days of age. Some of the large islets contiguous to fibrous septa demonstrated variable degrees of obliterative sclerosis and reduction of islet cell mass, associated with evidence of remote peri- and intrainsular hemorrhage. In 3 rats, additional features included an active, proliferative replacement of islet substance by fibroblasts and histiocytes. These islet alterations are not characteristic of BB rats, nor have identical lesions been described in studies of experimental or human diabetes mellitus. Affected rats had sustained repetitive episodes of blood loss (from 15% to 28% of total blood volume each time) during the early phase of the study. It is possible, but not proved, that hypovolemic shock was induced in some of these animals. Ischemic necrosis of islets has been reported in premature and young infants succumbing to shock. It is posited that hypovolemic shock in the young animal may, as in the infant, result in islet cell ischemic necrosis, sufficient to produce, with time, the described islet morphologic features.
+.A
+Seemayer TA; Yale JF; de Chadarevian JP; Grose M; Marliss EB.

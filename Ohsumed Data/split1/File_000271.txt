@@ -1,0 +1,15 @@
+ 40057
+.U
+87077816
+.S
+Cancer 8704; 59(1):51-4
+.M
+Antigens/AN; Breast Neoplasms/BS/*PA; Carcinoma, Ductal/BS/*PA; Endothelium/PA; Female; Histocytochemistry; Human; Immunoenzyme Techniques; Lymphatic Metastasis; Lymphatic System/*PA; Muscle, Smooth/PA; Stains and Staining; Support, Non-U.S. Gov't.
+.T
+The application of immunohistochemical stains to identify endothelial-lined channels in mammary carcinoma.
+.P
+JOURNAL ARTICLE.
+.W
+The identification of lymphatic and vascular channels with immunohistochemical reagents directed against antigens of the endothelial cells was undertaken in formalin-fixed breast tissues from 100 women with infiltrating mammary duct carcinoma. Fifty women had had lymphatic tumor emboli identified in the original review of their slides. Each case was matched with a control of similar size and laterality. From each case one section containing tumor and normal tissue was stained with antibodies directed against Factor VIII-related antigen, blood group antigen A, blood group antigen B and with Ulex europaeus I agglutinin. All specimens with a reaction displayed variation in the intensity of the stain as well as in the propensity of a given endothelial lined channel to stain at all. Factor VIII-related antigen was identified in 96 tissue samples and Ulex europaeus I agglutinin reacted with 75 specimens. Reactivity of endothelium to blood group antigens either A, B, or both was found in 63 samples. Twenty-one of 26 (81%) samples with endothelial-lined channels which contained tumor emboli in the hematoxylin and eosin (H & E) section showed a reaction to one or more of the reagents. In six other cases involvement of endothelial-lined channels was detected only in the specially stained sections, but in three of these, the tumor emboli appeared only in these deeper sections and could have been detected by serial sections stained with H & E. The results of this study indicate that examination of H & E sections is a reliable method of identifying tumor involvement of endothelial-lined channels. Immunohistochemical stains may be of assistance in occasional cases, but with the reagents currently available this methodology is subject to false-positive and false-negative results.
+.A
+Saigo PE; Rosen PP.

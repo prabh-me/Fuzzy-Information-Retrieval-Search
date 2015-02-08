@@ -1,0 +1,13 @@
+ 39951
+.U
+87074148
+.S
+Anaesthesia 8703; 41(11):1154
+.M
+Anesthesia/*; Child; Human; Intermittent Positive-Pressure Ventilation; Lithotripsy/*; Respiration, Artificial/*.
+.T
+Anaesthesia for extracorporeal shock wave lithotripsy [letter]
+.P
+LETTER.
+.A
+Seed RF; Khalil H; Prabhu R.

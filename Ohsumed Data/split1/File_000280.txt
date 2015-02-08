@@ -1,0 +1,15 @@
+ 40066
+.U
+87077849
+.S
+Cancer 8704; 59(3):540-4
+.M
+Aged; Aged, 80 and over; Carcinoma, Squamous Cell/*CO/PA; Cell Differentiation; Cheek/PA; Female; Head and Neck Neoplasms/*CO/PA; Human; Lymph Nodes/PA; Lymphoma, Small-Cell/*CO/PA; Male; Middle Age; Scalp/PA.
+.T
+Squamous cell carcinoma of head and neck in patients with well-differentiated lymphocytic lymphoma.
+.P
+JOURNAL ARTICLE.
+.W
+Seventy-six cases of well-differentiated lymphocytic lymphoma (WDLL) were reviewed for evidence of additional malignancies. Of these, 18 patients (24%) had one to three further tumors; one half (nine) had squamous cell carcinoma (SCC). The head and neck area was the primary site in all but one case of SCC. The carcinomas were frequently multiple, recurrent, and clinically aggressive. The tumors showed unusually poor differentiation histologically. Actinic keratosis and basal cell carcinomas were frequently associated with SCC. Fifty percent metastasized to cervical lymph nodes replaced by WDLL. Lymphadenopathy due to metastatic SCC may be mistaken for malignant lymphoma alone. In two of five patients (40%), death was directly attributable to SCC. As in renal transplant recipients, SCC of the head and neck in WDLL patients is a common cause of significant complications and mortality requiring aggressive management. Immunosuppression due to WDLL and/or to chemotherapy is likely an important predisposing factor in combination with sun exposure.
+.A
+Perez-Reyes N; Farhi DC.

@@ -1,0 +1,15 @@
+ 27
+.U
+87049278
+.S
+ASAIO Trans 8703; 32(1):127-9
+.M
+Calcium/BL; Calcium Carbonate/*TU; Female; Hemodialysis/*MT; Human; Kidney Failure, Chronic/BL/*TH; Male; Phosphates/*ME; Phosphorus/BL.
+.T
+Calcium carbonate as a phosphate binder in hemodialysis patients.
+.P
+JOURNAL ARTICLE.
+.W
+Calcium carbonate appears to be as effective as aluminum hydroxide in binding dietary phosphorus in hemodialysis patients. The long-term safety of this medication appears acceptable in view of today's therapeutic options.
+.A
+Taber TE; Hegemen TF; York S.

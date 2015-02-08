@@ -1,0 +1,15 @@
+ 39813
+.U
+87070526
+.S
+Thorax 8703; 41(10):771-6
+.M
+Airway Resistance/DE; Albuterol/PD/TU; Bronchitis/DT/*PP; Chronic Disease; Circadian Rhythm; Female; Forced Expiratory Flow Rates/*; Human; Lung/DE/*PP; Male; Methacholine Compounds/PD/TU; Middle Age; Peak Expiratory Flow Rate/*; Support, Non-U.S. Gov't.
+.T
+Interpretation of the variability of peak flow rates in chronic bronchitis.
+.P
+JOURNAL ARTICLE.
+.W
+Increased diurnal variation of expiratory flow rates has been documented in patients with chronic bronchitis, but this could be secondary to the disease process of bronchitis rather than an associated disease--namely, asthma. Peak expiratory flow was measured twice daily before and after inhalation of 200 micrograms salbutamol in 34 subjects with chronic bronchitis. The FEV1 ranged from 38% to 121% predicted. Diurnal variation (expressed as highest-lowest/highest (%)) was increased in 18 subjects, all but three of whom had airflow obstruction and an increase in methacholine airway responsiveness. There was only a weak correlation between diurnal variation and airway responsiveness (r = -0.54) or the severity of the airflow obstruction. This finding, together with the occurrence of an increase in diurnal variation without an increase in methacholine airway responsiveness in three subjects, suggests that the increased diurnal variation in chronic bronchitis may have a different underlying mechanism from that in asthma.
+.A
+Ramsdale EH; Morris MM; Hargreave FE.

@@ -1,0 +1,15 @@
+ 40042
+.U
+87077348
+.S
+Br J Surg 8704; 73(12):1022-4
+.M
+Abdomen, Acute/*DI; Diagnosis, Computer-Assisted; Human; Peritoneoscopy/*; Prospective Studies; Referral and Consultation.
+.T
+Laparoscopy as an adjunct to decision making in the 'acute abdomen'.
+.P
+JOURNAL ARTICLE.
+.W
+When patients are admitted to hospital with acute abdominal pain, clinicians, irrespective of a specific diagnosis, intuitively select three diagnostic classes: operation definitely required (Group A); operation definitely not required (Group B); need for operation uncertain (Group C). The last is followed either by a precautionary laparotomy or a variable period of observation/investigation. We have studied prospectively the influence of laparoscopy on the distribution between these classes and particularly on outcome in group C. One hundred and twenty-five consecutive patients with abdominal pain severe enough for emergency admission have been classified by one of two admitting surgeons (SHO/registrar), who also expressed in group C a view on how they would proceed--operation or observation. Group C were then laparoscoped. The procedure confirmed a provisional view that laparotomy was needed in 11 of 15 patients. In the 'observation' sub-group the provisional decision was confirmed in 14 of 16 and early discharge followed in most. Six inappropriate decisions were thus avoided. Seven management decisions in group A and 4 in group B proved incorrect (11/94: 12 per cent). The majority were potentially recognizable by laparoscopy. Though relatively high rates of successful decision making are achieved with conventional clinical techniques, they can be further improved by laparoscopy. This procedure is particularly applicable in the management of patients with acute abdominal pain without a definite diagnosis, or when appendicitis is regarded as an established diagnosis.
+.A
+Paterson-Brown S; Eckersley JR; Sim AJ; Dudley HA.

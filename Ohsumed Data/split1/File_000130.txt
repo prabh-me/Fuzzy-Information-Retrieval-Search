@@ -1,0 +1,15 @@
+ 39916
+.U
+87073564
+.S
+Am J Obstet Gynecol 8703; 155(6):1197-201
+.M
+Amniotic Fluid; Female; Fetal Development/*; Fetal Growth Retardation/*DI; Fetus/AH; Gestational Age; Human; Pregnancy; Ultrasonography/*.
+.T
+Identification of the small for gestational age fetus with the use of gestational age-independent indices of fetal growth.
+.P
+JOURNAL ARTICLE.
+.W
+This study reviews the roles of sonographic assessment of the rate of growth of the fetal abdominal circumference, the femur length/abdominal circumference ratio, and qualitative determination of amniotic fluid volume as gestational age-independent indices for identification of the small for gestational age fetus. The sensitivity and specificity for single and combinations of test results were evaluated in 50 appropriate for gestational age and 40 small for gestational age fetuses. Positive and negative predictive values were derived for the general population. Our results indicate that either a rate of growth of the fetal abdominal circumference less than or equal to 10 mm/14 days or a femur length/abdominal circumference ratio greater than or equal to 23.5 correctly identifies most small for gestational age fetuses. When the general population is screened, only 15% of small for gestational age fetuses will be missed by this combination of criteria. The presence of a pocket of amniotic fluid less than or equal to 2.0 cm is highly suggestive of a small for gestational age fetus. However, the presence of a pocket of amniotic fluid greater than 2.0 cm does not guarantee an appropriate for gestational age fetus. We conclude that these gestational age-independent indices of fetal growth offer useful tools for differentiating between the small for gestational age and appropriate for gestational age fetus.
+.A
+Divon MY; Chamberlain PF; Sipos L; Manning FA; Platt LD.

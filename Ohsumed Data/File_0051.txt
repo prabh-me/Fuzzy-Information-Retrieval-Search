@@ -1,0 +1,13 @@
+ 50
+.U
+87049307
+.S
+ASAIO Trans 8703; 32(1):248-52
+.M
+Animal; Chronic Disease; Disease Models, Animal; Dogs; Heart/*PP; Heart Failure, Congestive/PA/*PP; Heart Ventricle/PP; Myocardium/*PA; Support, U.S. Gov't, P.H.S..
+.T
+Experimental chronic left ventricular failure in the dog.
+.P
+JOURNAL ARTICLE.
+.A
+Hagiwara K; Freed PS; Wasfie T; Bar-Lev A; Mandell G; Cardona R; Stein PD; Sabbah HN; Kantrowitz A.

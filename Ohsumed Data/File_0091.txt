@@ -1,0 +1,13 @@
+ 90
+.U
+87049367
+.S
+ASAIO Trans 8703; 32(1):49-51
+.M
+Aged; Blood/*; Heparin/TU; Human; Middle Age; Suction; Support, Non-U.S. Gov't; Ultrafiltration/*MT; Urea/BL; Vacuum.
+.T
+Clinical trials with predilution and vacuum suction: enhancing the efficiency of the CAVH treatment.
+.P
+JOURNAL ARTICLE.
+.A
+Kaplan AA.

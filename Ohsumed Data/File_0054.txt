@@ -1,0 +1,13 @@
+ 53
+.U
+87049311
+.S
+ASAIO Trans 8703; 32(1):269-73
+.M
+Assisted Circulation/*/AE; Beta-Thromboglobulin/AN; Blood Coagulation; Blood Platelets/PH; Heart-Assist Devices/*/AE; Human; Lactate Dehydrogenase/BL; Prosthesis Design; Stress, Mechanical.
+.T
+Investigation of the flow in a centrifugal blood pump.
+.P
+JOURNAL ARTICLE.
+.A
+Affeld K; Schichl K; Yoganathan A.

@@ -1,0 +1,13 @@
+ 39830
+.U
+87071058
+.S
+Transplant Proc 8703; 18(6):1871-3
+.M
+Adult; Biopsy; Case Report; Endocardium/PA/PS; Female; Heart/PS/*TR; Heart Transplantation/*; Human; Male; Myocarditis/DI/PA/*PS; Myocardium/PA; Support, U.S. Gov't, P.H.S.; Toxoplasmosis/*DI/PA.
+.T
+Endomyocardial biopsy in the diagnosis of toxoplasmic myocarditis.
+.P
+JOURNAL ARTICLE.
+.A
+Luft BJ; Billingham M; Remington JS.

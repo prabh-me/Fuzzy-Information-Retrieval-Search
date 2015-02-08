@@ -1,0 +1,15 @@
+ 40130
+.U
+87079959
+.S
+Dig Dis Sci 8704; 32(1):86-94
+.M
+Animal; Bile/PH; Common Bile Duct/AH/PH; Common Bile Duct Calculi/PP; Common Bile Duct Diseases/PP/TH; Electrophysiology; Gastrointestinal Hormones/PD; Gastrointestinal Motility/*; Human; Manometry; Oddi's Sphincter/AH/*PH; Opossums/PH; Peristalsis/*; Vater's Ampulla/*PH.
+.T
+Certain aspects of normal and abnormal motility of sphincter of Oddi.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Applications of electromyographic and endoscopic manometric techniques in experimental and clinical studies have enhanced our knowledge of the normal physiology and motility disturbances of the sphincter of Oddi. The sphincter of Oddi has an active role in coordinating the time and rate of secretion of biliopancreatic juice into the duodenum. In the opossum, the sphincter of Oddi exhibits spontaneous contractions that migrate distally along the sphincter and expels its contents into the duodenum. Although the motor activity of the sphincter of Oddi is independent from that of the duodenum, there is a correlation between the frequency of bursts of spike potentials in the sphincter of Oddi and the migrating motor complex phases in the duodenum. Abnormal motility of the sphincter of Oddi has been reported during endoscopic manometric evaluation of patients with choledocholithiasis and sphincter of Oddi dyskinesia. Patients with common bile duct stones have an increase in the frequency of retrograde propagation of phasic waves. Elevation of basal pressure as well as an increase in the frequency and amplitude of sphincter of Oddi phasic waves and the common bile duct-duodenum gradient pressure may occur in patients with sphincter of Oddi dyskinesia. Endoscopic manometric studies of the sphincter of Oddi may become an important method to diagnose sphincter of Oddi dyskinesia.
+.A
+Coelho JC; Moody FG.

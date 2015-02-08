@@ -1,0 +1,13 @@
+ 39839
+.U
+87071071
+.S
+Transplant Proc 8703; 18(6 Suppl 5):160-4
+.M
+Chromatography, High Pressure Liquid; Cyclosporins/BL/*ME; Heart/*TR; Heart Transplantation/*; Hematocrit; Human; Kidney/*TR; Kidney Transplantation/*; Liver/*TR; Liver Transplantation/*; Mixed Function Oxidases/ME; Radioimmunoassay; Support, Non-U.S. Gov't.
+.T
+Pharmacokinetics of cyclosporine in solid organ transplantation.
+.P
+JOURNAL ARTICLE.
+.A
+Keown PA; Stiller CR; Stawecki M; Freeman D.

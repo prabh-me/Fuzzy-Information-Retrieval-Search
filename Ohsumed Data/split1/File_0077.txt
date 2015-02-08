@@ -1,0 +1,13 @@
+ 39863
+.U
+87073031
+.S
+AJR Am J Roentgenol 8703; 148(1):143-4
+.M
+Adenocarcinoma/*DI; Carcinoma, Squamous Cell/*DI; Case Report; Comparative Study; Female; Gallbladder Neoplasms/*DI; Human; Middle Age; Nuclear Magnetic Resonance/*DU; Tomography, X-Ray Computed; Ultrasonography.
+.T
+MR imaging of gallbladder carcinoma.
+.P
+JOURNAL ARTICLE.
+.A
+Rossmann MD; Friedman AC; Radecki PD; Caroline DF.

@@ -1,0 +1,15 @@
+ 39812
+.U
+87070525
+.S
+Thorax 8703; 41(10):766-70
+.M
+Administration, Inhalation; Aerosols; Asthma/*DT; Bronchi/DE; Clinical Trials; Comparative Study; Dose-Response Relationship, Drug; Human; Random Allocation; Terbutaline/*AD/TU.
+.T
+Domiciliary comparison of terbutaline treatment by metered dose inhaler with and without conical spacer in severe and moderately severe chronic asthma.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The bronchodilator response to cumulative doses of terbutaline administered by metered dose inhaler with and without a conical spacer device and by Acorn nebuliser has been compared in groups of patients with chronic severe and moderately severe asthma. After laboratory studies the patients undertook a randomised domiciliary crossover comparison of bronchodilator response to terbutaline given by metered dose inhaler with and without a spacer device, during which the severity of asthma was assessed by thrice daily recordings of peak expiratory flow (PEF) and symptom score. Improvement in FEV1 produced in the laboratory by the metered dose inhaler with spacer device was significantly greater than by metered dose inhaler alone (p less than 0.001) and similar to that from the nebuliser in both asthmatic groups throughout a range of terbutaline doses. In the domiciliary comparison mean midday and evening PEF rates were significantly higher with the use of the spacer device both in those with severe (p less than 0.01) and in those with moderately severe (p less than 0.05) asthma, and mean morning PEF was significantly higher in the severe group (p less than 0.05). The spacer device also produced a significant improvement in symptom score in both the severe and the moderately severe groups (p less than 0.05). Regular domiciliary use of the spacer device with the metered dose inhaler improves bronchodilator response, particularly in patients with chronic severe asthma, and may be a useful alternative to nebuliser treatment.
+.A
+O'Reilly JF; Gould G; Kendrick AH; Laszlo G.

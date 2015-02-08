@@ -1,0 +1,15 @@
+ 39864
+.U
+87073035
+.S
+AJR Am J Roentgenol 8703; 148(1):151-3
+.M
+Female; Fetal Membranes/*AH; Human; Pregnancy; Pregnancy, Multiple/*; Prenatal Diagnosis/*; Retrospective Studies; Twins; Ultrasonography/*.
+.T
+Significance of membrane thickness in the sonographic evaluation of twin gestations.
+.P
+JOURNAL ARTICLE.
+.W
+A retrospective study of 55 twin pregnancies was performed to determine the role of sonography in distinguishing between dichorionic and monochorionic diamniotic gestations solely by evaluating the thickness of the membrane between the fetuses. The presence of a thick dividing membrane indicated a dichorionic diamniotic gestation in 38 (90%) of 42 cases in which it was identified. Inability to identify a membrane between dichorionic diamniotic twins occurred most commonly during the third trimester. A thin membrane indicated monochorionic diamniotic twinning and was seen in three (25%) of 12 cases. Membrane thickness was indeterminate in one case. Therefore, on the basis of the thickness of the dividing membrane imaged by sonography, dichorionic diamniotic gestations can be distinguished from monochorionic diamniotic gestations. Inability to show a separating membrane by sonography, however, can occur with any form of twin gestation, particularly in the third trimester. Membrane thickness should be used in conjunction with other sonographic criteria to predict the amnionicity and chorionicity of twin gestations.
+.A
+Hertzberg BS; Kurtz AB; Choi HY; Kaczmarczyk JM; Warren W; Wapner RJ; Needleman L; Baltarowich OH; Pasto ME; Rifkin MD; et al.

@@ -1,0 +1,15 @@
+ 39917
+.U
+87073568
+.S
+Am J Obstet Gynecol 8703; 155(6):1223-6
+.M
+Cesarean Section; Enzyme Precursors/*BL; Female; Fetal Blood/AN; Human; Placenta/ME; Pregnancy/*BL; Renin/*BL; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Uterus/ME.
+.T
+Uteroplacental unit as a source of elevated circulating prorenin levels in normal pregnancy.
+.P
+JOURNAL ARTICLE.
+.W
+Circulating levels of inactive renin, that is, prorenin, are increased in normal pregnant women. To determine whether the uteroplacental unit secretes prorenin into the maternal circulation, we measured enzymatically active and inactive renin in plasma simultaneously obtained from the radial artery and uterine vein of 12 normotensive, nonlaboring patients undergoing elective cesarean section at term. We also measured these forms of renin in the umbilical arterial and venous blood of these patients. Our data reveal that the levels of inactive renin in both arterial and uterine venous blood of normal pregnant women are significantly higher than in peripheral venous blood of nonpregnant, normotensive control subjects; normotensive term patients have a ratio of plasma inactive to active renin of 9:1 in contrast to the 1:1 ratio in normotensive nonpregnant subjects; there is a significant uterine arteriovenous difference of prorenin (66.2 +/- 24.4 ng/ml/hr, p less than 0.05) but not of active renin (1.8 +/- 1.5 ng/ml/hr, not significant). These results suggest that the uteroplacental unit contributes to the elevated prorenin levels at term pregnancy.
+.A
+Brar HS; Do YS; Tam HB; Valenzuela GJ; Murray RD; Longo LD; Yonekura ML; Hsueh WA.

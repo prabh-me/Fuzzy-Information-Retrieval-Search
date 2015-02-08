@@ -1,0 +1,15 @@
+ 40029
+.U
+87076953
+.S
+Blood 8704; 69(1):211-8
+.M
+Animal; Antibodies, Monoclonal/DU; Antibody-Dependent Cell Cytotoxicity; Antigens, Surface/*IM; Blood Platelets/*IM; Cell Membrane/IM; Glycoproteins/IM; Macrophages/IM; Membrane Proteins/IM; Mice; Molecular Weight; Support, Non-U.S. Gov't; Tissue Distribution.
+.T
+Polymorphic glycoprotein-1 on mouse platelets: possible role of Pgp-1 and LFA-1 in antibody-dependent platelet cytotoxicity involving complement.
+.P
+JOURNAL ARTICLE.
+.W
+The presence of the Pgp-1 glycoprotein on mouse platelets is demonstrated by antibody-binding techniques, by immunoprecipitation, and by transblotting using the monoclonal antibody (MoAb) C71/26 against Pgp-1. C71/26 immunoprecipitates as a broad band of mol wt 87,000 to 100,000 as determined by radioiodination of the platelet cell surface and by the 3H-sodium borohydride labeling technique. Immunoblotting showed Pgp-1 expression on platelets to be quantitatively similar to its presence on macrophages and resolved platelet Pgp-1 into two bands of mol wt 87,000 and 97,000 whereas Pgp-1 on parasite-elicited peritoneal macrophages showed 82,000 and 87,000 mol wt species. Platelets and monocyte/macrophage cells from either peripheral blood or from the peritoneal cavity showed homogeneous binding of Pgp-1 antibody to greater than 97% of cells by flow cytometry. In contrast, lymphocytes from peripheral blood or from the spleen showed a heterogeneous binding pattern with 20% to 30% of cells being negative, and the majority weakly positive. In functional studies, MoAbs against CR1 and CR3 substantially inhibited platelet immune adherence, whereas C71/26 showed only marginal inhibitor. In contrast, C71/26 and other MoAbs against Pgp-1 inhibited platelet-dependent cytotoxicity of antibody-coated sheep erythrocytes in the presence of C5-deficient mouse plasma whereas M1/70 against CR3 showed no effect. In this assay, MoAbs against the alpha- and beta-subunits of leukocyte functional molecule LFA-1 also inhibited platelet cytotoxicity. These results show that the platelet cell surface moieties Pgp-1 and LFA-1 are involved in or closely associated with antibody-dependent cellular cytotoxicity by platelets.
+.A
+McCaffery PJ; Tan AS; Berridge MV.

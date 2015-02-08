@@ -1,0 +1,13 @@
+ 40003
+.U
+87075112
+.S
+Ann Surg 8703; 204(6):726-7
+.M
+Abdomen/*; Candidiasis/*EP; Human; Immunosuppression/AE; Pancreas/*TR; Pancreas Transplantation/*; Postoperative Complications/*EP.
+.T
+Incidence and management of intra-abdominal infections in pancreas transplant recipients [letter]
+.P
+LETTER.
+.A
+Blenkharn JI; Blumgart LH.

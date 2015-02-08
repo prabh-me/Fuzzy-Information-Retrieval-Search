@@ -1,0 +1,15 @@
+ 39897
+.U
+87073431
+.S
+Am J Kidney Dis 8703; 8(5):368-79
+.M
+Animal; Antineoplastic Agents/*AE; Cisplatin/*AE; Human; Kidney/*DE; Kidney Diseases/*CI.
+.T
+Nephrotoxicity induced by cancer chemotherapy with special emphasis on cisplatin toxicity.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Renal failure in cancer patients is a common problem in oncology; this complication is frequently multifactorial in origin. Several antineoplastic agents are potentially nephrotoxic; previous renal impairment as well as combinations with other nephrotoxic drugs may increase the risk of nephrotoxicity during administration of chemotherapy. Methotrexate-related renal damage most frequently occurs with high-dose therapy and can be avoided by forced alkaline diuresis and administration of folinic acid. Renal dysfunction secondary to semustine (CH3-CCNU) is clearly related to cumulative doses in excess to 1,200 mg/m2; the onset may be delayed and renal failure progress despite drug discontinuation. Streptozotocin is also nephrotoxic and may cause proteinuria and renal tubular acidosis; progressive renal failure can be predicted by a close monitoring of proteinuria and prevented by drug discontinuance. Mitomycin-associated renal failure frequently presents with signs of microangiopathic hemolytic anemia; renal failure is usually delayed but occasionally, it may be rapidly progressive despite drug discontinuance. Cisplatin nephrotoxicity is clearly dose-related and used to be considered dose limiting. Renal insufficiency can be prevented by hydration and forced diuresis; in addition, hyperhydration with mannitol-induced saline diuresis may allow administration of high doses and thus circumvent the dose-limiting effect of cisplatin-induced renal toxicity. Cisplatin-induced renal magnesium wasting occurs frequently and should be supplemented. Other approaches to reduce cisplatin nephrotoxicity are currently under investigation and are discussed.
+.A
+Ries F; Klastersky J.

@@ -1,0 +1,13 @@
+ 73
+.U
+87049341
+.S
+ASAIO Trans 8703; 32(1):384-7
+.M
+Blood/*; Dextrans; Human; Kidney, Artificial/*; Molecular Weight; Structure-Activity Relationship; Support, U.S. Gov't, Non-P.H.S.; Ultrafiltration/*.
+.T
+Macromolecular charge affects hemofilter solute sieving.
+.P
+JOURNAL ARTICLE.
+.A
+Leypoldt JK; Frigon RP; Henderson LW.

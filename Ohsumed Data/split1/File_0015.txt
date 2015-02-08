@@ -1,0 +1,15 @@
+ 39801
+.U
+87070310
+.S
+Surg Gynecol Obstet 8703; 163(6):543-6
+.M
+Female; Human; Male; Prognosis; Prospective Studies; Suture Techniques; Thyroidectomy/*AE; Vocal Cord Paralysis/*ET/SU.
+.T
+A new approach to the surgical management of paralysis of the laryngeal nerve after thyroidectomy.
+.P
+JOURNAL ARTICLE.
+.W
+Recurrent nerve palsy, immediate or delayed, or unilateral or bilateral, is a recognized complication of operations upon the thyroid gland and is not considered to be remediable as a presumed consequence of division of the nerve (or nerves). Removal of sutures and neurolysis of the nerve have met with variable success in restoration of function. In a prospective study over a period of 14 years, paralysis after thyroidectomy was assessed in 31 patients. Five had undergone previous operations upon the thyroid gland, four of these patients had known unilateral paralysis and 26 underwent operations which involved exploring the nerves. Immediate removal of the sutures was followed by complete recovery in four of the patients. Fifteen nerves of 13 patients with delayed paralysis were operated upon within six months of the original procedure; ligatures were removed in four patients, the nerve of one patient was sutured and the remaining underwent neurolysis. Some recovery of function within six months was seen in 13 nerves. Nine nerves were operated upon up to one year later, three divided nerves were sutured, one suture around a nerve was removed and five nerves were freed from fibrous tissue; recovery of function was seen in only two nerves. Of all the nerves which were sutured, slight mass movement of the corresponding vocal cord was seen in two. The results indicate that immediate paralysis after thyroidectomy should be investigated immediately, not only to excluded severance but also to relieve, if possible, physical involvement of the nerve by suture or ligature; the outcome of the operation is often beneficial. The benefits of neurolysis when the onset of paralysis is delayed due to fibrosis surrounding the nerve is also discussed; earlier intervention is associated with better results. Direct suture of the divided nerve is not recommended.
+.A
+Holl-Allen RT.

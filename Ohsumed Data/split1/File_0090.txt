@@ -1,0 +1,13 @@
+ 39876
+.U
+87073168
+.S
+Am Heart J 8703; 112(6):1359-62
+.M
+Adult; Endocarditis, Bacterial/ET; Female; Human; Male; Mitral Valve Prolapse/DI/EP/*ET; Prognosis; Risk; Sex Characteristics.
+.T
+Mitral valve prolapse: multifactorial etiologies and variable prognosis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Baddour LM; Bisno AL.

@@ -1,0 +1,15 @@
+ 39884
+.U
+87073272
+.S
+Am J Clin Pathol 8703; 86(6):761-4
+.M
+Costs and Cost Analysis; Enzyme Tests; Escherichia coli/*IP; Reagent Kits, Diagnostic/*/EC; Time Factors.
+.T
+Use of the RIM Escherichia coli Kit for rapid identification of Escherichia coli.
+.P
+JOURNAL ARTICLE.
+.W
+The Rapid Identification Method (RIM) Escherichia coli Kit (Austin Biologicals Laboratories Inc., Austin, TX) was evaluated as a means to rapidly differentiate at reduced cost clinical isolates of Escherichia coli from other members of the Enterobacteriaceae. A group of 408 gram-negative rods that were isolated on primary isolation plates were tested with the use of both the kit and complete bacterial identification. The RIM E. coli Kit identified 92.5% (272 of 294) of the E. coli isolates. Only 1 of 114 non-E. coli isolates was misidentified as E. coli (positive predictive value equal to 99.6). Although the RIM E. coli Kit was sufficiently rapid (less than one hour), any supply cost savings would depend upon the proportion of true E. coli in the group of organisms tested. Savings derived from the lower cost of using the RIM E. coli Kit would be reduced by the extra cost of screening non-E. coli isolates, which would then have to be completely identified.
+.A
+Varga FJ; DiPersio JR.

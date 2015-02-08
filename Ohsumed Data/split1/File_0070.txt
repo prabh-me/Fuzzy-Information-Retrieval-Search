@@ -1,0 +1,13 @@
+ 39856
+.U
+87071794
+.S
+West J Med 8703; 145(4):493-6
+.M
+Adsorption; Animal; Charcoal/PD/*TU; Combined Modality Therapy; Enterohepatic Circulation/DE; Gastric Emptying; Human; Poisoning/*DT/TH; Vomiting.
+.T
+Activated charcoal--past, present and future.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Derlet RW; Albertson TE.

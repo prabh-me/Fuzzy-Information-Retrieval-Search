@@ -1,0 +1,15 @@
+ 39816
+.U
+87070548
+.S
+Thorax 8703; 41(6):468-72
+.M
+Adult; Airway Resistance/*DE; Asthma/*PP; Clinical Trials; Double-Blind Method; Female; Forced Expiratory Volume; Human; Male; Methacholine Compounds/*DU; Middle Age; Nifedipine/*PD; Pulmonary Gas Exchange/*DE; Random Allocation; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Vital Capacity.
+.T
+Effect of nifedipine on arterial hypoxaemia occurring after methacholine challenge in asthma.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+To investigate whether the effects of nifedipine on methacholine induced broncho-constriction could impair pulmonary gas exchange in bronchial asthma a randomised, double blind, crossover study in 13 symptom free asthmatic subjects was designed. Each patient underwent a methacholine bronchial challenge test on two separate days one week apart, after having either oral nifedipine (20 mg thrice daily) or placebo for three days. Arterial blood gases were measured before and after methacholine challenge in nine subjects. Prechallenge values of forced expiratory volume in one second (FEV1) and arterial oxygen tension (Pao2) were similar after nifedipine and after placebo. After challenge, the cumulative doses of methacholine required to produce a 20% fall in FEV1 (PD20 FEV1) were significantly larger after nifedipine (280 (SD 347)) cumulative breath units (CBU) than after placebo (120 (183) CBU; p less than 0.01). After challenge the fall in Pao2 values (17.1 (1.6) mm Hg; (2.28 (0.21) kPa)) was significantly greater than after placebo (11.7 (2.4) mm Hg; (1.56 (0.32) kPa) p less than 0.03). Our data show that although oral nifedipine significantly reduces airway reactivity in patients with mild bronchial asthma, it also adversely affects pulmonary gas exchange, resulting in a lowered postchallenge Pao2, probably because of worsening ventilation-perfusion relationships.
+.A
+Ballester E; Roca J; Rodriguez-Roisin R; Agusti-Vidal A.

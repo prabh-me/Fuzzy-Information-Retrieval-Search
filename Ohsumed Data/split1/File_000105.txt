@@ -1,0 +1,15 @@
+ 39891
+.U
+87073365
+.S
+Am J Gastroenterol 8703; 81(12):1174-8
+.M
+Abdomen/*; Adult; Blood Glucose/AN; Cholecystokinin/*BL; Chronic Disease; Fasting; Feedback; Female; Food; Human; Insulin/BL; Male; Middle Age; Pain/*ET; Pancreas/PP; Pancreatic Diseases/*BL/CO; Pancreatic Polypeptide/BL; Radioimmunoassay.
+.T
+High plasma cholecystokinin levels in patients with chronic pancreatitis having abdominal pain.
+.P
+JOURNAL ARTICLE.
+.W
+Plasma cholecystokinin (CCK) responses after ingestion of a test meal in patients with mild chronic pancreatitis having abdominal pain were studied with a radioimmunoassay using the CCK specific antiserum (OAL-656) produced by a novel immunization procedure. Mean concentration of the fasting plasma CCK determined using CCK-8 as a standard was 31.5 +/- 5.8 pg/ml in six patients who had mild impaired exocrine function with pain, and was significantly higher than 10 healthy subjects (9.8 +/- 1.8 pg/ml). In those patients, the ingestion of a liquid test meal led to a peak of 75.1 +/- 25.4 pg/ml at 30 min, and the 120-min integrated CCK response (5427 +/- 1217.3 pg X min/ml) was significantly higher than in healthy subjects (1538 +/- 110.1 pg X min/ml).
+.A
+Funakoshi A; Nakano I; Shinozaki H; Tateishi K; Hamaoka T; Ibayashi H.

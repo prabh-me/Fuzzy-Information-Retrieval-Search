@@ -1,0 +1,15 @@
+ 40106
+.U
+87079374
+.S
+Clin Lab Med 8704; 6(4):675-88
+.M
+Hematologic Tests/ST; Hematology/*ST; Quality Control.
+.T
+Quality control in hematology.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+A quality control (QC) protocol for hematology, as for other sections of the laboratory, should encompass both internal and external QC programs. The extent to which a hematology laboratory should be involved depends upon various factors, including availability of facilities, financial resources, range of tests, workload, the number of staff and their levels of training, and the overall organization of the laboratory. To ensure quality patient care, the intralaboratory QC program must include at least the minimal measures of monitoring and control at each step from collection of blood specimens, through the actual processing and analysis, to reporting of the results. The protocol should be written concisely and in simple language; the procedure manual should offer all of the pertinent information along with references; all concerned personnel should be well trained and competent; and adequate facilities and time should be available for the purpose of QC. Continuing education is also an integral part of an effective QC program. Three very important aspects of QC in hematology are calibration of automated instruments, monitoring of accuracy and precision of instruments and procedures, and verifying the reliability of test results. In the absence of a true primary reference/standard for calibration of instruments for the CBC, the most commonly performed hematologic test, the use of commercial calibrators is acceptable. A combination of commercial controls (three levels) and retained or fresh patient blood specimens is recommended for monitoring of accuracy and precision on a long- and short-term basis. Patient red-cell indices moving average data allow continuous monitoring of instrument performance and should be used as an adjunct to other QC approaches to detecting instrument calibration drift. Correlation of results of related parameters and careful review of blood films remain the two most important and widely used approaches to ensure reliability of results obtained from automated hematology instruments. Participation in an external QC program offers the most practical means of monitoring overall work performance in comparison with instrument, method, and/or reagent-based peer group data. A laboratory may choose to participate in one or more national and/or regional QC programs, depending upon the range of tests it performs and the requirements of accreditation and regulatory agencies. Most of the accreditation agencies require participation in programs covering at least all of the routinely or frequently performed tests and, if available, also in those for infrequently performed tests.(ABSTRACT TRUNCATED AT 400 WORDS)
+.A
+Gulati GL; Hyun BH.

@@ -1,0 +1,13 @@
+ 39950
+.U
+87074120
+.S
+Anaesthesia 8703; 41(10):1059
+.M
+Child; Child, Preschool; Clinical Trials; Double-Blind Method; Human; Preanesthetic Medication/*; Trimeprazine/TU.
+.T
+Premedication for children [letter]
+.P
+CLINICAL TRIAL; LETTER.
+.A
+Johnson TW; Young PN.

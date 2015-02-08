@@ -1,0 +1,15 @@
+ 39944
+.U
+87073959
+.S
+Am J Surg 8703; 152(6):583-6
+.M
+Adult; Bacterial Infections/*ET/IM; Female; Human; Leukemia, Lymphocytic/*CO; Male; Middle Age; Postoperative Complications/*ET; Splenectomy.
+.T
+Postsplenectomy infection in patients with chronic leukemia.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The added risk of infectious complications due to splenectomy in patients already immunocompromised because of chronic leukemia was studied over a 22 year period. When compared to patients with chronic leukemia who did not undergo splenectomy, survival was not influenced. Splenectomy did significantly increase the total number of serious infections (65 percent versus 35 percent, p less than 0.001), the number of infections per patient (p less than 0.05), and the interval between infections (p less than 0.01) in this patient population. Fatal septic episodes were not due to Streptococcus pneumoniae, but did occur significantly more often in the splenectomy group (22 percent versus 7 percent, p less than 0.05). Although the location of infection was similar, there was a significant difference in the number of Pseudomonas aeruginosa infections in the patients who had undergone splenectomy (p less than 0.05). Consideration must be given to the significantly increased risk of postoperative infectious morbidity in patients with chronic leukemia when evaluating the usefulness of splenectomy.
+.A
+Mower WR; Hawkins JA; Nelson EW.

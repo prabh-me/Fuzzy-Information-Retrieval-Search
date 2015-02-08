@@ -1,0 +1,15 @@
+ 39861
+.U
+87073022
+.S
+AJR Am J Roentgenol 8703; 148(1):103-6
+.M
+Adult; Aged; Arthrography/MT; Bursa, Synovial/*RA; Hip Prosthesis/*; Human; Middle Age; Pain, Postoperative/ET; Postoperative Complications/*RA; Prosthesis Failure; Retrospective Studies; Subtraction Technique.
+.T
+Pseudobursae: a useful finding in patients with painful hip arthroplasty.
+.P
+JOURNAL ARTICLE.
+.W
+A retrospective review of 178 consecutive subtraction hip arthrograms (175 patients) was performed to evaluate the significance of cavities or bursal communications (or both) with the pseudocapsule in patients with painful hip arthroplasty. Bursae and/or communicating cavities were shown in 75 (43%) of the 175 patients. Communicating irregular cavities were noted in 12 patients (nine infected), and smooth bursae or bursalike structures were noted in 63 patients. The most frequent bursal locations were the greater trochanteric region (32/63), supraacetabular region (18/63), and iliopsoas (12/63). Three patients had multiple bursae. Six of the 18 acetabular bursae were associated with previous dislocations. Twenty-seven patients with bursae had no radiographic findings of loosening or infection. Of these 27, 12 (44%) responded to local injection of anesthetic into the bursa and were judged clinically to have bursitis. Arthrography, with aspiration from the bursae or cavities and injection of anesthetic, provides additional information regarding painful hip arthroplasty and may prevent unnecessary surgery.
+.A
+Berquist TH; Bender CE; Maus TP; Ward EM; Rand JA.

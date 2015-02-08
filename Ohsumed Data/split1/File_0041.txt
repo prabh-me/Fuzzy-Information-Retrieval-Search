@@ -1,0 +1,15 @@
+ 39827
+.U
+87070600
+.S
+Thorax 8703; 41(9):685-7
+.M
+Adult; Aged; England; Female; Human; Male; Middle Age; Mycobacterium/IP; Mycobacterium bovis/*IP; Retrospective Studies; Tuberculosis, Pulmonary/EP/*MI.
+.T
+Pulmonary tuberculosis due to Mycobacterium bovis.
+.P
+JOURNAL ARTICLE.
+.W
+During 1969-84 Mycobacterium bovis was isolated from 20 patients with pulmonary tuberculosis. This represented less than 1% of the total cases of respiratory tuberculosis confirmed bacteriologically at the Liverpool Public Health Laboratory during this period. All 20 patients were considered to have reactivated disease and all presented with the typical features of respiratory tuberculosis. During the same period four cases of pulmonary infection by Mycobacterium africanum were recognised. This organism is difficult to differentiate from M bovis and failure to distinguish the two mycobacteria could lead to a misleading epidemiological picture of bovine tuberculosis in man.
+.A
+Wilkins EG; Griffiths RJ; Roberts C.

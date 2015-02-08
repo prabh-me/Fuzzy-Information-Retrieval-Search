@@ -1,0 +1,15 @@
+ 39798
+.U
+87070277
+.S
+Surg Clin North Am 8703; 66(6):1213-28
+.M
+Antineoplastic Agents/AE; Combined Modality Therapy; Human; Neoplasms/CO/*TH; Nutrition Disorders/ET; Nutritional Status/*; Postoperative Complications.
+.T
+Impact of antitumor therapy on nutrition.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Surgery, radiation, and chemotherapy can result in further deterioration in nutritional status in patients who are frequently malnourished as a consequence of their underlying malignancy. Many of the effects are transient, and patients who have a good performance status may exhibit minimal alterations in nutritional parameters during the course of treatment. However, antitumor treatment may enhance morbidity, and in some, it leads to mortality if patients are in poor nutritional status ab initio. Such malnourished patients must be recognized prior to initiation of treatment, and steps must be taken to maintain adequate nutrition. The known toxic effects of many cancer therapeutic regimens must be weighed against their potential benefits.
+.A
+McAnena OJ; Daly JM.

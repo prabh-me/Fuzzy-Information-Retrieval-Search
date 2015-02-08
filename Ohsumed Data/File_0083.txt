@@ -1,0 +1,13 @@
+ 82
+.U
+87049353
+.S
+ASAIO Trans 8703; 32(1):425-8
+.M
+Adsorption; Biocompatible Materials; Blood Proteins/*IP; Charcoal/*; Hemodialysis/*; Hemoperfusion/*; Human; Kidney Failure, Chronic/TH; Molecular Weight; Polyurethanes.
+.T
+Elimination of low molecular weight proteins during hemoperfusion of dialysis patients using a urethane-sheet embedded with powdered charcoal.
+.P
+JOURNAL ARTICLE.
+.A
+Kawanishi H; Tsuchiya T; Sugiyama M; Nishiki M; Dohi K.

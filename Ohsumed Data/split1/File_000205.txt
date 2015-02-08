@@ -1,0 +1,15 @@
+ 39991
+.U
+87074788
+.S
+Antimicrob Agents Chemother 8703; 30(4):611-3
+.M
+Bacteria/*DE; Cefotaxime/PD; Ceftazidime/PD; Cephalosporins/*PD; Enterobacteriaceae/DE; Microbial Sensitivity Tests.
+.T
+In vitro activity of DQ-2556, a new cephalosporin.
+.P
+JOURNAL ARTICLE.
+.W
+The in vitro antibacterial activity of DQ-2556, a new semisynthetic cephalosporin, was compared with that of ceftazidime and cefotaxime. The activity of DQ-2556 against members of the family Enterobacteriaceae was roughly comparable to that of cefotaxime. Against Pseudomonas aeruginosa, DQ-2556 was slightly less active than ceftazidime. DQ-2556 was more active than the reference cephalosporins against staphylococci. Haemophilus influenzae and Neisseria gonorrhoeae were also highly susceptible to DQ-2556.
+.A
+Fujimoto T; Otani T; Nakajima R; Une T; Osada Y.

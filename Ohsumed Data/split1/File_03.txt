@@ -1,0 +1,15 @@
+ 39789
+.U
+87070027
+.S
+South Med J 8703; 79(12):1535-43
+.M
+Administration, Topical; Drug Therapy/*AE; Drugs/AD; Environmental Exposure; Female; Human; Infant Care; Infant, Newborn; Infant, Premature; Poisoning/*PC; Pregnancy; Prenatal Exposure Delayed Effects.
+.T
+Neonatal poisoning: causes, manifestations, prevention, and management.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Neonates are exposed to a growing list of potentially toxic environmental and therapeutic agents. Such exposure may be through mishap, misjudgment in both drug dosage and route of administration, inadvertent misuse of medications, or improper baby care. In addition, the newborn infant may show signs of adverse reactions to a variety of drugs that are given to the mother and cross the placenta, thereby affecting the fetus before or during both labor and delivery. Because of the immaturity of the neonate's liver, lungs, kidneys, and central nervous system, the process of metabolizing and eliminating drugs and poisons is delayed. Moreover, the clinical signs and symptoms of poisoning are not always immediately recognized. Through reviewing various drugs and environmental pollutants, this article places emphasis on prevention rather than treatment.
+.A
+Elhassani SB.

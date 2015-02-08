@@ -1,0 +1,15 @@
+ 40083
+.U
+87078790
+.S
+Circulation 8704; 75(1 Pt 2):I149-55
+.M
+Animal; Blood Pressure; Captopril/*TU; Heart Failure, Congestive/*DT/MO; Longevity/DE; Male; Myocardial Infarction/*DT/MO; Rats; Rats, Inbred Strains; Stroke Volume; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Hemodynamic benefits and prolonged survival with long-term captopril therapy in rats with myocardial infarction and heart failure.
+.P
+JOURNAL ARTICLE.
+.W
+To determine whether the hemodynamic profile of chronic heart failure secondary to myocardial infarction could be altered, captopril was administered to female Wistar rats 3 weeks after coronary artery ligation and continued for 3 months. Captopril reduced left ventricular mass, prevented the increase in right ventricular mass observed with increasing infarct size, lessened the increase in left ventricular end-diastolic pressure, and reduced mean arterial pressure and total peripheral resistance, whereas cardiac output and heart rate were maintained. The end-diastolic volume of treated rats with moderate infarcts was significantly less than that of untreated rats, and therefore the ejection fraction index was significantly increased. In rats given captopril until death or for a period of up to 1 year, survival was significantly prolonged, particularly in those rats with moderate-sized infarcts.
+.A
+Pfeffer JM; Pfeffer MA; Braunwald E.

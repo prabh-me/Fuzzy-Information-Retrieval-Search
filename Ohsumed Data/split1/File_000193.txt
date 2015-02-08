@@ -1,0 +1,15 @@
+ 39979
+.U
+87074721
+.S
+Ann Neurol 8703; 20(4):482-8
+.M
+Acetylcholinesterase/ME; Aged; Aged, 80 and over; Alzheimer's Disease/ME/*PA; Basal Ganglia/ME/*PA; Cholinergic Fibers/PA; Fluorescent Antibody Technique; Histocytochemistry; Human; Intermediate Filament Proteins/ME; Middle Age; Neurofibrils/*PA; Support, U.S. Gov't, P.H.S..
+.T
+Neurofibrillary degeneration of cholinergic and noncholinergic neurons of the basal forebrain in Alzheimer's disease.
+.P
+JOURNAL ARTICLE.
+.W
+Two principal features of Alzheimer's disease (AD) are (1) the occurrence of neurofibrillary tangles (NFTs) and senile plaques, and (2) the loss of cortical cholinergic activity because of dysfunction of neurons in the basal forebrain cholinergic system. The relationship of these two abnormalities is an unresolved issue in the pathology of AD. We used polyclonal antibodies specific for paired helical filaments (PHFs), combined with acetylcholinesterase (AChE) histochemistry, to assess the cytoskeletal changes of cholinergic and noncholinergic neurons in the basal forebrain in AD. In both sporadic and familial AD, the nucleus basalis of Meynert (nbM) showed a marked decrease in AChE-positive (AChE+) perikarya and abundant immunoreactive NFTs. In double-labeling studies of the nbM, PHF reactivity was found both in surviving AChE+ neurons and in many AChE- NFTs that were not associated with microscopically recognizable cell structures. Some surviving AChE+ perikarya did not contain NFTs. Numerous NFTs and senile plaques were identified by PHF immunoreactivity in other basal forebrain areas, including subnuclei of the amygdala that showed low or absent AChE activity. We conclude that the dysfunction and death of cholinergic neurons in the nbM is associated with extensive NFT formation, including apparently residual NFTs in loci where nbM neurons once existed; and many noncholinergic neurons and neurites in the basal forebrain show NFT and senile plaque formation. The cytopathology of AD involves neurons of varying transmitter specificities, including cholinergic neurons in the basal forebrain.
+.A
+Rasool CG; Svendsen CN; Selkoe DJ.

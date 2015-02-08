@@ -1,0 +1,15 @@
+ 39960
+.U
+87074388
+.S
+Am Rev Respir Dis 8703; 134(6):1219-24
+.M
+Administration, Oral; Airway Obstruction/BL/DT; Clinical Trials; Comparative Study; Drug Therapy, Combination; Human; Infusions, Intravenous; Kinetics; Random Allocation; Regression Analysis; Support, Non-U.S. Gov't; Theophylline/*AD/AE/BL.
+.T
+A randomized controlled clinical trial of pharmacokinetic theophylline dosing.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Ninety-one patients admitted to hospital with acute air-flow obstruction and requiring theophylline therapy were randomly assigned to either a monitored or a control group. Intravenously administered and subsequent orally administered theophylline dosages for patients in the monitored group were adjusted daily on the basis of each patients's estimated theophylline clearance; dosages for control patients were determined by attending physicians, using knowledge of theophylline serum concentrations. During intravenous therapy, fewer monitored than control patients had serum theophylline concentrations in the toxic range (18.9 versus 37.8%, p = 0.04), and during subsequent oral therapy more monitored than control patients had serum theophylline concentrations in the therapeutic range (71.1 versus 44.4%, p = 0.018). There was a trend for peak expiratory flow rates to normalize more quickly in monitored patients, and their mean duration of hospital stay was shorter (6.3 versus 8.7 days, p = 0.029). Two patients in the control group died; both had theophylline concentrations above 25 micrograms/ml and clinical toxicity. No serious side effects were observed in the monitored group. With pharmacokinetic individualization of theophylline dosage, more patients achieved serum concentrations in the therapeutic range, and there was a tendency for more rapid clinical improvement.
+.A
+Hurley SF; Dziukas LJ; McNeil JJ; Brignell MJ.

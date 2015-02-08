@@ -1,0 +1,15 @@
+ 39809
+.U
+87070389
+.S
+Surgery 8703; 100(6):978-88
+.M
+Aged; Antineoplastic Agents/AD; Biopsy; Female; Histocytochemistry; Human; Immunoenzyme Techniques; Islet Cell Tumor/MO/*PA/SU; Male; Middle Age; Pancreas/ME/PA; Pancreatectomy; Pancreatic Neoplasms/MO/*PA/SU; Postoperative Care; Retrospective Studies; Sex Factors.
+.T
+Nonfunctioning malignant neuroendocrine tumors of the pancreas.
+.P
+JOURNAL ARTICLE.
+.W
+The clinical features of eight women and three men with nonfunctioning islet cell carcinoma of the pancreas were reviewed. The mean patient age was 58 years (range 44 to 75 years). Weight loss and abdominal pain were the most frequent presenting symptoms. An abdominal mass was palpable in five patients. At operation regional or distant metastases were present in 82% of patients. Only 18% of patients underwent resection for potential cure. All tumors proved histologically to be neuroendocrine in origin. Immunohistochemical staining showed positive reactivity for neuron-specific enolase and chromogranin in all tumors studied but was negative for insulin, glucagon, and somatostatin. Focal positivity for pancreatic polypeptide was seen in one tumor. Nine patients with unresectable disease at operation were available for follow-up. Mean survival for the entire group was 23 +/- 7.2 months (range 4 to 72 months). Survival differences between women and men appeared to favor women but were not statistically significant. Postoperative regional or systemic chemotherapy also had no significant effect on patient survival although two of the longest survivors (36 and 72 months) had received adjunctive chemotherapy. Nonfunctioning islet cell neoplasms are locally aggressive, have a propensity for early metastases, and are rarely resectable for cure. Unlike pancreatic exocrine carcinomas, endocrine malignancies may respond favorably to adjunctive chemotherapy.
+.A
+Eckhauser FE; Cheung PS; Vinik AI; Strodel WE; Lloyd RV; Thompson NW.

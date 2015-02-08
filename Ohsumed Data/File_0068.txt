@@ -1,0 +1,13 @@
+ 67
+.U
+87049329
+.S
+ASAIO Trans 8703; 32(1):342-5
+.M
+Animal; Biocompatible Materials/*; Capsules; Chromatography, Gel; Collagen; Drug Screening; Implants, Artificial/*; Lactates/ME; Polymers/ME; Time Factors.
+.T
+Tissue developed around bioresorbable implants. Load-bearing versus histology.
+.P
+JOURNAL ARTICLE.
+.A
+Richardson PD; Sasken H; Parhizgar A; Aebischer P; Panol G; Chiu TH; Galletti PM.

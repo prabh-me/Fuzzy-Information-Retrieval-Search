@@ -1,0 +1,15 @@
+ 39983
+.U
+87074744
+.S
+Ann Neurol 8703; 20(5):610-5
+.M
+beta 2-Microglobulin/ME; Adult; Aged; Antibodies, Monoclonal/DU; Antigens, Surface/*AN; B-Lymphocytes/IM; Central Nervous System Diseases/*DI/ET; Cerebrospinal Fluid/CY; Female; Hodgkin's Disease/*CO; Human; Immunoenzyme Techniques; Leukemia, Lymphocytic/CO; Leukocyte Count; Lymphoma, Non-Hodgkin's/*CO; Male; Middle Age; Support, Non-U.S. Gov't; T-Lymphocytes/IM.
+.T
+Cell surface markers for diagnosis of central nervous system involvement in lymphoproliferative diseases.
+.P
+JOURNAL ARTICLE.
+.W
+To diagnose lymphoproliferative central nervous system (CNS) involvement we have used monoclonal antibodies in an immunocytochemical method for differentiation of cells in cerebrospinal fluid (CSF) and peripheral blood. The cell distribution in 9 patients with B-cell lymphoma and 7 patients with chronic lymphatic leukemia was compared to that in a group of patients with aseptic meningitis. Most patients with neoplastic CNS involvement showed a high proportion of CSF B cells (OKB2+ and/or OKB7+) and a concurrently low proportion of CSF T cells (anti-Leu 1+). Proliferating cells expressing transferrin receptor (OKT9 labeled) were increased in the CSF of 2 patients with neoplastic CNS involvement. In 2 patients with infectious CNS complications, the cell distribution in CSF did not differ from that in patients with aseptic meningitis. Patients with leukemia who had no CNS symptoms, and also 1 patient with meningitis and blood-brain barrier damage, showed a normal cell distribution in CSF despite high B-cell numbers in the peripheral blood. This indicates a selective passage of leukocytes into the CNS and/or local proliferation.
+.A
+Ernerudh J; Olsson T; Berlin G; Gustafsson B; Karlsson H.

@@ -1,0 +1,15 @@
+ 39974
+.U
+87074550
+.S
+Ann Otol Rhinol Laryngol 8703; 95(6 Pt 1):561-6
+.M
+Anatomy/HI; Animal; History of Medicine, 20th Cent.; Larynx/*AH/PH; London; Mammals/*AH; Otolaryngology/HI; Species Specificity.
+.T
+Twelfth Daniel C. Baker Jr memorial lecture: Victor Negus: 57 years later.
+.P
+HISTORICAL ARTICLE; HISTORICAL BIOGRAPHY; JOURNAL ARTICLE.
+.W
+The three-dimensional morphology of the mammalian larynx was studied for 15 years. Using specimens obtained from a wide variety of sources, efforts were made to correlate structure with function and thus explain the variations in size and morphology seen in over 150 families of mammals.
+.A
+Harrison DF.

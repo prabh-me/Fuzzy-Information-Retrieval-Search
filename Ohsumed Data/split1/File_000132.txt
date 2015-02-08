@@ -1,0 +1,15 @@
+ 39918
+.U
+87073575
+.S
+Am J Obstet Gynecol 8703; 155(6):1255-62
+.M
+Autoantibodies/AN; Blood Glucose/*ME; Body Composition; Calorimetry, Indirect; Diabetes Mellitus/ET; Female; Glucose Tolerance Test; Human; Insulin Resistance; Islets of Langerhans/IM; Obesity in Diabetes/ME; Pregnancy; Pregnancy in Diabetes/*ME; Risk; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Subclinical abnormalities of glucose metabolism in subjects with previous gestational diabetes.
+.P
+JOURNAL ARTICLE.
+.W
+To investigate whether there are subclinical abnormalities of glucose metabolism in women with previous gestational diabetes that are consistent with a high incidence of diabetes mellitus in later life, eight patients with previous gestational diabetes and normal oral glucose tolerance were evaluated by means of body composition studies, intravenous glucose tolerance tests, and the hyperinsulinemic-euglycemic clamp coupled with 6-6 dideuterated glucose infusion, indirect calorimetry, and measurement of islet cell antibodies. Eight control subjects were matched for percent body fat and diet and studied in a similar fashion. Abnormalities of insulin response and insulin resistance were present in four (50%) of patients with previous gestational diabetes. Insulin resistance was significantly greater in the patients than in the control subjects. When compared with lean patients, obese patients with previous gestational diabetes had significantly greater insulin response to the intravenous glucose tolerance test and insulin resistance. These changes are consistent with reported findings of an early and progressive development of overt diabetes in patients who had gestational diabetes.
+.A
+Catalano PM; Bernstein IM; Wolfe RR; Srikanta S; Tyzbir E; Sims EA.

@@ -1,0 +1,15 @@
+ 14
+.U
+87049103
+.S
+Am J Emerg Med 8703; 4(6):549-51
+.M
+Adult; Case Report; Ethchlorvynol/*; Female; Human; Injections, Intravenous; Male; Pulmonary Edema/*CI; Substance Abuse/*.
+.T
+Pulmonary edema induced by intravenous ethchlorvynol.
+.P
+JOURNAL ARTICLE.
+.W
+The intravenous injection of ethchlorvynol is an uncommon cause of noncardiac pulmonary edema. Two cases of intravenous ethchlorvynol-induced pulmonary edema are presented. The patients fell asleep after injecting the liquid contents of Placydil capsules (ethchlorvynol) and awoke several hours later with severe dyspnea. Arterial blood gases demonstrated marked hypoxia. Chest radiographs revealed bilateral diffuse alveolar densities. The patients' symptoms and radiographic findings resolved after several days of supportive care. Changes in the lung caused by ethchlorvynol may be the result of direct effect of the drug on the lung.
+.A
+Conces DJ Jr; Kreipke DL; Tarver RD.

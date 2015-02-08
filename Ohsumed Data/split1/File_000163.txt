@@ -1,0 +1,15 @@
+ 39949
+.U
+87074109
+.S
+Anaesthesia 8703; 41(10):1029-31
+.M
+Adult; Airway Obstruction/*ET; Anesthesia, General; Case Report; Female; Human; Intubation, Intratracheal/*; Laryngostenosis/*ET; Pemphigoid, Benign Mucous Membrane/*CO; Skin Diseases, Vesiculobullous/*CO; Tracheotomy.
+.T
+Severe upper airway obstruction and difficult intubation in cicatricial pemphigoid.
+.P
+JOURNAL ARTICLE.
+.W
+Upper airway obstruction in cicatricial pemphigoid is rarely seen by the anaesthetist. A case of severe dyspnoea due to progressive laryngeal obstruction is presented. Tracheal intubation during induction of general anaesthesia for permanent tracheostomy was extremely difficult and was successfully performed by introducing a size 12 French suction catheter through the stenotic laryngeal orifice. Adequate ventilation was achieved by using the oxygen flush valve to deliver oxygen intermittently through the catheter.
+.A
+Drenger B; Zidenbaum M; Reifen E; Leitersdorf E.

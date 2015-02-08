@@ -1,0 +1,15 @@
+ 39886
+.U
+87073275
+.S
+Am J Clin Pathol 8703; 86(6):771-3
+.M
+Bacteriological Techniques/*; Haemophilus/*IP; Human; Macrophages/PA; Pulmonary Alveoli/PA; Sputum/CY/*MI.
+.T
+Can microscopic screening be used to determine the suitability of sputum for culture of Haemophilus species?
+.P
+JOURNAL ARTICLE.
+.W
+Sputum specimens with less than 25 squamous epithelial cells per low-power field were also examined microscopically for the presence of alveolar macrophages and Haemophilus-like organisms and cultured for Haemophilus species. The isolation of Haemophilus species was considered to be clinically significant in 11 of 13 (84.6%) specimens containing greater than or equal to 2+ alveolar macrophages (at least 1 alveolar macrophage/high-power field) and predominant Haemophilus-like organisms (greater than or equal to 12 Haemophilus-like organisms/oil immersion field); in 12 of 27 (44.4%) specimens with greater than 2+ alveolar macrophages and few, if any, Haemophilus-like organisms; and in only 1 of 20 (5%) specimens with few, if any, alveolar macrophages and Haemophilus-like organisms. It was concluded that only sputum specimens with either greater than or equal to 2+ alveolar macrophages or predominant Haemophilus-like organisms or both should be candidates for culture of Haemophilus species.
+.A
+Klein DW; Beasley PA; Ilstrup DM; Washington JA 2d.

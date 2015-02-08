@@ -1,0 +1,15 @@
+ 40079
+.U
+87078785
+.S
+Circulation 8704; 75(1 Pt 2):I125-9
+.M
+Animal; Cardiovascular System/*PP; Endorphins/*PH; Heart/PP; Hypertension/*PP; Support, U.S. Gov't, Non-P.H.S..
+.T
+The opioid system in cardiac and vascular regulation of normal and hypertensive states.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The endogenous opioid system includes three major families of peptides: dynorphins (derived from pre-proenkephalin B), endorphins (derived from pre-proopiomelanocortin), and enkephalins (derived from pre-proenkephalin A). Multiple species of opioid peptides are derived from these major precursors and many of them possess potent cardiovascular properties. Opioid peptides and opioid receptors, of which multiple forms have been defined, are present in the central nervous system and peripheral neural elements. In the central nervous system, opioid peptides and receptors are found in forebrain and hindbrain nuclei involved in baroregulation, sympathoadrenal activation, and several other vital autonomic functions. In the periphery, opioid peptides are found in autonomic ganglia, adrenal gland, heart, and other organs; multiple opioid receptors are also found in vascular tissue, heart, and kidneys. Although little is known to date on the regulatory mechanisms of the opioid system in normal cardiovascular states, it became clear that cardiovascular stress situations substantially modify the activity of the endogenous opioid system. The purpose of this review is to clarify the sites of interaction of the opioid system with all major components of the cardiovascular system and indicate the potential role of this system in the ontogenesis of cardiac malfunction, vascular diseases, and hypertension.
+.A
+Feuerstein G; Siren AL.

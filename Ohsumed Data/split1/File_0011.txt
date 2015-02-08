@@ -1,0 +1,15 @@
+ 39797
+.U
+87070096
+.S
+Spine 8703; 11(7):661-5
+.M
+Adult; Backache/CO/*DT; Chronic Disease; Clinical Trials; Comparative Study; Depressive Disorder/CO/DT; Desipramine/*TU; Double-Blind Method; Doxepin/*TU; Drug Therapy, Combination; Female; Fenfluramine/TU; Human; Male; Random Allocation.
+.T
+Tricyclic antidepressants for chronic low-back pain. Mechanisms of action and predictors of response.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Patients with chronic low-back pain and depression were treated double blind with desipramine or doxepin. During this treatment several hypotheses regarding the modes of action of these drugs were examined. A low serotonin hypothesis was supported by the fact that patients who had pain relief following an acute challenge with fenfluramine, a relatively pure releaser of serotonin, were significantly more likely to have pain relief on either antidepressant. The antidepressants did not change cerebrospinal fluid (CSF) beta-endorphin levels, acute pain tolerance, or electromyogram (EMG) levels. The nonsedating antidepressant desipramine was as effective as doxepin; 60% of patients had significant pain relief. Pain relief was associated with depression relief, but several patients had only pain or depression relief. Patients who had a substantial physical basis for their pain responded as well as those who did not.
+.A
+Ward NG.

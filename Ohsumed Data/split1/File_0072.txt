@@ -1,0 +1,13 @@
+ 39858
+.U
+87071807
+.S
+West J Med 8703; 145(4):524-7
+.M
+Aminoglycosides/ME; Anti-Arrhythmia Agents/ME; Anticonvulsants/ME; Drug Therapy/*; Drugs/*ME; Human; Theophylline/ME.
+.T
+Therapeutic drug monitoring.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Bayer WH.

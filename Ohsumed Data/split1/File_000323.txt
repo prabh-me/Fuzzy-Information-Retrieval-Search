@@ -1,0 +1,15 @@
+ 40109
+.U
+87079377
+.S
+Clin Lab Med 8704; 6(4):707-13
+.M
+Pathology, Clinical/*ST; Quality Control.
+.T
+Quality control in cytopathology.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Quality control in cytopathology involves specimen collection, preparation, screening, and final diagnosis. The measures to assure the optimal performance and to detect the malfunctions in these areas are discussed. Careful selection and application of proper procedures, proper training and continuing education of cytotechnologists and pathologists, and reasonable workload for screening cytotechnologists and important factors in quality assurance.
+.A
+Erozan YS.

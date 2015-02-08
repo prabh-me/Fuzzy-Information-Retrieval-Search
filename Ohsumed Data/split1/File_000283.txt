@@ -1,0 +1,13 @@
+ 40069
+.U
+87078742
+.S
+Circulation 8704; 75(1):10-9
+.M
+Decision Making; Ethics, Medical/*; Health Policy; Health Services Accessibility; Heart/*TR; Heart Transplantation/*; Human; Organ Procurement; Public Opinion; Registries; Support, Non-U.S. Gov't; Tissue Donors; United States.
+.T
+Equity in the selection of recipients for cardiac transplants.
+.P
+JOURNAL ARTICLE.
+.A
+Caplan AL.

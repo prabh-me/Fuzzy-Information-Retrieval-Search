@@ -1,0 +1,15 @@
+ 39810
+.U
+87070522
+.S
+Thorax 8703; 41(10):746-52
+.M
+Administration, Inhalation; Adult; Airway Resistance/*DE; Asthma/*DT; Asthma, Exercise-Induced/DT; Clinical Trials; Double-Blind Method; Epoprostenol/*AD/TU; Female; Human; Male; Peak Expiratory Flow Rate.
+.T
+Effect of inhaled piriprost (U-60, 257) a novel leukotriene inhibitor, on allergen and exercise induced bronchoconstriction in asthma.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The leukotrienes, a group of oxidative metabolites of arachidonic acid, have potent pharmacological actions on human airways. We have investigated the effects of a leukotriene synthesis inhibitor, piriprost (U-60, 257) administered by inhalation on allergen and exercise induced bronchoconstriction in 12 subjects with allergic asthma. Subjects underwent diagnostic challenges with allergen and treadmill exercise to define the strengths of the stimuli required to reduce the FEV1 to about 25% of baseline (PS25). On separate study days subjects inhaled either piriprost 1 mg or vehicle placebo, followed 15 minutes later by the PS25 allergen or exercise. The FEV1 was measured at regular intervals before and after challenge up to 60 minutes. After allergen challenge in six subjects peak expiratory flow (PEF) was measured for the following 20 hours. When compared with placebo, inhalation of piriprost had no significant protective effect on the fall in FEV1 at any time point within 60 minutes of allergen or exercise challenge. In the four subjects with a documented late asthmatic reaction 2-12 hours after allergen challenge piriprost had no protective effect when compared with placebo. In the subjects who recorded PEF over 20 hours after allergen challenge there was no significant difference between piriprost and placebo. Piriprost was appreciably more irritant to the respiratory tract than was placebo. On the assumption that inhaled piriprost was bioavailable in the airways, this study casts doubt on any theory of a pivotal role for leukotrienes in the pathogenesis of acute exercise and allergen induced airway bronchoconstriction in asthma.
+.A
+Mann JS; Robinson C; Sheridan AQ; Clement P; Bach MK; Holgate ST.

@@ -1,0 +1,15 @@
+ 39946
+.U
+87073978
+.S
+Am J Surg 8703; 152(6):687-90
+.M
+Barotrauma/PC; Human; Monitoring, Physiologic; Oxygen/AD; Positive-Pressure Respiration/*; Prospective Studies.
+.T
+Guidelines for weaning from positive end-expiratory pressure in ventilated patients.
+.P
+JOURNAL ARTICLE.
+.W
+Positive end-expiratory pressure is helpful in avoiding hypoxemia but can cause barotrauma to the lungs and heart. Reducing positive end-expiratory pressure as quickly as possible without sacrificing oxygenation is desirable. Weaning from positive end-expiratory pressure is an integral part of removing mechanical ventilation, but the selection of patients for positive end-expiratory pressure reduction and appropriate monitoring after this has not been established. We prospectively studied 29 positive end-expiratory pressure weaning trials to document oxygenation changes. Patients had stable vital signs and were not septic. All were receiving inspired oxygen concentrations of 50 percent or less and 5 to 12 cm H2O of positive end-expiratory pressure. Positive end-expiratory pressure was decreased by 2 cm H2O increments. Arterial blood gas levels were monitored at 1, 3, 5, and 30 minutes and at 1, 2, 4, and 6 hours after positive end-expiratory pressure reduction. Positive end-expiratory pressure reduction was successful if the partial pressure of oxygen value did not decrease below 65 mm Hg. Patients were successfully weaned from positive end-expiratory pressure in 27 of 29 trials (93 percent). The partial pressure of oxygen nadir occurred at 30 minutes. In successful trials, the partial pressure of oxygen value decreased an average of 12 mm Hg, an average change of -8 percent from the baseline partial pressure of oxygen value. This returned to baseline within 6 hours in only 13 patients (48 percent). The two patients in whom weaning failed had clinical signs of hypoxemia at 30 minutes. Their changes in partial pressure of oxygen at 30 minutes averaged -44 mm Hg (a 41 percent decrease). These data outline an approach to positive end-expiratory pressure weaning which is easy and practical. It supports oxygenation with the least physiologic embarrassment to the patient. In our patients it was 100 percent predictive of success.
+.A
+Borman KR; Weigelt JA; Aurbakken CM.

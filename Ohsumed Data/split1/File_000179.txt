@@ -1,0 +1,15 @@
+ 39965
+.U
+87074443
+.S
+Ann Intern Med 8703; 106(1):108-13
+.M
+Adult; Aged; Case Report; Colitis/*/DI/ET/PA; Collagen/AN; Colonoscopy; Diagnosis, Differential; Diarrhea/ET; Female; Human; Male; Middle Age.
+.T
+Collagenous colitis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Two hypotheses have been proposed to explain the pathogenesis and cause of the increased subepithelial collagen deposition that occurs in patients with collagenous colitis, a rare disease of unknown cause. One hypothesis considers an inflammatory origin, and the other, a local abnormality of collagen synthesis. An analysis of clinical, endoscopic, and histologic findings from one of our patients and from previously published cases suggests that collagenous colitis is a form of inflammatory bowel disease characterized by localization of the initial injury to the superficial subepithelial zone and with subsequent fibrosis in that area. The data show a spectrum of clinical and histologic changes that represent different stages in the evolution of the inflammatory process.
+.A
+Rams H; Rogers AI; Ghandur-Mnaymneh L.

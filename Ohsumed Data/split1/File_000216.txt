@@ -1,0 +1,13 @@
+ 40002
+.U
+87075111
+.S
+Ann Surg 8703; 204(6):725-6
+.M
+Biopsy; Graft Rejection/*; Heart/*TR; Heart Transplantation/*; Human; Myocardium/*PA.
+.T
+Cardiac biopsy interpretation [letter]
+.P
+LETTER.
+.A
+Billingham ME; Tazelaar HD.

@@ -1,0 +1,15 @@
+ 11
+.U
+87049100
+.S
+Am J Emerg Med 8703; 4(6):540-2
+.M
+Bone Marrow; Child; Child, Preschool; Drug Administration Routes/IS/*MT; Human; Infant; Needles.
+.T
+Intraosseous infusions: a usable technique.
+.P
+JOURNAL ARTICLE.
+.W
+Intraosseous infusions were widely used in pediatric patients during the 1930s and 1940s. Recent reports have re-introduced this concept and confirmed its safety and ready accessability for fluid and drug administration. However, these reports have not addressed the difficulties encountered during insertion of the intraosseous needle. Spinal needles, standard metal intravenous (IV) needles, and bone marrow biopsy needles have been suggested for intraosseous infusion. These needles were tested for ease of insertion on a pediatric cadaver leg. The site for needle placement was also evaluated during the study. It was found that the 13-gauge Kormed/Jamshidi disposable bone marrow/aspiration needle was the easiest to insert and did not plug with bone or tissue during insertion. An area proximal to the medial malleolus was found to provide a stable, relatively flat, and easily penetrable location for needle placement. This method was successfully utilized in ten pediatric and five adult patients. Intraosseous needle placement is a safe, rapid method to gain access to the venous circulation. By utilizing these techniques, a stable, usable fluid line can be established in even the most dehydrated pediatric patients.
+.A
+Iserson KV; Criss E.

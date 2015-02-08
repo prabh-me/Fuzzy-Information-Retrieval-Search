@@ -1,0 +1,13 @@
+ 40047
+.U
+87077735
+.S
+Can Med Assoc J 8704; 136(2):153-4
+.M
+Adenocarcinoma/*CO/SU; Case Report; China/EH; Clonorchiasis/*CO; Clonorchis sinensis/IP; Human; Male; Middle Age; Pancreatic Neoplasms/*CO/SU.
+.T
+Adenocarcinoma of the pancreas associated with Clonorchis sinensis infection.
+.P
+JOURNAL ARTICLE.
+.A
+Colquhoun BP; Visvanathan K.

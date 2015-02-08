@@ -1,0 +1,15 @@
+ 40085
+.U
+87078795
+.S
+Circulation 8704; 75(1 Pt 2):I19-25
+.M
+Animal; Coronary Circulation/*; Coronary Disease/CO; Heart Enlargement/ET/PA/*PP; Human; Hypertension/CO; Myocardium/PA; Support, U.S. Gov't, P.H.S.; Vasodilation.
+.T
+Alterations in the coronary circulation in hypertrophied ventricles.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+During the past decade our understanding of the complex interaction between cardiac muscle and coronary vascular growth has increased substantially. Some types of cardiac hypertrophy, for example, left ventricular hypertrophy secondary to hyperthyroidism, are associated with increased coronary vascular growth. However, in most animal preparations of hypertrophy and in several clinical types of hypertrophy of the left and/or right ventricles, pathologic cardiac enlargement impairs the ability of the coronary circulation to allow normal increases and perfusion in response to intense dilator stimuli. In general, clinical studies have demonstrated far more profound abnormalities than studies in experimental animals. These observations provide a plausible explanation of why patients with hypertrophied ventricles often exhibit signs and symptoms of myocardial ischemia in the absence of coronary obstructive disease. The recent observation that experimentally produced left ventricular hypertrophy secondary to renal hypertension augments infarct size and the incidence of sudden lethal arrhythmias has additional implications relevant to the interaction between cardiac hypertrophy and myocardial perfusion. Although coronary reserve is impaired in many types of pathologic hypertrophy, the anatomic or biochemical basis for these observations remains elusive.
+.A
+Marcus ML; Harrison DG; Chilian WM; Koyanagi S; Inou T; Tomanek RJ; Martins JB; Eastham CL; Hiratzka LF.

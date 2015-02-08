@@ -1,0 +1,13 @@
+ 47
+.U
+87049301
+.S
+ASAIO Trans 8703; 32(1):221-5
+.M
+Cardiac Output; Emergencies/*; Heart, Artificial/*AE; Human; Hypertension, Pulmonary/ET/TH; Monitoring, Physiologic.
+.T
+Drive system management of emergency conditions in three permanent total artificial heart patients.
+.P
+JOURNAL ARTICLE.
+.A
+Mays JB; Hastings WL; Williams MA; Barker LE; DeVries WC.

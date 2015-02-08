@@ -1,0 +1,13 @@
+ 72
+.U
+87049339
+.S
+ASAIO Trans 8703; 32(1):377-8
+.M
+Adult; Aged; Hemodialysis/*MT; Human; Kidney Failure, Chronic/*PP/TH; Middle Age; Nutritional Status/*; Parathyroid Hormones/BL; Serum Albumin/AN; Time Factors; Uremia/*PP/TH.
+.T
+Rapid blood flow short dialysis does not adversely affect clinical, biochemical, or nutritional status of patients.
+.P
+JOURNAL ARTICLE.
+.A
+Rubin JE; Friedmann P; Berlyne GM.

@@ -1,0 +1,15 @@
+ 39913
+.U
+87073500
+.S
+Am J Med 8703; 81(5B):29-35
+.M
+Age Factors; Aged; Aged, 80 and over; Anti-Inflammatory Agents, Non-Steroidal/AE/TU; Attitude to Health; Clinical Trials; Female; Human; Joints/PP; Longitudinal Studies; Middle Age; Osteoarthritis/*DT/PP; Pain/PP; Piroxicam/AE/*TU; Sex Factors.
+.T
+A long-term evaluation of the treatment of osteoarthritis.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+In a study of the long-term safety and efficacy of piroxicam (20 mg daily) in the treatment of osteoarthritis, 30 female patients with a mean duration of more than seven years of treatment were evaluated. Despite having had poor or no response with other drug therapies, in the majority of cases in which piroxicam was used half of the patients (15 of 30) reported feeling very good or good at their last visit, 13 said they felt fair, and only two reported feeling poor or very poor in terms of their sense of well-being. The incidence of adverse events was somewhat less than one event per patient year of exposure, and 94 percent of adverse events were mild or moderate. Laboratory measurements of drug safety did not reveal any evidence of renal, hepatic, or hematologic toxicity. It is significant that patients were willing to commit themselves to long-term piroxicam therapy for at least five years after an initial trial and that they preferred to continue taking the drug rather than switch to alternative forms of therapy.
+.A
+Zizic TM; Sutton JD; Stevens MB.

@@ -1,0 +1,13 @@
+ 78
+.U
+87049348
+.S
+ASAIO Trans 8703; 32(1):410-3
+.M
+Animal; Blood Component Removal/*IS/MT; Cattle; Ceramics/*; Filtration; Hematocrit; Membranes, Artificial/*; Plasma/*; Support, Non-U.S. Gov't.
+.T
+Design of a plasma separator using ceramic membranes.
+.P
+JOURNAL ARTICLE.
+.A
+Sakurai H; Ozawa K; Takesawa S; Sakai K.

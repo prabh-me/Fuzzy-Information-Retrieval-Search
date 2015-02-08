@@ -1,0 +1,15 @@
+ 40058
+.U
+87077817
+.S
+Cancer 8704; 59(1):55-63
+.M
+Antibodies, Monoclonal; Antigens, Neoplasm/*AN; Fetus/IM; Fluorescent Antibody Technique; Histocytochemistry; Human; Melanoma/*IM/PA/SC; Neoplasm Staging; Neoplasms/IM; Prognosis; Skin Neoplasms/*IM/PA/SC; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tissue Distribution.
+.T
+Immunohistochemical detection of antigen in human primary and metastatic melanomas by the monoclonal antibody 140.240 and its possible prognostic significance.
+.P
+JOURNAL ARTICLE.
+.W
+An indirect immunofluorescence technique was used to study the tissue distribution of the epitope recognized by the monoclonal antibody 140.240 which identifies a p97-like melanoma-associated oncofetal antigen. Cryostat sections of various normal and neoplastic human tissues were examined. The presence of antigenic activity was demonstrated in 20 of 39 (51%) primary skin melanomas, in 21 of 52 (40%) metastatic melanomas, and in 20 of 44 (45%) nevi. The reactive nevi were restricted to intradermal, junctional, compound and spindle cell types. Of the 110 samples of 12 major tumor types other than melanoma tested, only 1 of 6 epidermoid tumors, 1 of 4 benign breast tumors and 1 of 5 prostatic tumors gave weak staining. This antibody also reacted with sweat glands and fetal small intestine tissue, but not with other adult or fetal normal tissues. Intrapatient as well as interpatient heterogeneity in the epitope expression was present in primary as well as metastatic tumor lesions surgically removed from patients with melanoma. Evaluation of the immunohistologic data and the clinical outcome of patients with melanoma reveals that the expression of the epitope recognized by this antibody is associated with a more favorable prognosis.
+.A
+Natali PG; Roberts JT; Difilippo F; Bigotti A; Dent PB; Ferrone S; Liao SK.

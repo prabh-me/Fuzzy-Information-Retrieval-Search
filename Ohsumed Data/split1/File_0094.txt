@@ -1,0 +1,15 @@
+ 39880
+.U
+87073213
+.S
+Am J Clin Nutr 8703; 44(6):718-24
+.M
+Adult; Basal Metabolism; Blood Glucose/ME; Caloric Intake; Eating Disorders/*ME; Energy Metabolism/*; Erythrocytes/ME; Female; Glucose Tolerance Test; Human; Hyperphagia/*ME; Insulin/BL; Male; Norepinephrine/PD; Support, U.S. Gov't, P.H.S.; Thyroxine/BL.
+.T
+Some metabolic effects of overeating in man.
+.P
+JOURNAL ARTICLE.
+.W
+Metabolic responses to 20 days of overeating were examined in five healthy volunteers. Overfeeding caused a variable increase (1-18%) in basal metabolic rate but no change in metabolic rate during light exercise. Postprandial resting metabolic rate was 8-40% higher (mean 18%) during overeating. The increase in oxygen consumption during a norepinephrine infusion was the same before (20 +/- 2%) and after (17 +/- 3%) overfeeding. Overfeeding elevated basal insulin concentrations in all subjects and increased the insulin response to intravenous glucose in four of five subjects. Overfeeding did not significantly alter mean serum T3 concentrations or erythrocyte 86Rb uptake (an index of Na+,K+-ATPase activity). These data do not confirm reports that overfeeding increases metabolic rate more during exercise than during rest. They also suggest that the increase in resting metabolic rate during overfeeding is not caused by increased responsiveness to norepinephrine or increased serum T3 concentrations.
+.A
+Welle SL; Seaton TB; Campbell RG.

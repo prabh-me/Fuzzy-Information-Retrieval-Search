@@ -1,0 +1,15 @@
+ 40129
+.U
+87079952
+.S
+Dig Dis Sci 8704; 32(1):45-9
+.M
+Adult; Cholecystokinin/*BL; Comparative Study; Corn Oil/PD; Female; Food Additives/PD; Food, Formulated/*; Gallbladder/AH/*PH; Human; Male; Pancreatic Polypeptide/*BL; Peristalsis; Radioimmunoassay; Support, Non-U.S. Gov't; Ultrasonography.
+.T
+Elemental diet stimulates gallbladder contraction and secretion of cholecystokinin and pancreatic polypeptide in man.
+.P
+JOURNAL ARTICLE.
+.W
+This study was undertaken to investigate the effect of ingestion of 80 g Vivonex on gallbladder volume, plasma cholecystokinin (CCK), and pancreatic polypeptide (PP) in eight healthy volunteers and to compare the results with those obtained after ingestion of 60 ml corn oil. Gallbladder volumes were measured by ultrasonography. Plasma CCK was determined by radioimmunoassay using region-specific antibodies; antibody 1703 binds to COOH-terminal CCK-peptides containing at least 14 amino acid residues, while antibody T204 binds to COOH-terminal CCK-peptides containing the sulfated tyrosine region. Plasma PP was also measured by radioimmunoassay. Ingestion of Vivonex induced significant increases in plasma CCK (0.6 +/- 0.1 to 4.6 +/- 0.6 pM, antibody 1703; 1.8 +/- 0.3 to 5.9 +/- 0.5 pM, antibody (T204; P less than or equal to 0.0005) and decreases in gallbladder volume (21.4 +/- 2.8 to 11.2 +/- 2.3 cm3; P = 0.0001). Integrated plasma CCK secretion and gallbladder contraction after Vivonex were not significantly different from the results found after corn oil. Both Vivonex and corn oil-induced small increases in plasma PP. We conclude that Vivonex is a potent stimulus for the secretion of CCK and contraction of the gallbladder.
+.A
+Hopman WP; de Jong AJ; Rosenbusch G; Jansen JB; Lamers CB.

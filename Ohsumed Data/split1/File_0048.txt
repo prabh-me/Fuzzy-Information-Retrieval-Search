@@ -1,0 +1,15 @@
+ 39834
+.U
+87071064
+.S
+Transplant Proc 8703; 18(6 Suppl 5):115-9
+.M
+Adult; Age Factors; Child; Cyclosporins/*ME/PD; Heart/*TR; Heart Transplantation/*; Human; Kidney/DE/*TR; Kidney Transplantation/*.
+.T
+Analysis of pharmacokinetic profiles in 232 renal and 87 cardiac allograft recipients treated with cyclosporine.
+.P
+JOURNAL ARTICLE.
+.W
+Analyses of cyclosporine (CsA)-related compounds (Cs) using the radioimmunoassay method were performed by 232 profiles in renal and 87 profiles in cardiac allograft recipients. Cardiac allograft recipients tended to have an increased, dose-corrected area under the concentration (AUC) v time curves after oral and, particularly, intravenous CsA administration, to display a slower drug clearance rate, and to have a slightly smaller volume of distribution. The impact of age, sex, hepatic impairment, nephrotoxicity, and concomitant corticosteroid dose could be discerned within the large number of studies in renal recipients. Only nephrotoxic cardiac transplant patients showed a significant alteration of increased AUC:dose and drug half-life compared with patients with normal renal function, a similar change to that observed in nephrotoxic renal transplant patients. Pediatric compared with adult renal recipients showed a threefold increased rate of mean drug clearance, namely 39.6 mL/min/kg in children v 12.3 mL/min/kg in adults, which may explain the almost 50% reduction in area under the plasma concentration curve v the time curve. There also appeared to be somewhat better oral absorption of CsA by children. Study of greater numbers of cardiac transplant recipients will be necessary to detect the subtle impact of demographic factors on pharmacokinetic parameters.
+.A
+Kahan BD; Kramer WG; Wideman CA; Frazier OH; Lorber MI; Williams C; Flechner SM; Cooley DA; Van Buren CT.

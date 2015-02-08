@@ -1,0 +1,15 @@
+ 22
+.U
+87049272
+.S
+ASAIO Trans 8703; 32(1):108-10
+.M
+Anaphylaxis; Cellulose/*AA/AN; Ethylene Oxide/AE/*AN; Hemodialysis/AE; Human; Kinetics; Membranes, Artificial/*; Sterilization.
+.T
+Extractable ethylene oxide from cuprammonium cellulose plate dialyzers: importance of potting compound.
+.P
+JOURNAL ARTICLE.
+.W
+Our results suggest that ethylene oxide retention after sterilization is increased in cuprammonium cellulose plate dialyzers containing potting compound. In contrast, cuprammonium cellulose plate dialyzers without potting compound were characterized by a rapid disappearance of retained ethylene oxide after sterilization. Whether these findings explain the low incidence of SARD with cuprammonium cellulose plate dialyzers that do not contain potting material is a matter for continued study and experimentation.
+.A
+Ing TS; Daugirdas JT.

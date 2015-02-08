@@ -1,0 +1,13 @@
+ 40119
+.U
+87079641
+.S
+Crit Care Med 8704; 15(1):82-3
+.M
+Human; Positive-Pressure Respiration; Prospective Studies/*; Respiratory Distress Syndrome, Adult/TH.
+.T
+Confirming the null hypothesis [editorial]
+.P
+EDITORIAL.
+.A
+Downs JB; Rasanen J.

@@ -1,0 +1,15 @@
+ 39959
+.U
+87074376
+.S
+Am Rev Respir Dis 8703; 134(6):1145-8
+.M
+Animal; Comparative Study; Drug Screening; Epoprostenol/BL; Germ-Free Life; Hemodynamics/DE; Hydrochloric Acid/*TO; Ibuprofen/*TU; Indomethacin/TU; Lung/DE/PP; Male; Pulmonary Edema/BL/CI/*PC; Rats; Rats, Inbred Strains; Smoke/*AE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Thromboxane B2/BL; 6-Ketoprostaglandin F1 alpha/BL.
+.T
+Ibuprofen prevents synthetic smoke-induced pulmonary edema.
+.P
+JOURNAL ARTICLE.
+.W
+Multiple potentially injurious agents are present in smoke but the importance of each of these agents in producing lung injury as well as the mechanisms by which the lung injury is produced are unknown. In order to study smoke inhalation injury, we developed a synthetic smoke composed of a carrier of hot carbon particles of known size to which a single known common toxic agent in smoke, in this case HCI, could be added. We then exposed rats to the smoke, assayed their blood for the metabolites of thromboxane and prostacyclin, and intervened shortly after smoke with the cyclooxygenase inhibitors indomethacin or ibuprofen to see if the resulting lung injury could be prevented. Smoke exposure produced mild pulmonary edema after 6 h with a wet-to-dry weight ratio of 5.6 +/- 0.2 SEM (n = 11) compared with the non-smoke-exposed control animals with a wet-to-dry weight ratio of 4.3 +/- 0.2 (n = 12), p less than 0.001. Thromboxane B, and 6-keto-prostaglandin F1 alpha rose to 1,660 +/- 250 pg/ml (p less than 0.01) and to 600 +/- 100 pg/ml (p greater than 0.1), respectively, in the smoke-injured animals compared with 770 +/- 150 pg/ml and 400 +/- 100 pg/ml in the non-smoke-exposed control animals. Indomethacin (n = 11) blocked the increase in both thromboxane and prostacyclin metabolites but failed to prevent lung edema.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Shinozawa Y; Hales C; Jung W; Burke J.

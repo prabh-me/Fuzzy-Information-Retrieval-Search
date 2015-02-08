@@ -1,0 +1,13 @@
+ 92
+.U
+87049369
+.S
+ASAIO Trans 8703; 32(1):495-9
+.M
+Aged; Blood/*; Blood Proteins/AN; Case Report; Cryoglobulins/*IP/ME; Female; Human; Immunoglobulins/AN; Sjogren's Syndrome/BL/*TH; Ultrafiltration/*/IS/MT.
+.T
+Clinical evaluation of a multilayered cryofilter for highly selective cryoglobulin removal.
+.P
+JOURNAL ARTICLE.
+.A
+Emura M; Horiuchi T; Malchesky PS; Goldcamp JB; Usami M; Sakamoto H; Matsushita M; Suzuki M; Nose Y.

@@ -1,0 +1,15 @@
+ 39835
+.U
+87071065
+.S
+Transplant Proc 8703; 18(6 Suppl 5):120-8
+.M
+Adolescence; Adult; Biological Availability; Cyclosporins/AD/*ME/PD; Female; Graft Rejection/DE; Human; Kidney/DE/*TR; Kidney Transplantation/*; Liver/DE; Male; Middle Age.
+.T
+Relationship of cyclosporine pharmacokinetic parameters to clinical events in human renal transplantation.
+.P
+JOURNAL ARTICLE.
+.W
+Serum trough levels in the early post-renal transplant course were set at 175 to 200 ng/mL in spite of a standard drug administration regimen by selecting once- v twice-daily dosing intervals, in order to attempt to compensate for differences in drug clearance rates, which might determine trough values. When pretransplant pharmacokinetic parameters were correlated with posttransplant events, patients dosed twice daily were at greater risk of rejection if they displayed a low AUC IV, a rapid CL, or a large Vd. On the other hand, once-daily-treated patients experienced infections if the AUC PO or Cmax was large or drug clearance was low. Patients treated twice daily displayed hepatotoxicity if their AUC IV was high and their Vd and CL low. Nephrotoxicity was seen in patients of both groups with high AUC IV and low CL. Comparison of pre- v posttransplant pharmacokinetic profiles correlated with rejection if the postoperative study showed a reduced Cmax and with hepatotoxicity if the AUC PO and F values were higher than preoperatively. The overall results suggested (although cadaver transplant outcome did not confirm) a lower incidence of rejection on the twice-daily compared with the once-daily regimen. There was no significant difference in the incidence of toxic complications between the groups. However, all of the patients who experienced nephrotoxicity during twice-daily therapy improved when converted to once-daily treatment. The present study suggests that specific values can be established for pharmacokinetic parameters, which would permit clinicians to individually tailor posttransplant immunosuppression to optimize the therapeutic effects of CsA.
+.A
+Savoldi S; Kahan BD.

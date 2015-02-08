@@ -1,0 +1,15 @@
+ 39928
+.U
+87073650
+.S
+Am J Pathol 8703; 125(2):221-5
+.M
+Animal; Histiocytes/*PA; Histocytochemistry; Hodgkin's Disease/PA; Human; Immunoenzyme Techniques; Interleukin-1/*BI; Lymph Nodes/PA; Lymphoma/*PA; Rabbits.
+.T
+Expression of interleukin-1 in Reed-Sternberg cells and neoplastic cells from true histiocytic malignancies.
+.P
+JOURNAL ARTICLE.
+.W
+Interleukin-1, a peptide produced by monocytes, histiocytes, and interdigitating reticulum cells, plays an important role in the regulation of immune function. In this styde, we examined the production of interleukin-1 in 115 patients with a variety of human lymphomas by using a rabbit anti-interleukin-1 antibody and the immunoperoxidase technique. Interleukin-1 was detected in Reed-Sternberg cells from 20 patients with Hodgkin's disease as well as in neoplastic cells from 9 patients with true histiocytic lymphoma or malignant histiocytosis. In the other 86 cases, which included T- and B-cell lymphomas, no interleukin-1 could be detected. This result indicates a close relationship between Hodgkin's disease and true histiocytic malignancies and provides additional evidence to support our hypothesis that Reed-Sternberg cells are related to interdigitating reticulum cells.
+.A
+Hsu SM; Zhao X.

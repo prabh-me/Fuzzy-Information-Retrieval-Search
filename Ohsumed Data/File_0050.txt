@@ -1,0 +1,15 @@
+ 49
+.U
+87049306
+.S
+ASAIO Trans 8703; 32(1):242-7
+.M
+Animal; Assisted Circulation/*; Blood Chemical Analysis; Body Temperature; Cattle; Evaluation Studies; Heart-Assist Devices/*; Human; Implants, Artificial; Prosthesis Design; Respiration; Support, U.S. Gov't, P.H.S..
+.T
+In vivo evaluation of a permanently implantable thermal ventricular assist system.
+.P
+JOURNAL ARTICLE.
+.W
+The System 7 pump/actuator/engine combination has demonstrated biologic compatibility and physiologic effectiveness and responsiveness in five TVAS in vivo studies. The recent 75-day implant supports the feasibility of extended reliability of the system components. Postoperative system maintenance was necessary only because of the nonhermetic design of System 7. However, the ability to pump 11 l/min at 120 beats/min, synchronize at beat rates of 144 beats/min, and pump against mean arterial pressures of more than 150 mmHg while maintaining hematologic and biochemical values within physiologic range sets a very optimistic stage for System 8 hardware. A System 8 concept is shown in Figure 14. The System 8 hardware will include a thermal salt package capable of providing completely untethered circulatory support for a nominal 8-h period. Recharge will be accomplished with a transcutaneous transformer in 1 h. Thermal management problems become minimal, with an average energy input of 15.8 W (peak of 24.9 W). The human preclinical testing of System 8 will start in 1988.
+.A
+Sugita Y; Navarro RR; White M; Whalen R; Kiraly RJ; Harasaki H; Nose Y.

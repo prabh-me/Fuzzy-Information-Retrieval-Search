@@ -1,0 +1,15 @@
+ 40028
+.U
+87076946
+.S
+Blood 8704; 69(1):165-72
+.M
+Animal; Antibodies, Monoclonal/DU; Bone Marrow/CY/*IM/TR; Bone Marrow Transplantation; Cell Separation; Colony-Forming Units Assay; Dogs/*IM; Flow Cytometry; Granulocytes/IM; Hematopoietic Stem Cells/*IM; Histocompatibility Antigens Class II/*AN; Human; Monocytes/IM; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S.; Whole-Body Irradiation.
+.T
+Canine pluripotent hematopoietic stem cells and CFU-GM express Ia-like antigens as recognized by two different class II-specific monoclonal antibodies.
+.P
+JOURNAL ARTICLE.
+.W
+A previous study showed failure of autologous engraftment in lethally irradiated dogs when marrow was treated before infusion with anti-class II antibody 7.2 and complement. The current study extended this observation to a second monoclonal antibody (HB10a) that identifies a different determinant on Ia-like molecules. These results suggest the presence of Ia-like antigens on pluripotent hematopoietic stem cells or on "accessory cells" needed for sustained engraftment to occur. To distinguish between these two possibilities, stem cell-depleted Ia-positive peripheral blood leukocytes obtained by discontinuous albumin density gradient were added as probable source of accessory cells to the marrow inoculum that was depleted of Ia-positive cells by treatment with antibody 7.2 and complement. Eight of ten dogs failed to show engraftment, providing further support for the hypothesis that pluripotent stem cells and not accessory cells were affected by cytolytic treatment. To provide direct evidence for the presence of Ia-like antigens on canine pluripotent hematopoietic stem cells, autologous transplants were performed using 0.7 to 13 X 10(6) Ia (7.2)-positive marrow cells per kg obtained with the help of fluorescence-activated cell sorter. Of three evaluable dogs, two showed sustained and complete engraftment, indicating that Ia-like antigens, as recognized by anti-class II antibody 7.2, are expressed at least on part of canine pluripotent hematopoietic stem cells. Concurrent in vitro studies revealed that canine CFU-GM also expressed Ia-like antigens as recognized by the class II-specific monoclonal antibodies 7.2 and HB10a.
+.A
+Schuening F; Storb R; Goehle S; Meyer J; Graham T; Deeg HJ; Pesando J.

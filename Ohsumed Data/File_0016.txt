@@ -1,0 +1,15 @@
+ 15
+.U
+87049104
+.S
+Am J Emerg Med 8703; 4(6):552-3
+.M
+Adolescence; Atropine/*TU; Baclofen/*PO; Bradycardia/CI/*DT; Case Report; Human; Hypotension/CI/*DT; Male.
+.T
+Atropine in the treatment of baclofen overdose.
+.P
+JOURNAL ARTICLE.
+.W
+A patient suffering baclofen overdose successfully treated with atropine is reported. Three hours after admission for ingestion of at least 300 mg baclofen as a single dose, the patient became comatose and subsequently bradycardic, hypotensive, and hypothermic. A prompt increase in heart rate and blood pressure followed administration of 1 mg of atropine sulfate. Atropine appears to be useful in treating cases of baclofen overdose complicated by bradycardia and hypotension.
+.A
+Cohen MB; Gailey RA; McCoy GC.

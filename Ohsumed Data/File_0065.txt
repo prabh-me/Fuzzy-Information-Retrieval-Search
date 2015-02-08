@@ -1,0 +1,13 @@
+ 64
+.U
+87049325
+.S
+ASAIO Trans 8703; 32(1):327-9
+.M
+Animal; Aorta/*RE/UL; Coronary Vessels/*RE/UL; Dose-Response Relationship, Radiation; Heat; Human; Lasers/*; Microscopy, Electron; Rabbits; Ultraviolet Rays/*.
+.T
+Thermal effects of far ultraviolet excimer laser radiation on biologic tissue.
+.P
+JOURNAL ARTICLE.
+.A
+Wollenek G; Laufer G.

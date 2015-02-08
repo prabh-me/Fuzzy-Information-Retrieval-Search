@@ -1,0 +1,15 @@
+ 40010
+.U
+87075164
+.S
+Ann Thorac Surg 8703; 42(6 Suppl):S48-55
+.M
+Filtration/*IS; Human; Pulmonary Embolism/ET/*PC; Thrombophlebitis/CO; Vena Cava, Inferior/*SU.
+.T
+Greenfield vena caval filter: rationale and current indications.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Prevention is the best therapy for deep venous thrombosis, but when this fails, prompt diagnosis and appropriate treatment can usually avoid lethal pulmonary embolism. Anticoagulation is the preferred treatment for thromboembolic disease because it prevents lethal pulmonary embolism and also arrests the underlying thrombotic process. However, in specific patients with documented pulmonary embolism or deep venous thrombosis, or who are at high risk that either of these will develop, anticoagulation therapy may be contraindicated, may fail to control the thrombotic process, or may offer inadequate protection from lethal pulmonary embolism. In these instances, or when a previous mechanical attempt has failed to prevent pulmonary embolism from a caval source, a Greenfield filter should be considered. The available information on the natural history of patients in these specific categories and subcategories is reviewed, and the indications for and timing of Greenfield filter placement are explained.
+.A
+Jones TK; Barnes RW; Greenfield LJ.

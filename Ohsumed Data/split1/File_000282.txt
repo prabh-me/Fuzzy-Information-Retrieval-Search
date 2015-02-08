@@ -1,0 +1,15 @@
+ 40068
+.U
+87078382
+.S
+Cathet Cardiovasc Diagn 8704; 12(5):347-51
+.M
+Angiography/*; Clinical Trials; Comparative Study; Coronary Vessels/*RA; Female; Heart Catheterization/*IS; Human; Male; Middle Age; Prospective Studies; Random Allocation.
+.T
+Clinical evaluation of soft-tipped catheters for coronary angiography.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+New soft-tipped Judkins catheters for coronary angiography were compared with conventional femoral catheters for coronary angiography in a randomized, controlled fashion with cross-over exchange of catheters when problems occurred. The problems encountered with a first generation of soft-tipped catheters (n = 113) versus conventional catheters (n = 103) were as follows: difficult introduction 27% versus 1% (p less than 0.01), difficult placement 13% versus 8% (not significant), difficult aspiration 4% versus 0% (p less than 0.05), wedging 5% versus 0% (p less than 0.05), spasm 3% versus 0% (not significant), overselectivity 7% versus 2% (not significant), cross-over necessary and successful 18% versus 1% (p less than 0.01). Problems with a second generation of soft-tipped catheters (n = 200), modified according to the experience gathered from the first generation, versus conventional catheters (n = 194) were as follows: difficult placement 10% versus 7%, difficult aspiration 2% versus 0.5%, wedging 2% versus 1%, spasm 1% versus 0%, overselectivity 3% versus 2%, ventricular fibrillation 1.5% versus 0%, cross-over necessary and successful 3% versus 2%. None of the differences attained statistical significance. The performance of soft-tipped catheters for coronary angiography was inferior for the first generation but comparable for the second generation to that of conventional catheters. In terms of safety, soft-tipped catheters were not superior on the basis of our criteria.
+.A
+Finci L; Meier B; Steffenino G; Rutishauser W.

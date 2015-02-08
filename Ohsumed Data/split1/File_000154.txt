@@ -1,0 +1,15 @@
+ 39940
+.U
+87073927
+.S
+Am J Trop Med Hyg 8703; 35(6):1077-99
+.M
+Animal; Chimpansee troglodytes; Chloroquine/TU; Female; Human; Macaca mulatta/PS; Malaria/DT/*PS; Male; Plasmodium/DE/GD; Plasmodium vivax; Recurrence; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Time Factors.
+.T
+Compatibility of relapse patterns of Plasmodium cynomolgi infections in rhesus monkeys with continuous cyclical development and hypnozoite concepts of relapse.
+.P
+JOURNAL ARTICLE.
+.W
+This report encompasses the results of two studies on the relapse patterns of infections with the B strain of Plasmodium cynomolgi treated repetitively with chloroquine. One study of sizeable dimensions dealt primarily with relapses that occurred within 120 days of onset of patency in infections induced with inocula of 10(5) to 7 X 10(6) sporozoites. The second study, of more limited dimensions, dealt with relapses that occurred over a 689-day period after inoculation with 5 X 10(0) to 5 X 10(6) sporozoites. Both studies showed that with few exceptions relapses occurred at relatively regularly spaced intervals. The second study showed that frequency of relapse was related directly to the size of the sporozoite inoculum and inversely to the age of the infection; also that an inoculum larger than the minimum infective dose was required for relapse. Attempted correlation of these observations with the new and generally accepted hypnozoite concept of relapse uncovered two areas of serious incompatibility and numerous defects in the experimental base of this conceptualization. With limited provisos, the relapse patterns of infections with P. cynomolgi are fully compatible with the older cyclical development concept. The results of this study argue for caution in discarding this concept and for continuation of efforts to determine the genesis of the extended post-primary attack latent period that characterizes infections with the majority of strains of P. vivax.
+.A
+Schmidt LH.

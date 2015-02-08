@@ -1,0 +1,15 @@
+ 40005
+.U
+87075149
+.S
+Ann Thorac Surg 8703; 42(6):708-10
+.M
+Human; Internal Mammary-Coronary Artery Anastomosis/*MT; Mammary Arteries/*TR; Myocardial Revascularization/*MT; Suture Techniques; Thoracic Arteries/*TR.
+.T
+Harvesting, routing, and anastomosing the left internal mammary artery graft.
+.P
+JOURNAL ARTICLE.
+.W
+A technique to harvest, intrapleurally route, and anastomose the left internal mammary artery is described.
+.A
+Pacifico AD; Sears NJ; Burgos C.

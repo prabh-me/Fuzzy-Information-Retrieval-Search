@@ -1,0 +1,15 @@
+ 40044
+.U
+87077408
+.S
+Brain 8704; 109 ( Pt 6):1261-77
+.M
+Antibodies, Monoclonal/DU; Antigens, Surface/*AN; Cells, Cultured; Cerebral Cortex/CY; Fluorescent Antibody Technique; Glial Fibrillary Acidic Protein/*AN; Histocytochemistry; Human; Neuroglia/AN/CL/*PH; Optic Nerve/CY.
+.T
+Studies on the development, antigenic phenotype and function of human glial cells in tissue culture.
+.P
+JOURNAL ARTICLE.
+.W
+Cell type-specific neural markers and indirect immunofluorescence were used to study the antigenic phenotype, development and function of astrocytes and oligodendrocytes in dissociated cell cultures of human fetal optic nerve and cerebral cortex. It was found that (1) two populations of GFAP+ astrocytes could be distinguished in optic nerve cultures using the A2B5 monoclonal antibody; (2) the proportion of A2B5+ astrocytes and of oligodendrocytes which developed in optic nerve cultures was dependent on the tissue culture medium; (3) A2B5+ cells were required for the development of galactocerebroside+ oligodendrocytes and at least some GFAP+A2B5+ astrocytes; (4) astrocytes purified from cerebral cortex were A2B5- and NCAM+; and (5) astrocytes supported the unfasciculated growth of rat CNS neurons. These results demonstrate close similarities between cultured rat and human neural cells. Such observations are likely to be of significance in future studies of the developing human nervous system and of a variety of neurological diseases.
+.A
+Kennedy PG; Fok-Seang J.

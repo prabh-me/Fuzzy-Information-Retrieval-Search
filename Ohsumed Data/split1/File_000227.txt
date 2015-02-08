@@ -1,0 +1,15 @@
+ 40013
+.U
+87076103
+.S
+Arch Otolaryngol Head Neck Surg 8704; 113(1):84-9
+.M
+Adult; Bone and Bones/*TR; Bone Transplantation/*; Case Report; Frontal Bone/*SU; Human; Male; Skull/TR; Surgery, Plastic/*MT; Transplantation, Autologous/*MT.
+.T
+Split calvarium cranioplasty.
+.P
+JOURNAL ARTICLE.
+.W
+Fronto-orbital deformities secondary to trauma, infection, or surgery create a difficult problem for the reconstructive surgeon. The location of the deformity is particularly critical because it involves the most visible part of the face. Since the skull is rarely able to produce bony regeneration over large areas, numerous alloplastic materials have been used to repair these defects. Complications with these materials are commonplace. Autogenous bone has been used with good results and avoids many of the problems inherent to the use of foreign materials. Rib, scapula, and iliac crest may be used, but they require a separate incision and often provide less than satisfactory cosmetic results. We describe a technique of cranioplasty utilizing split calvarium for repair of frontal bone defects. Cosmesis is excellent, morbidity is minimal, and only one incision is necessary.
+.A
+Weber RS; Kearns DB; Smith RJ.

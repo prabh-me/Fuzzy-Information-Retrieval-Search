@@ -1,0 +1,15 @@
+ 40100
+.U
+87079255
+.S
+Clin Perinatol 8704; 13(4):827-42
+.M
+Blood Specimen Collection; Colloids/*; Female; Fluid Therapy; Human; Hypertension/PP; Labor, Premature/DT; Osmotic Pressure/*; Pre-Eclampsia/PP; Pregnancy; Pregnancy Complications/*PP/TH; Pregnancy Complications, Cardiovascular/PP; Puerperium; Reference Values.
+.T
+The use of colloid osmotic pressure in pregnancy.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The intravascular and interstitial colloid osmotic pressure represent two important Starling forces. Pregnancy, betamimetic therapy, preeclampsia, and a variety of other factors can affect these forces. Although controversial, the normalization of colloid osmotic pressure in various disease states may prove beneficial to the patient.
+.A
+Moise KJ Jr; Cotton DB.

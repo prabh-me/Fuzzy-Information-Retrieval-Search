@@ -1,0 +1,15 @@
+ 40081
+.U
+87078787
+.S
+Circulation 8704; 75(1 Pt 2):I134-6
+.M
+Animal; Male; Mice; Mice, Inbred Strains; Myocardium/*ME; Rats; Rats, Inbred WKY; Renin/*ME; Renin-Angiotensin System; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Evidence for the existence of renin in the heart.
+.P
+JOURNAL ARTICLE.
+.W
+Renin and other components of the renin-angiotensin system have been reported to be present in many extrarenal tissues. We have detected reninlike activities in mouse and rat hearts. Cardiac renin has a pH optimum similar to that of renal renin and its activity is inhibited by antirenin antibody. This enzyme is synthesized in the heart, based on the following evidence: renin messenger RNA was detected in mouse heart by Northern blot hybridization and renin activity was found in isolated cardiac myocytes. Nifedipine lowered the intracellular renin activity of isolated cardiac myocytes in vitro. These results demonstrate the existence of a cardiac renin system that may play a local regulatory role on cardiac function.
+.A
+Dzau VJ; Re RN.

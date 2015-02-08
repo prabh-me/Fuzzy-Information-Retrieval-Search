@@ -1,0 +1,13 @@
+ 39842
+.U
+87071074
+.S
+Transplant Proc 8703; 18(6 Suppl 5):194-9
+.M
+Adolescence; Adult; Age Factors; Bone Marrow/TR; Bone Marrow Transplantation; Child; Child, Preschool; Cyclosporins/*AD/BL/ME; Female; Human; Infant; Male.
+.T
+A safer approach to the clinical use of cyclosporine: the predose calculation.
+.P
+JOURNAL ARTICLE.
+.A
+Lokiec F; Fischer A; Gluckman E.

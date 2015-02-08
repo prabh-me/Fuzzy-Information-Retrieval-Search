@@ -1,0 +1,13 @@
+ 40120
+.U
+87079669
+.S
+Curr Probl Cardiol 8704; 11(11):617-64
+.M
+Endocarditis/DI/*ET/MI/PA/TH; Heart Valve Prosthesis/*AE; Human; Postoperative Complications/*; Prognosis; Support, Non-U.S. Gov't.
+.T
+Prosthetic valve endocarditis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Cowgill LD; Addonizio VP; Hopeman AR; Harken AH.

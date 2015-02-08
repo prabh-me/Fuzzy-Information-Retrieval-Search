@@ -1,0 +1,13 @@
+ 34
+.U
+87049286
+.S
+ASAIO Trans 8703; 32(1):157-62
+.M
+Acrylic Resins/*; Electrochemistry; Implants, Artificial/*; Kinetics; Muscle Contraction; Muscles/PH; Povidone/*.
+.T
+Contractile behavior of electrically activated mechanochemical polymer actuators.
+.P
+JOURNAL ARTICLE.
+.A
+De Rossi DE; Chiarelli P; Buzzigoli G; Domenici C; Lazzeri L.

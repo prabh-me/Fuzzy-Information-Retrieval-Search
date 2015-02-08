@@ -1,0 +1,15 @@
+ 39867
+.U
+87073038
+.S
+AJR Am J Roentgenol 8703; 148(1):161-4
+.M
+Abruptio Placentae/*DI; Female; Hematoma/DI; Human; Pregnancy; Retrospective Studies; Ultrasonography/*.
+.T
+Sonographic spectrum of placental abruption.
+.P
+JOURNAL ARTICLE.
+.W
+Fifty-seven cases of placental abruption detected by sonography were retrospectively reviewed. The location of hemorrhage was subchorionic in 46 cases (81%), retroplacental in nine cases (16%), and preplacental in two cases (4%). Subchorionic hematomas were more frequently shown in the 33 patients presenting before 20 menstrual weeks (91%) than in the 24 patients presenting after 20 weeks (67%). The echogenicity of hemorrhage depended on the time the sonogram was performed relative to the onset of symptoms: Acute hemorrhage was hyperechoic to isoechoic compared with the placenta, while resolving hematomas became hypoechoic within 1 week and sonolucent within 2 weeks. Acute hemorrhage was occasionally difficult to distinguish from the adjacent placenta. This occurred in five retroplacental hematomas that showed only an abnormally thick and heterogeneous placenta. Nine cases of placental abruption were initially confused with other mass lesions. Placental abruption causes a wide spectrum of sonographic findings that may be overlooked or misdiagnosed.
+.A
+Nyberg DA; Cyr DR; Mack LA; Wilson DA; Shuman WP.

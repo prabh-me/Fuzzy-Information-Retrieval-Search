@@ -1,0 +1,15 @@
+ 39836
+.U
+87071066
+.S
+Transplant Proc 8703; 18(6 Suppl 5):129-36
+.M
+Adult; Animal; Biological Availability; Child; Chromatography, High Pressure Liquid/*; Cyclosporins/BL/*ME; Female; Heart/*TR; Heart Transplantation/*; Human; Kidney/*TR; Kidney Transplantation/*; Liver/*TR; Liver Transplantation/*; Male; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Cyclosporine pharmacokinetic profiles in liver, heart, and kidney transplant patients as determined by high-performance liquid chromatography.
+.P
+JOURNAL ARTICLE.
+.W
+Cs pharmacokinetic profiles using HPLC have aided in predicting necessary dosage alterations for specific groups of transplant patients. Additional information has been gained by HPLC profiles in nontransplant subjects who are healthy or have a stable disease state. The clinician now knows that liver disease not only impairs Cs elimination but may also have a pronounced effect upon drug absorption. While the cardiac failure patient may have reversible inhibition of Cs clearance, other factors may affect the distribution of the drug to lower dosage requirements. Impaired renal function is not an impediment to Cs elimination, but malabsorption similar to that observed in liver and bone marrow transplant patients may still occasionally complicate therapy. Pharmacokinetic information on Cs must be integrated into the complex care plan of a transplant patient to optimally utilize and monitor this pharmacologic agent.
+.A
+Burckart GJ; Venkataramanan R; Ptachcinski RJ; Starzl TE; Griffith BP; Hakala TR; Rosenthal JT; Hardesty RL; Iwatsuki S; Brady J; et al.

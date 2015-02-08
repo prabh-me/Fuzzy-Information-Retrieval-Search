@@ -1,0 +1,13 @@
+ 70
+.U
+87049337
+.S
+ASAIO Trans 8703; 32(1):370-3
+.M
+Adult; Aged; Aluminum/*TU; Blood/*; Female; Follow-Up Studies; Hematocrit; Hemodialysis/*; Human; Kidney Failure, Chronic/*BL/TH; Male; Middle Age; Phosphates/*BL; Support, Non-U.S. Gov't; Ultrafiltration/*.
+.T
+Reduction in aluminum load after one year of hemodiafiltration.
+.P
+JOURNAL ARTICLE.
+.A
+Ahmad S; Vizzo JE; Scribner BH.

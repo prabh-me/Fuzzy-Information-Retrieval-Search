@@ -1,0 +1,15 @@
+ 40102
+.U
+87079257
+.S
+Clin Perinatol 8704; 13(4):853-68
+.M
+Anemia, Sickle Cell/DI/DT/ET/PP/*TH; Diagnosis, Differential; Female; Human; Pregnancy; Pregnancy Complications, Hematologic/*; Prenatal Care; Puerperium; Support, Non-U.S. Gov't.
+.T
+Acute management of sickle cell crisis in pregnancy.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Vaso-occlusive sickle cell crisis (VSCC) is the most common maternal complication in pregnancies associated with sickle hemoglobinopathies. Maternal and fetal morbidity and mortality secondary to this serious obstetric problem can be reduced significantly with a well-devised therapeutic plan, expert perinatal teams, and careful attention to obstetric and medical detail in a setting of comprehensive tertiary health care. A variety of better medical, obstetric, and neonatal care practices have helped considerably to improve the combined life span for affected mothers and fetuses. In the absence of any effective and safe pharmacologic agent to prevent sickle crisis, our experience suggests that adherence to the described management principles offers the greatest hope to the sickling parturient that her vaso-occlusive crises can be effectively managed for a healthy outcome, both for herself and for her baby.
+.A
+Martin JN Jr; Martin RW; Morrison JC.

@@ -1,0 +1,13 @@
+ 39877
+.U
+87073169
+.S
+Am Heart J 8703; 112(6):1362-3
+.M
+Aged; Human; Hypertension/CO/*EP; Risk; Systole.
+.T
+Prevalence, incidence, and hazards of hypertension in the elderly.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Kannel WB.

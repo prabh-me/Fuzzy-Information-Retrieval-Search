@@ -1,0 +1,15 @@
+ 5
+.U
+87049092
+.S
+Am J Emerg Med 8703; 4(6):511-3
+.M
+Aged; Aged, 80 and over; Case Report; Female; Human; Intubation, Gastrointestinal/*AE; Pneumothorax/*ET/RA/TH; Suicide, Attempted.
+.T
+Nasogastric intubation: morbidity in an asymptomatic patient.
+.P
+JOURNAL ARTICLE.
+.W
+An unusual case of a misdirected nasogastric tube is described. An elderly woman was brought to an emergency department following intentional drug overdose. Initially unrecognized errant placement of a large-bore nasogastric tube resulted in tension pneumothorax, pneumonia, and subsequent death. Pertinent medical literature is reviewed, clinical considerations for the elderly patient are discussed, and suggestions for proper nasogastric tube placement are offered.
+.A
+Gough D; Rust D.

@@ -1,0 +1,15 @@
+ 39964
+.U
+87074442
+.S
+Ann Intern Med 8703; 106(1):1-7
+.M
+Acute Disease; Administration, Oral; Adolescence; Adult; Aged; Agranulocytosis/CI/*CO; Antineoplastic Agents/AE; Bacteria, Aerobic/DE; Bacterial Infections/*PC; Clinical Trials; Double-Blind Method; Drug Resistance, Microbial; Gastrointestinal System/MI; Human; Leukemia, Lymphocytic/*CO; Leukemia, Myelocytic, Acute/*CO; Middle Age; Mycoses/PC; Norfloxacin/*TU; Prospective Studies; Random Allocation; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Oral norfloxacin for prevention of gram-negative bacterial infections in patients with acute leukemia and granulocytopenia. A randomized, double-blind, placebo-controlled trial.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+We evaluated the effect of norfloxacin, 400 mg given orally every 12 hours, on the prevention of bacterial infections in 68 adult patients who had acute leukemia throughout prolonged courses of granulocytopenia (median, 32 days). Gram-negative infections were documented in 13 of the 33 patients receiving placebo, but only in 4 of the 35 patients receiving norfloxacin; no effect on the frequency of gram-positive or fungal infections was noted. Norfloxacin administration resulted in the suppression of gastrointestinal tract colonization by aerobic bacteria without the development of norfloxacin resistance. Patients receiving norfloxacin developed first infectious fevers later than did those receiving placebo, had more rapid resolution of that fever after systemic antibiotic treatment, and spent less time febrile. Therefore, although no difference was seen in survival duration, we found that the prophylactic administration of oral norfloxacin led to decreases in overall morbidity and gram-negative infections, was well tolerated, and did not predispose to the development of multiply drug-resistant bacteria.
+.A
+Karp JE; Merz WG; Hendricksen C; Laughon B; Redden T; Bamberger BJ; Bartlett JG; Saral R; Burke PJ.

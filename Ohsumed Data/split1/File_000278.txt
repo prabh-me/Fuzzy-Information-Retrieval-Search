@@ -1,0 +1,15 @@
+ 40064
+.U
+87077840
+.S
+Cancer 8704; 59(3):477-83
+.M
+Aged; Autopsy; Calcitonin/AN; Female; Human; Hyperplasia/PA; Immunoenzyme Techniques; Keratin/AN; Male; Middle Age; Thyroglobulin/AN; Thyroid Gland/AN/*PA; Thyroxine/AN.
+.T
+Immunohistochemical study of solid cell nests of the thyroid gland found from an autopsy study.
+.P
+JOURNAL ARTICLE.
+.W
+An immunohistochemical study was performed to identify the histogenesis of solid cell nests (SCN) found in 30 of 202 thyroids obtained at autopsy. Immunoperoxidase staining was used to detect the presence of calcitonin, thyroglobulin, thyroxin, low and high molecular weight keratins, and carcinoembryonic antigen (CEA). Results showed that cells forming solid nests had immunoreactivity for calcitonin, low molecular weight keratin, and CEA, but not for thyroglobulin, thyroxin and high molecular weight keratin. Thus, SCN do not result from tangentially cut thyroid follicles (absence of staining for thyroglobulin and thyroxin), nor from a squamous metaplastic process (absence of staining for high molecular weight keratin), but instead they are formed by C-cells because they showed calcitonin immunoreactivity, and neurosecretory granules.
+.A
+Autelitano F; Santeusanio G; Di Tondo U; Costantino AM; Renda F; Autelitano M.

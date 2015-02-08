@@ -1,0 +1,15 @@
+ 40060
+.U
+87077820
+.S
+Cancer 8704; 59(1):69-76
+.M
+Case Report; Cerebellar Neoplasms/*PA/RT/SU; Child; Female; Ganglioneuroma/*PA/SU; Histocytochemistry; Human; Immunoenzyme Techniques; Melanosis/*PA/SU; Microscopy, Electron; Neoplasm Recurrence, Local/SU; Neuroblastoma/*PA/RT/SU; Reoperation; Tomography, X-Ray Computed.
+.T
+Maturation of cerebellar neuroblastoma into ganglioneuroma with melanosis. A histologic, immunocytochemical, and ultrastructural study.
+.P
+JOURNAL ARTICLE.
+.W
+A ganglioneuroma with areas of melanosis was resected from the cerebellum of a 6.5-year-old girl. At 2.5 years of age, she was diagnosed to have cerebellar neuroblastoma, which was incompletely resected and then radiated. Histologic, ultrastructural, and immunocytochemical studies undertaken on tissue from both stages of the tumor demonstrated a neuroblastic origin and differentiation into a predominantly neuronal tumor with limited astroglial participation. In addition, widespread deposition of basal lamina material, perineuronal distribution of S-100 protein-bearing cells and melanosis were found. The various features and unusual biology of the tumor are discussed in the light of a review of the literature.
+.A
+de Chadarevian JP; Montes JL; O'Gorman AM; Freeman CR.

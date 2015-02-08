@@ -1,0 +1,15 @@
+ 39957
+.U
+87074282
+.S
+Angiology 8703; 37(11):855-62
+.M
+Adrenergic Beta Receptor Agonists/*TU; Adrenergic Beta Receptor Blockaders/*TU; Adult; Aged; Blood Pressure/DE; Catecholamines/BL; Clinical Trials; Comparative Study; Diabetes Mellitus, Insulin-Dependent/*CO; Double-Blind Method; Female; Heart Rate/DE; Human; Hypotension, Orthostatic/*DT; Male; Middle Age; Posture; Random Allocation.
+.T
+Effects of beta adrenergic receptor agonists and antagonists in diabetics with symptoms of postural hypotension: a double-blind, placebo-controlled study.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Eleven patients with hyperadrenergic diabetic postural hypotension and vagal neuropathy were treated in a double-blind, placebo-controlled study with different beta-agonists and antagonists. A single dose of the beta 2-agonist terbutaline (5 mg) and the beta 1 + 2-agonist orciprenaline (10 mg) did not reduce the fall in systolic pressure on standing up, despite a significant increase in both supine and standing heart rates. The beta 1-antagonist with intrinsic sympathicomimetic activity (ISA) acebutolol (200 mg) and the beta 1-antagonist metoprolol (50 mg) did not influence the fall in systolic pressure either, despite a significant decrease in supine and standing heart rates and disappearance of increase in heart rate on standing up. Only the beta 1 + 2-antagonist propranolol and the beta 1 + 2-antagonist with ISA pindolol (5 mg) could significantly reduce or practically abolish the fall in systolic and diastolic pressure on standing up. This was accompanied by a slight decrease of heart rates and disappearance of difference between supine and standing heart rates, as seen with the other beta-antagonists. Thus, only beta 2-blockade reduced or abolished the fall in systolic pressure on standing up in our patients. These data were confirmed by a three-week crossover trial in 10 of these patients.
+.A
+Cleophas TJ; Kauw FH; Bijl C; Meijers J; Stapper G.

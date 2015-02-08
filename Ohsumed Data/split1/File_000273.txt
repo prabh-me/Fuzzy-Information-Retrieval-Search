@@ -1,0 +1,15 @@
+ 40059
+.U
+87077819
+.S
+Cancer 8704; 59(1):64-8
+.M
+alpha 1-Antichymotrypsin/*AN; alpha 1-Antitrypsin/*AN; Cherubism/ME; Giant Cell Tumors/*ME; Granuloma, Giant Cell/ME; Histocytochemistry; Human; Immunoenzyme Techniques; Macrophages/ME; Muramidase/*AN; Nerve Tissue Protein S 100/*AN; Osteitis Fibrosa Cystica/ME; Tendons/ME.
+.T
+Muramidase, alpha-1 antitrypsin, alpha-1 antichymotrypsin, and S-100 protein immunoreactivity in giant cell lesions.
+.P
+JOURNAL ARTICLE.
+.W
+A spectrum of giant cell lesions was evaluated for muramidase, alpha-1 antitrypsin, alpha-1 antichymotrypsin, and S-100 protein immunoreactivity using an avidin-biotin-complex immunoperoxidase method. Peripheral giant cell granuloma, central giant cell granuloma, giant cell tumor, osteitis fibrosa cystica, cherubism, and giant cell tumor of tendon sheath showed similar patterns of reactivity. Granulomatous inflammatory lesions stained more intensely for muramidase than did noninflammatory lesions. Alpha-1-antichymotrypsin was a slightly better marker of giant cell lesions than was alpha-1-antitrypsin. Positive S-100 protein staining in half the lesions was thought to be due to the presence of Langerhans cells. The results supported the belief that giant cell lesions of bone and tendon sheath are differentiated toward cells of the mononuclear-phagocyte system and that multinucleated giant cells are derived from macrophages.
+.A
+Regezi JA; Zarbo RJ; Lloyd RV.

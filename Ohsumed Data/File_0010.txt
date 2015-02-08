@@ -1,0 +1,15 @@
+ 9
+.U
+87049098
+.S
+Am J Emerg Med 8703; 4(6):532-6
+.M
+Alcohol Drinking; Case Report; Emergencies; Esophageal Diseases/CO/*DI/SU; Human; Male; Middle Age; Rupture, Spontaneous; Syndrome; Vomiting/ET.
+.T
+Boerhaave's syndrome: an elusive diagnosis.
+.P
+JOURNAL ARTICLE.
+.W
+Boerhaave's syndrome represents a diagnostic dilemma for the emergency physician. The prognosis of this truly life-threatening emergency is darkened by any significant diagnostic delay. Unfortunately, classic or expected symptoms and signs are frequently absent at presentation, a circumstance that leads to frequent misdiagnosis. Two cases of Boerhaave's syndrome with "atypical" clinical presentations are reviewed and discussed. It is clear that Boerhaave's syndrome should always be suspected in the evaluation of any sudden chest, abdominal, or back pain associated with emesis. However, emphasis should be placed on the fact that this entity may occur without emesis. The chest radiograph is the most helpful diagnostic aid. Undoubtedly, maintenance of a high degree of suspicion by the emergency physician for Boerhaave's syndrome will lead consistently to earlier diagnosis, and subsequent aggressive intervention should result in considerable reduction in rates of both morbidity and mortality.
+.A
+Schwartz JA; Turnbull TL; Dymowski J; Uehara DT.

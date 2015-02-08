@@ -1,0 +1,15 @@
+ 39869
+.U
+87073051
+.S
+AJR Am J Roentgenol 8703; 148(1):209-18
+.M
+Adolescence; Angioma, Sclerosing/DI/*TH; Embolization, Therapeutic/*; Epistaxis/DI/*TH; Human; Male; Nasopharyngeal Neoplasms/DI/*TH.
+.T
+Embolization of epistaxis and juvenile nasopharyngeal angiofibromas.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+This article reviews arterial embolization of epistaxis and juvenile nasopharyngeal angiofibromas. A protocol for the complete and rapid exploration of epistaxis is suggested that is based upon which arteries providing blood to the nasal fossa may be responsible for the bleeding and the most optimal way for their demonstration and evaluation. The relevant anatomy of the major arteries, their branches, and important anastomoses are described. The goals of embolization are to control severe or recurrent epistaxis, prevent recurrence if possible, and avoid occlusion of any vessels not responsible for the hemorrhage. The most appropriate embolic material is chosen, realizing that recurrence can be caused by the use of resorbable embolic material or by a very proximal or too complete embolization. Embolization may be used for specific causes of epistaxis including idiopathic, hereditary hemorraghic telangiectasia, hemorrhagic tumors, vascular malformations, trauma, disorders of hemostasis, and postsurgical problems. Juvenile nasopharyngeal angiofibromas are discussed with respect to their clinical presentation, classification, computed tomographic, MR imaging, and angiographic evaluation, treatment, future trends in treatment, and precautions and complications.
+.A
+Davis KR.

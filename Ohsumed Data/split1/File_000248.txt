@@ -1,0 +1,15 @@
+ 40034
+.U
+87076975
+.S
+Blood 8704; 69(1):338-40
+.M
+Animal; Antibodies, Monoclonal/DU; Antigens, Surface/*PH; Capillary Permeability; Cell Adhesion; Glycoproteins/PH; Inflammation/*PP; Membrane Proteins/PH; Neutrophils/*PH; Rabbits; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Zymosan/PD.
+.T
+A monoclonal antibody to the membrane glycoprotein complex CD18 inhibits polymorphonuclear leukocyte accumulation and plasma leakage in vivo.
+.P
+JOURNAL ARTICLE.
+.W
+Previous in vitro findings suggest a critical role for the polymorphonuclear leukocyte (PMN) membrane glycoprotein complex CD18 in PMN adherence and chemotaxis. We examined the effect of the murine monoclonal antibody (MoAb) 60.3, recognizing CD18, on induced PMN accumulation in vivo. Rabbits were pretreated with MoAb 60.3, and the chemotactic factors fMLP, leukotriene (LT)B4, and C5a, as well as histamine, were injected intradermally; 4 hours later, plasma leakage (125I-albumin) and the PMN accumulation (myeloperoxidase) were determined. Both PMN accumulation and PMN-dependent plasma leakage were abolished in the inflammatory skin lesions of rabbits pretreated with MoAb 60.3 as compared with control animals, whereas histamine-induced PMN-independent plasma leakage was unaffected. Intravital microscopy of the rabbit tenuissimus muscle revealed that MoAb 60.3 inhibited both PMN adherence in the venules and migration into the tissue following application of LTB4 and zymosan-activated serum (ZAS). Rolling of PMNs along the venular endothelium was unaffected. Thus, these experiments confirm and extend earlier in vitro findings of the critical role of the membrane glycoprotein complex, CD18, in PMN adherence and chemotaxis.
+.A
+Arfors KE; Lundberg C; Lindbom L; Lundberg K; Beatty PG; Harlan JM.

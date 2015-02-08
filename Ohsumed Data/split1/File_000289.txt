@@ -1,0 +1,13 @@
+ 40075
+.U
+87078772
+.S
+Circulation 8704; 75(1):40-56
+.M
+Central Nervous System/DE; Cyclosporins/AE/BL/PD/*TU; Dose-Response Relationship, Drug; Graft Rejection/DE; Heart/*TR; Heart Transplantation/*; Human; Immunity/DE; Immunosuppression/*MT; Kidney/DE; Kinetics; Liver/DE; Monitoring, Physiologic; T-Lymphocytes/DE/IM; Tissue Distribution.
+.T
+Immunosuppressive therapy with cyclosporine for cardiac transplantation.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Kahan BD.

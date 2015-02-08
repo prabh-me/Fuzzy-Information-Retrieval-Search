@@ -1,0 +1,15 @@
+ 39848
+.U
+87071092
+.S
+Transplant Proc 8703; 18(6 Suppl 5):9-15
+.M
+Administration, Oral; Animal; Bone Marrow/TR; Bone Marrow Transplantation; Cyclosporins/*ME; Human; Intestinal Absorption/*; Kinetics; Liver/TR; Liver Circulation; Liver Transplantation; Rats; Support, Non-U.S. Gov't.
+.T
+Absorption of cyclosporine A after oral dosing.
+.P
+JOURNAL ARTICLE.
+.W
+Variability in the absorption of CsA seems to contribute to the observed lack of correlation between the size of the oral dose and the trough concentration at steady state. Absorption is probably improved by thorough dispersion of the oral solution of CsA in the drink the patient prefers. Evidence for GI metabolism of CsA has only been gathered in animal experiments. The importance of bile for absorption of CsA into the portal blood is established. The bioavailability of CsA does not seem to be determined by the metabolism during the first passage through the liver. Enterohepatic recycling is likely for CsA metabolites and unlikely for unchanged CsA. A pharmacokinetic model that assumes zero-order absorption of CsA describes human data better than a model with first-order absorption. According to the zero-order model, CsA is absorbed only in the upper part of the small intestine by a mechanism that operates under saturation. Two independent findings in transplantation patients support this model. First, it was shown that small doses of CsA produce disproportionally high blood concentrations, probably due to a better bioavailability. Second, accelerated transit times in the intestine (diarrhea) lead to unexpectedly low blood concentrations, probably due to poor bioavailability. Further factors have been identified that cause low absorption of CsA: liver dysfunction and external bile drainage after liver transplantation. The influence of food on the absorption of CsA is still not determined conclusively, but it seems that giving CsA together with a standard breakfast results in higher blood concentrations. The observed increase in the bioavailability of CsA with time after transplantation could be caused by the attempt to steadily lower the dose.
+.A
+Grevel J.

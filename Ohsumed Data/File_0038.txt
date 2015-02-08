@@ -1,0 +1,13 @@
+ 37
+.U
+87049290
+.S
+ASAIO Trans 8703; 32(1):171-6
+.M
+Aged; Aluminum/BL/*PO; Case Report; Diabetic Nephropathies/TH; Encephalitis/*CI; Female; Hemodialysis/*AE; Human; Kidney Failure, Chronic/ET/*TH; Male; Middle Age; Nephrotic Syndrome/CO/*TH; Uremia/*TH.
+.T
+Acute fatal hyperaluminemic encephalopathy in undialyzed and recently dialyzed uremic patients.
+.P
+JOURNAL ARTICLE.
+.A
+Bakir AA; Hryhorczuk DO; Berman E; Dunea G.

@@ -1,0 +1,15 @@
+ 39909
+.U
+87073494
+.S
+Am J Med 8703; 81(5A):93-102
+.M
+Animal; Bronchi/IR/PH; Cholinergic Fibers/PH; Comparative Study; Human; Lung Diseases, Obstructive/*ET/PP; Muscle, Smooth/PH; Neuroregulators/PH; Parasympathetic Nervous System/*PP; Reflex/PH; Respiratory System/PH; Sympathetic Nervous System/PH.
+.T
+Cholinergic and neurogenic mechanisms in obstructive airways disease.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Although primary neural control of airway function is through parasympathetic pathways, more recent evidence indicates that there are important adrenergic and non-adrenergic, non-cholinergic neural mechanisms that may also influence respiratory function. The parasympathetic nervous system component includes neural receptors in the airways as well as afferent and efferent pathways that travel in the vagus nerves. Afferent vagal sensory receptors mediate the response to irritant or rapidly adapting receptor activation, Hering-Breuer, and the unmyelinated "C" fibers or "J" receptor pathways. The motor component of the parasympathetic nervous system has several important functions that regulate tone in normal system has several important functions that regulate tone in normal and obstructed airways. These pathways affect the following respiratory structures: bronchial smooth muscle; the mucociliary system; the larynx; and the nose. Finally, the parasympathetic nervous system may play a role in some species in the control of breathing and in the hyperpneic responses associated with airflow obstruction. In addition to cholinergic neural mechanisms, bronchomotor tone may also be influenced by adrenergic mechanisms and non-adrenergic, non-cholinergic neural pathways. Although there is minimal innervation of the airways by the sympathetic nervous system, there is ample evidence that beta-adrenoreceptors are present on bronchial smooth muscle. Beta-receptor stimulation not only relaxes airway smooth muscle, but also inhibits mediator release from mast cells in the airways and may alter vascular permeability. Alpha-adrenoreceptors are found in human airways and stimulation of these receptors causes bronchoconstriction. Although the importance of alpha-adrenoreceptors has been questioned, recent evidence suggests that alpha stimulation may play a role in cold air- and exercise-induced asthma. Finally, non-adrenergic, non-cholinergic nerves have been shown to cause relaxation of human airways in in vivo studies. There is increasing evidence that vasoactive intestinal peptide and peptide histidine methanol are the mediators of these responses. More recently, other neuropeptides (substance P, neurokinin A, and calcitonin gene-related peptide) have been localized in nerves in airways. These cause bronchoconstriction in vitro and may be released from afferent nerve terminals by an axon reflex. Although the precise role of these substances in controlling airway tone and bronchial secretions in humans is not fully understood, they may have important modulatory effects on the neural control of airway function.
+.A
+Bleecker ER.

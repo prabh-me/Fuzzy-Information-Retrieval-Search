@@ -1,0 +1,15 @@
+ 39966
+.U
+87074445
+.S
+Ann Intern Med 8703; 106(1):12-8
+.M
+Adolescence; Adult; Antibodies, Viral/AN; Bone Marrow/*TR; Bone Marrow Transplantation/*; Child; Clinical Trials; Cytomegalic Inclusion Disease/*PC; Cytomegaloviruses/IM; Female; Graft vs Host Disease/PC; Human; Immunization, Passive/*/AE; Immunoglobulins/AD; Injections, Intravenous; Male; Middle Age; Pulmonary Fibrosis/*PC; Random Allocation; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Virus Diseases/PC.
+.T
+Intravenous immune globulin for prevention of cytomegalovirus infection and interstitial pneumonia after bone marrow transplantation.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The effects of high doses of polyvalent intravenous immune globulin given for prophylaxis of cytomegalovirus infection and interstitial pneumonia in recipients of allogeneic marrow transplants were evaluated in a randomized controlled trial. Both symptomatic cytomegalovirus infection (21% compared with 46%, p = 0.03) and interstitial pneumonia (18% compared with 46%, p = 0.02) occurred less frequently in the recipients of intravenous immune globulin than in control patients. Prophylactic intravenous immune globulin was also associated with a lower incidence of graft-versus-host disease (34% in recipients compared with 65% in controls, p = 0.01), but its reduction in rates of interstitial pneumonia was independent of graft-versus-host disease and occurred in both patients with and without graft-versus-host disease. The high doses of immune globulin were well tolerated. Prophylactic intravenous immune globulin can modify the severity of cytomegalovirus infection and prevent interstitial pneumonia and possibly graft-versus-host disease in patients having allogeneic marrow transplantation.
+.A
+Winston DJ; Ho WG; Lin CH; Bartoni K; Budinger MD; Gale RP; Champlin RE.

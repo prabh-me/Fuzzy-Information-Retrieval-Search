@@ -1,0 +1,13 @@
+ 39820
+.U
+87070575
+.S
+Thorax 8703; 41(8):577-85
+.M
+Animal; Disease Models, Animal; Elastin/*PH; Human; Lung/*PH; Lung Diseases/ME; Pancreatopeptidase/ME.
+.T
+Elastin and the lung.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Starcher BC.

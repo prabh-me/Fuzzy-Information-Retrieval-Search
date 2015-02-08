@@ -1,0 +1,15 @@
+ 39994
+.U
+87074997
+.S
+Arch Dis Child 8703; 61(11):1076-83
+.M
+Clinical Trials; Double-Blind Method; Gestational Age; Human; Infant, Newborn; Inositol/*TU; Respiration, Artificial; Respiratory Distress Syndrome/*DT/MO/TH; Support, Non-U.S. Gov't.
+.T
+Respiratory distress syndrome and inositol supplementation in preterm infants.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+We report a randomised double blind trial of myo-inositol (inositol) supplementation for 10 days in 74 preterm infants with a birth weight less than 2000 g (mean gestational age 29.5 weeks and mean birth weight 1266 g). All infants required artificial ventilation for treatment of respiratory distress syndrome. Inositol (120-160 mg/kg/day) was administered by the ingastric or intravenous route. The 37 infants who received inositol supplementation required less mechanical ventilation during days 4-10, had less failures of indomethacin to close ductus arteriosus, and had less deaths or bronchopulmonary dysplasia, or both, than the infants treated with placebo. There were no detectable adverse effects. These preliminary results suggest that inositol is an important nutrient in immature preterm infants.
+.A
+Hallman M; Jarvenpaa AL; Pohjavuori M.

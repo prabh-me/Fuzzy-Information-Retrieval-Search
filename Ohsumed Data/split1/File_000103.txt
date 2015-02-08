@@ -1,0 +1,13 @@
+ 39889
+.U
+87073356
+.S
+Am J Gastroenterol 8703; 81(12):1113-24
+.M
+Adolescence; Adult; Anorexia Nervosa/*CO; Bulimia/*CO; Colonic Diseases/ET; Esophageal Diseases/ET; Female; Gastrointestinal Diseases/*ET; Human; Intestinal Diseases/ET; Intestine, Small; Liver Diseases/ET; Pancreatic Diseases/ET; Parotid Diseases/ET; Stomach Diseases/ET; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Tooth Erosion/ET.
+.T
+Gastrointestinal consequences of the eating disorders: anorexia nervosa and bulimia.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Cuellar RE; Van Thiel DH.

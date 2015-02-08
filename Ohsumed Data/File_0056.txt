@@ -1,0 +1,13 @@
+ 55
+.U
+87049313
+.S
+ASAIO Trans 8703; 32(1):278-81
+.M
+Animal; Blood Pressure/*; Heart Surgery/*; Heart Ventricle/SU; Myocardial Contraction/*; Support, U.S. Gov't, P.H.S.; Swine; Systole/*.
+.T
+Right ventricular end-systolic pressure-dimension relationship during left ventricular bypass in anesthetized pigs.
+.P
+JOURNAL ARTICLE.
+.A
+Farrar DJ; Compton PG; Verderber A; Hill JD.

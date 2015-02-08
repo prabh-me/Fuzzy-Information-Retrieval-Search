@@ -1,0 +1,13 @@
+ 94
+.U
+87049374
+.S
+ASAIO Trans 8703; 32(1):511-4
+.M
+Catheters, Indwelling; Diabetes Mellitus, Insulin-Dependent/DT; Equipment Failure/*; Follow-Up Studies; Human; Insulin Infusion Systems/*.
+.T
+Implantable continuous intravenous insulin infusion device. Restoration of flow after slow-down.
+.P
+JOURNAL ARTICLE.
+.A
+Kernstine KH; Kryjeski SR; Wigness BD; Goldenberg FJ; Rohde TD; Dorman FD; Chute EP; Rupp WM; Buchwald H.

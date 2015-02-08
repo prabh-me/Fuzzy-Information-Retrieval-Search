@@ -1,0 +1,13 @@
+ 89
+.U
+87049366
+.S
+ASAIO Trans 8703; 32(1):486-9
+.M
+Adolescence; Aged; Blood Proteins/AN; Case Report; Chronic Disease; Complement/AN; Demyelinating Diseases/*TH; Female; Follow-Up Studies; Human; Immunoglobulins/AN; Inflammation; Male; Plasma/*; Polyradiculoneuritis/*TH; Ultrafiltration/*/IS/MT.
+.T
+Treatment of chronic inflammatory demyelinating polyradiculoneuropathy by plasma filtration.
+.P
+JOURNAL ARTICLE.
+.A
+Abe Y; Baba M; Baba T; Tamasawa N; Kurahashi K; Hirai Y; Nakahata H; Matsunaga M; Takebe K.

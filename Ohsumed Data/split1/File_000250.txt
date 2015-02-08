@@ -1,0 +1,15 @@
+ 40036
+.U
+87076991
+.S
+Blood 8704; 69(1):92-6
+.M
+Bone Marrow/*TR; Bone Marrow Transplantation/*; Cyclophosphamide/TU; Cyclosporins/TU; Female; Human; Male; Methotrexate/TU; Pancytopenia/*TH; Preleukemia/*TH; Support, U.S. Gov't, P.H.S.; Whole-Body Irradiation.
+.T
+Treatment of preleukemic syndromes with marrow transplantation.
+.P
+JOURNAL ARTICLE.
+.W
+Thirty patients with advanced preleukemic syndromes were treated with marrow transplantation. Most cases were diagnosed by the presence of peripheral pancytopenia and a diagnostic marrow examination but in 6 of the 30 patients pretransplant chromosome studies were instrumental in establishing the diagnosis. Three patients prepared for transplantation with cyclophosphamide alone recurred with their disease within 6 months of transplantation. The other 27 patients were treated with cyclophosphamide and total body irradiation. Twenty of these 27 patients had preleukemia not associated with prior therapy or severe marrow fibrosis. Thirteen of these 20 are alive and well 9 to 56 months from transplant and 7 died, 4 of interstitial pneumonia, 2 of candida septicemia, and 1 of disseminated zoster. There have been no disease recurrences in this group. The remaining preleukemic patients, which include 3 patients transplanted for preleukemia secondary to prior therapy and 4 patients transplanted for preleukemia associated with severe marrow fibrosis, have all died. Major problems in these patients included disease recurrence (2 cases) and, in those with severe marrow fibrosis, graft failure (2 cases). These results suggest that for patients with life-threatening pancytopenia due to spontaneous preleukemia without severe marrow fibrosis, marrow transplantation can prolong disease-free survival and may result in cure of the disease.
+.A
+Appelbaum FR; Storb R; Ramberg RE; Shulman HM; Buckner CD; Clift RA; Deeg HJ; Fefer A; Sanders J; Self S; et al.

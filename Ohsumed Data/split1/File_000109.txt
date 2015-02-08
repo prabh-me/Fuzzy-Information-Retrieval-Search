@@ -1,0 +1,15 @@
+ 39895
+.U
+87073427
+.S
+Am J Kidney Dis 8703; 8(5):338-44
+.M
+Anti-Inflammatory Agents, Non-Steroidal/*AE; Drug Interactions; Human; Kidney/*DE; Kidney Diseases/*CI.
+.T
+Renal side effects of nonsteroidal antiinflammatory drugs: clinical relevance.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Nonsteroidal antiinflammatory drugs (NSAIDs) induce a variety of renal side effects. We review their prevalence and clinical relevance, and identify the patients who are most at risk for these complications. NSAIDs induce hemodynamic renal failure in states of compromised renal perfusion and in the presence of a preexisting nephropathy. Association of triamterene and indomethacin is especially nephrotoxic and should be avoided. NSAIDs cause sodium retention and impair the natriuretic effect of diuretics: this side effect is clinically relevant in edema-forming states. Hyperkalemia induced by NSAIDs is harmful in case of renal failure and hypoaldosteronism. NSAIDs may induce an acute interstitial nephritis often associated with the nephrotic syndrome; the event is rare and unpredictable, and mainly propionic acid derivatives have been incriminated. NSAIDs are reported to attenuate the hypotensive effect of various drugs; further studies are warranted to better delineate the clinical relevance of this observation.
+.A
+Pirson Y; van Ypersele de Strihou C.

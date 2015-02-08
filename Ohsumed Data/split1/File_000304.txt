@@ -1,0 +1,13 @@
+ 40090
+.U
+87079134
+.S
+Clin Orthop 8704;  (214):4-6
+.M
+Finger Injuries/*HI; Fracture Fixation, Internal/*HI; Fractures/*HI; History of Medicine, 20th Cent.; Human; Portraits.
+.T
+The Classic. Contribution to conservative surgery of the injured hand. By Dr. A. Lambotte. 1928.
+.P
+HISTORICAL ARTICLE; JOURNAL ARTICLE.
+.A
+Lambotte A.

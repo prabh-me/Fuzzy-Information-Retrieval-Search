@@ -1,0 +1,15 @@
+ 39943
+.U
+87073948
+.S
+Am J Trop Med Hyg 8703; 35(6):1235-47
+.M
+Adult; Animal; Antivenins/*TU; Clinical Trials; Comparative Study; Crotalid Venoms/AI; Female; Fibrinogen/AN; Hematocrit; Human; Male; Mice; Necrosis; Random Allocation; Snake Bites/BL/PA/*TH; Snakes; Support, Non-U.S. Gov't; Thailand.
+.T
+Randomized comparative trial of three monospecific antivenoms for bites by the Malayan pit viper (Calloselasma rhodostoma) in southern Thailand: clinical and laboratory correlations.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Three monospecific antivenoms for Malayan pit viper (MPV) (Calloselasma rhodostoma) were compared in Southern Thailand, where this species is the most common cause of snake bite morbidity. Forty-six patients with proved MPV bites and incoagulable blood, indicating systemic envenoming, were randomly allocated for treatment with Thai Red Cross (TRC), Thai Government Pharmaceutical Organization (GPO), or Twyford Pharmaceutical monospecific antivenoms. Both GPO and Twyford antivenoms produced rapid and permanent restoration of blood coagulability, but TRC antivenom failed in 2/15 cases. Patients in the GPO group showed the greatest increase in plasma fibrinogen concentration during the first 24 hr and had fewer early anaphylactic reactions (6/15) compared with Twyford 8/16 and with TRC 13/15. Pyrogenic reactions occurred more frequently after TRC antivenom (8/15) than GPO (1/15) or Twyford (0/16). Patients requiring more than one dose of antivenom were identifiably more severely envenomed on admission. In an accompanying laboratory study the antivenoms were assessed in rodents using five WHO standard tests of neutralizing activity. Compared with the other two antivenoms TRC was significantly inferior in anti-lethal potency, GPO was superior in anti-hemorrhagic and anti-necrotic potency and Twyford was superior in anti-procoagulant and anti-defibrinogenating potency. The clinical efficacy of these antivenoms against local necrosis remains equivocal. GPO and Twyford antivenoms are recommended for the treatment of systemic envenoming by MPV in an initial dose of 5 ampoules.
+.A
+Warrell DA; Looareesuwan S; Theakston RD; Phillips RE; Chanthavanich P; Viravan C; Supanaranond W; Karbwang J; Ho M; Hutton RA; et al.

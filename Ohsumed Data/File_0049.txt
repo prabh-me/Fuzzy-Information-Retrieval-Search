@@ -1,0 +1,13 @@
+ 48
+.U
+87049304
+.S
+ASAIO Trans 8703; 32(1):238-41
+.M
+Allylamine; Animal; Chronic Disease; Disease Models, Animal; Echocardiography; Heart/DE; Heart Failure, Congestive/CI/PA/*PP; Microscopy, Electron; Myocardium/PA/UL; Sheep; Support, U.S. Gov't, P.H.S..
+.T
+Large-animal model of chronic congestive heart failure induced by intracoronary allylamine.
+.P
+JOURNAL ARTICLE.
+.A
+Beck LS; Strickland RD; Bagley BL; Mortensen JD; Hammond ME; Ashton AH; Head DR; Braun MR; Weiler MJ.

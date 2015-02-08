@@ -1,0 +1,13 @@
+ 17
+.U
+87049106
+.S
+Am J Emerg Med 8703; 4(6):570-1
+.M
+Allied Health Personnel/*; Electric Countershock/*; Emergency Medical Technicians/*; Human; Lidocaine/TU; Recurrence; Ventricular Fibrillation/MO/*TH.
+.T
+EMT-D fibrillation: more shocks for the future [editorial]
+.P
+EDITORIAL.
+.A
+Thompson BM.

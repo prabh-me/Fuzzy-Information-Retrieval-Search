@@ -1,0 +1,13 @@
+ 40014
+.U
+87076254
+.S
+Br Heart J 8704; 56(5):400-13
+.M
+Aged; Angina Pectoris/*DT; Angina, Unstable/*DT; Clinical Trials; Comparative Study; Coronary Care Units; Double-Blind Method; Drug Therapy, Combination; Female; Human; Male; Metoprolol/AE/*TU; Middle Age; Myocardial Infarction/CI; Nifedipine/AE/*TU; Prognosis; Random Allocation; Recurrence.
+.T
+Early treatment of unstable angina in the coronary care unit: a randomised, double blind, placebo controlled comparison of recurrent ischaemia in patients treated with nifedipine or metoprolol or both. Report of The Holland Interuniversity Nifedipine/Metoprolol Trial (HINT) Research Group.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A multicentre, double blind, placebo controlled, randomised trial of nifedipine, metoprolol, and nifedipine and metoprolol combined was conducted in a group of 338 patients with unstable angina not pretreated with a beta blocker and of nifedipine in 177 patients pretreated with a beta blocker. The main outcome event was recurrent ischaemia or myocardial infarction within 48 hours. Trial medication effects were expressed as ratios of event rates relative to placebo. In patients not pretreated with a beta blocker the event rate ratios with associated 95% confidence intervals were 1.15 (0.83, 1.64) for nifedipine, 0.76 (0.49, 1.16) for metoprolol, and 0.80 (0.53, 1.19) for nifedipine and metoprolol combined. In patients already on a beta blocker the addition of nifedipine was beneficial (rate ratio 0.68 (0.47, 0.97). Equal numbers of patients developed myocardial infarction and reversible ischaemia. Most infarctions occurred early, within six hours of randomisation. In patients not already on a beta blocker the nifedipine rate ratio for infarction only was 1.51 (0.87, 2.74). These results suggest that in patients not on previous beta blockade metoprolol has a beneficial short term effect on unstable angina, that fixed combination with nifedipine provides no further gain, and that nifedipine may be detrimental. On the other hand, the addition of nifedipine to existing beta blockade when the patient's condition becomes unstable seems beneficial.

@@ -1,0 +1,13 @@
+ 39844
+.U
+87071077
+.S
+Transplant Proc 8703; 18(6 Suppl 5):219-37
+.M
+Calmodulin/AN/ME/*PH; Carrier Proteins/AN/*PH; Cyclosporins/AN/ME/*PD; Flow Cytometry; Human; Leukocyte Culture Test, Mixed; Lymphocyte Transformation/DE; Lymphocytes/AN/DE; Receptors, Immunologic/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Suppressor Cells/DE; T-Lymphocytes/DE; T-Lymphocytes, Cytotoxic/DE.
+.T
+Mechanism of action of cyclosporine: role of calmodulin, cyclophilin, and other cyclosporine-binding proteins.
+.P
+JOURNAL ARTICLE.
+.A
+Hess AD; Colombani PM.

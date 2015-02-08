@@ -1,0 +1,15 @@
+ 40000
+.U
+87075106
+.S
+Ann Surg 8703; 204(6):693-7
+.M
+Adolescence; Child; Child, Preschool; Combined Modality Therapy; Female; Heart Neoplasms/DI/*SC/SU; Human; Kidney Neoplasms/*PA/SU; Male; Neoplasm Invasiveness; Neoplasm Staging; Postoperative Complications; Prognosis; Support, U.S. Gov't, P.H.S.; Vena Cava, Inferior; Wilms' Tumor/DI/*SC/SU.
+.T
+Intracardiac extension of Wilms' tumor. A report of the National Wilms' Tumor Study.
+.P
+JOURNAL ARTICLE.
+.W
+Extension of Wilms' tumor through the inferior vena cava into the heart presents a formidable clinical challenge. Excision of such a tumor without provoking emobilization may require cardiopulmonary bypass (CPB). The completeness of excision and the likelihood of tumor embolization during operation guide subsequent radiation therapy (RT) and chemotherapy. To help define these issues, the clinical records of 15 patients enrolled in three National Wilms' Tumor Studies (NWTS) who had intracardiac tumor extension (ICE) were reviewed. The median age at diagnosis was 4 years. One patient had clear cell sarcoma (CCS); the remainder had favorable histologic findings (FH). The clinicopathologic stage was stage II in one patient, stage III in eight patients, and stage IV in six patients. ICE was detected before operation in six patients, during operation in five patients, and after operation in five patients. CPB was used in 10 patients. Eleven patients (73%) had operative complications, with major intraoperative hemorrhage occurring most often (six patients). Complications occurred less often when ICE was recognized before operation (three of six patients) than when it was not (eight of nine patients). Embolization occurred in only two patients. There were no operative deaths. The patient with CCS died. Eleven of 14 patients with FH survived, with an actuarial event-free, 2-year survival rate of 86%. There were no patients in the first NWTS. Of the six patients in the second NWTS (NWTS-2), four died (67%). All nine patients in the third NWTS (NWTS-3) survived, but follow-up was shorter (median 4 years 9 months vs. 2 years 7 months). No particular surgical procedure was associated with an increased death rate. This review suggests Wilms' tumor with ICE presents a formidable surgical undertaking but has a relatively good prognosis. Embolization is an uncommon event in ICE (two patients, 13.3%), allowing a planned operative approach. Echocardiography and ultrasonography provide accurate preoperative diagnosis. And ICE should be suspected in patients with extensive vena cava thrombosis or who have hypotension or heart failure during examination or surgery.
+.A
+Nakayama DK; Norkool P; deLorimier AA; O'Neill JA Jr; D'Angio GJ.

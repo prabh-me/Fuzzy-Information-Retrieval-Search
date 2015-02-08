@@ -1,0 +1,13 @@
+ 18
+.U
+87049107
+.S
+Am J Emerg Med 8703; 4(6):572-4
+.M
+Adolescence; Child; Child, Preschool; Emergencies/*; Female; G Suits/*UT; Human; Male; Massachusetts; Retrospective Studies; Transportation of Patients.
+.T
+Estimating prehospital demand for pediatric antishock garments.
+.P
+JOURNAL ARTICLE.
+.A
+McCabe CJ; Cadigan RT; Bugarin CE; Azzara CV.

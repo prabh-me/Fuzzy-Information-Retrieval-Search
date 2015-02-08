@@ -1,0 +1,13 @@
+ 65
+.U
+87049326
+.S
+ASAIO Trans 8703; 32(1):330-3
+.M
+Animal; Cattle; Erythrocytes/UL; Hemoglobins/AN; Hemolysis/*; Mathematics; Membranes, Artificial; Microscopy, Electron, Scanning; Models, Theoretical; Plasmapheresis/*; Pressure.
+.T
+A model of hemolysis in membrane plasmapheresis.
+.P
+JOURNAL ARTICLE.
+.A
+Ding LH; Jaffrin MY; Gupta BB.

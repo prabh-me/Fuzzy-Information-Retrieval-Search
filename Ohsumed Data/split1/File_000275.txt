@@ -1,0 +1,15 @@
+ 40061
+.U
+87077822
+.S
+Cancer 8704; 59(1):83-8
+.M
+Antibodies, Monoclonal; Breast Neoplasms/IM/*PA; Cell Division; Female; Histocytochemistry; Human; Immunoenzyme Techniques; Lymph Nodes/IM/*PA; Lymphatic Metastasis; Nucleoproteins/AN; Prognosis; Stains and Staining; Support, Non-U.S. Gov't.
+.T
+The correlation of growth fractions with histologic grading and lymph node status in human mammary carcinoma.
+.P
+JOURNAL ARTICLE.
+.W
+The monoclonal antibody Ki-67 reacts with a human nuclear associated with cell proliferation that is expressed only in the G1, S, G2, and M phases of continuously cycling cells. This offers a simple opportunity to determine the growth fraction of tumors by immunostaining of fresh tissue. One hundred fifty-four invasive carcinomas of the breast were used in this study. The average number of Ki-67 positive cells was 15.3 +/- 10.1% (range, 1%-48%), whereas in 41 benign lesions of the breast only 4.4 +/- 2.6% (range, 1%-10%) of cells were positive. A correlation was found between growth fractions and histologic grading. On average, N+ tumors with less than four positive lymph nodes had a significantly higher growth fraction (20.4 +/- 14.2%) than N0 tumors (13.0 +/- 9.2%), whereas N+ tumors with more than three lymph node metastases had only 17.3 +/- 3.6% Ki-67 positive cells. This method yielded similar results to those obtained by other researchers through the use of flow cytometry and thymidine labeling. Determination of growth fractions by Ki-67 is suitable for routine use and may be useful in prognosis and in the selection of patients for various treatment modalities.
+.A
+Lelle RJ; Heidenreich W; Stauch G; Gerdes J.

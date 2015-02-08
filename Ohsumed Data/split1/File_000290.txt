@@ -1,0 +1,13 @@
+ 40076
+.U
+87078773
+.S
+Circulation 8704; 75(1):57-62
+.M
+Graft Survival; Heart/*TR; Heart Diseases/MO/*PX/SU; Heart Transplantation/*; Hospitalization; Human; Informed Consent; Physician-Patient Relations; Postoperative Care/PX; Psychology, Social; Quality of Life; Time Factors; Tissue Donors.
+.T
+Cardiac transplantation: a psychological perspective.
+.P
+JOURNAL ARTICLE.
+.A
+Christopherson LK.

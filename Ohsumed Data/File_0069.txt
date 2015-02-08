@@ -1,0 +1,13 @@
+ 68
+.U
+87049335
+.S
+ASAIO Trans 8703; 32(1):363-6
+.M
+Animal; Biocompatible Materials; Catheters, Indwelling/*; Comparative Study; Diabetes Mellitus, Experimental/*DT; Dogs; Insulin Infusion Systems/*; Polyethylenes/*; Silicone Elastomers/*.
+.T
+Use of polyethylene-lined silicone rubber cannulae in long-term insulin infusion in the dog.
+.P
+JOURNAL ARTICLE.
+.A
+Wigness BD; Rohde TD; Dorman FD; Buchwald H.

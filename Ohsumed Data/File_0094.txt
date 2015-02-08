@@ -1,0 +1,13 @@
+ 93
+.U
+87049371
+.S
+ASAIO Trans 8703; 32(1):500-2
+.M
+Blood Pressure; Catheters, Indwelling/*ST; Hemodialysis/*ST; Human; Kidney Failure, Acute/*PP/TH; Kidney Failure, Chronic/*PP/TH; Polyurethanes; Quality Control; Support, Non-U.S. Gov't.
+.T
+Minimum performance standards for double-lumen subclavian cannulas for hemodialysis.
+.P
+JOURNAL ARTICLE.
+.A
+Bregman H; Miller K; Berry L.

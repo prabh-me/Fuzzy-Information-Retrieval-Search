@@ -1,0 +1,15 @@
+ 39968
+.U
+87074447
+.S
+Ann Intern Med 8703; 106(1):139-43
+.M
+Consumer Satisfaction; Costs and Cost Analysis; Health Maintenance Organizations/*; Health Services for the Aged/*; Health Services Needs and Demand/OG; Hospitalization/EC; Medicare; Referral and Consultation; United States.
+.T
+The impact of health maintenance organizations on geriatric care.
+.P
+JOURNAL ARTICLE.
+.W
+Increasing numbers of health maintenance organizations (HMOs) are contracting with the federal government to permit enrollment of Medicare beneficiaries, and increasing numbers of the elderly are joining HMOs. A review of past HMO performance suggests that, although these organizations will try to effect a decrease in the rate and duration of hospitalization to control costs, a high rate of functional disability and acute illness in elderly patients will make it impossible to accomplish this significantly. Also, although HMOs will attempt to provide more comprehensive coverage, the demand for prescription drugs, eyeglasses, and medical devices will make such coverage very expensive. Attempts to ration the services of primary-care physicians will impede case management and continuity of care. If HMOs are to provide high-quality medical care at a reasonable cost, they will need to consider making use of geriatric assessment units, geriatric consultants, geriatric nurse practitioners, and special geriatric hospital wards.
+.A
+Gillick MR.

@@ -1,0 +1,15 @@
+ 39973
+.U
+87074489
+.S
+Ann Intern Med 8703; 106(1):95-107
+.M
+Androgens/PH; Diagnosis, Differential; Female; Hair/GD; Hirsutism/*/DI/ET/PP/TH.
+.T
+Hirsutism.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Excess body hair, or hirsutism, is usually only a problem in women and can cause considerable psychological distress. The disorder is usually androgen mediated. Because androgens come only from the adrenal glands or gonads or by conversion in peripheral tissues of precursor steroids from these organs, the causes of hirsutism are found in these two organs. Adrenal causes include Cushing's disease, adrenal tumors, and congenital adrenal hyperplasia. Ovarian causes include tumors, polycystic ovarian syndrome, and most cases of idiopathic hirsutism. The clinical evaluation is designed to differentiate between these diagnostic possibilities. When an underlying abnormality can be identified, such as an ovarian tumor, the treatment course is clear. When the diagnosis is idiopathic hirsutism, however, the best treatment is uncertain and several available regimens are possible.
+.A
+Rittmaster RS; Loriaux DL.

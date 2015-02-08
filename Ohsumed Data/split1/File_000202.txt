@@ -1,0 +1,15 @@
+ 39988
+.U
+87074776
+.S
+Antimicrob Agents Chemother 8703; 30(4):553-8
+.M
+Antibiotics, Lactam; Binding Sites; Carboxypeptidase Transpeptidase/*CL/GE; Carrier Proteins/*CL/GE; Collodion; Electrophoresis, Polyacrylamide Gel; Immunochemistry; Molecular Weight; Penicillin Resistance/*; Peptide Fragments/AN; Peptide Peptidohydrolases; Photofluorography; Streptococcus pneumoniae/*AN/GE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Penicillin-binding proteins of penicillin-susceptible and -resistant pneumococci: immunological relatedness of altered proteins and changes in peptides carrying the beta-lactam binding site.
+.P
+JOURNAL ARTICLE.
+.W
+There are several major differences between the penicillin-binding proteins (PBPs) of highly penicillin-resistant and -susceptible strains of pneumococci. The highest-molecular-size PBP 1a (98 kilodaltons [kDa]) of susceptible pneumococci is not detectable in resistant bacteria. Instead, resistant strains contain a PBP of smaller size: 92 and 94 kDa in South African strains 8249 and A95210, respectively, and 96 kDa in New Guinea strain 2955 (S. Zighelboim and A. Tomasz, Antimicrob. Agents Chemother. 17:434-442, 1980). Using antibodies prepared against PBP 1a of penicillin-susceptible pneumococci, we demonstrated that these anomalous-sized proteins in the resistant strains are immunologically related to PBP 1a of penicillin-susceptible bacteria. A second difference between the PBP patterns of strain 8249 and the susceptible pneumococci is that the 78-kDa PBP 2b is not detectable by the radioactive penicillin binding assay in the resistant strain. Using antibodies prepared against PBP 2b of susceptible cells, we demonstrated the presence of PBP 2b in membrane preparations from strain 8249 cells. Thus, the poor detection of this PBP appears to be related to its greatly decreased affinity for the antibiotic molecule. We also compared the patterns of penicillin-labeled peptides derived from PBPs of resistant and susceptible cells during partial proteolysis by V8 protease. Several changes were observable in small peptides carrying the beta-lactam binding site generated from the high Mr (PBP 1a-related) binding proteins. In contrast, no differences in the pattern of penicillin-labeled peptides were seen when the pattern of PBP 2a of susceptible pneumococci was compared with the peptide pattern of PBP 2a from resistant strains.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Hakenbeck R; Ellerbrok H; Briese T; Handwerger S; Tomasz A.

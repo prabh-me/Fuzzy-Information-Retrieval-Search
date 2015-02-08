@@ -1,0 +1,13 @@
+ 39817
+.U
+87070559
+.S
+Thorax 8703; 41(7):497-502
+.M
+Adult; Bone Marrow/*TR; Bone Marrow Transplantation/*; Bronchitis/ET; Graft vs Host Disease/IM; Human; Immunosuppression; Lung Diseases/*ET/IM/PP; Lung Diseases, Obstructive/ET; Postoperative Complications.
+.T
+Bone marrow transplantation and the lung.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Hamilton PJ; Pearson AD.

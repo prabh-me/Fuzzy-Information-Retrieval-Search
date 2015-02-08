@@ -1,0 +1,15 @@
+ 39796
+.U
+87070074
+.S
+Spine 8703; 11(6):543-73
+.M
+Electromyography; Gravitation; Human; Locomotion; Lordosis/PP; Lumbar Vertebrae/PH; Models, Theoretical; Movement; Occupational Medicine; Pressure; Spine/*PH; Stress, Mechanical; Torsion.
+.T
+The optimum spine.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+System theory is used to describe the mechanism of the lumbar spine. The role of the spine in vertebrate evolution is presented. The importance of the intervertebral joint for the survival of the species is shown to be crucial. The mechanical behavior of the joint is derived, and from this the corresponding spinal motion and muscular responses is calculated. It is shown that physiologic behavior implies that the stress at the intervertebral joints is equalized and minimized. From this simple condition, the motion of the spine in the sagittal plane is calculated. From the analysis of sagittal plane motion together with a knowledge of the energy transfer through the intervertebral joint, a new theory of locomotion is derived. This theory of locomotion differs in important respects from current theories, but nevertheless explains available experimental data. This unified theory of the function of the human spine permits the determination of the level of safe loads that can be lifted and transported. It predicts the conditions of load transfer through a joint. It proposes a new approach to the mechanism of arthritis and to the repair of fractures.
+.A
+Gracovetsky S; Farfan H.

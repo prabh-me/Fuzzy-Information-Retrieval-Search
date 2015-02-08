@@ -1,0 +1,15 @@
+ 39815
+.U
+87070546
+.S
+Thorax 8703; 41(6):459-63
+.M
+Acute Disease; Asthma/*TH; Critical Care; England; Hospitals, District; Hospitals, General; Human; Intermittent Positive-Pressure Ventilation/*; Irrigation; Patient Admission; Positive-Pressure Respiration/*; Retrospective Studies.
+.T
+Acute severe asthma treated by mechanical ventilation: 10 years' experience from a district general hospital.
+.P
+JOURNAL ARTICLE.
+.W
+A retrospective study was made of patients requiring mechanical ventilation (intermittent positive pressure ventilation--IPPV) for acute severe asthma in a district general hospital during 1974-83. Thirty two patients required IPPV on 34 occasions. Complications included pneumothorax in six (18%) patients, chest infection in 12 (35%) patients, pulmonary collapse in three (9%) patients, hypotension at induction of IPPV in 12 (35%), and gastrointestinal bleeding in three (9%). Three (9%) patients died. Therapeutic bronchial lavage was performed in 19 patients. The procedure produced a rise in effective static compliance from a mean of 17 (SD 6) ml/cm H2O to 24 (9) ml/cm H2O at four hours. Bronchial lavage was associated with a significant excess of respiratory infections. A feature common to most patients was undertreatment before admission to hospital.
+.A
+Luksza AR; Smith P; Coakley J; Gordan IJ; Atherton ST.

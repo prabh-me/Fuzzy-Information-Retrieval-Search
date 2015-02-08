@@ -1,0 +1,15 @@
+ 39987
+.U
+87074775
+.S
+Antimicrob Agents Chemother 8703; 30(4):545-52
+.M
+beta-Lactamases/ME; Anti-Infective Agents/PD; Antibiotics, Lactam/*PD; Cephalothin/PD; Coagulase; Comparative Study; Indicator Dilution Techniques; Microbial Sensitivity Tests; Oxacillin/PD; Penicillin G/PD; Penicillin Resistance; Staphylococcus/*DE/EN; Support, Non-U.S. Gov't.
+.T
+In vitro susceptibilities of four species of coagulase-negative staphylococci.
+.P
+JOURNAL ARTICLE.
+.W
+The in vitro susceptibilities of 260 strains of coagulase-negative staphylococci to penicillin G, oxacillin, nafcillin, methicillin, cephalothin, and seven non-beta-lactam antimicrobial agents were determined and compared with the susceptibilities of 54 strains of Staphylococcus aureus with known patterns of susceptibility. Penicillin G susceptibility for S. aureus, Staphylococcus epidermidis, Staphylococcus haemolyticus, and Staphylococcus hominis was readily determined by using beta-lactamase tests with induced cells and with a standardized microdilution test. MIC criteria for susceptibility used for S. aureus were applicable to the coagulase-negative species. Percentages of organisms susceptible were as follows: S. epidermidis, 7%; S. haemolyticus, 5%; and S. hominis, 47%. Oxacillin susceptibility for these four species was readily determined by using a modification of the microdilution test. MIC criteria for susceptibility used for S. aureus were applicable to S. haemolyticus and S. hominis, but alternate criteria were necessary for S. epidermidis. Percentages of organisms susceptible were as follows: S. epidermidis, 29%; S. haemolyticus, 36%; and S. hominis, 97%. Staphylococcus saprophyticus differed from the other staphylococcal species; all strains were beta-lactamase negative and were penicillin susceptible but had higher penicillin G MICs than did susceptible strains of the other species. There was total cross resistance among the penicillinase-resistant penicillins and cephalothin for the coagulase-negative staphylococci as well as for S. aureus; oxacillin MICs were more reliable than MICs of the other drugs or a standardized disk diffusion test for distinguishing resistant from susceptible strains. Vancomycin, rifampin, and ciprofloxacin were consistently active against all staphylococci. Erythromycin, clindamycin, gentamicin, and trimethoprim-sulfamethoxazole were more active against oxacillin-susceptible staphylococci than against oxacillin-resistant staphylococci.
+.A
+Fass RJ; Helsel VL; Barnishan J; Ayers LW.

@@ -1,0 +1,15 @@
+ 39829
+.U
+87071057
+.S
+Transplant Proc 8703; 18(6):1868-70
+.M
+Adolescence; Adult; Case Report; Cyclosporins/*AE; Female; Human; Kidney/*TR; Kidney Transplantation/*; Male; Pneumatosis Cystoides Intestinalis/*CI; Pneumoperitoneum/*CI; Prednisone/*AE.
+.T
+Pneumatosis cystoides intestinalis with pneumoperitoneum in renal transplant patients on cyclosporine and prednisone.
+.P
+JOURNAL ARTICLE.
+.W
+Pneumatosis cystoides intestinalis has been detected in 3/103 kidney transplant patients (3%) treated with CsA and prednisone, in contrast to less than 1% of kidney transplant patients treated with Aza and prednisone. In these three patients, the diagnosis of PCI was made by plain x-rays, 10 to 25 days after transplantation. PCI may be more likely to occur in patients with CsA trough blood levels above the recommended therapeutic range. There was associated pneumoperitoneum in all three patients, but none were subjected to exploratory laparotomy. PCI and associated pneumoperitoneum were not associated with adverse effects in any of our three patients. Antibiotics and exploratory laparotomy appear to be unnecessary.
+.A
+Ammons MA; Bauling PC; Weil R 3d.

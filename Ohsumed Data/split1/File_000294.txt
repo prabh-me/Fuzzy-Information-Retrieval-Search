@@ -1,0 +1,15 @@
+ 40080
+.U
+87078786
+.S
+Circulation 8704; 75(1 Pt 2):I130-3
+.M
+Arteries/PP; Blood Pressure/DE; Heart/*PH; Human; Hypertension/ME; Lung/PH; Mechanoreceptors/PP; Phenylephrine/PD; Pressoreceptors/PP; Renin/ME/*PH.
+.T
+The heart and the regulation of renin.
+.P
+JOURNAL ARTICLE.
+.W
+The cause of the low-renin state in hypertension is unknown. To consider our hypothesis that cardiopulmonary mechanoreceptors suppress renin release in these patients, it was necessary to prove that "low pressure" receptors affected renin levels in man. A series of experiments was performed to selectively alter the stretch (load) on carotid and cardiopulmonary baroreceptors in healthy human volunteers. These studies showed that selectively altering high-pressure baroreceptor load did not affect plasma renin activity. Selectively unloading the low-pressure receptors increased plasma renin activity. Simultaneous unloading of both baroreceptors caused the largest increases in renin activity. While the data indicated an interaction of high- and low-pressure receptors on the neural regulation of renin release, we interpreted these results as evidence for a predominant influence of cardiopulmonary mechanoreceptors on the neurogenic regulation of renin secretion in man.
+.A
+Egan B; Fitzpatrick MA; Julius S.

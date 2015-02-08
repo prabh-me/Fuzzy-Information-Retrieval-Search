@@ -1,0 +1,13 @@
+ 40077
+.U
+87078775
+.S
+Circulation 8704; 75(1):77-87
+.M
+Animal; Brain Death; Decision Making; Efficiency; Ethics, Medical/*; Family; Financing, Government/EC/LJ; Health Policy/*/LJ; Heart/*TR; Heart Transplantation/*; Human; Informed Consent/LJ; Organ Procurement/EC/LJ/OG; Ownership/LJ; Tissue Donors; Transplantation, Heterologous.
+.T
+Supply and distribution of hearts for transplantation: legal, ethical, and policy issues.
+.P
+JOURNAL ARTICLE.
+.A
+Robertson JA.

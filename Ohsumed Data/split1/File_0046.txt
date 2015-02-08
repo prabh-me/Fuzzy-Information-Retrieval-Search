@@ -1,0 +1,13 @@
+ 39832
+.U
+87071060
+.S
+Transplant Proc 8703; 18(6):1877-81
+.M
+Arteries/AH; Human; Pancreas/BS/*TR; Pancreas Transplantation/*.
+.T
+Vascular supply of the pancreatic segment and its suitability for transplantation.
+.P
+JOURNAL ARTICLE.
+.A
+Ruzbarsky V; Vanek I; Stingl J; Boruvka V; Pavel P; Bartos V.

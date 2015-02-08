@@ -1,0 +1,15 @@
+ 40015
+.U
+87076255
+.S
+Br Heart J 8704; 56(5):414-21
+.M
+Aged; Clinical Trials; Female; Heart/DE/*PP; Heart Ventricle/DE/PP; Human; Male; Middle Age; Myocardial Infarction/*DT/PP/RI; Random Allocation; Streptokinase/*TU; Stroke Volume/DE; Time Factors.
+.T
+Long term improvement in global left ventricular function after early thrombolytic treatment in acute myocardial infarction. Report of a randomised multicentre trial of intracoronary streptokinase in acute myocardial infarction.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The effect of reperfusion achieved by early intracoronary streptokinase in acute myocardial infarction on left ventricular function was studied in 533 patients enrolled in a prospective randomised multicentre study. Two hundred and sixty four patients were allocated to conventional treatment and 269 patients to thrombolysis. At the end of the procedure patency of the infarct related vessel was achieved in 198 (85%) of 234 patients in whom coronary angiography was performed. The median interval from onset of symptoms till the angiographic documentation of patency was 200 minutes. Data were analysed according to the original treatment allocation. Global left ventricular ejection fraction was determined by radionuclide angiography in 418 patients within two days of admission, in 361 patients after two weeks, and in 307 patients after three months. Global left ventricular function remained unchanged throughout the observation period in the control group, whereas it improved during the first two weeks in patients allocated to thrombolytic treatment. Improved function in these patients persisted up to three months after the infarction. Global left ventricular ejection fraction was significantly better in the thrombolysis group than in the control group at two days, two weeks, and at three months. In patients with anterior myocardial infarction the left ventricular ejection fraction was 9% better than in the control group at two weeks and at three months. In the patients with inferior myocardial infarction differences between the two treatment groups were smaller because of photon attenuation within the body. Angiographic evidence suggested that the improvement in function seen after thrombolysis is indeed associated with the patency of the infarct related artery.
+.A
+Res JC; Simoons ML; van der Wall EE; van Eenige MJ; Vermeer F; Verheugt FW; Wijns W; Braat S; Remme WJ; Serruys PW; et al.

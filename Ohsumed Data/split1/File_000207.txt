@@ -1,0 +1,15 @@
+ 39993
+.U
+87074995
+.S
+Arch Dis Child 8703; 61(11):1063-7
+.M
+Bilirubin/BL; Clinical Trials; Human; Infant Food; Infant, Low Birth Weight/BL; Infant, Newborn; Infant, Premature, Diseases/BL/*ET; Jaundice, Neonatal/BL/*ET; Milk, Human/*; Random Allocation; Respiration, Artificial.
+.T
+Breast milk jaundice in premature infants.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+In randomised study of 186 preterm infants those fed on maternal or banked breast milk had a significantly higher peak bilirubin concentration and a more prolonged jaundice than infants fed an artificial preterm formula and were over four times more likely to achieve plasma bilirubin values above 200 mumol/l (11.7 mg/100 ml). This dietary effect was seen even in a high risk subgroup of sick ventilated infants below 1500 g who were receiving restricted enteral intakes. We suggest that breast milk jaundice in preterm infants may increase clinical intervention. Our findings are discussed in the light of epidemiological data suggesting an association between moderate hyperbilirubinaemia (greater than 170 mumol/l) and neurodevelopmental outcome.
+.A
+Lucas A; Baker BA.

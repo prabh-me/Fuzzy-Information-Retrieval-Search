@@ -1,0 +1,13 @@
+ 43
+.U
+87049297
+.S
+ASAIO Trans 8703; 32(1):201-6
+.M
+Animal; Assisted Circulation/*; Dogs; Electrocardiography; Heart-Assist Devices/*; Myocardial Infarction/PP/*TH; Nuclear Magnetic Resonance/DU/IS/MT.
+.T
+Therapeutic effect of a left ventricular assist device on acute myocardial infarction evaluated by magnetic resonance imaging.
+.P
+JOURNAL ARTICLE.
+.A
+Nakatani T; Takano H; Noda H; Fukuda S; Nishimura T; Yamada Y; Kozuka T; Akutsu T.

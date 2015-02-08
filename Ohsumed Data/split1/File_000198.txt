@@ -1,0 +1,13 @@
+ 39984
+.U
+87074770
+.S
+Antimicrob Agents Chemother 8703; 30(4):521-7
+.M
+Animal; Antibiotics, Lactam/PD; Bacteria/*DE/GE; Bacterial Infections/PC; Drug Resistance, Microbial/*GE; Genotype; Human; Mutation; Phenotype.
+.T
+Antibiotic tolerance among clinical isolates of bacteria.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Tuomanen E; Durack DT; Tomasz A.

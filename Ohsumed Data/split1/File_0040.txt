@@ -1,0 +1,15 @@
+ 39826
+.U
+87070596
+.S
+Thorax 8703; 41(9):667-70
+.M
+Adolescence; Adult; Airway Resistance/*DE; Asthma/*PP; Asthma, Exercise-Induced/*PP; Exercise Test; Female; Human; Lung/*PP; Male; Methacholine Compounds/*DU; Middle Age.
+.T
+Airway response to methacholine during exercise induced refractoriness in asthma.
+.P
+JOURNAL ARTICLE.
+.W
+To investigate the mechanisms contributing to refractoriness in exercise induced asthma a methacholine challenge test was performed 30 minutes before and 30 minutes after two exercise tests 45 minutes apart. Exercise was performed by 12 asthmatic patients while they were breathing cold air. There was a smaller airway response to the second exercise test than to the first, though there was wide variation between subjects. The response to the second methacholine challenge was reduced in some patients but showed no significant change overall. Refractoriness to exercise induced asthma positively correlated with a reduced response to methacholine. These data suggest that mediator depletion does not fully explain refractoriness.
+.A
+Magnussen H; Reuss G; Jorres R.

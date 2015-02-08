@@ -1,0 +1,15 @@
+ 39972
+.U
+87074485
+.S
+Ann Intern Med 8703; 106(1):65-74
+.M
+Abnormalities/DI; Ambulatory Care; Blood Cell Count/*; Diagnostic Tests, Routine; Human; Leukocyte Count/*; Mass Screening; Monitoring, Physiologic.
+.T
+The complete blood count and leukocyte differential count. An approach to their rational application.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The complete blood count and leukocyte differential count have no value in screening asymptomatic members of the general population. The complete blood count may be useful for screening infants in the first year of life, institutionalized elderly persons, pregnant women, and recent immigrants from Third World countries, if poor nutrition or inadequate iron intake is suspected. These tests are not useful for hospitalized patients, unless an abnormality is suspected or surgery with major blood loss is anticipated. It is appropriate to obtain the tests when a hematologic or infectious disorder is suspected, but they may not affect decision making if the diagnosis is clinically evident. The leukocyte differential count is unnecessary to confirm an infection in most cases in which leukocytosis is present. Repeat tests should be limited to situations where the clinical course is unclear, and at intervals long enough such that the results might affect clinical decision making.
+.A
+Shapiro MF; Greenfield S.

@@ -1,0 +1,15 @@
+ 39926
+.U
+87073616
+.S
+Am J Ophthalmol 8703; 102(6):779-87
+.M
+Case Report; Follow-Up Studies; Human; Infant; Leiomyoma/*CN/PA/RA/SU; Male; Orbital Neoplasms/*CN/PA/RA/SU; Soft Tissue Neoplasms/*CN/PA/RA/SU; Tomography, X-Ray Computed; Ultrasonography.
+.T
+Congenital generalized multicentric myofibromatosis with orbital involvement.
+.P
+JOURNAL ARTICLE.
+.W
+We studied a rare case of congenital myofibromatosis of the orbit as part of a generalized multicentric disease in a 5-month-old boy. The ultrasonographic and computed tomographic findings were those of a low-reflective, firm, vascularized, lesion with heterogeneous internal structure. The histopathologic findings showed vascular channels with large polygonal cells and transition toward myofibroblasts with interwoven collagen fiber bundles.
+.A
+Nasr AM; Blodi FC; Lindahl S; Jinkins J.

@@ -1,0 +1,15 @@
+ 39808
+.U
+87070383
+.S
+Surgery 8703; 100(6):1185-90
+.M
+Adenoma/SU; History of Medicine, 19th Cent.; History of Medicine, 20th Cent.; Human; Hypophysectomy/HI/*MT; Microsurgery/HI/*MT; Pituitary Neoplasms/SU; Sphenoid Sinus; Support, Non-U.S. Gov't.
+.T
+The evolution of transsphenoidal pituitary microsurgery.
+.P
+HISTORICAL ARTICLE; JOURNAL ARTICLE; REVIEW.
+.W
+Serious interest in pituitary disease started 100 years ago when acromegaly was described (1886, Marie). Transcranial pituitary operations soon followed (1889, Horsley). Transnasal operations (1907, Schloffer) were complicated by cerebrospinal fluid leakage and meningitis. Improvements led to definitive transseptal (1910, Cushing and Hirsch) and transethmoidal (1911, Chiari) decompressing surgery for tumors. The mortality rate fell below 10%, and relief, mainly from local effects, often followed, sometimes for many years. By 1930 Cushing and most U.S. surgeons used a transcranial approach because suprasellar lesions were inaccessible from below, but several European surgeons continued to use transsphenoidal operations when appropriate (Hirsch, Dott, and Nager). By 1950 antibiotics had reduced infection, and cortisone soon rendered total hypophysectomy by all routes safe for tumorous and normal glands. Microsurgical transethmosphenoidal hypophysectomy was introduced by ear, nose, and throat surgeons (1957 or 1958, Gisselsson, Riskaer, Bateman, MacBeth, and James). Neurosurgeons introduced intraoperative radiofluoroscopy (1957, Guiot), air encephalography, televised fluoroscopy, microsurgical transseptal hypophysectomy, and selective anterior hypophysectomy (1965, Hardy). Microadenomectomy for lesions invisible radiologically was introduced in 1968 (Hardy). The operative death rate is now negligible. Computerized tomographic scanning helps locate tumors, but increasingly surgeons now regard endocrinologic diagnosis alone as justification for operation. Early outcome is excellent, especially in experienced hands, and particularly for noninvasive tumors, but later results are forthcoming.
+.A
+Welbourn RB.

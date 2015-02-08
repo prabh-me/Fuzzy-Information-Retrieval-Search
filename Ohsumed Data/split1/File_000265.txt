@@ -1,0 +1,15 @@
+ 40051
+.U
+87077794
+.S
+Cancer 8704; 59(1):107-12
+.M
+Adult; Aged; Antibodies, Monoclonal; Carcinoembryonic Antigen/AN; Carcinoma/*PA; Female; Histocytochemistry; Human; Immunoenzyme Techniques; Male; Middle Age; Proto-Oncogene Proteins/AN; Thyroglobulin/AN; Thyroid Neoplasms/*PA.
+.T
+Hurthle cell thyroid tumors. An immunohistochemical study.
+.P
+JOURNAL ARTICLE.
+.W
+Twenty-three Hurthle cell neoplasms of the thyroid were analyzed immunohistochemically for thyroglobulin, carcinoembryonic antigen (CEA), and for immunoreactivity with a monoclonal antibody to p21 ras oncogene product. Both benign and malignant tumors defined by the presence or absence of invasion and metastasis stained positively for thyroglobulin. Most tumors expressed both CEA and p21 ras oncogene product. Clinicopathologic analysis showed that malignant tumors were larger, occurred in slightly older patients (mean age, 52.8 years), and had an almost equal sex distribution, whereas benign tumors were more common in women and occurred in younger patients (mean age, 44.7 years). These results indicate that both benign and malignant Hurthle cell thyroid tumors produce thyroglobulin and express both CEA and p21 ras oncogene product, whereas adjacent normal thyroid tissues showed weak to absent immunoreactivity for p21 ras oncogene product. Because there are no specific immunohistochemical markers to distinguish between benign and malignant Hurthle cell tumors, one needs to rely on traditional histologic features such as invasion and metastasis to distinguish between benign and malignant Hurthle cell neoplasms.
+.A
+Johnson TL; Lloyd RV; Burney RE; Thompson NW.

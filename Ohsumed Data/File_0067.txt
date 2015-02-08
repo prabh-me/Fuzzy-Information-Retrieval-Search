@@ -1,0 +1,13 @@
+ 66
+.U
+87049327
+.S
+ASAIO Trans 8703; 32(1):334-8
+.M
+Adult; Animal; Blood Vessel Prosthesis/*; Cell Survival; Cells, Cultured; Comparative Study; Cross-Linking Reagents/*; Culture Media; Dogs; Endothelium/*CY; Female; Fibronectins/*; Human; Polyesters; Polytetrafluoroethylene; Pregnancy; Species Specificity; Umbilical Veins; Veins.
+.T
+Fluid shear disruption of cultured endothelium: the effect of cell species, fibronectin cross-linking and supporting polymer.
+.P
+JOURNAL ARTICLE.
+.A
+Lundgren CH; Herring MB; Arnold MP; Glover JL; Bendick PJ.

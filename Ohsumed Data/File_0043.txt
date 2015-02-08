@@ -1,0 +1,13 @@
+ 42
+.U
+87049296
+.S
+ASAIO Trans 8703; 32(1):198-200
+.M
+Adult; Aluminum/*AE; Case Report; Deferoxamine/*TU; Fractures/*DT/ET; Hemodialysis/*AE; Human; Humeral Fractures/DT/ET; Humerus/RA; Kidney Failure, Chronic/TH; Male; Osteomalacia/CI/*CO; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Wound Healing/*DE.
+.T
+Fracture healing with deferoxamine therapy in a patient with aluminum-associated osteomalacia.
+.P
+JOURNAL ARTICLE.
+.A
+Phelps KR; Einhorn TA; Vigorita VJ; Lundin AP; Friedman EA.

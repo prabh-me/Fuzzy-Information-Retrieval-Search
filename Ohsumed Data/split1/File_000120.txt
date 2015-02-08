@@ -1,0 +1,15 @@
+ 39906
+.U
+87073490
+.S
+Am J Med 8703; 81(5A):67-73
+.M
+Asthma/DT/PP; Atropine Derivatives/*TU; Bronchodilator Agents/AD/*TU; Comparative Study; Drug Evaluation; Drug Therapy, Combination; Forced Expiratory Volume; Human; Lung Diseases, Obstructive/DT/PP; N-Isopropylatropine/AD/*TU; Time Factors.
+.T
+Concomitant bronchodilator therapy and ipratropium bromide. A clinical review.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+This article reviews the use of ipratropium bromide concomitantly with other bronchodilators, with a focus on its use in patients with asthma. Patients with asthma generally have demonstrated a greater response to the combination of ipratropium and other anti-asthma drugs than to either drug alone. No increase in side effects has been observed when ipratropium has been used in combination with other bronchodilating drugs. Overall, the combination of ipratropium with other agents appears to offer promise in therapy for asthma; further investigation of combinations in larger patient populations is warranted.
+.A
+Chervinsky P.

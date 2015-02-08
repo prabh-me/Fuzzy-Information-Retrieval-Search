@@ -1,0 +1,15 @@
+ 40092
+.U
+87079247
+.S
+Clin Perinatol 8704; 13(4):705-17
+.M
+Abortion, Septic/CO; Disseminated Intravascular Coagulation/*/DI/ET/PP/TH; Embolism, Amniotic Fluid/CO; Female; Fetal Death/CO; Human; Placenta Diseases/CO; Pre-Eclampsia/CO; Pregnancy; Pregnancy Complications, Hematologic/*.
+.T
+The obstetric patient and disseminated intravascular coagulation.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Disseminated intravascular coagulation remains a major problem for the practicing obstetrician. The various etiologies, the pathophysiology, and suggested therapeutic regimens are reviewed.
+.A
+Weiner CP.

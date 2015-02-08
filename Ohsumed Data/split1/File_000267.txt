@@ -1,0 +1,15 @@
+ 40053
+.U
+87077798
+.S
+Cancer 8704; 59(1):134-41
+.M
+Adolescence; Adult; Antigens, Neoplasm/*AN; Carcinoembryonic Antigen/AN; Child; Epithelium/PA; Extremities; Female; Histocytochemistry; Human; Immunoenzyme Techniques; Intermediate Filament Proteins/AN; Male; Membrane Proteins/AN; Middle Age; Neoplasm Recurrence, Local; Peptides/AN; Sarcoma/IM/*PA; Support, Non-U.S. Gov't; Vimentin/AN.
+.T
+Epithelial profile of epithelioid sarcoma. An immunohistochemical analysis of eight cases.
+.P
+JOURNAL ARTICLE.
+.W
+Eight cases of epithelioid sarcoma were examined immunohistochemically, in order to clarify the adjunct epithelial profile of the tumor and to ascertain the intermediate filaments contained in the tumor cells. All tissues showed a strongly positive immunoreactivity for epithelial membrane antigen (EMA) and tissue polypeptide antigen (TPA). In the case of carcinoembryonic antigen (CEA), one showed a strong reaction, whereas the others were variably less stained. Cytokeratins (45 kd and 54 kd) specific for simple epithelia, including coelomic epithelium, were regularly found in all cases; a small number of cells were positive for high molecular weight cytokeratin (57 kd) and none for 66 kd cytokeratin. Coexpression of both cytokeratin and vimentin was confirmed using fresh-frozen materials. Therefore, both microscopic and immunohistochemical evidence supports the hypothesis that epithelioid sarcoma masquerades as a carcinoma.
+.A
+Daimaru Y; Hashimoto H; Tsuneyoshi M; Enjoji M.

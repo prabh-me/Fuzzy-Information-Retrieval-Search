@@ -1,0 +1,15 @@
+ 39912
+.U
+87073499
+.S
+Am J Med 8703; 81(5B):22-8
+.M
+Adult; Age Factors; Aged; Aged, 80 and over; Anti-Inflammatory Agents, Non-Steroidal/ME; Clinical Trials; Comparative Study; Female; Half-Life; Human; Kinetics; Male; Middle Age; Osteoarthritis/DT/ME; Piroxicam/AE/BL/*ME; Sex Factors.
+.T
+Piroxicam pharmacokinetics: recent clinical results relating kinetics and plasma levels to age, sex, and adverse effects.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A large body of data is available regarding the relationship between demographic factors, particularly age, sex, and disease state, and the pharmacokinetics of piroxicam. Of additional interest is the relationship between piroxicam pharmacokinetics (particularly steady-state plasma levels) and adverse effects. Studies with piroxicam that are reviewed herein include studies on kinetics in renal impairment, single-dose studies, multiple-dose studies, and therapeutic drug monitoring studies. Although results were not always consistent, some studies suggested that plasma levels of piroxicam tend to be increased in elderly female patients. However, the increases were small and did not correlate with adverse events. These data suggest that there is no correlation between piroxicam plasma concentrations and adverse events.
+.A
+Hobbs DC.

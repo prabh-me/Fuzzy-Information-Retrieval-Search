@@ -1,0 +1,13 @@
+ 71
+.U
+87049338
+.S
+ASAIO Trans 8703; 32(1):374-6
+.M
+Adult; Aged; Blood Chemical Analysis; Female; Follow-Up Studies; Hemodialysis/*MT; Human; Kidney Failure, Chronic/BL/TH; Male; Middle Age; Support, Non-U.S. Gov't; Time Factors.
+.T
+Short hemodialysis--10-year follow-up.
+.P
+JOURNAL ARTICLE.
+.A
+Raja R; Kramer M; Goldstein S; Caruana R; Lerner A.

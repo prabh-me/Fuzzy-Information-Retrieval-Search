@@ -1,0 +1,15 @@
+ 39997
+.U
+87075003
+.S
+Arch Dis Child 8703; 61(11):1108-10
+.M
+Asthma/*DT; Beclomethasone/*AD/TU; Child, Preschool; Clinical Trials; Double-Blind Method; Female; Human; Infant; Male; Nebulizers and Vaporizers; Support, Non-U.S. Gov't; Suspensions.
+.T
+Nebulised beclomethasone dipropionate suspension.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+We compared nebulised beclomethasone dipropionate suspension against placebo in 16 children with moderately severe asthma in double blind crossover fashion. Three children withdrew due to deterioration while on placebo. Of the remaining 13, eight were better on beclomethasone and five on placebo. These trends in favour of nebulised beclomethasone were not significant and do not suggest that the suspension is as effective as inhaled powder or aerosol topical steroid formulation.
+.A
+Webb MS; Milner AD; Hiller EJ; Henry RL.

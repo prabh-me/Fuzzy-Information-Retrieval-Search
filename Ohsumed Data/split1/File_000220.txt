@@ -1,0 +1,15 @@
+ 40006
+.U
+87075150
+.S
+Ann Thorac Surg 8703; 42(6):711-22
+.M
+Bronchial Diseases/DI/ET; Bronchography; Calculi/DI/ET; Cardiovascular System/RA; Esophagus/RA; Female; Histoplasmosis/CO/DI/*SU; Human; Lung/RA; Lung Diseases, Obstructive/DI/ET; Male; Mediastinum/RA; Pneumonia/DI/ET; Tomography, X-Ray Computed; Trachea/RA.
+.T
+Surgical intervention in histoplasmosis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Histoplasmosis is a ubiquitous disease in endemic areas that has a generally subclinical course. Excessive inflammatory response may bring some patients to the attention of a thoracic surgeon to exclude malignancy of a noncalcified pulmonary or mediastinal mass or to relieve compression of specific structures. Mediastinal granuloma or fibrosing mediastinitis may involve the superior vena cava, pulmonary vessels, heart and pericardium, tracheobronchial tree, or esophagus. The cases of 94 recently treated patients are presented as well as a review of the American surgical literature. The current use of computed tomography, the time and extent of operative intervention, and the role of antifungal therapy are important to an overall understanding of the surgical treatment of the manifestations of histoplasmosis.
+.A
+Garrett HE Jr; Roper CL.

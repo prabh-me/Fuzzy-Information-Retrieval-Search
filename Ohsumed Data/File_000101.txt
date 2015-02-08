@@ -1,0 +1,13 @@
+ 100
+.U
+87049383
+.S
+ASAIO Trans 8703; 32(1):546-9
+.M
+Adolescence; Adult; Aged; Female; Human; Male; Middle Age; Morbidity; Ontario; Peritoneal Dialysis, Continuous Ambulatory/*AE; Peritonitis/EP/*ET/PC; Staphylococcal Infections/EP/*ET/PC; Staphylococcus aureus; Staphylococcus epidermidis; Support, Non-U.S. Gov't.
+.T
+The CAPD peritonitis rate is not improving with time.
+.P
+JOURNAL ARTICLE.
+.A
+Fenton SS; Pei Y; Delmore T; Cattran DC; Bowman C; Johnston N; Campbell I; Clarke WT; Richardson RM.

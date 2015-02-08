@@ -1,0 +1,15 @@
+ 40031
+.U
+87076961
+.S
+Blood 8704; 69(1):264-70
+.M
+Animal; Cell Separation; Immunoenzyme Techniques; Liver/*CY/ME; Male; Rats; Receptors, Transferrin/*ME; Reticulocytes/ME; Support, Non-U.S. Gov't; Transferrin/*ME.
+.T
+Heterogeneous distribution of transferrin receptors on parenchymal and nonparenchymal liver cells: biochemical and morphological evidence.
+.P
+JOURNAL ARTICLE.
+.W
+To investigate which cells of the liver express the receptor for transferrin, isolated rat liver cells produced by collagenase perfusion were fractionated by repeated differential centrifugation to produce hepatocytes (95% + 1%, mean +/- SD, n = 4) and nonparenchymal cells (97% + 1%, n = 3). Saturable, high-affinity binding of 125I-transferrin was demonstrated on intact cells at 4 degrees C, with average receptor numbers 20,900 +/- 3,160 (mean + SD, n = 4) for hepatocytes and 5,500 + 1,520 (n = 3) for nonparenchymal cells. Total cellular receptors measured in detergent permeabilized hepatocytes were 42,000 +/- 18,330 (mean +/- SD, n = 3) per cell and 14,760 +/- 7,120 (n = 3) per cell in the nonparenchymal fraction. Immunocytochemical demonstration of transferrin using antitransferrin, peroxidase antiperoxidase complex confirmed that both cell types bound transferrin. There was heterogeneity of the staining reaction since there was no detectable staining on 40% of hepatocytes and 60% of nonparenchymal cells. Microdensitometric analysis of the staining product corroborated the biochemical evidence that hepatocytes have, on average, more than three times more transferrin receptors than do nonparenchymal cells. These findings support the concept that the hepatocyte has a central role in the uptake and storage of transferrin iron.
+.A
+Vogel W; Bomford A; Young S; Williams R.

@@ -1,0 +1,15 @@
+ 39805
+.U
+87070335
+.S
+Surg Neurol 8703; 27(1):44-6
+.M
+Arterial Occlusive Diseases/*DI/EP; Cerebral Arteries/*; Cerebrovascular Disorders/*DI/EP; Constriction, Pathologic; Female; Human; Japan; North Carolina; Prognosis; Racial Stocks; Ultrasonography.
+.T
+Middle cerebral artery stenosis--a neglected problem?
+.P
+JOURNAL ARTICLE.
+.W
+Transcranial Doppler ultrasonography has great potential for clinical investigations that evaluate flow through the middle cerebral artery in health and disease. This technique will help to elucidate the syndromes of middle cerebral artery stenosis and occlusion, which have been overshadowed by the syndromes of internal carotid artery disease in the past.
+.A
+Toole JF.

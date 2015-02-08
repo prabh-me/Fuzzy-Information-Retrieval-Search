@@ -1,0 +1,15 @@
+ 39930
+.U
+87073654
+.S
+Am J Pathol 8703; 125(2):258-68
+.M
+Animal; Basement Membrane/AN; Bleomycins/*TO; Fluorescent Antibody Technique; Laminin/*AN; Lung/PA/UL; Male; Mice; Mice, Inbred CBA; Microscopy, Electron; Microscopy, Fluorescence; Pulmonary Fibrosis/CI/*PA; Rats; Rats, Inbred F344.
+.T
+Extensive laminin and basement membrane accumulation occurs at the onset of bleomycin-induced rodent pulmonary fibrosis.
+.P
+JOURNAL ARTICLE.
+.W
+The distribution of laminin was studied during pulmonary fibrosis induced in rodents by bleomycin sulfate. Large accumulations of laminin associated with basement membranes were seen in thickened lung interstitial spaces by immunofluorescence microscopy, starting at 7 days (32-75% increases) and persisting through 28 days (66-79% increase). By electron microscopy, these laminin concentrations were skeinlike masses of reduplicated basement membranes localized at the surface of alveolar capillary endothelial cells. Numerous macrophages were also associated with this basement membrane material. These findings suggest that bleomycin-induced damage to lung cells causes massive local accumulations of basement membranes, which might be involved in the expansion of the interstitial stroma by stimulating attachment and activation of certain inflammatory cells.
+.A
+Singer II; Kawka DW; McNally SM; Eiermann GJ; Metzger JM; Peterson LB.

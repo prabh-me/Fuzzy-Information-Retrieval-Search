@@ -1,0 +1,15 @@
+ 40099
+.U
+87079254
+.S
+Clin Perinatol 8704; 13(4):813-25
+.M
+Diagnosis, Differential; Fatty Liver/*/DI/ET/PA/PP/TH; Female; Human; Liver/PA; Pregnancy; Pregnancy Complications/*.
+.T
+Etiology and management of acute fatty liver of pregnancy.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Acute fatty liver of pregnancy (AFLP) remains a problem for which there is no discernible cause. Therefore, a precise definition awaits the discovery or elucidation of its exact etiology. AFLP is best described as acute hepatocellular dysfunction that occurs in pregnancy, generally during the third trimester or the early puerperium. It is characterized histopathologically by changes in the liver consistent with microvesicular fatty infiltration but occurring in a pregnant women with no clearly identifiable etiology. Management tenets include prompt delivery and supportive care of the mother.
+.A
+Snyder RR; Hankins GD.

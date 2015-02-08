@@ -1,0 +1,15 @@
+ 40110
+.U
+87079378
+.S
+Clin Lab Med 8704; 6(4):715-33
+.M
+Medical Records/*ST; Patients/*; Quality Control.
+.T
+Use of patient data for quality control.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+This article discusses how specific patient data algorithms can be used and optimized for laboratory quality control. These algorithms include delta checks, patient averages, and multivariate checks. With the increasing emphasis on cost containment, the intelligent use of these algorithms should become widespread.
+.A
+Cembrowski GS.

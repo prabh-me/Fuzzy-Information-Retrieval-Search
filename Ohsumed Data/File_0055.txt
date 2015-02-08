@@ -1,0 +1,13 @@
+ 54
+.U
+87049312
+.S
+ASAIO Trans 8703; 32(1):274-7
+.M
+Analysis of Variance; Azure Stains; Extracorporeal Circulation/*; Heparin/*BL; Human; Regression Analysis; Stains and Staining.
+.T
+Rapid assay for heparin during extracorporeal circulation.
+.P
+JOURNAL ARTICLE.
+.A
+Ross RL; Whittlesey GC; Splittgerber FH; Salley SO; Klein MD.

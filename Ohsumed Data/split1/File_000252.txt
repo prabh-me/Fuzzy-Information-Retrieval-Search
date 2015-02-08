@@ -1,0 +1,13 @@
+ 40038
+.U
+87077288
+.S
+Br J Radiol 8704; 59(707):1109-10
+.M
+Germany; History of Medicine, 19th Cent.; Human; Lead; Metals; Platinum; Radiation, Ionizing/*HI; Radiometry/HI; X-Rays/*HI.
+.T
+A note on Roentgen's X-ray absorption measurements in 1895.
+.P
+HISTORICAL ARTICLE; HISTORICAL BIOGRAPHY; JOURNAL ARTICLE.
+.A
+Spiers FW.

@@ -1,0 +1,15 @@
+ 39989
+.U
+87074780
+.S
+Antimicrob Agents Chemother 8703; 30(4):574-6
+.M
+Abscess/DT; Animal; Anti-Infective Agents/ME/*TU; Ascitic Fluid/ME; Bacteroides fragilis/DE; Bacteroides Infections/*DT; Ciprofloxacin/*AA/ME/TU; Comparative Study; Escherichia coli/ME; Half-Life; Male; Microbial Sensitivity Tests; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't.
+.T
+Therapeutic evaluation of difloxacin (A-56619) and A-56620 for experimentally induced Bacteroides fragilis-associated intra-abdominal abscess.
+.P
+JOURNAL ARTICLE.
+.W
+Difloxacin (A-56619) and A-56620, two novel fluoroquinolones, were tested in comparison with ciprofloxacin, cefoxitin, and combined clindamycin and gentamicin in the treatment of experimentally induced intraabdominal abscess associated with Bacteroides fragilis. Difloxacin was found to be as effective as clindamycin-gentamicin. A-56620, despite achieving subtherapeutic levels in serum, was found to be as effective as cefoxitin. Both difloxacin and A-56620 were effective in vivo against experimentally induced intra-abdominal abscess in rats.
+.A
+Thadepalli H; Gollapudi SV; Chuah SK.

@@ -1,0 +1,15 @@
+ 39985
+.U
+87074771
+.S
+Antimicrob Agents Chemother 8703; 30(4):528-31
+.M
+Animal; Aortic Valve; Ceftazidime/BL/TU; Ciprofloxacin/BL/*TU; Drug Resistance, Microbial; Endocarditis, Bacterial/*DT; Female; Heart Valve Diseases/DT; Pseudomonas Infections/BL/*DT; Rabbits.
+.T
+Efficacy of ciprofloxacin in experimental aortic valve endocarditis caused by a multiply beta-lactam-resistant variant of Pseudomonas aeruginosa stably derepressed for beta-lactamase production.
+.P
+JOURNAL ARTICLE.
+.W
+The emergence of multi-beta-lactam resistance is a limiting factor in treating invasive Pseudomonas infections with newer cephalosporins. The in vivo efficacy of ciprofloxacin, a new carboxy-quinolone, was evaluated in experimental aortic valve endocarditis caused by a strain of Pseudomonas aeruginosa which is stably derepressed for beta-lactamase production and is resistant to ceftazidime and multiple other beta-lactam agents. A total of 51 catheterized rabbits with aortic catheters in place were infected with this strain and then received no therapy (controls), ceftazidime (75 mg/kg per day), or ciprofloxacin (80 mg/kg per day). Ciprofloxacin sterilized all blood cultures and significantly lowered vegetation densities of P. aeruginosa by day 2 of treatment versus controls (P less than 0.0005) and animals receiving ceftazidime (P less than 0.0005). This beneficial effect of ciprofloxacin was also noted on therapy days 6 and 11. Ciprofloxacin rendered most vegetations (85%) culture negative over the 11-day treatment period and achieved bacteriologic cure in 73% of animals (P less than 0.0005 versus other therapy groups). Ciprofloxacin prevented bacteriologic relapse at 6 days posttherapy. No ciprofloxacin resistance was detected among Pseudomonas isolates from cardiac vegetations. Ciprofloxacin warrants further evaluation in vivo versus multi-drug-resistant gram-negative bacillary infections.
+.A
+Bayer AS; Lindsay P; Yih J; Hirano L; Lee D; Blomquist IK.

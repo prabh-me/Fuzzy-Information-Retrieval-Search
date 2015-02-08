@@ -1,0 +1,15 @@
+ 40105
+.U
+87079373
+.S
+Clin Lab Med 8704; 6(4):649-74
+.M
+Bacteriological Techniques/ST; Bibliography/*; Microbiology/*ST; Quality Control.
+.T
+Quality control in microbiology: a review and bibliography.
+.P
+BIBLIOGRAPHY; JOURNAL ARTICLE; REVIEW.
+.W
+Quality control in microbiology, with the proliferation and widespread usage of commercial identification systems, has largely passed into the hands of the manufacturer. In this review the author attempts to provide a spectrum of information concerning the validity, precision, and specificity of commercially available systems and individual methods for the identification of bacteria, of various types of yeasts, and of bacterial antigens, as well as a review of blood culture systems.
+.A
+Braunstein H.

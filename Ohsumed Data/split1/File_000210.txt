@@ -1,0 +1,15 @@
+ 39996
+.U
+87075002
+.S
+Arch Dis Child 8703; 61(11):1104-7
+.M
+Adolescence; Child; Clinical Trials; Desmopressin/*TU; Double-Blind Method; Enuresis/*DT/UR; Female; Human; Male; Osmolar Concentration.
+.T
+DDAVP and urine osmolality in refractory enuresis.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A double blind crossover trial of 20 micrograms intranasal 1-deamino-8-d-arginine vasopressin (DDAVP) versus placebo was carried out in 17 children with intractable enuresis aged between 6 and 13 years who had failed to respond to drugs and an enuresis alarm. Fluid intake was not restricted. There was a significant reduction in the number of wet nights. Seven children (41%) were cured or showed considerable improvement, with strong evidence against any placebo effect. The best response was seen in children aged 10 years or over and if urine osmolality after DDAVP reached beyond 1000 mmol/kg or was already at this concentration. The degree of overnight rise in urine osmolality after treatment with DDAVP was not predictable but correlated well with the clinical improvement in nocturnal diuresis present in eight of the children. A further 12 children with equally refractory enuresis were given 20 micrograms of the active drug to take during their school journeys or holidays. Six of them had previously normal overnight urine osmolalities with only two successes, but of the six who had nocturnal diuresis before treatment, five became dry, suggesting that DDAVP acts largely by anti-diuresis and might be most useful in children with nocturnal polyuria.
+.A
+Dimson SB.

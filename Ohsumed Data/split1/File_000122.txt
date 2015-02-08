@@ -1,0 +1,15 @@
+ 39908
+.U
+87073493
+.S
+Am J Med 8703; 81(5A):81-90
+.M
+Adult; Aged; Atropine Derivatives/*TU; Bronchodilator Agents/AE/*TU; Clinical Trials; Comparative Study; Female; Forced Expiratory Volume; Human; Lung Diseases, Obstructive/*DT; Male; Middle Age; N-Isopropylatropine/AE/*TU; Orciprenaline/AE/TU; Parasympatholytics/AE/*TU; Smoking; Time Factors; Vital Capacity/DE.
+.T
+Comparison of the anticholinergic bronchodilator ipratropium bromide with metaproterenol in chronic obstructive pulmonary disease. A 90-day multi-center study.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The short- and long-term efficacy and safety of an inhaled quaternary ammonium anticholinergic agent, ipratropium bromide, and a beta agonist aerosol, metaproterenol, were compared in 261 nonatopic patients with chronic obstructive pulmonary disease (COPD). The study was a randomized, double-blind, 90-day, parallel-group trial. On three test days-one, 45, and 90-mean peak responses for forced expiratory volume in one second and forced vital capacity and mean area under the time-response curve were higher for ipratropium than for metaproterenol. Clinical improvement was noted in both treatment groups, especially during the first treatment month, with persistence of improvement throughout the remainder of the study. Side effects were relatively infrequent and generally mild; tremor, a complication of beta agonists, was not reported by any subject receiving ipratropium. These results support the effectiveness and safety of long-term treatment with inhaled ipratropium in COPD.
+.A
+Tashkin DP; Ashutosh K; Bleecker ER; Britt EJ; Cugell DW; Cummiskey JM; DeLorenzo L; Gilman MJ; Gross GN; Gross NJ; et al.

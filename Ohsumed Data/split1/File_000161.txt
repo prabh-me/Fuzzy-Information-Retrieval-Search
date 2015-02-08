@@ -1,0 +1,15 @@
+ 39947
+.U
+87073985
+.S
+Am J Surg 8703; 152(6):717-21
+.M
+Adolescence; Adult; Child; Child, Preschool; Female; Human; Infant; Kidney/*TR; Kidney Transplantation/*; Male; Middle Age; Postoperative Complications/MO/SU; Retrospective Studies.
+.T
+General surgical procedures in renal allograft recipients.
+.P
+JOURNAL ARTICLE.
+.W
+Since elective and emergent nontransplant-related surgical procedures are frequently necessary in renal allograft recipients, it becomes essential to determine the incidence and outcome of these operations in this population. For this reason, a retrospective analysis of 273 consecutive renal transplants performed in 254 patients between January 1978 and November 1985 was accomplished. During this interval, 139 patients underwent 162 nontransplant-related surgical procedures. In the 44 patients who underwent 55 emergent or semiemergent procedures, 8 patients (18 percent) died in the postoperative period. All deaths occurred in patients who underwent major abdominal or thoracic procedures for perforated viscera, gastrointestinal bleeding, or empyema and lung abscess, and all deaths were secondary to sepsis and multiple organ failure. In the survivors of emergent procedures, the mean preoperative and discharge serum creatinine levels were 2.87 mg/dl and 2.82 mg/dl, respectively. In the 95 patients who underwent 107 elective procedures, most of which were performed under general anesthesia, the operative mortality was 4.2 percent. In patients with stable renal allograft function at the time of operation, mean serum creatinine levels preoperatively and at the time of discharge were not significantly different (1.74 mg/dl versus 1.64 mg/dl). In conclusion, emergent operative procedures for intraabdominal or thoracic catastrophes are associated with a high mortality rate in renal allograft recipients. On the other hand, elective surgical procedures can be undertaken with an acceptable mortality rate and no adverse affects on graft function. Of utmost importance in these patients is the close monitoring of the immunosuppressive regimen and the early detection and treatment of potential septic complications.
+.A
+Castaneda MA; Garvin PJ.

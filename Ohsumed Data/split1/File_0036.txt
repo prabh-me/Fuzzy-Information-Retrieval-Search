@@ -1,0 +1,15 @@
+ 39822
+.U
+87070580
+.S
+Thorax 8703; 41(8):606-10
+.M
+Aged; Clinical Trials; Double-Blind Method; Female; Human; Lung/*PP; Lung Diseases, Obstructive/DT/*PP; Male; Middle Age; Peak Expiratory Flow Rate; Prednisolone/TU.
+.T
+Value of serial peak expiratory flow measurements in assessing treatment response in chronic airflow limitation.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A double blind, randomised, placebo controlled, crossover trial of prednisolone (40 mg/day for 14 days) was carried out in 33 patients with chronic airflow limitation (mean age 62 years, mean FEV1 1.01 litres, mean FEV1/FVC ratio 44%), to assess the value of serial peak expiratory flow (PEF) measurements, taken five times daily in evaluating treatment response by comparison with other objective measurements and with measurements of symptoms. The mean serial PEF after a one week run in period was 189 1 min-1, during the second week of placebo 193 1 min-1, and during the second week on prednisolone 231 1 min-1. The difference in mean PEF values between placebo and prednisolone was significant (p less than 0.01). With regard to the response to steroids of the individual patients, 13 of the 33 had a detectable trend of improvement on visual inspection of serial PEF measurements during prednisolone treatment but only one during placebo administration. Of all the objective measurements made after the run in and after each treatment phase (12 minute walking distance, FEV1, forced vital capacity (FVC), serial PEF), the serial PEF chart provided the best discrimination between placebo and prednisolone treatment. There was no statistically significant association between steroid induced improvement in serial PEF measurements and in breathlessness, partly because of placebo improvements in symptoms in those who had no improvement in serial PEF values. This study indicates the importance of making objective measurements to identify a genuine steroid response rather than relying on symptomatic improvement alone. The best simple measurement to make is serial PEF during steroid trials. This is more sensitive in detecting a steroid response than are the 12 minute walking distance, FEV1, or FVC, and is also less likely than these measurements to show spurious placebo responses.
+.A
+Mitchell DM; Gildeh P; Dimond AH; Collins JV.

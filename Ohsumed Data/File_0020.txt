@@ -1,0 +1,13 @@
+ 19
+.U
+87049108
+.S
+Am J Emerg Med 8703; 4(6):574-5
+.M
+Emergency Service, Hospital/*; Human; Thoracic Injuries/*SU; Transportation of Patients/*MT; Wounds, Penetrating/*MO.
+.T
+Emergency department thoracotomy [letter]
+.P
+LETTER.
+.A
+Hoffman JR.

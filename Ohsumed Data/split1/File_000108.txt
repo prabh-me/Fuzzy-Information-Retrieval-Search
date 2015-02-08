@@ -1,0 +1,15 @@
+ 39894
+.U
+87073426
+.S
+Am J Kidney Dis 8703; 8(5):332-7
+.M
+Adult; Azathioprine/TU; Chronic Disease; Creatinine/*ME; Cyclosporins/*AE/TU; Glomerular Filtration Rate/DE; Heart/TR; Heart Transplantation; Human; Inulin/DU; Kidney Diseases/*CI/DI/PP; Kidney Function Tests/*; Kidney Tubules/ME; Renal Circulation/DE.
+.T
+Limitations of creatinine in quantifying the severity of cyclosporine-induced chronic nephropathy.
+.P
+JOURNAL ARTICLE.
+.W
+The glomerular filtration rate (GFR), as measured by the clearance of inulin, was depressed severely in 34 heart transplant recipients receiving cyclosporine (CsA) for 12 months or longer. The clearance of 99mTc-DTPA, a filtration marker similar in size to creatinine, was identical to that of the larger inulin molecule. In contrast, the clearance of creatinine was enhanced (P less than .01) such that its fractional clearance (relative to inulin) averaged 1.51 +/- 0.05. Moreover, there was an inverse relationship between fractional creatinine clearance (r = 0.36, P less than .01) and absolute inulin clearance. We conclude that in CsA-induced chronic nephropathy 99mDTPA and inulin are unrestricted by the glomerular capillary wall and behave as true filtration markers, creatinine is progressively hypersecreted by renal tubules as the nephropathy worsens, and the ensuing enhancement of creatinine clearance over GFR blunts the expected rise in serum creatinine levels as GFR falls. As a result, serum creatinine in chronic CsA-induced glomerulopathy exceeds 2 mg/dL consistently, only after true GFR has become depressed below normal values by two thirds or more.
+.A
+Tomlanovich S; Golbetz H; Perlroth M; Stinson E; Myers BD.

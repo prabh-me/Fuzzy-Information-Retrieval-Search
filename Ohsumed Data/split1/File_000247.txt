@@ -1,0 +1,15 @@
+ 40033
+.U
+87076969
+.S
+Blood 8704; 69(1):308-15
+.M
+Antibody Formation; B-Lymphocytes/*CY/IM; Bone Marrow/CY/*TR; Bone Marrow Transplantation/*; Cell Differentiation; Cell Division; Human; Immunoglobulins/BL; Lymphocyte Transformation; Lymphokines/*PH; Staphylococcus aureus/IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; T-Lymphocytes/*PH.
+.T
+Proliferative and differentiative responses of B cells from human marrow graft recipients to T cell-derived factors.
+.P
+JOURNAL ARTICLE.
+.W
+Upon activation, B cells express growth and differentiation receptors that permit them to proliferate and differentiate. The aim of this study is to define the nature of the intrinsic B cell defects found in marrow recipients using assays for B cell activation, proliferation, and differentiation. B cells from five short-term (less than three months postgrafting) and 15 long-term (greater than one year postgrafting) marrow recipients (ten with and five without chronic graft-v -host disease [GVHD]) were studied. T cell supernatants (T-sup) were prepared by stimulating normal T cells with 12-0-tetradecanoyl-phorbol-13-acetate (TPA) and phytohemagglutinin. Highly purified B cells were used to assess B cell proliferation responses to T-sup after Staphylococcus aureus Cowan I (SAC) activation and for B cell immunoglobulin production responses to T-sup stimulation after SAC activation. B cells from all five short-term patients and one long-term patient with chronic GVHD did not respond to any stimulation. B cells from two patients with chronic GVHD responded to SAC but had decreased proliferative and differentiative responses to T-sup. B cells from three of seven patients with chronic GVHD and two of five long-term healthy patients could proliferate but could not secrete immunoglobulin in response to SAC plus T-sup stimulation. Furthermore, there was a significant correlation between serum IgG and/or IgM in marrow recipients and the differentiative responses of their B cells to T-sup (P = 0.0075, Fisher's Exact). B cell defects occur at various stages of maturation postgrafting. These defects include the failure to respond to the SAC activation signal, the failure to proliferate in response to T-sup, and the failure to differentiate in response to T-sup. These findings are probably due to the inability of B cells from certain marrow recipients to undergo a second round of ontogeny.
+.A
+Matsue K; Lum LG; Witherspoon RP; Storb R.

@@ -1,0 +1,15 @@
+ 39807
+.U
+87070363
+.S
+Surgery 8703; 100(6):1039-47
+.M
+Adult; Aged; Aged, 80 and over; Blood Glucose/AN; Case Report; Chronic Disease; Comparative Study; Diabetes Mellitus, Insulin-Dependent/*BL/DT; Diabetes Mellitus, Non-Insulin-Dependent/*BL/DT; Female; Human; Hyperparathyroidism/*BL/SU; Hyperparathyroidism, Secondary/BL/SU; Insulin/AD; Male; Middle Age; Parathyroid Glands/SU; Postoperative Period.
+.T
+Effect of hyperparathyroidism on the control of diabetes mellitus.
+.P
+JOURNAL ARTICLE.
+.W
+Hyperparathyroidism is associated with abnormalities in glucose tolerance and insulin secretion. To assess the effects of hyperparathyroidism on the control of diabetes mellitus, 56 patients with concomitant hyperparathyroidism and diabetes mellitus were studied before and after parathyroidectomy. Fifty patients (89.3%) had hypercalcemia, and six patients (10.7%) had normocalcemia associated with inappropriately elevated parathyroid hormone. After surgery, three of five patients with insulin-dependent diabetes mellitus showed more than a 50% reduction in insulin requirement. Thirty-nine of 49 patients with noninsulin-dependent diabetes mellitus were followed. Of these, three patients had restoration of normal blood glucose levels without any diabetic treatment including diet restriction. Diabetes control improved in eight parents, remained stable in 18, and deteriorated in 10 patients. In the remaining two patients, impaired glucose tolerance disappeared in one patient and progressed to frank diabetes in the other. Overall 60.7% of the patients improved or remained stable in their diabetes control after parathyroidectomy. We conclude that in patients with hyperparathyroidism, the coexistence of diabetes mellitus might be a further indication for parathyroidectomy. Physicians should be alerted to the possible change in diabetic regimen and the risk of hypoglycemia in patients with diabetes after parathyroidectomy.
+.A
+Cheung PS; Thompson NW; Brothers TE; Vinik AI.

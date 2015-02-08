@@ -1,0 +1,13 @@
+ 35
+.U
+87049287
+.S
+ASAIO Trans 8703; 32(1):163-7
+.M
+Animal; Aorta/PA; Blood Pressure; Cholesterol/BL; Heart Rate; Hypercholesterolemia/PA/PP/*TH; Male; Plasmapheresis/*; Rabbits; Regional Blood Flow.
+.T
+Long-term repetitive plasmapheresis in hypercholesterolemic rabbits.
+.P
+JOURNAL ARTICLE.
+.A
+Kutsumi Y; Fujiwara R; Tamai T; Takai H; Nakai T; Miyabo S.

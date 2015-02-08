@@ -1,0 +1,13 @@
+ 23
+.U
+87049273
+.S
+ASAIO Trans 8703; 32(1):11-6
+.M
+Adult; Aged; Case Report; Comparative Study; Creatinine/ME; Female; Human; Kidney Failure, Chronic/*TH; Male; Middle Age; Peritoneal Dialysis/*; Peritoneal Dialysis, Continuous Ambulatory/*; Ultrafiltration; Urea/ME.
+.T
+Peritoneal dialysis.
+.P
+JOURNAL ARTICLE.
+.A
+Nolph KD; Twardowski ZJ; Khanna R.

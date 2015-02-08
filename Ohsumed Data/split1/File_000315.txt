@@ -1,0 +1,15 @@
+ 40101
+.U
+87079256
+.S
+Clin Perinatol 8704; 13(4):843-52
+.M
+Adrenergic Beta Receptor Agonists/*AE/TU; Cardiovascular Diseases/CI/PP; Cerebral Ischemia/CI/PP; Coronary Disease/CI/PP; Female; Human; Hyperglycemia/CI/PP; Hypotension/CI/PP; Kidney Diseases/CI/PP; Labor, Premature/*PC; Pregnancy; Pregnancy Complications/*CI/PP; Pregnancy Complications, Cardiovascular/CI/PP; Pulmonary Edema/CI/PP.
+.T
+Life-threatening complications of betamimetic therapy for preterm labor inhibition.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Betamimetic administration for inhibition of preterm labor can result in a number of severe complications for the mother. An understanding of clinical situations that increase the risk of complications and suggested treatment of adverse effects are discussed in this review.
+.A
+Benedetti TJ.

@@ -1,0 +1,15 @@
+ 40026
+.U
+87076943
+.S
+Blood 8704; 69(1):150-5
+.M
+Barium/DU; Blood Coagulation/*; Calcium/BL; Cell Line; Factor VII/*ME; Factor X/*ME; Hepatoma/ME; Human; Liver Neoplasms; Macromolecular Systems; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Thromboplastin/*AI/ME.
+.T
+Characterization of the inhibition of tissue factor in serum.
+.P
+JOURNAL ARTICLE.
+.W
+Tissue factor (TF) is a lipoprotein cofactor that markedly enhances the proteolytic activation of factors IX and X by factor VIIa. The functional activity of TF is inhibited by serum in a time- and temperature-dependent fashion. The inhibitory effect is also dependent on the presence of calcium ions and can be reversed by calcium chelation (EDTA) and dilution, thus excluding direct proteolytic destruction of TF as the mechanism for inhibition. Using crude TF, serum immunodepleted of factor VII, and serum depleted of the vitamin K-dependent coagulation factors by BaSO4 absorption, it is shown that TF factor inhibition requires the presence of VII(a), X(a), and an additional moiety contained in barium-absorbed serum. When each of the other required components were at saturating concentrations, half-maximal inhibition of TF occurred in reaction mixtures containing 2% (vol/vol) of TF at a factor VII(a) concentration of 4 ng/mL (80 pmol/L), a factor X concentration of 50 ng/mL (850 pmol/L), and a concentration of barium-absorbed serum of 2.5% (vol/vol). Catalytically active factor Xa appeared to be required for the generation of optimal TF inhibition. The results are consistent with the conclusions of Hjort that barium-absorbed serum contains a moiety that inhibits the VIIa-Ca2+-TF complex. The role of factor X(a) in the generation of the inhibitory phenomenon remains to be elucidated. The inhibitor present in serum (plasma) may in part be produced by the liver in vivo since cultured human hepatoma cells (HepG2) secrete this inhibitory activity in vitro.
+.A
+Broze GJ Jr; Miletich JP.

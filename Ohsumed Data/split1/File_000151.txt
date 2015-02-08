@@ -1,0 +1,15 @@
+ 39937
+.U
+87073855
+.S
+Am J Psychiatry 8703; 143(12):1563-8
+.M
+Adult; Amiloride/PD/*TU; Clinical Trials; Diabetes Insipidus/CI/DT; Female; Human; Hydrochlorothiazide/AE; Hypokalemia/CI; Kidney Concentrating Ability/DE; Lithium/*AE; Male; Middle Age; Polyuria/*CI/DT; Support, Non-U.S. Gov't.
+.T
+Treatment of severe lithium-induced polyuria with amiloride.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+One of the major side effects of lithium is nephrogenic diabetes insipidus. The established treatment for the disorder is thiazide diuretics, which are associated with hypokalemia and reduced lithium excretion, predisposing the patient to lithium toxicity. Amiloride is a new diuretic that reduces lithium-induced polyuria in animals without affecting lithium or potassium levels. The authors found that 10-20 mg/day of amiloride given to eight patients who had become hypokalemic while being treated with hydrochlorothiazide for lithium-induced nephrogenic diabetes insipidus increased renal concentrating ability and reduced polyuria. They conclude that amiloride can be useful in treating lithium-induced nephrogenic diabetes insipidus and merits future randomized clinical trials.
+.A
+Kosten TR; Forrest JN.

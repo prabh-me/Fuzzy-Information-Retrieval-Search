@@ -1,0 +1,15 @@
+ 40087
+.U
+87078805
+.S
+Circulation 8704; 75(1 Pt 2):I81-4
+.M
+Animal; Atenolol/TU; Blood Pressure/DE; Captopril/TU; Heart Enlargement/*ET/PA; Hypertension/*CO/DT/PA; Isoenzymes; Male; Myocardium/EN/PA; Myosin/ME; Rats; Rats, Inbred Strains; Support, U.S. Gov't, P.H.S..
+.T
+Factors regulating myocardial hypertrophy in hypertension.
+.P
+JOURNAL ARTICLE.
+.W
+Evidence for the existence of factor(s) other than blood pressure responsible for modulation of myocardial hypertrophy accompanying hypertension is well documented. A factor that has been isolated from the myocardium of the spontaneously hypertensive rat and partially purified has been shown to stimulate protein synthesis in vitro. Three indexes of protein synthesis, namely incorporation of 3H-leucine into myocyte myosin, specific activity of the leucyl tRNA, and rate of protein synthesis, also were observed to significantly increase on exposure to this factor, which may play a key role in the modulation of myocardial hypertrophy that accompanies hypertension. Evidence has also been presented demonstrating the role of unknown factors that control the shift of myosin isozymes from V1 (a high-ATPase, high-contractile protein type) to V3 (a slow ATPase type myosin), and vice versa. This study demonstrates that the modulation of the myocardial mass can be controlled at different levels: first at an intrinsic intracellular level by the mechanism of a local growth factor, and then at the level of the contractile protein, the quality rather than quantity of which was found to be important. Both of these were observed to be modulated by factor(s) independent of blood pressure and myocardial mass. However, it remains to be determined what is responsible at the genetic level for transmitting the signal that selects what type of protein will be synthesized and whether there is a common pathway among all the controlling factors.
+.A
+Sen S.

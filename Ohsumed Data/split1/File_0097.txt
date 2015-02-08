@@ -1,0 +1,15 @@
+ 39883
+.U
+87073270
+.S
+Am J Clin Pathol 8703; 86(6):756-9
+.M
+Adolescence; Adult; Alkaline Phosphatase/*DU; Blood Cells/*CL; Evaluation Studies; Female; Human; Immunoenzyme Techniques/*ST; Male; Middle Age; T-Lymphocytes/*CL.
+.T
+Enumerating T-cell subsets on blood smears. An evaluation of an indirect immunoalkaline phosphatase method.
+.P
+JOURNAL ARTICLE.
+.W
+Peripheral blood T-lymphocyte subsets in 179 Chinese subjects were enumerated by an indirect immunoalkaline staining method done on ordinary blood smears. Absolute counts (X 10(9)/L) were 1.32 +/- 0.53 (T11), 0.73 +/- 0.31 (T4), 0.45 +/- 0.22 (T8) for males (n = 135) and 1.22 +/- 0.39 (T11), 0.69 +/- 0.20 (T4), 0.44 +/- 0.19 (T8) for females (n = 44). T4:T8 ratio for males and females were 1.79 and 1.58, respectively (0.05 less than P less than 0.10). Within-film area-to-area difference was 4.2 +/- 2.1% (n = 537 films). Interobserver discrepancy was 54 per 3,000 cells counted, or 1.8%. Film-to-film difference was 5.4 +/- 2.6% (30 pairs). T-lymphocyte subsets enumeration by immunostaining blood smears is a simple and reliable alternative to the immunofluorescence method. It avoids procedures that could artifactually affect lymphocyte subsets. The lower T4:T8 ratios revealed in this study could result because of technical reasons.
+.A
+Wong GK; Hui PK; Ng WL; Leong S.

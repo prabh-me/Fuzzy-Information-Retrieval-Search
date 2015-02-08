@@ -1,0 +1,15 @@
+ 39901
+.U
+87073484
+.S
+Am J Med 8703; 81(5A):23-7
+.M
+Animal; Atropine Derivatives/*PD; Bronchodilator Agents/AE/*PD; Cilia/DE/PH; Human; Lung/*DE/PH; Lung Diseases, Obstructive/DT; Mucous Membrane/DE/PH; N-Isopropylatropine/AE/*PD; Parasympatholytics/AE/*PD.
+.T
+Effect of ipratropium bromide on airway mucociliary function.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Airway mucociliary dysfunction leading to a depression of mucus transport has been demonstrated in patients with acute and chronic bronchitis, cystic fibrosis, and bronchial asthma; use of bronchodilators that might further impair mucociliary function, therefore, generally has been discouraged. Atropine and ipratropium bromide are cholinergic antagonists that are effective bronchodilators in various clinical settings. Atropine has been shown to block the production of respiratory secretions in response to cholinergic stimulation, but to have no effect on baseline secretions. Atropine has also been clearly demonstrated to depress ciliary beat frequency and to slow airway mucociliary clearance, whereas the short-term and long-term administration of ipratropium bromide at higher than clinically recommended doses seems to lack these effects. No satisfactory explanation has thus far been offered for this difference between the two cholinergic antagonists. Nevertheless, with respect to airway mucociliary function, ipratropium bromide appears to be preferable to atropine in the treatment of obstructive airways disease.
+.A
+Wanner A.

@@ -1,0 +1,15 @@
+ 40123
+.U
+87079790
+.S
+Chest 8704; 91(1):57-62
+.M
+Adult; Aged; Basement Membrane/PA; Erythromycin/TU; Female; Fluorescent Antibody Technique; Human; Legionnaires' Disease/*CO/DT; Male; Middle Age; Pneumonia/*CO/DT; Pulmonary Fibrosis/DT/*ET/PA; Rifampin/TU; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Pulmonary fibrosis following pneumonia due to acute Legionnaires' disease. Clinical, ultrastructural, and immunofluorescent study.
+.P
+JOURNAL ARTICLE.
+.W
+During a recent nosocomial outbreak, 20 critically ill patients with acute Legionnaires' disease were admitted to the intensive care unit of Hopital Bichat, Paris. Pulmonary specimens were obtained at surgery or immediately after death in 12 patients and were examined by light, immunofluorescent, and electron microscopy. Five of these 12 patients showed evidence of pulmonary fibrosis. In all of these five patients, infection with Legionella pneumophila was evidenced by bacteriologic methods, and other diseases known to cause fibrosis were excluded. The condition of four patients deteriorated rapidly with respiratory failure, and they died with pulmonary fibrosis. Only one patient finally recovered but was left with pulmonary sequelae. Two distinctive morphologic patterns were observed, one in which interstitial fibrosis was predominant and one in which intra-alveolar organization and fibrosis were also present. The alveolar epithelial lining and the basement membranes were disrupted in all patients, as evidenced by ultrastructural observations and by immunofluorescent studies showing gaps in the distribution of type 4 collagen and laminin. Types 1 and 3 collagen accumulated in areas corresponding to thickened interstitium and intra-alveolar fibrosis. Thus, some patients who survive the acute pneumonia of Legionnaires' disease may develop pulmonary fibrosis, and this process may lead to functional impairment or death despite prompt and appropriate treatment.
+.A
+Chastre J; Raghu G; Soler P; Brun P; Basset F; Gibert C.

@@ -1,0 +1,15 @@
+ 39956
+.U
+87074281
+.S
+Angiology 8703; 37(11):846-54
+.M
+Animal; Arterial Occlusive Diseases/*PP; Blood Flow Velocity/*; Dogs; Evaluation Studies; Femoral Artery/RA/SU; Hemodynamics/*; Human; Popliteal Artery/RA/SU; Prognosis; Radiographic Image Enhancement/*; Subtraction Technique/*; Time Factors; Vasculitis/PP.
+.T
+Flow velocity measurement using digital subtraction angiography for hemodynamic evaluation in arterial occlusive disease.
+.P
+JOURNAL ARTICLE.
+.W
+A method for mean flow velocity measurement using digital subtraction angiography (DSA) was evaluated, along with the results of phantom and animal experiments. The validity of its clinical use was studied by applying this technique in the arteries and bypass grafts in patients with arterial occlusive disease. Mean flow velocity was reliably determined by this method, but it could not be used as a determinant of arterial occlusive disease, because of a considerable overlapping between limbs with and without significant arterial lesions. A low value of mean flow velocity was not itself a reliable prognostic indicator of bypass failure. However, measurement of mean flow velocity was valuable in detecting functional abnormalities of the graft.
+.A
+Sakurai T; Yamada I; Ohta T.

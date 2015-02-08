@@ -1,0 +1,13 @@
+ 40001
+.U
+87075110
+.S
+Ann Surg 8703; 204(6):724-5
+.M
+Colonic Diseases/*DI; Human; Immunosuppression/*AE; Intestinal Perforation/*DI; Kidney/*TR; Kidney Transplantation/*; Time Factors.
+.T
+Perforation of the colon in immunosuppressed patients [letter]
+.P
+LETTER.
+.A
+Nghiem DD; Corry RJ.

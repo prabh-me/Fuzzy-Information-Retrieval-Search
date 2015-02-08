@@ -1,0 +1,13 @@
+ 39828
+.U
+87070606
+.S
+Thorax 8703; 41(9):705-6
+.M
+Airway Resistance/*DE; Asthma/*DI; Child; Human; Methacholine Compounds/*DU.
+.T
+Prevalence of bronchial reactivity to inhaled methacholine in New Zealand children [letter]
+.P
+LETTER.
+.A
+Clifford RD; Holgate ST.

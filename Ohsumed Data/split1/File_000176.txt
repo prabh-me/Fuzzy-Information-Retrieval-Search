@@ -1,0 +1,15 @@
+ 39962
+.U
+87074405
+.S
+Am Rev Respir Dis 8703; 134(6):1321-3
+.M
+Aged; Case Report; Diaphragm/*PP; Human; Lung Compliance; Male; Phrenic Nerve; Positive-Pressure Respiration/*; Quadriplegia/PP/TH; Tidal Volume; Transcutaneous Electric Nerve Stimulation.
+.T
+Diaphragm pacing and continuous positive airway pressure.
+.P
+JOURNAL ARTICLE.
+.W
+The effect of changes in continuous positive airway pressure (CPAP) on the tidal volume generation by the diaphragm during electrical stimulation of the phrenic nerves in a quadriplegic patient is presented. Measurements of tidal volume, end-tidal PCO2, arterial PCO2, oxygen consumption, physiologic dead space to tidal volume ratio, diaphragm length, and thoracic and abdominal dimensions were made at values of CPAP from 0 to 20 cm H2O during periods of diaphragm pacing. Total respiratory compliance (TRC) was measured during controlled ventilation with incremental positive end-expiratory pressure (PEEP) from 0 to 20 cm H2O. A significant negative correlation was found between increasing CPAP and generated tidal volumes. This correlation was seen to occur even when TRC was constant at degrees of CPAP from 0 to 7.5 cm H2O. When phrenic nerve stimulation was commenced, oxygen consumption rose significantly from values obtained during controlled ventilation, but there was no significant correlation between changes in CPAP and the rise in oxygen consumption. Using inductance methods, thoracic and abdominal diameters were seen to rise as CPAP was increased. As suggested by the decrease in the length of the vertical and horizontal portions of the diaphragm in the chest roentgenogram, the conformation of the diaphragm also changed. It is suggested that the operating length and conformation of the diaphragm are principal factors affecting tidal volume generation during electrical stimulation of the phrenic nerves.
+.A
+Harpin RP; Gignac SP; Epstein SW; Gallacher WN; Vanderlinden RG.

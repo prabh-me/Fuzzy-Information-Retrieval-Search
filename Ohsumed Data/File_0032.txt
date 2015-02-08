@@ -1,0 +1,13 @@
+ 31
+.U
+87049282
+.S
+ASAIO Trans 8703; 32(1):143-4
+.M
+Human; Membranes, Artificial/*; Middle Ear Ventilation/*/IS; Oxygen; Permeability.
+.T
+Permeation rate to oxygen of membrane tympanostomy tubes.
+.P
+JOURNAL ARTICLE.
+.A
+Rodgers VG; Borovetz HS.

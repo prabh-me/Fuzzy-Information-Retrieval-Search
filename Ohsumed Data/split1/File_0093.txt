@@ -1,0 +1,15 @@
+ 39879
+.U
+87073212
+.S
+Am J Clin Nutr 8703; 44(6):707-17
+.M
+Animal; Atherosclerosis/ET; Dietary Fats/*/AE; Fatty Acids, Essential/AD; Fatty Acids, Unsaturated/*AD/AE; Human; Neoplasms/ET; Nutritive Value; Stereoisomers; United States.
+.T
+Isomeric fatty acids in the US diet: levels and health perspectives.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Data on market size, market share, and compositional changes of various products made from partially hydrogenated fats and oils were used to estimate current, previous, and predicted levels of trans fatty acids in the US diet. Recent literature and various perceptions of the toxicological, physiological, and nutritional effects of trans fatty acids were reviewed. Trans acid availability has changed little during the last 15-20 yr and currently is estimated to be approximately 7.6 g X person-1 X day-1. Modest decreases in total fat intake, including trans fatty acid intake, may occur in the future if consumers adopt certain dietary recommendations. We believe that concerns about possible relationships of trans fatty acids to development of atherosclerotic disease or cancer are not supported by reliable data. Numerous literature accounts support the conclusion that trans fatty acids do not pose any harm to humans or animals consuming a balanced diet containing adequate linoleic acid.
+.A
+Hunter JE; Applewhite TH.

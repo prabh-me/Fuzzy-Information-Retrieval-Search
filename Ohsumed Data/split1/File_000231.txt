@@ -1,0 +1,15 @@
+ 40017
+.U
+87076261
+.S
+Br Heart J 8704; 56(5):450-4
+.M
+Aged; Algorithms; Aortic Valve Stenosis/*PP; Blood Flow Velocity; Blood Pressure; Female; Heart Catheterization; Human; Male; Middle Age; Support, Non-U.S. Gov't; Ultrasonography/*.
+.T
+Non-invasive estimation of the mean pressure difference in aortic stenosis by Doppler ultrasound.
+.P
+JOURNAL ARTICLE.
+.W
+The mean pressure difference across the valve in aortic stenosis is an indicator of the severity of the obstruction to flow. Non-invasive determination of the mean pressure gradient by Doppler ultrasonography is, however, complicated by the squared relation between instantaneous velocities and pressure differences. The validity of a new simple formula for calculation of the mean pressure difference from the peak pressure difference was evaluated in 26 patients with aortic stenosis. The formula is: delta pmean = 0.64 delta ppeak, where delta pmean is the mean pressure gradient and delta ppeak the peak pressure gradient. There was a close correlation between the mean pressure differences determined by application of the formula to the peak pressure differences measured at catheterisation and the mean pressure differences obtained by planimetry (r = 0.97, SEE = 4.7 mm Hg). The correlation between mean pressure differences determined by continuous wave Doppler ultrasound and the formula and those measured by planimetry was also close (r = 0.91, SEE = 7.6 mm Hg) and only three patients showed a difference between the two methods of greater than 10 mm Hg. The new formula is a simple and reliable means of estimating the mean pressure difference from Doppler recordings and it facilitates the comparison of Doppler and catheterisation data.
+.A
+Teien D; Karp K; Eriksson P.

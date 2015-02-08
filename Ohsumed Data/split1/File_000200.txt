@@ -1,0 +1,15 @@
+ 39986
+.U
+87074773
+.S
+Antimicrob Agents Chemother 8703; 30(4):536-41
+.M
+beta-Lactamases/*AN; Amidohydrolases/*AN; Ampicillin; Cephalexin; Chromatography, Thin Layer; Dansyl Compounds; Escherichia coli/EN; Hydrolysis; Penicillin Amidase/*AN; Providencia/EN; Pseudomonas/EN; Support, U.S. Gov't, P.H.S..
+.T
+Two-dimensional thin-layer chromatography for simultaneous detection of bacterial beta-lactam acylases and beta-lactamases.
+.P
+JOURNAL ARTICLE.
+.W
+A rapid and specific procedure was developed for the simultaneous detection of bacterial acylases and beta-lactamases, using ampicillin and cephalexin as substrates. Bacterial suspensions from agar plates were incubated separately with each beta-lactam substrate for 1 h at 37 degrees C. The supernatant of the reaction mixture was dansylated, and the dansyl derivatives were separated by two-dimensional thin-layer chromatography on polyamide sheets. The end products resulting from acylase hydrolysis, including the intact beta-lactam nucleus, 6-aminopenicillanic acid or 7-aminodeacetoxycephalosporanic acid, and the acyl side chain acid, D-(-)-alpha-aminophenylacetic acid, and the end product resulting from beta-lactamase hydrolysis (D-phenylglycylpenicilloic acid or D-phenylglycyldeacetoxycephalosporoic acid) were separated from each unhydrolyzed substrate and amino acids by this procedure. The presence of the intact beta-lactam nucleus in the reaction mixture is the indication of acylase activity. This method is sensitive and reproducible and has been successfully applied to screening for acylase activity in a variety of bacteria. It may be pharmaceutically useful for identifying organisms capable of removing the acyl side chain from naturally occurring beta-lactam antibiotics such as penicillin G, penicillin V, and cephalosporin C for production of the beta-lactam nuclei which serve as the starting materials for semisynthetic beta-lactam antibiotics.
+.A
+Chen KC.

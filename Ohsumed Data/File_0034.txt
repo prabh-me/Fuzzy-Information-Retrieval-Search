@@ -1,0 +1,13 @@
+ 33
+.U
+87049285
+.S
+ASAIO Trans 8703; 32(1):151-6
+.M
+Adhesiveness; Animal; Dogs; Elasticity; Human; Rubber/*; Stress, Mechanical; Surgery; Tissue Adhesives/*.
+.T
+A novel elastomeric surgical adhesive: design, properties, and in vivo performances.
+.P
+JOURNAL ARTICLE.
+.A
+Matsuda T; Itoh T; Yamaguchi T; Iwata H; Hayashi K; Uemura S; Ando T; Adachi S; Nakajima N.

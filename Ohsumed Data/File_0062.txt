@@ -1,0 +1,13 @@
+ 61
+.U
+87049321
+.S
+ASAIO Trans 8703; 32(1):309-14
+.M
+Animal; Blood Vessel Prosthesis/*; Comparative Study; Dogs; Endothelium/CY/UL; Evaluation Studies; Female; Male; Microscopy, Electron, Scanning/MT; Polyesters/*.
+.T
+Evaluation of a new vascular graft prosthesis fabricated from ultrafine polyester fiber.
+.P
+JOURNAL ARTICLE.
+.A
+Noishiki Y; Watanabe K; Okamoto M; Kikuchi Y; Mori Y.

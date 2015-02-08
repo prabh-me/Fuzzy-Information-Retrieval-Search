@@ -1,0 +1,15 @@
+ 40107
+.U
+87079375
+.S
+Clin Lab Med 8704; 6(4):689-96
+.M
+Blood Banks/*ST; Quality Control.
+.T
+Quality control in the blood bank.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+In discussing quality assurance in the blood bank, where many of the standard statistical techniques of measuring accuracy simply do not apply, three questions come to mind: How much? How often? Who says? Because of severe changes in the prospective payment plan and a new interest in cost effectiveness, many transfusion services are re-examining blood banking methodologies and their relative usefulness in promoting patient well-being. Many serologists are beginning to say that "less is better." This concern for simplification and reduction of workload is reflected in the quality control.
+.A
+White KK; Silberstein LE.

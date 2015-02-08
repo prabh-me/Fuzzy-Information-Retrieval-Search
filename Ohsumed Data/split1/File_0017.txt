@@ -1,0 +1,15 @@
+ 39803
+.U
+87070322
+.S
+Surg Gynecol Obstet 8703; 163(6):587-92
+.M
+Abdomen/*SU; Bacterial Infections/*TH; Human; Postoperative Complications.
+.T
+The open management of the septic abdomen.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The mortality rate of severe intra-abdominal infections is still very high. The open management of the abdomen is a method of treatment which has gained popularity over the past few years. Its advantages include a better drainage of the peritoneal cavity, a greater protection of the parietes, an improved perfusion of the abdominal viscera and a decrease in postoperative pulmonary complications. It is indicated in patients with severe intra-abdominal sepsis, especially when multiple re-explorations of the abdomen are likely. A variety of techniques, including the use of Marlex mesh have been devised to contend with possible complications: spontaneous fistulas, exogenous bacterial contamination, evisceration and massive fluid losses. The open method of management has not made the treatment of septic abdomen much easier; it requires intensive care support and repeated assessment of the peritoneal cavity. The closure of the abdomen is a problem which must be addressed when the sepsis has subsided. The value of this technique is still difficult to assess in the absence of controlled randomized trials.
+.A
+Schein M; Saadia R; Decker GG.

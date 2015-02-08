@@ -1,0 +1,13 @@
+ 84
+.U
+87049357
+.S
+ASAIO Trans 8703; 32(1):444-8
+.M
+Animal; Ceramics/*; Comparative Study; Heart Valve Prosthesis/*; Materials Testing/*; Sheep; Support, Non-U.S. Gov't; Venae Cavae/PH.
+.T
+Development of a fine ceramic heart valve for use as a cardiac prosthesis.
+.P
+JOURNAL ARTICLE.
+.A
+Mitamura Y; Mikami T; Yuta T; Matsumoto T; Shimooka T; Okamoto E; Eizuka N; Yamaguchi K.

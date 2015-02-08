@@ -1,0 +1,15 @@
+ 40019
+.U
+87076272
+.S
+Br J Anaesth 8704; 58(12):1357-64
+.M
+Adolescence; Adult; Analgesics, Addictive; Anesthesia, General/*/MO; Anesthesia, Inhalation; Arrhythmia/ET; Child; Heart/*TR; Heart Transplantation/*; Human; Hypotension/ET; Intraoperative Complications/ET; Middle Age; Postoperative Complications/MO; Retrospective Studies.
+.T
+Anaesthesia for heart transplantation. A retrospective study and review.
+.P
+JOURNAL ARTICLE.
+.W
+The anaesthetic records of 261 heart transplant recipients were reviewed. Data collected included demographic characteristics, physical status, results of preoperative cardiac catheterization studies, anaesthetics agents and incidences of complications which may have been related to anaesthetic management. Forty-five patients received a volatile agent (methoxyflurane 31, enflurane 10, halothane 4) and 216 patients were anaesthetized with a high-dose narcotic technique (morphine 122, fentanyl 71, hydromorphone 14, meperidine 9). Hypotension and arrhythmias were correlated with use of volatile and narcotic anaesthetics, respectively. No mortality was associated with anaesthetic management.
+.A
+Demas K; Wyner J; Mihm FG; Samuels S.

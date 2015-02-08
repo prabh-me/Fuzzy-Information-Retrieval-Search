@@ -1,0 +1,15 @@
+ 40020
+.U
+87076274
+.S
+Br J Anaesth 8704; 58(12):1371-5
+.M
+Adult; Clinical Trials; Double-Blind Method; Female; Human; Ibuprofen/*TU; Morphine/TU; Pain, Postoperative/*DT; Support, Non-U.S. Gov't.
+.T
+Ibuprofen in the management of postoperative pain.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The effect of the regular administration of ibuprofen on pain following abdominal surgery was investigated in a double-blind placebo-controlled study. The analgesic action of ibuprofen was measured by a reduction in the amount of morphine self-administered from an On-Demand Analgesic Computer. Pain scores, nausea scores and blood loss were similar in both groups, but patients receiving ibuprofen demanded significantly less morphine in the 24 h after surgery.
+.A
+Owen H; Glavin RJ; Shaw NA.

@@ -1,0 +1,15 @@
+ 2
+.U
+87049088
+.S
+Am J Emerg Med 8703; 4(6):496-500
+.M
+Antidepressive Agents, Tricyclic/*PO; Arrhythmia/PP; California; Electrocardiography; Emergencies; Emergency Service, Hospital/*; Female; Human; Length of Stay; Male; Prognosis; Retrospective Studies; Tachycardia, Sinus/DI/TH.
+.T
+Tricyclic antidepressant overdose: emergency department findings as predictors of clinical course.
+.P
+JOURNAL ARTICLE.
+.W
+There is controversy regarding the appropriate utilization of health care resources in the management of tricyclic antidepressant overdosage. Antidepressant overdose patients presenting to the emergency department (ED) are routinely admitted to intensive care units, but only a small proportion develop cardiac arrhythmias or other complications requiring such an environment. The authors reviewed the findings in 165 patients presenting to an ED with antidepressant overdose. They found that major manifestations of toxicity on ED evaluation (altered mental status, seizures, arrhythmias, and conduction defects) were commonly associated with a complicated hospital course. Patients with the isolated findings of sinus tachycardia or QTc prolongation had no complications. No patient experienced a serious toxic event without major evidence of toxicity on ED evaluation and continued evidence of toxicity during the hospital course. These data support the concept that proper ED evaluation can identify a large body of patients with trivial ingestions who may not require hospital observation.
+.A
+Foulke GE; Albertson TE; Walby WF.

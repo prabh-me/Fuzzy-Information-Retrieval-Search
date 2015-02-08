@@ -1,0 +1,15 @@
+ 39998
+.U
+87075004
+.S
+Arch Dis Child 8703; 61(11):1111-3
+.M
+Administration, Inhalation; Administration, Oral; Albuterol/*AD/TU; Asthma/*DT; Child; Child, Preschool; Chronic Disease; Clinical Trials; Drug Therapy, Combination; Female; Human; Male; Powders; Tablets; Time Factors.
+.T
+Inhalation powder and oral salbutamol combination.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Fifty six children with chronic asthma were treated with the inhaled dry powder of salbutamol or the combination of inhaled and oral salbutamol. Over three months the combination provided a significantly greater sustained symptomatic relief from asthma. Side effects were minimal and did not result in any withdrawals from the study.
+.A
+Dawson KP; Unter CE; Deo S; Fergusson DM.

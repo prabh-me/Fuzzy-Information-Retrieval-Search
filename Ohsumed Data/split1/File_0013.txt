@@ -1,0 +1,15 @@
+ 39799
+.U
+87070302
+.S
+Surg Gynecol Obstet 8703; 163(6):504-8
+.M
+Adenoma/*DI; Adult; Aged; Female; Human; Hyperparathyroidism/*DI; Male; Middle Age; Parathyroid Neoplasms/DI; Preoperative Care; Support, Non-U.S. Gov't; Ultrasonography/*.
+.T
+The role of ultrasonography in the evaluation of primary hyperparathyroidism.
+.P
+JOURNAL ARTICLE.
+.W
+Ultrasonography was used preoperatively in 21 patients with primary hyperparathyroidism in an effort to locate enlarged parathyroid glands. It indicated the presence of a solitary mass compatible with a parathyroid adenoma in 14 patients. At operation, adenomas were found at the location indicated by ultrasonography in 13 of the 14 patients (93 per cent). In seven patients, ultrasonography failed to reveal evidence of a mass of the parathyroid gland. At operation, three had diffuse parathyroid hyperplasia and four had a solitary adenoma. Of the four patients with adenomas undetected by ultrasonography, one patient had an adenoma which had undergone infarction and three had coexisting nodular thyroid gland disease. We concluded that ultrasonography is valuable in the preoperative assessment of patients with primary hyperparathyroidism. This is especially so in the absence of coexisting nodular thyroid gland disease. When positive, ultrasonography accurately locates adenomas, and when negative, it strongly suggests the presence of hyperplasia. This may have clinical application in limiting the extent of dissection and, thereby, reducing the morbidity of parathyroid gland exploration.
+.A
+Dwarakanathan AA; Saclarides TJ; Witt TR; Ryan WG; Katz JM; Mesleh GF; Economou SG.

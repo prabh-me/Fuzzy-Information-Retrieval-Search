@@ -1,0 +1,13 @@
+ 63
+.U
+87049324
+.S
+ASAIO Trans 8703; 32(1):323-6
+.M
+Adsorption; Blood Coagulation/*DE; Blood Coagulation Factors/*ME; Blood Proteins/*ME; Human; IgG/*; Platelet Adhesiveness/*DE; Polyurethanes/*PD; Serum Albumin/*; Support, U.S. Gov't, P.H.S..
+.T
+Reduced platelet adhesion and activation of coagulation factors on polyurethane treated with albumin-IgG complex.
+.P
+JOURNAL ARTICLE.
+.A
+Mohammad SF; Olsen DB.

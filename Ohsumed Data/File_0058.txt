@@ -1,0 +1,13 @@
+ 57
+.U
+87049317
+.S
+ASAIO Trans 8703; 32(1):297-9
+.M
+Animal; Arteriovenous Shunt, Surgical/*/AE; Dogs; Hemodialysis/AE/*MT; Kidney, Artificial/*; Perfusion; Polytetrafluoroethylene/*; Prosthesis Design; Silicones/*; Support, Non-U.S. Gov't; Thrombosis/ET.
+.T
+PTFE-silicone self-sealing dialysis prosthesis.
+.P
+JOURNAL ARTICLE.
+.A
+Schanzer H; Martinelli GP; Bock G; Peirce EC 2d.

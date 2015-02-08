@@ -1,0 +1,15 @@
+ 40054
+.U
+87077807
+.S
+Cancer 8704; 59(1):184-8
+.M
+Adult; Blacks; Cervix Neoplasms/EP; Comparative Study; Female; Florida; Haiti/EH; Hepatoma/EP; Human; Liver Neoplasms/EP; Lymphoma, Large-Cell/EP; Male; Middle Age; Nasopharyngeal Neoplasms/EP; Neoplasms/*EP; Sarcoma, Kaposi's/EP; United States/EH.
+.T
+Cancer among Haitians in Florida.
+.P
+JOURNAL ARTICLE.
+.W
+Data on cancer rates from West Indian populations are scarce, and to the authors' knowledge there are no published data on cancer rates and distributions among Haitians. Proportional distributions of cancers among three groups of patients living in Florida were compared: Haitian born blacks, United States born blacks, and non-Haitian Caribbean born blacks. The incidence rate of cancer of the cervix among the Haitian and United States born black groups was also compared. Increased rates of certain malignancies associated with viral infection or immunodeficiency were found in the Haitian group. These tumors were hepatocellular carcinoma, nasopharyngeal carcinoma, reticulum cell sarcoma, Kaposi's sarcoma, and carcinoma of the uterine cervix. The age-adjusted incidence rate of carcinoma of the cervix was especially high among Haitian women even with a liberal estimate of the female Haitian population from whom the cases were drawn. Except for cancer of the cervix, the numbers of cancers of interest were small, and age-adjusted incidence rates were not calculated. Continued epidemiological study of larger numbers of patients is needed to evaluate these findings further.
+.A
+Pitchenik AE; Becker DM; Hilsenbeck SG; Trapido EJ.

@@ -1,0 +1,15 @@
+ 39941
+.U
+87073933
+.S
+Am J Trop Med Hyg 8703; 35(6):1129-33
+.M
+Giardia/GD/*PH; Giardiasis/BL/IM/PS; Microbiological Techniques; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Giardia lamblia: a culture method for determining parasite viability.
+.P
+JOURNAL ARTICLE.
+.W
+A simple, quantitative method has been developed to assess the viability of Giardia lamblia trophozoites after exposure to a potentially lethal agent. This method utilizes the ability of trophozoites which remain viable to replicate and multiply. In this study, the percent dead trophozoites after incubation in 20% fresh human serum was determined first by morphologic criteria and then by the ability of parasites to multiply in fresh medium over 48 hr. Using the number of parasites after 48 hr of growth, the original number of dead trophozoites in the serum-exposed samples was determined by extrapolation from a standard growth curve. Ten sera which killed from 7% to 89% of trophozoites by morphologic criteria, killed 8% to 92% using the culture method; these two assays for viability correlated highly (r = 0.96). Use of the culture assay allows the assessment of the lethal effects of serum and can be applied both to the study of other host defense mechanisms on Giardia trophozoites and to antimicrobial susceptibility testing.
+.A
+Hill DR; Pohl R; Pearson RD.

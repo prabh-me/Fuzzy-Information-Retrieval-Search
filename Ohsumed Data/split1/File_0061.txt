@@ -1,0 +1,15 @@
+ 39847
+.U
+87071086
+.S
+Transplant Proc 8703; 18(6 Suppl 5):46-9
+.M
+Bile/*AN; Chromatography, High Pressure Liquid; Cyclosporins/AN/*ME; Liver/TR; Liver Diseases/ME; Liver Transplantation; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Excretion of cyclosporine and its metabolites in human bile.
+.P
+JOURNAL ARTICLE.
+.W
+Quantitative and qualitative studies of cyclosporine and its metabolites were performed on human bile from liver transplant and liver disease patients. The concentration of CsA in bile is higher in patients with normal liver function than in those with poor liver function but in neither case could account for more than 2% of an absorbed dose of CsA. Although concentrations of CsA plus metabolites in bile measured by RIA were 18 to 36 times higher than HPLC concentrations, they accounted for less than 50% of an absorbed CsA dose. By means of mass spectrometry and HPLC retention times of known metabolites, peaks equivalent to the previously isolated CsA M8, M13, M17, M1, M18, and M21 of Maurer et al were found in the ether extracts of bile. Future studies should not only concentrate on the pharmacologic and toxicologic effects of the metabolites but should also accurately quantitate these compounds in blood, plasma, urine, and bile.
+.A
+Burckart GJ; Starzl TE; Venkataramanan R; Hashim H; Wong L; Wang P; Makowka L; Zeevi A; Ptachcinski RJ; Knapp JE; et al.

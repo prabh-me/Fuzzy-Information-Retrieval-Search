@@ -1,0 +1,15 @@
+ 39819
+.U
+87070561
+.S
+Thorax 8703; 41(7):508-12
+.M
+Adolescence; Adult; Anemia, Aplastic/IM/PP/TH; Bone Marrow/*TR; Bone Marrow Transplantation/*; Child; Comparative Study; Female; Graft vs Host Disease/IM; Human; Leukemia, Myeloid/IM/TH; Lung/IM/*PP; Lung Diseases/*ET/IM; Lung Diseases, Obstructive/ET/PP; Male; Respiratory Function Tests.
+.T
+Lung function changes after allogenic bone marrow transplantation.
+.P
+JOURNAL ARTICLE.
+.W
+The lung function of 21 patients with leukaemia (11 with acute myeloid leukaemia, six with acute lymphatic leukaemia, four with chronic myeloid leukaemia) and of five with severe aplastic anaemia was tested before and after allogenic bone marrow transplantation. Vital capacity (VC) was lowered in patients with leukaemia before transplantation. VC and FEV1 fell significantly after transplantation. Residual volume (RV) and RV as a percentage of total lung capacity (RV % TLC) were already increased and rose significantly after transplantation. Patients with severe aplastic anaemia had noticeably increased RV and RV % TLC, values that did not change after transplantation. In contrast to the patients with aplastic anaemia, the patients with leukaemia had significantly reduced VC, RV, RV % TLC, and FEV1 before and after transplantation. The specific airway resistance (sRaw) was raised significantly before and after transplantation in the leukaemic patients. In addition, transfer coefficient (Kco) fell significantly more after transplantation in the patients with leukaemia than in those with severe aplastic anaemia. In three patients with histologically established obstructive bronchiolitis in conjunction with chronic graft versus host disease after transplantation, VC, FEV1 and FEV1 % VC fell, while RV, RV % TLC, and sRaw rose; Kco was far below normal. On the basis of these findings it is concluded that in patients with leukaemia obstructive disorders of ventilation develop or, if they are already present, worsen. In patients with severe aplastic anaemia lung function was not impaired in the early phase after transplantation. These differences are probably due to the more intensive immunosuppressive and cytotoxic preparatory regimen before transplantation in the leukaemic patients. Obstructive bronchiolitis, a complication of graft versus host disease, first manifests itself in a typical rise in specific airway resistance and must be treated early.
+.A
+Link H; Reinhard U; Blaurock M; Ostendorf P.

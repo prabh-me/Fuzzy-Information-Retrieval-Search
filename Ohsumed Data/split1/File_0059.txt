@@ -1,0 +1,13 @@
+ 39845
+.U
+87071080
+.S
+Transplant Proc 8703; 18(6 Suppl 5):252-6
+.M
+Cyclosporins/*PD; Cytotoxicity, Immunologic/DE; Graft Rejection/DE; Human; Kidney/*TR; Kidney Transplantation/*; Leukocyte Culture Test, Mixed; Support, Non-U.S. Gov't; Time Factors.
+.T
+Analysis of the immunologic and pharmacodynamic effects of cyclosporine following renal transplantation.
+.P
+JOURNAL ARTICLE.
+.A
+Keown PA; Coles R; Flechner I; Stawecki M; Stiller CR.

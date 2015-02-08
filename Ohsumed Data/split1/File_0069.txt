@@ -1,0 +1,13 @@
+ 39855
+.U
+87071791
+.S
+West J Med 8703; 145(4):481-4
+.M
+Clinical Trials; Esophageal and Gastric Varices/*TH; Gastrointestinal Hemorrhage/PC/*TH; Human; Random Allocation; Sclerosing Solutions/AE/*TU.
+.T
+Sclerotherapy for bleeding esophageal varices after randomized trials.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE; REVIEW.
+.A
+Lieberman DA.

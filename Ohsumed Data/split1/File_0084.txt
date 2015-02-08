@@ -1,0 +1,15 @@
+ 39870
+.U
+87073052
+.S
+AJR Am J Roentgenol 8703; 148(1):219-27
+.M
+Contrast Media; Human; Informed Consent/*LJ; Malpractice/*LJ; Radiology/*; United States.
+.T
+An overview of informed consent for radiologists.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Because of the procedure-oriented nature of their specialty, radiologists obtain informed consent from patients daily. This paper attempts to help the radiologist obtain informed consent without incurring malpractice liability by discussing the important legal concept of simple consent as distinguished from informed consent, the elements a patient must prove to succeed in court with an allegation of lack of informed consent, the varying state requirements about the amount of information the patient must be given, the persons who must obtain consent from the patient, and the persons who can give consent for the patient. Consent for IV injections of contrast medium and consent forms are discussed because of the current controversy on these subjects. Courts and state legislatures have usually addressed only specific aspects of informed consent. However, except for the amount of information that must be given the patient, the courts have been relatively uniform in their requirements. Therefore, it is likely that a state court faced with issues of informed consent about which no law exists in their own state will use the existing law in other states as a precedent and adopt similar rules. However, each radiologist must be familiar with the specific rules for informed consent that have been developed by the courts and legislatures in the state in which he or she practices.
+.A
+Reuter SR.

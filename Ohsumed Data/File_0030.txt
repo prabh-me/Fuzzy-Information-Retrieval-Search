@@ -1,0 +1,13 @@
+ 29
+.U
+87049280
+.S
+ASAIO Trans 8703; 32(1):134-7
+.M
+Animal; Artificial Organs/*; Hypocalcemia/*TH; Microscopy, Electron; Parathyroid Glands/CY/*TR/UL; Peritoneal Cavity; Rats; Rats, Inbred Strains.
+.T
+A bioartificial parathyroid.
+.P
+JOURNAL ARTICLE.
+.A
+Aebischer P; Russell PC; Christenson L; Panol G; Monchik JM; Galletti PM.

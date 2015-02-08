@@ -1,0 +1,15 @@
+ 38
+.U
+87049292
+.S
+ASAIO Trans 8703; 32(1):181-3
+.M
+Animal; Arteries/ME/*SU; Collagen/BI; Dogs; Hydroxyproline/BI; Laser Surgery/*; Support, U.S. Gov't, P.H.S.; Tensile Strength; Veins/ME/*SU.
+.T
+Laser welding of large diameter arteries and veins.
+.P
+JOURNAL ARTICLE.
+.W
+Based on our preliminary studies and the results of this study, we conclude that argon laser welding of 4-8 mm internal diameter veins, arteries, and arteriovenous fistulas may have several potential advantages compared to conventional suture techniques. The benefits of laser repairs may include improved mechanical properties, and absence of the foreign body response related to sutures. Laser welding is sterile, nontactile and possibly time conserving, and the wounds heal rapidly without aneurysms or excess tissue proliferation.
+.A
+White RA; Kopchok G; Donayre C; Lyons R; White G; Klein SR; Abergel RP; Uitto J.

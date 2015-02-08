@@ -1,0 +1,15 @@
+ 39902
+.U
+87073485
+.S
+Am J Med 8703; 81(5A):28-35
+.M
+Adrenergic Beta Receptor Agonists/*PD; Aerosols; Asthma/DT/ME; Biological Transport/DE; Bronchodilator Agents/PD; Comparative Study; Epithelium/DE/ME; Human; Lung/*DE/ME; Mucous Membrane/DE/ME; Mucus/DE/ME; Parasympatholytics/*PD; Smoking; Stimulation, Chemical; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..
+.T
+Airway mucus membrane: effects of beta-adrenergic and anticholinergic stimulation.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Mucus hypersecretion and non-continuous clearance of tracheobronchial mucus contribute to airflow obstruction in several pulmonary disease entities. Bronchospasm, which is frequently associated with bronchial asthma, can present simultaneously with mucus transport abnormalities. Therapy designed to dilate airways may produce secondary effects, which are deleterious to effective transport of lung mucus. Sympathomimetic agents, such as beta-adrenergic agonists, reduce the tone of bronchial smooth muscle and enhance the flow of mucus within lung airways. Parasympatholytic agents also improve airflow in the lungs, but their effects at the mucus membrane of the airways may not be beneficial. Atropine, an anticholinergic agent, apparently has dose-dependent effects on human mucociliary function and, administered orally, can reduce large airway mucus transport. However, newer anticholinergic agents, such as ipratropium bromide, are effective bronchodilators and do not exhibit unfavorable effects on lung mucus transport in either subjects with normal mucus secretion or those with hypersecretory disease entities, such as bronchitis. In mildly symptomatic asthmatic patients, aerosolized ipratropium decreased airway obstruction without consistent positive or negative influence on lung mucociliary function.
+.A
+Foster WM; Bergofsky EH.

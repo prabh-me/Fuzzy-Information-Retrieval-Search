@@ -1,0 +1,13 @@
+ 39953
+.U
+87074235
+.S
+Anesthesiology 8703; 65(6):642-53
+.M
+Anesthesia/*HI/MT; Anesthesiology/IS; Europe; Great Britain; History of Medicine, 20th Cent.; Military Medicine/*HI; United States; War/*HI.
+.T
+Anesthesia on the Western Front: the Anglo-American experience of World War I.
+.P
+HISTORICAL ARTICLE; JOURNAL ARTICLE.
+.A
+Courington FW; Calverley RK.

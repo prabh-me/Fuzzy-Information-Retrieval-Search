@@ -1,0 +1,15 @@
+ 40065
+.U
+87077844
+.S
+Cancer 8704; 59(3):501-5
+.M
+Carcinoma/IM/*PA; Human; Immunoenzyme Techniques; Langerhans Cells/*PA; Macrophages/PA; Muramidase/AN; Nerve Tissue Protein S 100/AN; Prognosis; Stomach Neoplasms/IM/*PA.
+.T
+Langerhans cells and prognosis in patients with gastric carcinoma.
+.P
+JOURNAL ARTICLE.
+.W
+Infiltration of Langerhans cells (LC) and macrophages into tumor tissues was investigated using immunohistochemical methods, anti-S-100 protein and anti-lysozyme antibodies in 174 cases of gastric carcinoma. Varying population densities of S-100-positive LC were noted in tumor tissues; lysozyme-positive macrophages, however, were found in almost equal quantities. LC were mainly interspersed among the tumor cells, whereas macrophages were present in the stroma and around the necrotic foci. Although the survival time of patients with Stage I, II or IV gastric carcinoma did not relate to the density of LC, survival time in Stage III patients correlated well with the density of LC. In patients with a marked infiltration of LC, survival time was longer than in cases of only a slight infiltration (P less than 0.001). Therefore, LC in immunological defense mechanisms of the host against the tumor may be clinically effective in a certain phase of tumor development.
+.A
+Tsujitani S; Furukawa T; Tamada R; Okamura T; Yasumoto K; Sugimachi K.

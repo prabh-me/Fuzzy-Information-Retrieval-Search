@@ -1,0 +1,15 @@
+ 40041
+.U
+87077346
+.S
+Br J Surg 8704; 73(12):1015-7
+.M
+Aged; Comparative Study; Human; Middle Age; Neoplasm Invasiveness; Neoplasm Staging; Prospective Studies; Rectal Neoplasms/*PA/RA; Rectum/*PA/RA; Support, Non-U.S. Gov't; Tomography, X-Ray Computed/*; Ultrasonography/*.
+.T
+Pre-operative assessment of local invasion in rectal cancer: digital examination, endoluminal sonography or computed tomography?
+.P
+JOURNAL ARTICLE.
+.W
+Forty-four patients with primary rectal cancers and six patients with benign rectal lesions were examined pre-operatively digitally, with endorectal sonography (ELU) and also computed tomography (CT). Digital examination of the rectal cancers had an overall accuracy of 68 per cent and predicted invasion beyond the muscularis propria with a sensitivity of 68 per cent, specificity of 83 per cent, positive predictive value of 100 per cent and negative predictive value of 46 per cent. In comparison CT had an accuracy of 82 per cent, sensitivity of 86 per cent, specificity of 62 per cent, positive predictive value of 91 per cent and negative predictive value of 50 per cent. ELU was the most reliable indicator of local invasion in rectal cancer when compared with postoperative histopathology with an accuracy of 91 per cent, sensitivity of 94 per cent, specificity of 87 per cent, positive predictive value of 97 per cent and negative predictive value of 78 per cent.
+.A
+Beynon J; Mortensen NJ; Foy DM; Channer JL; Virjee J; Goddard P.

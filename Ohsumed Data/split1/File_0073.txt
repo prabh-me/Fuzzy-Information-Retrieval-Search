@@ -1,0 +1,13 @@
+ 39859
+.U
+87071809
+.S
+West J Med 8703; 145(4):535-6
+.M
+Economic Competition/*; Economics/*; Human; Medicare; Prospective Payment Assessment Commission; Prospective Payment System; Reimbursement Mechanisms/*; Reimbursement, Incentive/*; United States.
+.T
+Competition incentives--smaller carrot, bigger stick.
+.P
+JOURNAL ARTICLE.
+.A
+White CH.

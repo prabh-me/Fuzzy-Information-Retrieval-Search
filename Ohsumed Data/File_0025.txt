@@ -1,0 +1,13 @@
+ 24
+.U
+87049275
+.S
+ASAIO Trans 8703; 32(1):114-9
+.M
+Animal; Carotid Arteries/*TR/UL; Collagen/*AN; Compliance; Delayed-Action Preparations; Dogs; Heparin/AD/AN/*TU; Microscopy, Electron, Scanning.
+.T
+Development of a small caliber vascular graft by a new crosslinking method incorporating slow heparin release collagen and natural tissue compliance.
+.P
+JOURNAL ARTICLE.
+.A
+Noishiki Y; Miyata T; Kodaira K.

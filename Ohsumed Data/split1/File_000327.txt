@@ -1,0 +1,15 @@
+ 40113
+.U
+87079382
+.S
+Clin Lab Med 8704; 6(4):787-98
+.M
+Accident Prevention/*; Documentation/*; Laboratories/*ST.
+.T
+Documentation of safe work practices in the clinical laboratory.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The safety manual supplemented by explicit safety statements in the laboratory procedure manual should specify the hazards and containment methods for personnel. Control of fire hazards, biohazards, and chemical hazards are specifically addressed along with waste management and radionuclide consideration. Suggestions for incorporation of safety training into the laboratory's continuing education program are provided.
+.A
+Hoeltge GA.

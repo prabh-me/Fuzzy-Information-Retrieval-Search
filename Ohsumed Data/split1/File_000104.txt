@@ -1,0 +1,13 @@
+ 39890
+.U
+87073357
+.S
+Am J Gastroenterol 8703; 81(12):1125-37
+.M
+Anthelmintics/TU; Antiprotozoal Agents/TU; Helminthiasis/DT; Human; Intestinal Diseases, Parasitic/*DT; Protozoan Infections/DT.
+.T
+Drug therapy of gastrointestinal parasitic infections. The ACG Committee of FDA-related matters.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Turner JA.

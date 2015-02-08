@@ -1,0 +1,15 @@
+ 4
+.U
+87049090
+.S
+Am J Emerg Med 8703; 4(6):504-6
+.M
+Adolescence; Adult; Aged; Blood Glucose/*ME; Diabetes Mellitus/BL; Emergencies; Female; Glucose/*AD; Human; Hypoglycemia/*TH; Male; Middle Age; Prospective Studies; Solutions.
+.T
+Serum glucose changes after administration of 50% dextrose solution: pre- and in-hospital calculations.
+.P
+JOURNAL ARTICLE.
+.W
+A prospective clinical trial was conducted to estimate the rise in serum glucose level after an intravenous bolus of 50 ml of 50% dextrose solution (D-50) in the emergency department setting. Fifty one subjects with altered levels of consciousness were studied. Of these, 23 patients were known diabetics, and 28 were not diabetic. The change in glucose level for the total study group ranged from a low of 37 mg/dl to a high of 370 mg/dl, with a mean of 166 +/- 77 mg/dl. The mean for the diabetic and non-diabetic groups were 177 +/- 80 mg/dl and 154 +/- 75 mg/dl. These results suggest that serum glucose levels cannot be quantitatively predicted after a single intravenous bolus of D-50.
+.A
+Adler PM.

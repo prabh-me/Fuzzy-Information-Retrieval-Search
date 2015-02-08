@@ -1,0 +1,13 @@
+ 39878
+.U
+87073202
+.S
+Am J Cardiol 8703; 58(13):1271-2
+.M
+Bibliography/*; Cardiology/*; Textbooks.
+.T
+Some good cardiologic books published in 1986.
+.P
+BIBLIOGRAPHY; JOURNAL ARTICLE.
+.A
+Roberts WC.

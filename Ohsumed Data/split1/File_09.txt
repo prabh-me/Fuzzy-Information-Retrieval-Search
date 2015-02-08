@@ -1,0 +1,15 @@
+ 39795
+.U
+87070037
+.S
+South Med J 8703; 79(12):1585-7
+.M
+Aged; Carcinoma in Situ/*PA; Carcinoma, Squamous Cell/*PA/SU; Case Report; Female; Human; Middle Age; Neoplasm Recurrence, Local/SU; Postoperative Complications/*; Skin/TR; Skin Transplantation; Surgery, Plastic; Vagina/*SU; Vaginal Neoplasms/*PA/SU.
+.T
+Malignancy arising in the transplanted vagina.
+.P
+JOURNAL ARTICLE.
+.W
+With the increasing use of radical surgery for genital carcinoma in younger women, vaginal reconstruction is likely to be done more commonly. One of the complications to be considered is neoplasia arising in the vaginal graft. We have reported two cases of squamous cell carcinoma arising in a neovagina three years and four years after grafting, respectively. Both were detected by routine cytologic smears, emphasizing the importance of close follow-up after creating a neovagina.
+.A
+Wheelock JB; Schneider V; Goplerud DR.

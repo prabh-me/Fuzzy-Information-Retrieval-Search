@@ -1,0 +1,15 @@
+ 40086
+.U
+87078798
+.S
+Circulation 8704; 75(1 Pt 2):I40-7
+.M
+Animal; Blood Pressure/*; Collagen/*ME; Heart/PP; Heart Enlargement/*ME/PA/PP; Myocardium/*ME/PA.
+.T
+Collagen in the hypertrophied, pressure-overloaded myocardium.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The extracellular structural protein, collagen, is responsible for the functional integrity of the myocardium permitting reversible interdigitation and transmission of force between contracting myocytes. In the pressure-overloaded, hypertrophied myocardium, clinical and experimental evidence indicates that the proportion of collagen relative to muscle is increased. Factors that appear to influence collagen growth during the hypertrophic process include age, species, the rapidity with which the overload occurs, the nature of the lesion leading to the pressure-overload, and the severity and duration of the overload. Morphologically, the heart's collagen matrix consists of a complex weave with tendinous insertions that surrounds myocytes grouping them into myofibers, strands of collagen that connect adjoining myofibers, and collagenous struts that join myocytes to other myocytes and capillaries. In a primate preparation of perinephritis with systemic hypertension, it was observed that the tendinous elements of the weave and the strands of collagen lying between myofibers were increased in number and physical dimension. The functional consequences of a remodeling of the collagen matrix that accompanied myocardial hypertrophy remain to be elucidated. A better understanding of the dynamic behavior of the collagen matrix may offer new insights into the pathogenesis of ventricular dysfunction that accompanies the chronic pressure-overloaded state.
+.A
+Weber KT; Janicki JS; Pick R; Abrahams C; Shroff SG; Bashey RI; Chen RM.

@@ -1,0 +1,13 @@
+ 40121
+.U
+87079764
+.S
+Chest 8704; 91(1):118-27
+.M
+Human; Lung Diseases/*CO/PA; Myocardial Diseases/*CO/PA; Scleroderma, Systemic/*CO/PA; Support, Non-U.S. Gov't.
+.T
+Cardiopulmonary manifestations of systemic sclerosis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Owens GR; Follansbee WP.

@@ -1,0 +1,13 @@
+ 39963
+.U
+87074408
+.S
+Am Rev Respir Dis 8703; 134(6):1331
+.M
+Bronchi/*DE; Human; Methacholine Compounds/*AI.
+.T
+Factors that contribute to inhibition of methacholine-induced bronchoconstriction [letter]
+.P
+LETTER.
+.A
+Zamel N; Szalai JP.

@@ -1,0 +1,15 @@
+ 39898
+.U
+87073437
+.S
+Am J Hum Genet 8703; 39(5):612-7
+.M
+Adenylate Kinase/*GE; ABO Blood-Group System/*GE; Chromosome Abnormalities/*GE; Chromosome Deletion; Chromosome Mapping; Chromosomes, Human, Pair 9/*UL; Crossing Over (Genetics); Genetic Markers; Human; Orosomucoid/*GE; Pedigree; Phosphotransferases, ATP/*GE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Segregation of marker loci in families with an inherited paracentric insertion of chromosome 9.
+.P
+JOURNAL ARTICLE.
+.W
+Cytogenetic, enzyme dosage, serological, and electrophoretic analyses of blood samples from members of three Newfoundland kindreds in which one specific paracentric insertion chromosome inv ins(9)(q22.1q34.3q34.1) is segregating provide data indicating that ABO lies in 9q22.1-q34.3, AK1 in 9q34.1-q34.3, and ORM in 9q34.3-qter.
+.A
+Allderdice PW; Kaita H; Lewis M; McAlpine PJ; Wong P; Anderson J; Giblett ER.

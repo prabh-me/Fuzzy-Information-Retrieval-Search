@@ -1,0 +1,15 @@
+ 39911
+.U
+87073497
+.S
+Am J Med 8703; 81(5B):15-21
+.M
+Adult; Age Factors; Aged; Clinical Trials; Comparative Study; Female; Gastrointestinal Hemorrhage/CI; Great Britain; Human; Ibuprofen/AE/TU; Information Systems; Male; Middle Age; Naproxen/AE/TU; Norway; Osteoarthritis/DT; Peptic Ulcer/CI; Piroxicam/AE/*TU; Product Surveillance, Postmarketing.
+.T
+Clinical benefits and comparative safety of piroxicam. Analysis of worldwide clinical trials data.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+In response to concerns raised about the safety of piroxicam, Pfizer Inc. has reviewed three sets of data that constitute the largest body of current evidence regarding the efficacy and safety of piroxicam. First, data from all comparative clinical trials of piroxicam worldwide sponsored by Pfizer Inc. are reviewed with regard to safety issues, with particular attention to gastrointestinal side effects and safety among elderly patients. Second, the principal findings of a large Norwegian multicenter trial of piroxicam and naproxen, comprising 2,035 patients, are summarized. Finally, the worldwide database of more than 77,000 patients monitored in postmarketing surveillance studies is examined to assess gastrointestinal side effects and the relation of age and sex to these adverse events. There is no evidence in any of the comparative clinical data or postmarketing surveillance data to indicate that piroxicam has greater risks of gastrointestinal toxicity than do other nonsteroidal anti-inflammatory drugs, irrespective of patient age.
+.A
+Meisel AD.

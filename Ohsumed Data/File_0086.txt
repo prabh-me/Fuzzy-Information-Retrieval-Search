@@ -1,0 +1,15 @@
+ 85
+.U
+87049360
+.S
+ASAIO Trans 8703; 32(1):46-8
+.M
+Animal; Assisted Circulation/*IS; Cattle; Heart Rate; Heart-Assist Devices/*IS/MT; Hemoglobins/AN; Male; Postoperative Care; Support, Non-U.S. Gov't; Time Factors.
+.T
+Roller screw electric motor ventricular assist device.
+.P
+JOURNAL ARTICLE.
+.W
+The roller screw electric VAD is easier to manufacture and 25% lighter than the previously described drum cam model. This device requires 12 to 15 W to pump 6 to 8 l/min with minimal hemolysis. The motor drive has functioned for periods up to 93 days in vivo with no measurable wear. The compliance chamber volume varies by 100 cc during VAD function but does so while maintaining pressure variations below 15 mmHg. Compliance chamber volume loss of 2 to 5 cc/day is explained by gas transport through SPU. The subcutaneous sampling port provides ready access to the sealed system.
+.A
+Richenbacher WE; Pae WE Jr; Magovern JA; Rosenberg G; Snyder AJ; Pierce WS.

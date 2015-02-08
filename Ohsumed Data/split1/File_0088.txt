@@ -1,0 +1,15 @@
+ 39874
+.U
+87073133
+.S
+Am Heart J 8703; 112(6):1263-70
+.M
+Adolescence; Aortic Coarctation/CO/*DI/SU; Catecholamines/BL; Child; Child, Preschool; Comparative Study; Echocardiography; Exercise Test; Exertion/*; Female; Hemodynamics; Human; Hypertension/ET/PP; Lactates/BL; Male; Postoperative Complications/ET/PP; Renin/BL; Rest; Support, Non-U.S. Gov't.
+.T
+Exercise in children before and after coarctectomy: hemodynamic, echocardiographic, and biochemical assessment.
+.P
+JOURNAL ARTICLE.
+.W
+After repair of coarctation of the aorta, some patients with normal blood pressure at rest have an exaggerated hypertensive response to activity. Blood pressure response to exercise was studied in 15 children, aged 5 to 15 years, prior to and at periods up to 6 months following coarctectomy. Preoperatively, 11 of 15 children had systolic hypertension at rest and 12 of 15 after exercise. After surgery, only one child had mild systolic hypertension at rest, whereas exercise-induced hypertension persisted in 33% of patients (all older than 10 years). Exercise plasma renin activity was elevated preoperatively but normalized following surgery. No significant difference was seen in resting and exercise plasma catecholamine levels measured before and after surgery. Over the follow-up period of 6 months, echocardiographic evidence of left ventricular hypertrophy regressed in the younger patients but not in the older patients with exercise-induced hypertension. Exercise testing defines a subgroup of patients with exercise-induced hypertension evident soon after surgery. Structural upper segment arterial vessel wall changes in the older patient may explain these observations.
+.A
+Pelech AN; Kartodihardjo W; Balfe JA; Balfe JW; Olley PM; Leenen FH.

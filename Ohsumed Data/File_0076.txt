@@ -1,0 +1,13 @@
+ 75
+.U
+87049345
+.S
+ASAIO Trans 8703; 32(1):397-400
+.M
+Animal; Blood/*; Cattle; Electrolytes/BL; Membranes, Artificial/*; Microscopy, Electron, Scanning; Permeability; Polytetrafluoroethylene/*; Water.
+.T
+Extraction of solute-free water from blood by membrane distillation.
+.P
+JOURNAL ARTICLE.
+.A
+Sakai K; Muroi T; Ozawa K; Takesawa S; Tamura M; Nakane T.

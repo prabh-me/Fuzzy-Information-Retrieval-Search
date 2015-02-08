@@ -1,0 +1,15 @@
+ 39793
+.U
+87070035
+.S
+South Med J 8703; 79(12):1578-82
+.M
+alpha Fetoproteins/AN; Adult; Case Report; Female; Hepatectomy; Hepatoma/DI/PA/*SU; Human; Liver Neoplasms/DI/PA/*SU; Neoplasm Recurrence, Local/PA/*SU; Reoperation.
+.T
+Resection of metachronous hepatocellular carcinomas.
+.P
+JOURNAL ARTICLE.
+.W
+We have described the rare case of a woman with no recognized predisposing factors for hepatocellular carcinoma in whom a second hepatic neoplasm was successfully resected nine years after a presumed "curative" partial hepatectomy. The importance of long-term measurements of available tumor markers as well as aggressive surgical management is emphasized.
+.A
+Gordon SC; Reddy KR; Zeppa R; Jeffers LJ; Schiff ER.

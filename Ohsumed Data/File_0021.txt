@@ -1,0 +1,13 @@
+ 20
+.U
+87049109
+.S
+Am J Emerg Med 8703; 4(6):575-7
+.M
+Adult; Career Choice/*; Emergency Medicine/*ED; Female; Goals; Human; Internship and Residency/*; Male.
+.T
+Academic aspirations of residents.
+.P
+JOURNAL ARTICLE.
+.A
+Lundberg T; Hedges JR.

@@ -1,0 +1,15 @@
+ 39794
+.U
+87070036
+.S
+South Med J 8703; 79(12):1582-4
+.M
+Adult; Aneurysm, Infected/*RA; Aorta, Abdominal/RA; Aortic Aneurysm/*DI; Brachiocephalic Trunk/*/RA; Case Report; Diagnosis, Differential; Female; Granuloma/RA; Human; Tuberculosis, Cardiovascular/*RA.
+.T
+Multiple pseudoaneurysms in a tuberculous patient.
+.P
+JOURNAL ARTICLE.
+.W
+I have presented the case of a 20-year-old woman with tuberculous pseudoaneurysm of the innominate artery associated with another pseudoaneurysm of the abdominal aorta. I believe this is the first report of such a case in the literature.
+.A
+Abaskaron M.

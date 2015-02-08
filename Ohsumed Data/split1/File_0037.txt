@@ -1,0 +1,15 @@
+ 39823
+.U
+87070581
+.S
+Thorax 8703; 41(8):611-5
+.M
+Aged; Anoxia/DT/ET; Clinical Trials; Dose-Response Relationship, Drug; Exertion; Female; Human; Lung Diseases, Obstructive/ET/*TH; Male; Middle Age; Oxygen/AD; Oxygen Inhalation Therapy/*MT; Random Allocation; Support, Non-U.S. Gov't.
+.T
+Short burst oxygen treatment for breathlessness in chronic obstructive airways disease.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Most patients with chronic obstructive lung disease prescribed oxygen at home by their family doctor use it for short periods when they feel breathless. Many patients are normoxic. Nineteen patients with advanced disease and variable hypoxaemia undertook exercise until they indicated severe breathlessness on a 100 mm visual analogue scale. Air, 67% oxygen, and air delivered from a cylinder in an identical manner to the oxygen were randomly administered during the recovery periods. Respiratory rate, heart rate and oxygen and carbon dioxide tensions, estimated by transcutaneous electrodes (tcPo2, tcPco2), were measured throughout the exercise and recovery periods. The mean recovery time for breathlessness as judged by visual analogue score was significantly shorter when oxygen was used than during placebo or air recovery (p less than 0.05). The rates of return to baseline levels of respiratory and heart rates were not significantly affected by the gas inhaled. No placebo effect was detectable. It was not possible to select good responders from the results of prior physiological tests. In seven patients the study was repeated after an interval of between one week and a year. The consistency of observed response to oxygen was poor. Although recovery judged by visual analogue scores showed some consistency within individual patients and greater overall consistency than heart rate or respiratory rate, the direction of change in recovery judged by visual analogue score after the breathing of oxygen was variable. The change during the breathing of oxygen was towards improvement in both studies in three patients and towards deterioration in both studies in one patient, and it showed no consistent direction of change in the remaining three patients. It is difficult to determine which patients will derive substantial and reproducible benefit from short burst oxygen but their numbers are probably small. The results cast doubt on the justification for the current widespread prescription of oxygen cylinders for occasional use.
+.A
+Evans TW; Waterhouse JC; Carter A; Nicholl JF; Howard P.

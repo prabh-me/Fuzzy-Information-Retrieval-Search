@@ -1,0 +1,15 @@
+ 40122
+.U
+87079788
+.S
+Chest 8704; 91(1):5-9
+.M
+Aged; Asthma/CO/*DT; Bronchitis/CO/*DT; Clinical Trials; Coronary Disease/CO/*DT; Extrasystole/CI; Female; Heart Rate/DE; Human; Male; Middle Age; Random Allocation; Support, Non-U.S. Gov't; Theophylline/AE/TU; Xanthines/AE/BL/*TU.
+.T
+Arrhythmogenicity from combined bronchodilator therapy in patients with obstructive lung disease and concomitant ischemic heart disease.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Twenty-four patients (five women) aged 53-72 yr with both ischemic heart disease and asthma or chronic bronchitis receiving oral beta 2-agonists also received additional bronchodilating therapy with theophylline (600 mg daily), enprofylline (600 mg daily) or placebo. The study was double-blind, randomized, triple-crossover with each regimen given for two weeks. Holter monitoring was used during 48 consecutive hours in each period. Compared with placebo, addition of theophylline and enprofylline were associated with an increased mean hourly heart rate of 6 bpm (p less than 0.001). A small, but statistically significant (p less than 0.05) increase in mean hourly frequency of premature ventricular beats (PVBs) occurred with enprofylline as compared with placebo. However, in only two patients with enprofylline (and one patient with theophylline) the increase in PVBs was such that a clinically relevant proarrhythmic effect seems possible. Furthermore, ventricular tachycardia was not more frequently observed with any xanthine than with placebo. Thus, combined oral bronchodilator therapy is not contraindicated in patients with obstructive lung disease and concomitant ischemic heart disease. Holter monitoring is recommended to assess the individual patient's response to such therapy.
+.A
+Conradson TB; Eklundh G; Olofsson B; Pahlm O; Persson G.

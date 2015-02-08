@@ -1,0 +1,15 @@
+ 39854
+.U
+87071395
+.S
+Urology 8703; 28(6):540-5
+.M
+Adult; Aged; Human; Male; Middle Age; Penile Induration/*DI; Ultrasonography/*.
+.T
+Ultrasound imaging in Peyronie disease.
+.P
+JOURNAL ARTICLE.
+.W
+Fifty-three patients with Peyronie disease were examined sonographically. The use of a water path facilitates good localization and measurement of the fibrotic plaques in the area of the tunica albuginea. Calcifications can be clearly detected. Penile sonography is painless, free of risk, and easy to perform and yields precise morphologic pictures. It is ideal for documentation and assessment of the anatomic alterations in Peyronie disease as well as for control of its course.
+.A
+Hamm B; Friedrich M; Kelami A.

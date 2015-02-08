@@ -1,0 +1,13 @@
+ 56
+.U
+87049314
+.S
+ASAIO Trans 8703; 32(1):282-7
+.M
+Bioprosthesis/*ST; Heart Valve Prosthesis/*ST; Human; Prosthesis Design; Quality Control; Stress, Mechanical.
+.T
+Mechanical factors influencing the durability of heart valve pericardial bioprostheses.
+.P
+JOURNAL ARTICLE.
+.A
+Gabbay S; Bortolotti U; Josif M.

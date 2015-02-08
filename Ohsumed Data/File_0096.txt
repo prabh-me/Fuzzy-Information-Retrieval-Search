@@ -1,0 +1,13 @@
+ 95
+.U
+87049375
+.S
+ASAIO Trans 8703; 32(1):515-20
+.M
+Animal; Dogs; Fibrinogen/AN; Implants, Artificial/*AE; Microscopy, Electron, Scanning; Oxidation-Reduction; Platelet Aggregation; Polyethylenes/*AE; Regional Blood Flow/*; Support, U.S. Gov't, P.H.S.; Thrombosis/*ET.
+.T
+Blood flow and surface-induced thrombosis.
+.P
+JOURNAL ARTICLE.
+.A
+Grasel TG; Wilson RS; Lelah MD; Bielich HW; Cooper SL.

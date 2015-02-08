@@ -1,0 +1,13 @@
+ 39922
+.U
+87073600
+.S
+Am J Obstet Gynecol 8703; 155(6):1362-3
+.M
+alpha Fetoproteins/*AN; Down's Syndrome/*DI; Female; Fetal Diseases/*DI; Human; Pregnancy; Prenatal Diagnosis.
+.T
+Maternal serum alpha-fetoprotein screening and Down's syndrome [letter]
+.P
+LETTER.
+.A
+Wu LR.

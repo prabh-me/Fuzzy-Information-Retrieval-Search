@@ -1,0 +1,15 @@
+ 39924
+.U
+87073611
+.S
+Am J Ophthalmol 8703; 102(6):750-8
+.M
+Animal; Cells/UL; Eye Proteins/*ME; Foreign-Body Reaction/ME/PA; Lenses, Intraocular/*; Microscopy, Electron, Scanning; Postoperative Period; Rabbits; Support, Non-U.S. Gov't; Time Factors.
+.T
+The proteinaceous coating and cytology of implant lenses in rabbits.
+.P
+JOURNAL ARTICLE.
+.W
+We performed extracapsular lens extraction with implantation of a J-loop posterior chamber lens in 14 rabbit eyes. Postoperatively, the animals were examined by slit lamp. They were killed after varying survival times of up to 12 weeks, and the implants were examined by scanning electron microscopy. Three days after the operation a thin amorphous coating that did not consist of collagen was found covering all implants. Three cell types were present on the coating: macrophages, leukocytes, and flattened giant cells. This coating resembled morphologically the fibronectin coating on intraocular lenses in vitro.
+.A
+Kappelhof JP; Pameyer JH; De Jong PT; Jongkind JF; Vrensen GF.

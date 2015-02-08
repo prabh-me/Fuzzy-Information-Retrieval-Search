@@ -1,0 +1,15 @@
+ 40025
+.U
+87076933
+.S
+Blood 8704; 69(1):1-6
+.M
+Anemia, Sickle Cell/GE; Hemoglobins/*/GE; Human; Isoelectric Point; Macromolecular Systems; Phenotype; Thalassemia/GE.
+.T
+Subunit assembly of hemoglobin: an important determinant of hematologic phenotype.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Hemoglobin's physiologic properties depend on the orderly assembly of its subunits in erythropoietic cells. The biosynthesis of alpha- and beta-globin polypeptide chains is normally balanced. Heme rapidly binds to the globin subunit, either during translation or shortly thereafter. The formation of the alpha beta-dimer is facilitated by electrostatic attraction of a positively charged alpha-subunit to a negatively charged beta-subunit. The alpha beta-dimer dissociates extremely slowly. The difference between the rate of dissociation of alpha beta- and alpha gamma-dimers with increasing pH explains the well-known alkaline resistance of Hb F. Two dimers combine to form the functioning alpha 2 beta 2-tetramer. This model of hemoglobin assembly explains the different levels of positively charged and negatively charged mutant hemoglobins that are encountered in heterozygotes and the effect of alpha-thalassemia and heme deficiency states in modifying the level of the variant hemoglobin as well as Hb A2. Electrostatic interactions also affect the binding of hemoglobin to the cytoplasmic surface of the red cell membrane and may underlie the formation of target cells. Enhanced binding of positively charged variants such as S and C trigger a normally dormant pathway for potassium and water loss. Thus, the positive charge on beta c is responsible for the two major contributors to the pathogenesis of Hb SC disease: increased proportion of Hb S and increased intracellular hemoglobin concentration. It is likely that electrostatic interactions play an important role in the assembly of a number of other multisubunit macromolecules, including membrane receptors, cytoskeletal proteins, and DNA binding proteins.
+.A
+Bunn HF.

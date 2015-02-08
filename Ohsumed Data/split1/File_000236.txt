@@ -1,0 +1,15 @@
+ 40022
+.U
+87076388
+.S
+Br J Dermatol 8704; 115(5):577-82
+.M
+Clinical Trials; Double-Blind Method; Drug Administration Schedule; Etretinate/*AD/AE; Female; Foot Dermatoses/*DT; Hand Dermatoses/*DT; Human; Male; Psoriasis/*DT; Random Allocation; Support, Non-U.S. Gov't.
+.T
+Low-dose etretinate in the maintenance of remission of palmoplantar pustular psoriasis.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Twenty patients with palmoplantar pustular psoriasis were treated initially for 4 weeks with 70 mg etretinate daily. This led to clinical improvement and a significant fall in pustule count. The patients were then allocated randomly to 30 mg etretinate daily or placebo for a further 12 weeks. There was a rapid deterioration in the clinical condition and a rise in pustule count in the placebo group. The etretinate-treated group still showed clinical improvement and a significantly lower pustule count after 12 weeks. Clinical side-effects were few and adverse effects on liver function and serum lipids were not found.
+.A
+White SI; Puttick L; Marks JM.

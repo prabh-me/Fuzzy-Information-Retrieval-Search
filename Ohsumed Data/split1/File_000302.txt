@@ -1,0 +1,15 @@
+ 40088
+.U
+87079103
+.S
+Clin Orthop 8704;  (214):11-8
+.M
+Biomechanics; Bone Plates; Bone Screws; Bone Wires; Finger Injuries/*SU; Fracture Fixation, Internal/*; Fracture Fixation, Intramedullary; Fractures/*SU; Hand Injuries/*SU; Human; Metacarpus/*IN.
+.T
+Biomechanics of small bone fixation.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+When the correct techniques are used, fixation with plates and screws is biomechanically the strongest fixation available for small bone (hand) fractures. With appropriate preoperative planning and surgical application, plate and screw fixation is rigid enough to withstand the stresses of early use. It is therefore a useful and reliable technique when early motion is desired after open reduction and internal fixation of small bone fractures.
+.A
+Jones WW.

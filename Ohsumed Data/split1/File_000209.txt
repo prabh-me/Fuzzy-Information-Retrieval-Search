@@ -1,0 +1,15 @@
+ 39995
+.U
+87075000
+.S
+Arch Dis Child 8703; 61(11):1096-9
+.M
+Asphyxia Neonatorum/CO/*DI; Brain Diseases/*DI/ET; Human; Infant, Newborn; Prognosis; Thalamus/*PA; Ultrasonography/*.
+.T
+Sonographic finding of the bright thalamus.
+.P
+JOURNAL ARTICLE.
+.W
+Six of 83 asphyxiated neonates showed a diffuse increase of echodensity in bilateral thalami with or without other lesions in the basal ganglia on sonographic examination. The thalamic image still had a fairly high echogenecity compared with the surrounding brain parenchyma on follow up examination and was hence termed the bright thalamus. These six patients had a poor neurological outcome, including psychomotor retardation, spastic diplegia or quadriplegia, microcephaly, failure to thrive, seizures, and one death. The bright thalamus is not an occasional or an isolated sonographic finding of hypoxic-ischaemic encephalopathy, but it may serve as a landmark of severe hypoxic brain damage with adverse outcome.
+.A
+Shen EY; Huang CC; Chyou SC; Hung HY; Hsu CH; Huang FY.

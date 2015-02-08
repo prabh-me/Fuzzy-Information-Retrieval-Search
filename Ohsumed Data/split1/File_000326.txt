@@ -1,0 +1,15 @@
+ 40112
+.U
+87079381
+.S
+Clin Lab Med 8704; 6(4):755-85
+.M
+Costs and Cost Analysis; Laboratories/EC/*ST; Quality Control.
+.T
+Controlling the cost of quality control.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+In the present era of expanding technology coexisting with economic constraint, appropriate quality control criteria to monitor laboratory performance must take into consideration not only analytic precision and medical utility, but also cost effectiveness. In this review, the effect of existing criteria on the clinical laboratory, the regulator, and the vendor is explored. Factors that contribute to excessive quality control cost are delineated. Strategies for developing a cost-effective quality control program are proposed.
+.A
+Woo J; Schifreen RS; Winkelman JW.

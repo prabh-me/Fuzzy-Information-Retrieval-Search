@@ -1,0 +1,15 @@
+ 39978
+.U
+87074565
+.S
+Ann Otol Rhinol Laryngol 8703; 95(6 Pt 1):645-6
+.M
+Adolescence; Adult; Anesthesia, General; Bone and Bones/TR; Bone Transplantation; Human; Methods; Periosteum/TR; Rhinitis, Atrophic/*SU; Surgical Flaps/*.
+.T
+Osteoperiosteal flap in the treatment of ozena. New technique.
+.P
+JOURNAL ARTICLE.
+.W
+An osteoperiosteal flap taken from the anterior wall of the maxilla and pedicled on its periosteum was developed to narrow the nasal cavity of 15 patients with ozena. Good results were obtained in over 80% of cases. Crusting, fetor, and epistaxis disappeared. The nasal mucosa appeared healthy. The bulge in the lateral nasal wall persisted. The method is not liable to graft rejection or shrinkage. The advantages of this new technique are discussed.
+.A
+Rasmy E.

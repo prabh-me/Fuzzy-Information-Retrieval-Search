@@ -1,0 +1,15 @@
+ 39954
+.U
+87074274
+.S
+Angiology 8703; 37(11):797-800
+.M
+Age Factors; Aged; Arteriosclerosis/*DI/ET; Carotid Artery Diseases/*DI/ET; Cholesterol/BL; Female; Human; Hyperlipoproteinemia/*CO; Male; Middle Age; Triglycerides/BL; Ultrasonography.
+.T
+Arteriosclerotic carotid lesions in hyperlipoproteinemia.
+.P
+JOURNAL ARTICLE.
+.W
+An ultrasonographic study was performed in 187 hyperlipoproteinemia patients to evaluate the incidence of atheromatous lesions in the extracranial carotid tract. A high-resolution, real-time, B-mode instrument with two probes (4- and 8-MHz) was used. Fifty-five subjects had high blood cholesterol levels, 70 high triglyceride values, and 62 both. Arteriosclerotic disease was present at other sites in 39% of the patients. Atheromatous carotid lesions were revealed in 37% of the patients, and there seemed to be no significant correlation with the type of hyperlipoproteinemia. There was also no correlation between blood cholesterol levels and the presence or absence of atheromatous lesions. Increasing age and arteriosclerotic disease at other sites were the factors most frequently associated with atheromatous lesions in the extracranial carotid tract.
+.A
+Mannarino E; Susta A; Tazza D; Pistola L; Senin U.

@@ -1,0 +1,15 @@
+ 39904
+.U
+87073488
+.S
+Am J Med 8703; 81(5A):55-60
+.M
+Aging/DE; Asthma/*DT/ET; Atropine Derivatives/*TU; Bronchial Provocation Tests; Bronchodilator Agents/AE/TU; Comparative Study; Drug Evaluation; Human; N-Isopropylatropine/AE/*TU; Occupational Diseases/DT; Sex Characteristics; Smoking.
+.T
+Ipratropium bromide in asthma. A review of the literature.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+In comparative studies of asthma, ipratropium bromide has been shown to have a slower onset of bronchodilator action but a longer duration of effect than beta agonists. An additive effect of ipratropium and beta agonists has been demonstrated, in addition to prolongation of the bronchodilator response. Most studies do not show a definite difference in responsiveness of atopic versus nonatopic asthmatic patients; there are, however, reports indicating a greater responsiveness to anticholinergic agents than to beta agonists in patients with chronic bronchitis and emphysema. Ipratropium has been shown not to affect mucociliary clearance, sputum volume, or viscosity. It effectively inhibits the bronchial response to methacholine and, to a lesser degree, to histamine, serotonin, bradykinin, and antigen. Protection against exercise-induced asthma with this drug has been variable, but ipratropium has been found particularly useful in psychogenic asthma. Its role in occupational asthma remains to be determined.
+.A
+Schlueter DP.

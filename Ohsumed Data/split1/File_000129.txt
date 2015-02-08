@@ -1,0 +1,15 @@
+ 39915
+.U
+87073504
+.S
+Am J Med 8703; 81(5B):6-10
+.M
+Adult; Age Factors; Aged; Aged, 80 and over; Clinical Trials; Comparative Study; Double-Blind Method; Drug Administration Schedule; Female; Gastrointestinal Diseases/CI; Gastrointestinal Hemorrhage/CI; Human; Male; Middle Age; Naproxen/AD/AE/TU; Norway; Osteoarthritis/*DT; Peptic Ulcer/CI; Piroxicam/AD/AE/*TU; Random Allocation; Sex Factors.
+.T
+The Norwegian multicenter study.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The largest multicenter, double-blind trial comparing piroxicam with naproxen in the treatment of osteoarthritis has recently been conducted in Norway. More than 2,000 patients were enrolled in the 12-week study. Both drugs showed similar efficacy, and serious gastrointestinal side effects occurred in less than 1 percent of the patients taking either agent. These findings are similar to results with other nonsteroidal anti-inflammatory drugs. This study indicates that in the treatment of osteoarthritis, piroxicam is as effective as naproxen and poses no greater risk of serious gastrointestinal side effects.
+.A
+Husby G.

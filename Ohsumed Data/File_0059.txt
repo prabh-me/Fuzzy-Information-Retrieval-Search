@@ -1,0 +1,13 @@
+ 58
+.U
+87049318
+.S
+ASAIO Trans 8703; 32(1):30-4
+.M
+Alloys/*; Animal; Anticoagulants/TU; Blood Pressure; Blood Vessel Prosthesis/*; Dogs; Monitoring, Physiologic; Prosthesis Design; Support, Non-U.S. Gov't.
+.T
+Nonsurgical implantation of a vascular ring prosthesis using thermal shape memory Ti/Ni alloy (Nitinol wire).
+.P
+JOURNAL ARTICLE.
+.A
+Sugita Y; Shimomitsu T; Oku T; Murabayashi S; Kambic HE; Harasaki H; Shirey E; Golding L; Nose Y.

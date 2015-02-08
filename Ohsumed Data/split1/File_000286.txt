@@ -1,0 +1,15 @@
+ 40072
+.U
+87078759
+.S
+Circulation 8704; 75(1):213-20
+.M
+Adrenergic Beta Receptor Blockaders/TU; Adult; Aged; Aortic Valve Insufficiency/BL/*DT/PP; Clinical Trials; Comparative Study; Exercise Test; Exertion/*DE; Female; Heart Ventricle/DE/PP; Hemodynamics/DE; Human; Male; Middle Age; Mitral Valve Insufficiency/BL/*DT/PP; Myocardial Diseases/BL/*DT/PP; Norepinephrine/*BL; Propanolamines/*TU; Sympathetic Nervous System/DE.
+.T
+Hemodynamic effects of the beta 1-adrenoceptor partial agonist xamoterol in relation to plasma norepinephrine levels during exercise in patients with left ventricular dysfunction.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A new cardioselective beta 1-adrenoceptor partial agonist, xamoterol, has been developed for the treatment of heart failure, especially that associated with ischemic heart disease. To investigate the hemodynamic effect of xamoterol in relation to sympathetic nervous activity, hemodynamic variables and plasma norepinephrine (NE) levels were measured at rest and during three graded bicycle exercise tests before and after a single intravenous dose of 0.15 mg/kg xamoterol in 10 patients with mild-to-moderate left ventricular dysfunction. Plasma NE increased with increasing grade of exercise and a linear correlation between plasma NE and heart rate was observed at four time points (at rest and three exercise levels) before and after xamoterol. After administration of xamoterol, the slope of the regression line of plasma NE-heart rate relation was significantly less steep than that before drug. Predose and postdose regression lines crossed at 440 pg/ml of plasma NE. Similar effects were observed on the plasma NE-cardiac index and plasma NE-systolic blood pressure relations (regression lines crossed at 380 and 530 pg/ml of plasma NE, respectively). Thus, xamoterol had a dual agonist-antagonist effect in relation to plasma NE, and the crossover point lay approximately between 400 pg/ml and 500 pg/ml. This level of plasma NE was achieved at a low exercise level and at a heart rate of about 100 beats/min. These results indicate that xamoterol has intrinsic sympathomimetic activity comparable to relatively low sympathetic activity (400 to 500 pg/ml of plasma NE) and therefore acts as a beta 1-agonist when sympathetic nervous activity is below this level and as an antagonist when sympathetic activity is above this level.
+.A
+Sato H; Inoue M; Matsuyama T; Ozaki H; Shimazu T; Takeda H; Ishida Y; Kamada T.

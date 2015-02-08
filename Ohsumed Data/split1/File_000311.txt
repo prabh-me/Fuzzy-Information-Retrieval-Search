@@ -1,0 +1,15 @@
+ 40097
+.U
+87079252
+.S
+Clin Perinatol 8704; 13(4):781-99
+.M
+Analgesia; Catheterization; Female; Hemodynamics; Human; Hypertension/*PP/TH; Oliguria/ET/PP; Plasma Volume; Pre-Eclampsia/CO/*PP/TH; Pregnancy; Pregnancy Complications, Cardiovascular/*; Pulmonary Artery; Pulmonary Edema/ET/PP; Vasodilator Agents/TU.
+.T
+Hemodynamic monitoring in severe pregnancy-induced hypertension.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+This article considers the conceptual basis underlying acute hemodynamic management in severe preeclampsia, and the potential usefulness of pulmonary artery (Swan-Ganz) catheterization in this management.
+.A
+Wasserstrum N; Cotton DB.

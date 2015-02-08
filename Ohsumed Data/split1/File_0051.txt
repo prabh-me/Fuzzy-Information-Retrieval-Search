@@ -1,0 +1,13 @@
+ 39837
+.U
+87071069
+.S
+Transplant Proc 8703; 18(6 Suppl 5):153-9
+.M
+Bone Marrow/*TR; Bone Marrow Transplantation/*; Chromatography, High Pressure Liquid; Cyclosporins/BL/*ME/PD; Intestinal Absorption; Kidney/DE; Kidney Diseases/CI; Radioimmunoassay; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Clinical pharmacology of cyclosporine in patients undergoing bone marrow transplantation.
+.P
+JOURNAL ARTICLE.
+.A
+Yee GC; Lennon TP; Gmur DG; Carlin J; Schaffer RL; Kennedy MS; Deeg HJ.

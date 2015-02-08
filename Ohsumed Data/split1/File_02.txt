@@ -1,0 +1,15 @@
+ 39788
+.U
+87070026
+.S
+South Med J 8703; 79(12):1531-4
+.M
+Adenocarcinoma/CI; Adult; Cervix Neoplasms/CI; Diethylstilbestrol/*AE; Female; Human; Male; Pregnancy; Pregnancy Complications/PC; Prenatal Exposure Delayed Effects/*; Vaginal Neoplasms/CI.
+.T
+Diethylstilbestrol in pregnancy: an update.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Several decades ago, diethylstilbestrol (DES) was considered efficacious in improving pregnancy outcome. Later data did not support this, and the exposed mothers and offspring have suffered from a variety of problems attributed to the drug. Knowledge of these problems is essential in dealing with these patients.
+.A
+Barter JF; Orr JW Jr; Hatch KD; Shingleton HM.

@@ -1,0 +1,13 @@
+ 86
+.U
+87049361
+.S
+ASAIO Trans 8703; 32(1):461-6
+.M
+Adult; Aged; Assisted Circulation/*; Case Report; Child, Preschool; Echocardiography/*; Female; Heart/*PP; Heart Surgery/*; Heart-Assist Devices/*; Hemodynamics; Human; Male; Middle Age; Monitoring, Physiologic/*; Postoperative Complications/TH.
+.T
+Natural heart recovery under left ventricular assist device pumping studied by echocardiography.
+.P
+JOURNAL ARTICLE.
+.A
+Nakatani T; Takano H; Beppu S; Noda H; Fukuda S; Fujita T; Akutsu T; Nimura Y; Manabe H.

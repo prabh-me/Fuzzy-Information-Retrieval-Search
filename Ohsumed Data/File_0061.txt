@@ -1,0 +1,13 @@
+ 60
+.U
+87049320
+.S
+ASAIO Trans 8703; 32(1):305-8
+.M
+Anemia/*ET; Female; Hemodialysis/*/AE; Human; Kidney Failure, Chronic/BL/*TH; Male; Manganese/BL; Middle Age; Nickel/BL; Trace Elements/*BL; Zinc/BL.
+.T
+Trace metals and anemia in chronic hemodialysis patients.
+.P
+JOURNAL ARTICLE.
+.A
+Hosokawa S; Nishitani H; Tomoyoshi T; Yoshida O.

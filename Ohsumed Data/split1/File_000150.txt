@@ -1,0 +1,15 @@
+ 39936
+.U
+87073848
+.S
+Am J Psychiatry 8703; 143(12):1518-26
+.M
+Adult; Arrhythmia/PP/*PX; Case Report; Death, Sudden/ET/PP; Female; Human; Male; Mental Disorders/*ET/PP; Middle Age; Ventricular Fibrillation/ET/PP.
+.T
+Psychiatric aspects of patients with malignant ventricular arrhythmias.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The major cause of cardiac mortality in the United States is sudden cardiac death, most often the result of ventricular tachycardia-ventricular fibrillation. Transient risk factors for sudden cardiac death include psychiatric conditions mediated through the CNS. Major advances in the evaluation and treatment of patients who have survived malignant ventricular arrhythmias have been accompanied by challenging management and therapy issues for the psychiatrist involved in the care of such patients. The authors suggest ways to meet these challenges, especially in the care of patients with concomitant anxiety, depression, delirium, or psychosis.
+.A
+Fricchione GL; Vlay SC.

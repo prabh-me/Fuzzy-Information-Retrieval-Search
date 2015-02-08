@@ -1,0 +1,13 @@
+ 99
+.U
+87049381
+.S
+ASAIO Trans 8703; 32(1):538-41
+.M
+Acute Disease; Animal; Assisted Circulation/*; Blood Pressure; Cardiac Output; Comparative Study; Dogs; Extracorporeal Circulation/*; Heart/*PP; Heart Diseases/*TH; Heart Ventricle/PP; Heart-Assist Devices/*.
+.T
+Vented cardiac assistance: ECMO versus left heart bypass for acute left ventricular failure.
+.P
+JOURNAL ARTICLE.
+.A
+Eugene J; Ott RA; McColgan SJ; Roohk HV.

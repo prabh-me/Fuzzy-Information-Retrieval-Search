@@ -1,0 +1,15 @@
+ 39938
+.U
+87073865
+.S
+Am J Psychiatry 8703; 143(12):1603-5
+.M
+Aggression/DE; Amitriptyline/*AE/PD/TU; Borderline Personality Disorder/*DT/PX; Clinical Trials; Comparative Study; Double-Blind Method; Haloperidol/TU; Human; Paranoid Disorders/ET; Personality Disorders/*DT; Placebos; Psychiatric Status Rating Scales; Psychoses, Substance-Induced/*ET; Suicide/*PX; Support, U.S. Gov't, P.H.S..
+.T
+Paradoxical effects of amitriptyline on borderline patients.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A paradoxical increase in suicide threats, paranoid ideation, and demanding and assaultive behavior occurred among 15 borderline inpatients receiving amitriptyline in a double-blind study. This pattern differed significantly from that of 14 nonresponding patients receiving placebo.
+.A
+Soloff PH; George A; Nathan RS; Schulz PM; Perel JM.

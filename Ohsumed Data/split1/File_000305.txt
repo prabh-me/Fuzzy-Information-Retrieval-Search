@@ -1,0 +1,15 @@
+ 40091
+.U
+87079245
+.S
+Clin Perinatol 8704; 13(4):695-703
+.M
+Aortic Valve Stenosis/PP; Endocarditis, Bacterial/PC; Female; Hemodynamics; Human; Hypertension, Pulmonary/PP; Labor/*PH; Mitral Valve Stenosis/PP; Myocardial Infarction/PP; Pregnancy; Pregnancy Complications, Cardiovascular/*PP; Premedication.
+.T
+Labor and delivery in the patient with structural cardiac disease.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The clinical management of labor and delivery in patients with serious structural cardiac defects is challenging. In this article, peripartum pathophysiology is discussed and management recommendations based on recent clinical data are presented.
+.A
+Clark SL.

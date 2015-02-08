@@ -1,0 +1,15 @@
+ 40098
+.U
+87079253
+.S
+Clin Perinatol 8704; 13(4):801-11
+.M
+Animal; Blood Coagulation Disorders/ET; Disease Models, Animal; Embolism, Amniotic Fluid/*/CO/DI/PP; Female; Hemodynamics; Human; Pregnancy; Pregnancy Complications/*.
+.T
+Amniotic fluid embolism.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+A critical review of animal and human data leads to a reassessment of traditional concepts of amniotic fluid embolism. Left ventricular failure, rather than pulmonary hypertension, is the major hemodynamic derangement consistently seen in humans. The detection of squamous cells in the pulmonary artery blood of pregnant women is not pathognomonic for amniotic fluid embolism.
+.A
+Clark SL.

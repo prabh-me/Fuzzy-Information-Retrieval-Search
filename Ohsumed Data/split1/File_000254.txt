@@ -1,0 +1,15 @@
+ 40040
+.U
+87077344
+.S
+Br J Surg 8704; 73(12):1009-11
+.M
+Cyclosporins/*AE; Graft Rejection/*; Human; Kidney/*TR; Kidney Transplantation/*; Postoperative Complications/*DI; Prospective Studies; Ultrasonography/*.
+.T
+Objective measurement by ultrasound to distinguish cyclosporin A toxicity from rejection.
+.P
+JOURNAL ARTICLE.
+.W
+Measurement of the cross-sectional area of the transplanted kidney with ultrasound has been used to differentiate between cyclosporin A toxicity and rejection both in the immediate post-transplant period and at the time of conversion from cyclosporin A to azathioprine. Of 40 patients studied 21 have been converted from cyclosporin A to azathioprine. There were 12 rejection episodes in 9 patients in the early post-transplant period, and 7 rejection episodes in 7 patients at the time of conversion from cyclosporin A to azathioprine. All of these episodes were correctly diagnosed by ultrasound. Eight episodes of drug induced toxicity in seven patients were, in all but one case, diagnosed correctly. In only 8 of the 19 rejection episodes was the diagnosis suspected clinically at the time ultrasound detected an increase in cross-sectional area.
+.A
+Parvin SD; Rees Y; Veitch PS; Bell PR.

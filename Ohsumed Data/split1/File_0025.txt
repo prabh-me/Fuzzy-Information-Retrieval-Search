@@ -1,0 +1,15 @@
+ 39811
+.U
+87070524
+.S
+Thorax 8703; 41(10):759-65
+.M
+Administration, Oral; Aminophylline/*AD; Asthma/BL/*DT; Clinical Trials; Female; Human; Injections, Intravenous; Male; Middle Age; Prospective Studies; Random Allocation; Support, Non-U.S. Gov't; Theophylline/*AD/BL.
+.T
+Intravenous aminophylline in patients already taking oral theophylline: effect on calculated dose of knowledge of serum theophylline concentration on admission.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Measurement of serum theophylline concentration is usually recommended before intravenous aminophylline is given to patients taking oral theophylline. Fifty patients with worsening airflow obstruction, all of whom were taking oral theophyllines and who had no contraindication to the use of parenteral aminophylline, were randomly allocated into two groups before treatment was given. The dose of aminophylline was calculated without (group A) and with (group B) knowledge of admission serum theophylline concentration. In group A a regimen incorporating corrections to account for factors affecting theophylline clearance was used in an attempt to represent a "knowledgeable" approach; in group B a formula incorporating the known serum theophylline concentration at the time of admission was used. All loading doses were given over 30 minutes as "mini infusions." The two groups were well matched for age, blood gas tensions, and severity of airflow obstruction. The results for four patients (one from group A and three from group B) were excluded from analysis after completion of the study. In each group the mean admission serum theophylline concentration measured (group A: 8.4 (SD 6.0)mg/l; group B: 7.2 (5.7)mg/l) and the aminophylline doses used (group A: loading bolus 172 (45.5)mg, infusion 815 (198)mg; group B: loading bolus 233(189)mg, infusion 788(214)mg) were similar. Mean serum theophylline concentrations during 24 hours' aminophylline treatment, number of patients with a serum theophylline concentration greater than 20 mg/l, symptoms of toxicity, and outcome were also similar in the two groups. Although satisfactory use of parenteral aminophylline was achieved for most patients without knowledge of serum theophylline concentration at the time of admission to hospital (with the aid of a "knowledgeable" clinical approach and constant infusion pumps), prompt measurement of serum theophylline concentration at the time of admission identified patients with either suboptimal or potentially hazardous theophylline concentrations.
+.A
+Wiggins J; Arbab OA; Stableforth DE; Ayres JG.

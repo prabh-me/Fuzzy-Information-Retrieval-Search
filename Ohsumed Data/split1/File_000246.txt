@@ -1,0 +1,15 @@
+ 40032
+.U
+87076962
+.S
+Blood 8704; 69(1):27-32
+.M
+von Willebrand Factor/*; Ammonium Chloride/PD; Cells, Cultured; Disulfides; Endoplasmic Reticulum; Human; Macromolecular Systems; Peptide Fragments/AN; Peptide Hydrolases/ME; Protein Conformation; Protein Processing, Post-Translational/DE; Support, U.S. Gov't, P.H.S..
+.T
+Topology and order of formation of interchain disulfide bonds in von Willebrand factor.
+.P
+JOURNAL ARTICLE.
+.W
+Interchain disulfide bonds between the subunits in von Willebrand factor (vWf) dimers and in vWf multimers have been studied using some unique features of the cultured human umbilical vein endothelial cell system. Ammonium chloride inhibition of multimerization of vWf allowed selective examination of vWf dimeric molecules, and monoclonal antibody against the vWf propolypeptide was used to separate pro-vWf dimers from mature dimers. After cleavage of dimers and multimers with Staphylococcus aureus V-8 protease, the location of interchain disulfide bonds in amino (N)-terminal or carboxyl (C)-terminal fragments was determined by gel electrophoresis under reduced and nonreduced conditions. The first interchain disulfide bonds formed during dimerization are in the C-terminal region of the subunits, whereas interdimer disulfide bonds are located in the N-terminal portion. These data confirm recent electron microscopic projections of disulfide bond locations and provide support to the hypothetical role of the propolypeptide in the multimerization process.
+.A
+Wagner DD; Lawrence SO; Ohlsson-Wilhelm BM; Fay PJ; Marder VJ.

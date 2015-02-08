@@ -1,0 +1,15 @@
+ 39910
+.U
+87073496
+.S
+Am J Med 8703; 81(5B):11-4
+.M
+Adult; Age Factors; Aged; Aged, 80 and over; Body Weight; Clinical Trials; Comparative Study; Female; Gastrointestinal Hemorrhage/CI; Heart Failure, Congestive/CI; Human; Male; Middle Age; Naproxen/AE/BL/TU; Norway; Osteoarthritis/*DT; Peptic Ulcer/CI; Piroxicam/AE/*BL/TU; Sex Factors.
+.T
+The Norway study: plasma concentrations, efficacy, and adverse events.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+In the Norwegian comparative trials of piroxicam and naproxen in osteoarthritis, conducted by Husby and co-workers and Rugstad et al, relationships between plasma drug concentrations and the following were examined: efficacy in patients with osteoarthritis; all adverse reactions; and serious adverse events, which included gastrointestinal ulceration or bleeding and congestive heart failure. Increased plasma concentrations were correlated with age and female sex, but efficacy, overall side effects, and serious adverse events were not correlated with increasing plasma levels.
+.A
+Rugstad HE.

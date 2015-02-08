@@ -1,0 +1,15 @@
+ 39923
+.U
+87073607
+.S
+Am J Ophthalmol 8703; 102(6):723-6
+.M
+Anterior Chamber; Cataract Extraction/*; Cell Count; Clinical Trials; Comparative Study; Cornea/PA; Endothelium/PA; Human; Hyaluronic Acid/TU; Injections; Intraocular Pressure; Lenses, Intraocular/*; Methylcellulose/*AA/TU; Support, Non-U.S. Gov't.
+.T
+The use of hydroxypropyl methylcellulose in extracapsular cataract extraction with intraocular lens implantation.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+We conducted a prospective randomized clinical trial on the use of 2% hydroxypropyl methylcellulose and 1% sodium hyaluronate in the anterior chamber during anterior capsulotomy and nuclear expression in extracapsular cataract extraction with posterior chamber lens implantation in 70 patients. Both viscoelastic substances helped maintain the anterior chamber and facilitated the operation, although sodium hyaluronate was preferred. There was no excessive intraocular inflammation or toxicity noted with either agent. Patients given sodium hyaluronate had a larger increase in intraocular pressure during the early postoperative period (2.04 mm Hg) than did those given hydroxypropyl methylcellulose (1.1 mm Hg), but the difference was not significant. Nine weeks after surgery, the mean (+/- SD) central endothelial cell loss was 4.84% (+/- 7.26%) in the 17 eyes with sodium hyaluronate and 4.37% (+/- 9.84%) in the 53 eyes with hydroxypropyl methylcellulose. The intraocular pressure and corneal thickness were not significantly different before operation and nine weeks after it.
+.A
+Liesegang TJ; Bourne WM; Ilstrup DM.

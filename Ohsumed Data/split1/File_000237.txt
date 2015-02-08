@@ -1,0 +1,15 @@
+ 40023
+.U
+87076463
+.S
+Br J Ophthalmol 8704; 70(11):825-30
+.M
+Astigmatism/*ET/PA; Cataract Extraction/*AE; Cornea/*PA; Human; Suture Techniques; Time Factors.
+.T
+Corneal astigmatism following cataract extraction.
+.P
+JOURNAL ARTICLE.
+.W
+The changes in corneal curvature in the first six months after cataract extraction were studied by performing sequential keratometry on a group of 57 patients. 8/0 Virgin silk interrupted sutures were used for the closure of corneoscleral incisions, and 10/0 monofilament tied in double running (bootlace) or single running (continuous) fashion was used for corneal wound closure. A high degree of with-the-rule astigmatism was evident in all patients two weeks postoperatively, but thereafter the character of the astigmatism produced by 8/0 virgin silk and 10/0 monofilament closure was quite different: in the 8/0 virgin silk group there was an early and pronounced shift in the axis of astigmatism to against-the-rule, whereas in the 10/0 monofilament group there was little further change in the astigmatism unless the sutures were removed. Wound compression and wound gape as factors responsible for these changes are discussed.
+.A
+Wishart MS; Wishart PK; Gregor ZJ.

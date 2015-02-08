@@ -1,0 +1,15 @@
+ 40111
+.U
+87079379
+.S
+Clin Lab Med 8704; 6(4):735-43
+.M
+Computers/*; Laboratories/*ST; Quality Control; Software/*.
+.T
+Computer-assisted quality control: considerations for program design.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+A well-designed laboratory computer system has the potential of enhancing all phases of quality control. Of most importance is the choice of an underlying approach that is statistically valid and robust. Specification of quality goals, participation in regional programs, and use of a flexible multi-rule approach are recommended. Careful attention to general and specific design is necessary to achieve full system potential. The design process must include detailed consideration of file and record structure, data integrity, flexibility of input and output, and display and report formats. For statistical run evaluation, theoretic validity, operational process, and ease of understanding by the user must be considered.
+.A
+DiSilvio TV.

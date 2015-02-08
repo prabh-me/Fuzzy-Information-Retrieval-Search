@@ -1,0 +1,15 @@
+ 39896
+.U
+87073430
+.S
+Am J Kidney Dis 8703; 8(5):356-67
+.M
+Animal; Cisplatin/*AE/ME; Human; Kidney/*DE/ME/PH; Kidney Diseases/*CI; Rats.
+.T
+Cisplatin nephrotoxicity.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Cis-dichlorodiammine platinum (II), or cisplatin, has emerged as a principal chemotherapeutic agent in the treatment of otherwise resistant solid tumors and is currently among the most widely used agents in the chemotherapy of cancer. The chief limit to its greater efficacy is its nephrotoxicity, which has made it necessary both to lower its dosage and actively hydrate patients to reduce it. The vulnerability of the kidney to cisplatin is almost certainly related to its primary role in the excretion of cisplatin. Cisplatin enters renal cells by a process that depends on normal oxygen utilization and is specifically inhibited by organic bases. Greater localization of platinum to the S3 segment of the proximal tubules suggests that the vulnerability of this segment may depend on its specific uptake of the drug. The majority of intracellular platinum is bound to macromolecules, including protein and DNA, yet a significant portion of cell platinum is biotransformed to a nonmutagenic and possibly nontoxic compound. Polyuria and hypomagnesemia, which are commonly associated with cisplatin nephrotoxicity, may be due to defects in deep nephron or collecting duct fluid and solute transport. Low single nephron glomerular filtration rates (SNGFR) during early cisplatinum-induced acute renal failure is accompanied by reduced renal blood flow and transglomerular hydrostatic pressure without elevated intratubular hydrostatic pressure, suggesting preglomerular vasoconstriction as an important determinant of renal failure.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Safirstein R; Winston J; Goldstein M; Moel D; Dikman S; Guttenplan J.

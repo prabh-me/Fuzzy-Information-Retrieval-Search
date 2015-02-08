@@ -1,0 +1,13 @@
+ 77
+.U
+87049347
+.S
+ASAIO Trans 8703; 32(1):405-9
+.M
+Blood Component Removal/*IS/MT; Disposable Equipment; Erythrocyte Count; Hematocrit; Human; Leukocyte Count; Membranes, Artificial; Plasma/*; Platelet Count; Polyethylenes.
+.T
+An automated plasma collector with innovative membrane and cassette-like disposable set.
+.P
+JOURNAL ARTICLE.
+.A
+Yamazaki Z; Kanai F; Hiraishi M; Ohnishi K; Idezuki Y; Takahama T; Fujimori Y; Asano K; Inoue N; Shibata Y; et al.

@@ -1,0 +1,15 @@
+ 40046
+.U
+87077730
+.S
+Can Med Assoc J 8704; 136(2):121-7
+.M
+Adult; Agranulocytosis/CI; Antibody Formation/DE; Case Report; Cross Reactions; Drug Hypersensitivity/ET; Female; Graves' Disease/DT; Human; Hyperthyroidism/*DT/IM; Immunity, Cellular/DE; Methimazole/AE; Middle Age; Propylthiouracil/*AE.
+.T
+Adverse immunologic effects of antithyroid drugs.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Propylthiouracil and methimazole are frequently used in the management of hyperthyroidism. Two patients in whom adverse immunologic effects other than isolated agranulocytosis developed during treatment with propylthiouracil are described. A review of the literature revealed 53 similar cases over a 35-year period. Rash, fever, arthralgias and granulocytopenia were the most common manifestations. Vasculitis, particularly with cutaneous manifestations, occurs and may be fatal. The clinical evidence suggests that an immunologic mechanism is involved. A number of different autoantibodies were reported, but antinuclear antibodies were infrequent, and none of the cases met the criteria for a diagnosis of systemic lupus erythematosus. Thus, the reactions do not represent a true drug-induced lupus syndrome. Current hypotheses and experimental data regarding the cause of the reactions are reviewed. No specific clinical subgroup at high risk can be identified, and manifestations may occur at any dosage and at any time during therapy. Cross-reactivity between the two antithyroid drugs can be expected. Except for minor symptoms (e.g., mild arthralgias or transient rash), such reactions are an indication for withdrawal of the drug and the use of alternative methods to control the hyperthyroidism. In rare cases of severe vasculitis a short course of high-dose glucocorticoid therapy may be helpful.
+.A
+Wing SS; Fantus IG.

@@ -1,0 +1,15 @@
+ 39872
+.U
+87073065
+.S
+AJR Am J Roentgenol 8703; 148(1):65-9
+.M
+Adult; Female; Human; Male; Middle Age; Prospective Studies; Tomography, X-Ray Computed/*; Tuberculosis, Renal/*DI; Ultrasonography/*; Urography.
+.T
+CT and sonography of advanced urinary tract tuberculosis.
+.P
+JOURNAL ARTICLE.
+.W
+Sonographic and Ct examinations were performed prospectively on 14 patients with advanced urinary tract tuberculosis who had undergone serial urography. Sonography and CT showed abnormalities in the affected kidney in each patient. Detailed morphologic information (patterns of calcification and hydronephrosis) and functional status (nephrogram and urogram) were better shown by CT than by urography; sonography showed the fewest morphologic details. CT is probably at least as accurate as urography in detecting advanced urinary tuberculosis; sonography appears to be less accurate than either CT or urography.
+.A
+Premkumar A; Lattimer J; Newhouse JH.

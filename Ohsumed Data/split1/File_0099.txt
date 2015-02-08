@@ -1,0 +1,15 @@
+ 39885
+.U
+87073273
+.S
+Am J Clin Pathol 8703; 86(6):765-8
+.M
+Antibodies, Viral/*AN; Comparative Study; False Positive Reactions; Fluorescent Antibody Technique/*/*ST; Herpesvirus hominis/*IM; Human; Receptors, Fc/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S..
+.T
+False positive indirect fluorescent antibody (IFA) tests for antibody to herpes simplex virus 1. Comparison of four commercially available methods.
+.P
+JOURNAL ARTICLE.
+.W
+Four commercially available herpes simplex virus 1 (HSV-1) indirect fluorescent antibody (IFA) kits were compared with the use of sera selected because they were negative for HSV antibody by complement fixation (CF less than 1:8) and by ELISA (less than 1:100). However, 14 of 24 (58.3%) of these HSV-1 antibody-negative sera were positive at greater than or equal to 1:10 with the use of the HSV-1 IFA kit from Electronucleonics, 15 of 24 (62.5%) were positive with the Clinical Sciences HSV-1 IFA kit, 4 of 24 (16.7%) were positive with Zeus Scientific, and 4 of 18 (22.2%) were positive with the Gull Laboratories product. HSV-1 induces Fc receptors that commonly cause false positive IFA tests for HSV antibody. Therefore, further studies were undertaken to determine whether Fc receptors accounted for these false positive results. Staphylococcal protein A (SPA) is known to bind to the Fc portion of human IgG and therefore could be used to distinguish between the binding of an antibody by its Fab or its Fc portion. Thus, when fluorescein isothiocyanate conjugated (FITC) SPA was used as conjugate instead of FITC antibody to human IgG, true HSV-1 antibody-containing sera remained positive, but the false positives identified in the commercial IFA kits did not. The authors conclude that HSV-1-induced Fc receptors are responsible for most of the problem of these false positives and that HSV-1 serology probably should not be done by this type of IFA method until this problem is corrected.
+.A
+Rand KH; Houck HJ; Dickinson M.

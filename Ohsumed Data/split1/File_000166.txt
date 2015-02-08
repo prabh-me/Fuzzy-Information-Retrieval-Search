@@ -1,0 +1,13 @@
+ 39952
+.U
+87074150
+.S
+Anaesthesia 8703; 41(11):1155-6
+.M
+Equipment Safety; Human; Positive-Pressure Respiration/*IS.
+.T
+Safety of a new system for continuous positive airway pressure [letter]
+.P
+LETTER.
+.A
+Jenkins JG; Van-Besouw JP.

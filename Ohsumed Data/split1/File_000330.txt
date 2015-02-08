@@ -1,0 +1,15 @@
+ 40116
+.U
+87079629
+.S
+Crit Care Med 8704; 15(1):35-7
+.M
+Catheterization/AE/*MT; Catheters, Indwelling/AE; Clinical Trials; Comparative Study; Hemothorax/ET; Human; Jugular Veins; Pneumothorax/ET; Prospective Studies; Pulmonary Artery; Random Allocation; Risk; Septicemia/ET; Subclavian Vein.
+.T
+Pulmonary artery catheterization: a prospective study of internal jugular and subclavian approaches.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+We compared complications of pulmonary artery catheter (PAC) insertion and maintenance at internal jugular (IJ) vs. subclavian (SC) sites. Patients were randomized into groups using an IJ or SC route, and insertions were timed. An air-permeable dressing and anticontamination shield were used. Catheters were removed 72 h after insertion. If PAC monitoring was still needed, a new catheter was either inserted over a guidewire at the initial insertion site or inserted at a new site. On removal, the catheter tip, introducer-sheath tip, and catheter within the shield were submitted for semiquantitative culture. Sixty-six catheters were initially inserted, and 26 were changed. No determinative differences in the time for venous cannulation were found, but the IJ route was slightly faster. In 3% of the catheterizations, serious complications arose. The infection rate was 2% for initial catheters, 8% for second catheters placed over a guidewire, and 15% for second catheters placed at a new site. These differences were not consequential. No local infection or catheter-related sepsis occurred. Thus, using a standard, sterile-insertion technique and a catheter-maintenance protocol yielded a low risk of insertion and infectious complications at either the IJ or SC site. Our data indicated that PACs can be changed safely over a guidewire at 72 h, avoiding further insertion risks without increasing infectious complications.
+.A
+Senagore A; Waller JD; Bonnell BW; Bursch LR; Scholten DJ.

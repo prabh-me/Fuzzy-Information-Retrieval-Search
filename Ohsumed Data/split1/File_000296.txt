@@ -1,0 +1,15 @@
+ 40082
+.U
+87078788
+.S
+Circulation 8704; 75(1 Pt 2):I137-40
+.M
+Animal; Drug Resistance; Heart Conduction System/*PH; Neuronal Plasticity; Pressoreceptors/PP; Rats; Rats, Inbred Strains/*GE; Receptors, Sensory/*PP; Reflex; Sodium Chloride/*PD; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..
+.T
+Cardiac sensory receptors in Dahl salt-resistant and salt-sensitive rats.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+The Dahl strain of genetically salt-resistant (DR) and salt-sensitive (DS) rats affords an opportunity to explore mechanisms responsible for salt resistance and sensitivity. Dahl sensitive rats exhibit abnormalities in sympathetic neural control of the circulation and in renal sodium handling. Since cardiac baroreflexes participate in regulation of sympathetic nerve activity and sodium excretion, we have evaluated cardiac baroreflex function in DR and DS rats. This article briefly reviews evidence that cardiac sensory endings with vagal afferents are reset to a higher threshold in DS rats before elevation of arterial or cardiac filling pressures, as a result of this resetting, cardiac baroreflex inhibition of sympathetic nerve activity during volume expansion is impaired in prehypertensive DS rats, a high-sodium diet enhances the gain of cardiac baroreflex inhibition of sympathetic nerve activity in DR but not DS rats, and atrial natriuretic factor stimulates cardiac sensory receptors with vagal afferents. Taken together, these studies prompt speculation that humoral factors released during intake of a high-sodium diet may sensitize cardiac baroreflexes and thereby protect against sodium retention and hypertension. An absence of this compensatory adjustment or plasticity in cardiac baroreflex function in DS rats may predispose to salt-induced hypertension.
+.A
+Mark AL; Victor RG; Ferrari A; Morgan DA; Thoren P.

@@ -1,0 +1,15 @@
+ 39975
+.U
+87074555
+.S
+Ann Otol Rhinol Laryngol 8703; 95(6 Pt 1):586-9
+.M
+Adolescence; Adult; Child; Child, Preschool; Cricoid Cartilage/SU; Human; Laryngostenosis/*SU; Skin/TR; Skin Transplantation; Surgical Flaps; Tracheal Stenosis/*SU; Tracheotomy/*MT.
+.T
+Staged repair of extensive tracheal and laryngotracheal stenoses.
+.P
+JOURNAL ARTICLE.
+.W
+The usual operative procedures (primary tracheal anastomosis, cricotracheal anastomosis, skin grafting and stenting, pedicle cartilage grafts, or free rib grafts) used to correct stenoses of great length involving the trachea or laryngotrachea have a high incidence of failure. An alternative method of reconstruction is the open technique, which requires three stages. The initial stage creates a trough after resection of the stenotic area, followed by subcutaneous embedding of a rigid material adjacent to the trough, and finally closure of the trough by reformation of the anterior wall. This staged procedure has been used in adult patients with tracheal stenoses greater than 4 cm, in patients with tracheal stenoses involving the cricoid, and in patients whose primary corrective operative procedures have failed. This paper critically assesses 30 patients who have had a staged reconstruction with a minimum follow-up of 12 months. The indications, number of procedures performed, time required for decannulation, complications, and analysis of failures are presented. The incidence of success in this series of patients is 76% (23/30).
+.A
+Biller HF; Lawson W; Weisberg V.

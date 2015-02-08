@@ -1,0 +1,15 @@
+ 40104
+.U
+87079304
+.S
+Clin Sci 8704; 71(6):743-7
+.M
+Adult; Aged; Cardiopulmonary Bypass; Coronary Disease/BL/SU; Epoprostenol/*BL; Esophageal and Gastric Varices/BL/SU; Human; Hypertension, Portal/BL/SU; Middle Age; Support, Non-U.S. Gov't; Vascular Diseases/*BL/SU; 6-Ketoprostaglandin F1 alpha/BL.
+.T
+Prostacyclin in the circulation of patients with vascular disorders undergoing surgery.
+.P
+JOURNAL ARTICLE.
+.W
+The object of this study was to investigate clinical conditions in which increased production of prostacyclin (PGI2) has been reported. 6-Oxo-prostaglandin F1 alpha (6-oxo-PGF1 alpha) is the stable hydrolysis product of PGI2 and was measured in plasma from patients undergoing hepatic or cardiac surgery and in unoperated patients with vascular and hepatic disease, using gas chromatography/mass spectrometry. Blood obtained simultaneously from portal and peripheral veins, during emergency surgery for bleeding oesophageal varices in six patients with cirrhosis of the liver, contained very high concentrations of 6-oxo-PGF1 alpha (range 99-11,485 pg/ml of plasma). 6-Oxo-PGF1 alpha was higher in portal than in peripheral blood in five out of six patients. Six unoperated patients with cirrhosis and oesophageal varices which were not bleeding all had normal peripheral plasma concentrations of 6-oxo-PGF1 alpha less than 2 pg/ml (normal up to 5 pg/ml). Seventeen patients with severe vascular disease had normal basal plasma 6-oxo-PGF1 alpha concentrations (less than 2 pg/ml). Eighteen subjects with atheromatous coronary artery disease underwent aorta-coronary artery grafting, and plasma concentrations of 6-oxo-PGF1 alpha were markedly elevated during surgery (range 55-1207 pg/ml). We conclude that surgery stimulates PGI2 production substantially, and argue that the function of PGI2 may be to limit intravascular extension of thrombus from sites of haemostasis. Inappropriate PGI2 synthesis may contribute to the massive haemorrhage characteristic of oesophageal variceal bleeding.
+.A
+Ritter JM; Hamilton G; Barrow SE; Heavey DJ; Hickling NE; Taylor KM; Hobbs KE; Dollery CT.

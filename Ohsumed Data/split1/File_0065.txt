@@ -1,0 +1,15 @@
+ 39851
+.U
+87071381
+.S
+Urology 8703; 28(6):492-6
+.M
+Antibodies, Monoclonal/*DU; Bacterial Infections/DI; Human; Immunoenzyme Techniques; Infertility, Male/ET; Leukocytes/*CL; Male; Semen/*CY.
+.T
+Identifying leucocytes and leucocyte subpopulations in semen using monoclonal antibody probes.
+.P
+JOURNAL ARTICLE.
+.W
+An indirect immunoperoxidase technique employing specific monoclonal antibodies has been used to identify leucocyte subpopulations in cytocentrifuge smears of washed human ejaculate. Cells reacting with the pan antihuman leucocyte monoclonal antibody (HLe-1) were demonstrated in 63/67 specimens from subfertile patients with a mean count of 14.5 +/- 17.1 leucocytes per HPF (X 320). Cells with similar reactivity were observed in all specimens examined from 10 fertile men with a mean count of 41.6 +/- 26.3 leucocytes per HPF (X 320). Leu-T4+ cells (T-lymphocytes) were demonstrated in only 13/63 of the subfertile group with a mean count of 4.46 +/- 3.3 T-lymphocytes per HPF (X 320). Studies with the anti-leu 2a antibody revealed that these leu-4+ cells were mainly of the suppressor/cytotoxic phenotype. In contrast, no leu-4+ cells were detected in the control group. No leu-12+ cells (B-lymphocytes) were detected in any of the 80 specimens examined.
+.A
+el-Demiry MI; Hargreave TB; Busuttil A; James K; Chisholm GD.

@@ -1,0 +1,13 @@
+ 39934
+.U
+87073671
+.S
+Am J Pathol 8703; 125(2):416-9
+.M
+Age Factors; Amyloid/*AN; Animal; Cats; Comparative Study; Diabetes Mellitus, Experimental/*PA; Diabetes Mellitus, Non-Insulin-Dependent/PA; Human; Islets of Langerhans/*PA; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Spontaneous diabetes mellitus-islet amyloid complex in adult cats.
+.P
+JOURNAL ARTICLE.
+.A
+Johnson KH; Hayden DW; O'Brien TD; Westermark P.

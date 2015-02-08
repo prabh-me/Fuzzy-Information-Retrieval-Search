@@ -1,0 +1,13 @@
+ 87
+.U
+87049363
+.S
+ASAIO Trans 8703; 32(1):474-7
+.M
+Animal; Axons/UL; Collagen/PH; Extracellular Matrix/*PH; Female; Glycoproteins/PH; Heparitin Sulfate/PH; Implants, Artificial/*; Laminin/PH; Membranes, Artificial; Mice; Microscopy, Electron; Myelin Sheath/UL; Nerve Regeneration/*; Sciatic Nerve/CY/*PH/UL.
+.T
+Regeneration of transected sciatic nerves through semi-permeable nerve guidance channels. Effects of extracellular matrix protein additives.
+.P
+JOURNAL ARTICLE.
+.A
+Aebischer P; Valentini RF; Winn SR; Kunz S; Sasken H; Galletti PM.

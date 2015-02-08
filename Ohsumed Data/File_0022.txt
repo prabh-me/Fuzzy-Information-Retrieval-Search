@@ -1,0 +1,13 @@
+ 21
+.U
+87049271
+.S
+ASAIO Trans 8703; 32(1):104-7
+.M
+Adult; Antithrombin III/BL; Blood Proteins/AN; Case Report; Female; Fibrinogen/AN; Heparin/*TU; Human; Hypercholesterolemia/BL/*TH; Lipoproteins, HDL Cholesterol/BL; Lipoproteins, LDL/*BL/IP; Lipoproteins, LDL Cholesterol/BL; Male; Middle Age; Plasma Volume; Plasminogen/AN; Precipitation.
+.T
+Selective continuous elimination of low density lipoproteins (LDL) by heparin precipitation: first clinical application.
+.P
+JOURNAL ARTICLE.
+.A
+Eisenhauer T; Armstrong VW; Wieland H; Fuchs C; Nebendahl K; Scheler F; Seidel D.

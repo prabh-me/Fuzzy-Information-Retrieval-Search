@@ -1,0 +1,13 @@
+ 44
+.U
+87049298
+.S
+ASAIO Trans 8703; 32(1):207-10
+.M
+Animal; Cattle; Cerebrovascular Disorders/ET; Comparative Study; Heart, Artificial/*/AE; Human; Prosthesis Design; Sheep; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+.T
+Comparison of clinical and animal recipients of a pneumatic artificial heart.
+.P
+JOURNAL ARTICLE.
+.A
+Taenaka Y; Olsen DB; Riebman JB; Burns GB; Crump CL.

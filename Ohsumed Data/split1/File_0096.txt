@@ -1,0 +1,15 @@
+ 39882
+.U
+87073263
+.S
+Am J Clin Pathol 8703; 86(6):716-23
+.M
+Basement Membrane/UL; Fluorescent Antibody Technique; Glomerulonephritis, IGA/*PA/PP; Human; Kidney Glomerulus/UL; Microscopy, Electron; Nephrosis, Lipoid/*PA/PP; Syndrome.
+.T
+An overlapping syndrome of IgA nephropathy and lipoid nephrosis.
+.P
+JOURNAL ARTICLE.
+.W
+The authors studied eight cases of IgA nephropathy presenting with nephrotic syndrome. Renal biopsy revealed only mild mesangial proliferation or minor glomerular changes on light microscopic examination but typical features of IgA nephropathy on immunofluorescent and electron microscopic examination. A satisfactory response characterized by correction of hypoalbuminemia, clearance of proteinuria, and an increase of endogenous creatinine clearance occurred with corticosteroid therapy. These cases represent a variant of IgA nephropathy associated with a nephrotic syndrome that resembles lipoid nephrosis in its responsiveness to steroid.
+.A
+Lai KN; Lai FM; Chan KW; Ho CP; Leung AC; Vallance-Owen J.

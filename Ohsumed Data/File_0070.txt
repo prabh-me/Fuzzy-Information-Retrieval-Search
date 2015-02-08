@@ -1,0 +1,13 @@
+ 69
+.U
+87049336
+.S
+ASAIO Trans 8703; 32(1):367-9
+.M
+Adult; Aluminum/*BL/IP; Case Report; Chromatography, Gel/MT; Deferoxamine/AD/*BL/IP; Female; Hemodialysis/*; Human; Infusions, Intravenous; Male; Middle Age; Molecular Weight; Uremia/*BL/TH.
+.T
+Chromatographic studies of aluminum-desferrioxamine complex in uremic patients.
+.P
+JOURNAL ARTICLE.
+.A
+Canavese C; Pacitti A; Salomone M; Pramotton C; Segoloni G; Bedino S; Testore G; Lamon S; Vercellone A.

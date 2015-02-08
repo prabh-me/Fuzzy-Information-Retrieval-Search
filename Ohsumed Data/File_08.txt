@@ -1,0 +1,15 @@
+ 7
+.U
+87049094
+.S
+Am J Emerg Med 8703; 4(6):516-9
+.M
+Adult; Carbon Monoxide Poisoning/CO/*TH; Female; Human; Labor; Pregnancy; Pregnancy Complications/*TH; Pregnancy Trimester, Third; Respiration, Artificial; Respiratory Distress Syndrome, Adult/ET/*TH.
+.T
+Acute carbon monoxide poisoning during pregnancy.
+.P
+JOURNAL ARTICLE.
+.W
+The course of a pregnant patient at term who was acutely exposed to carbon monoxide is described. A review of the fetal-maternal carboxyhemoglobin relationships and the differences in fetal oxyhemoglobin physiology are used to explain the recommendation that pregnant women with carbon monoxide poisoning should receive 100% oxygen therapy for up to five times longer than is otherwise necessary. The role of hyperbaric oxygen therapy is considered.
+.A
+Margulies JL.

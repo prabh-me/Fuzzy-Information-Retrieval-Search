@@ -1,0 +1,15 @@
+ 39999
+.U
+87075011
+.S
+Arch Dis Child 8703; 61(11):1132-4
+.M
+Administration, Topical; Adolescence; Anesthesia, Local/*; Child; Child, Preschool; Clinical Trials; Double-Blind Method; Female; Human; Infant; Injections, Intravenous/*; Lidocaine/AD; Male; Pain/*PC; Prilocaine/AD.
+.T
+Topical anaesthesia for venepuncture.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A topical anaesthetic cream was tested in a randomised, double blind, placebo controlled trial of 15 children. The severity of pain experienced during venepuncture was assessed, using visual analogue and verbal rating scales. The topical anaesthetic cream was found to be significantly superior to placebo using each form of assessment.
+.A
+Clarke S; Radford M.

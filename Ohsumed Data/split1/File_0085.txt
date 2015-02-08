@@ -1,0 +1,15 @@
+ 39871
+.U
+87073062
+.S
+AJR Am J Roentgenol 8703; 148(1):45-9
+.M
+Adenocarcinoma/*DI; Carcinoma/*DI; Carcinoma, Papillary/*DI; False Positive Reactions; Follow-Up Studies; Human; Neoplasm Recurrence, Local/*DI; Thyroid Neoplasms/*DI; Ultrasonography/*.
+.T
+Sonography in the follow-up of 100 patients with thyroid carcinoma.
+.P
+JOURNAL ARTICLE.
+.W
+High-frequency, high-resolution sonography was used to detect recurrent thyroid carcinoma in 73 patients with papillary carcinoma, 16 with medullary carcinoma, 10 with follicular carcinoma, and one with small-cell carcinoma. Of the 36 patients with negative sonograms, 35 had no other evidence of recurrence, while one had surgical proof of recurrence. Of 25 patients with positive sonograms, confirmed with surgery or radioactive iodine (I131) scanning (sonographic sensitivity 96%, specificity 83%), palpation was negative in 17 (palpation sensitivity 32%, specificity 100%). Thirty-two patient with positive sonographic findings had no objective clinical proof of recurrence. There were seven false-positive studies. This study suggests that sonography may be the method of choice for earliest detection and localization of recurrent carcinoma of the thyroid.
+.A
+Simeone JF; Daniels GH; Hall DA; McCarthy K; Kopans DB; Butch RJ; Mueller PR; Stark DD; Ferrucci JT Jr; Wang CA.

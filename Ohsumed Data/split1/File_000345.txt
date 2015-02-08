@@ -1,0 +1,15 @@
+ 40131
+.U
+87079961
+.S
+Dig Dis Sci 8704; 32(1):97-101
+.M
+Case Report; Cellulitis/CO/*ET; Gastritis/CO/DI/*ET; Haemophilus influenzae; Haemophilus Infections/*; Human; Liver Cirrhosis, Alcoholic/*CO; Male; Middle Age; Peritonitis/*ET; Ultrasonography.
+.T
+Phlegmonous gastritis and Hemophilus influenzae peritonitis in a patient with alcoholic liver disease.
+.P
+JOURNAL ARTICLE.
+.W
+A patient with alcoholic liver disease and ascites had Haemophilus influenzae peritonitis and died in spite of vigorous antibiotic therapy. At autopsy, a phlegmonous gastritis was found as a likely cause of the peritonitis. Phlegmonous gastritis is an uncommon cause of unexplained gastrointestinal symptoms in alcoholics and in the elderly, and it may be pathogenetic in rare patients with bacterial peritonitis of unclear source.
+.A
+Tierney LM Jr; Gooding G; Bottles K; Montgomery CK; Fitzgerald FT.

@@ -1,0 +1,15 @@
+ 16
+.U
+87049105
+.S
+Am J Emerg Med 8703; 4(6):554-5
+.M
+Administration, Oral; Adolescence; Burns, Chemical/*ET; Case Report; Colloids; Epiglottis/*IN; Human; Male; Pharynx/*IN; Salicylic Acids/*AD; Suicide, Attempted/*; Tongue/*IN.
+.T
+Ingestion of Compound W, an unusual caustic.
+.P
+JOURNAL ARTICLE.
+.W
+A case of an unusual caustic ingestion involving Compound W, an over the counter wart remover is presented. Chemical burns of the tongue, pharynx and larynx developed. The active ingredient in this preparation: salicylic acid in a flexible collodion vehicle produces caustic injury through a keratolytic action, which may be enhanced by the presence of collodion.
+.A
+Sacchetti A; Ramoska E.

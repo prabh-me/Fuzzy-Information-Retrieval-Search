@@ -1,0 +1,15 @@
+ 39824
+.U
+87070582
+.S
+Thorax 8703; 41(8):616-9
+.M
+Blood Gas Analysis; Clinical Trials; Double-Blind Method; Human; Lung Diseases, Obstructive/*DT; Medroxyprogesterone/*AA/TU; Middle Age; Random Allocation; Spirometry; Support, Non-U.S. Gov't.
+.T
+Oral progesterone treatment in chronic obstructive lung disease: failure of voluntary hyperventilation to predict response.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Previous studies have shown that some patients with chronic obstructive lung disease and hypercapnia will respond to medroxyprogesterone with improvement in arterial blood gases. The exact mechanism of this effect is unclear but it is presumed to be a result of ventilatory stimulation. To determine whether the ability to correct arterial blood gas abnormalities by voluntary hyperventilation would predict a subsequent favourable response to progesterone, we studied 11 subjects with chronic obstructive lung disease and chronic hypercapnia. Five subjects had chronic obstructive lung disease of moderate severity with mean (SE) FEV1 1.8 (0.34) 1 maximum voluntary ventilation (MVV) 40.4 (7.16) 1/min-1, arterial oxygen tension (Pao2) 53.8 (2.40 mm Hg, and arterial carbon dioxide tension Paco2) 49.6 (3.91) mm Hg, and were able to normalise their blood gas tensions during voluntary hyperventilation (Pao2 85.4 (8.01) mm Hg; Paco2 32.8 (3.43) mm Hg). Six subjects had severe chronic obstructive lung disease with FEV1 0.77 (0.12) 1, MVV 19 (3.09) 1/min-1, Pao2 60.0 (2.89) mm Hg and Paco2 50.5 (1.38) mm Hg, and they could not significantly alter their blood gases with voluntary hyperventilation (Pao2 62.5 (3.19) mm Hg, Paco2 49.7 (1.84) mm Hg). The groups were similar in age, height, weight, and resting Pao2 and Paco2. Each subject received one month of oral placebo and one month of medroxyprogesterone acetate (Provera). 20 mg orally thrice daily, given in a randomised, double blind fashion. The groups responded similarly with a significantly higher Pao2 and lower Paco2 while having medroxyprogesterone acetate than while having placebo. Two patients with polycythaemia showed a reduction in haemoglobin concentration while taking progesterone. It is concluded that the response to medroxyprogesterone is not predictable from spirometric or blood gas changes after voluntary hyperventilation.
+.A
+Morrison DA; Goldman AL.

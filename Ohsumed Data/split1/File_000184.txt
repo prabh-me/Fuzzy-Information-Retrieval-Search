@@ -1,0 +1,13 @@
+ 39970
+.U
+87074459
+.S
+Ann Intern Med 8703; 106(1):167
+.M
+Adult; Case Report; Cholecystitis/*ET; Cytomegalic Inclusion Disease/*; Human; Immune Tolerance/*; Kidney/*TR; Kidney Transplantation/*; Male.
+.T
+Cytomegalovirus and acute cholecystitis [letter]
+.P
+LETTER.
+.A
+Erice A; Balfour HH Jr.

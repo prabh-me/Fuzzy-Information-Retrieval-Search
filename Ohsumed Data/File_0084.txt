@@ -1,0 +1,13 @@
+ 83
+.U
+87049354
+.S
+ASAIO Trans 8703; 32(1):429-34
+.M
+Animal; Biocompatible Materials; Blood Component Removal/*/IS/MT; Dextrans; Dogs; Filtration/MT; Human; Hypercholesterolemia/BL/TH; Membranes, Artificial; Molecular Weight; Plasma/*; Support, Non-U.S. Gov't.
+.T
+Effect of plasma solute-membrane interaction on mean pore diameter.
+.P
+JOURNAL ARTICLE.
+.A
+Horiuchi T; Malchesky PS; Usami M; Emura M; Nose Y.

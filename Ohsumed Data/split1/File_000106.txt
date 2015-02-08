@@ -1,0 +1,15 @@
+ 39892
+.U
+87073422
+.S
+Am J Kidney Dis 8703; 8(5):308-13
+.M
+Age Factors; Aminoglycosides/*AE; Cefotaxime/AE; Clinical Trials; Comparative Study; Double-Blind Method; Human; Kidney Diseases/*CI; Kidney Failure, Acute/CI; Nafcillin/AE; Probability; Risk; Support, Non-U.S. Gov't; Time Factors; Tobramycin/AE.
+.T
+Studies of risk factors for aminoglycoside nephrotoxicity.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+The epidemiology of aminoglycoside-induced nephrotoxicity is not fully understood. Experimental studies in healthy human volunteers indicate aminoglycosides cause proximal tubular damage in most patients, but rarely, if ever, cause glomerular or tubular dysfunction. Clinical trials of aminoglycosides in seriously ill patients indicate that the relative risk for developing acute renal failure during therapy ranges from 8 to 10 and that the attributable risk is 70% to 80%. Further analysis of these data suggests that the duration of therapy, plasma aminoglycoside levels, liver disease, advanced age, high initial estimated creatinine clearance and, possibly, female gender all increase the risk for nephrotoxicity. Other causes of acute renal failure, such as shock, appear to have an additive effect. Predictive models have been developed from these analyses that should be useful for identifying patients at high risk. These models may also be useful in developing insights into the pathophysiology of aminoglycoside-induced nephrotoxicity.
+.A
+Smith CR; Moore RD; Lietman PS.

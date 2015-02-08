@@ -1,0 +1,13 @@
+ 39
+.U
+87049293
+.S
+ASAIO Trans 8703; 32(1):184-6
+.M
+Aspirin/*PD; Blood Platelets/DE; Cell Division/DE; Cells, Cultured; Dipyridamole/*PD; Endothelium/*CY/DE; Human; Ibuprofen/*PD; Kinetics; Umbilical Veins.
+.T
+Effect of antiplatelet drugs on human endothelial cell growth in tissue culture.
+.P
+JOURNAL ARTICLE.
+.A
+Evans DK; Campbell J; Herring M; Glover J.

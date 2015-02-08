@@ -1,0 +1,15 @@
+ 40074
+.U
+87078769
+.S
+Circulation 8704; 75(1):29-39
+.M
+Brain Death; Heart/*TR; Heart Diseases/DI/PX; Heart Transplantation/*; Histocompatibility Testing; Human; Interprofessional Relations; Organ Procurement/LJ/*OG; Patient Care Planning; Patient Compliance; Referral and Consultation; Tissue Donors; Tissue Preservation.
+.T
+Coordination of cardiac transplantation: patient processing and donor organ procurement.
+.P
+JOURNAL ARTICLE.
+.W
+As cardiac transplantation has evolved into a viable therapeutic option for some terminally ill patients with end-stage heart disease, the role of clinical transplant and donor organ procurement coordinators has evolved into a new health profession. These well-trained, highly skilled, and dedicated individual's permeate all levels of the organ transplantation process, providing continuity of care and smoothness to a complicated path of operation.
+.A
+Davis FD.

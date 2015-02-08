@@ -1,0 +1,15 @@
+ 39907
+.U
+87073491
+.S
+Am J Med 8703; 81(5A):76-80
+.M
+Atropine Derivatives/*TU; Bronchitis/*DT/PP; Chronic Disease; Dose-Response Relationship, Drug; Drug Evaluation; Forced Expiratory Volume; Human; N-Isopropylatropine/AE/*TU; Pulmonary Emphysema/*DT/PP.
+.T
+Ipratropium bromide in chronic bronchitis/emphysema. A review of the literature.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Many studies have evaluated the efficacy of ipratropium bromide in chronic obstructive pulmonary disease (COPD). Single-agent studies have shown ipratropium to be both safe and effective in COPD. Several studies have compared ipratropium with sympathomimetic agents or methylxanthines in patients with chronic bronchitis or emphysema; all of these studies have shown at least an equal, and in most instances a superior, bronchodilator action with ipratropium in terms of duration of action as well as peak bronchodilator effect in patients with COPD. In some patients with COPD, beta agonists, theophylline, or corticosteroids may have some additive, but not synergistic, bronchodilator effects when given with ipratropium.
+.A
+Lakshminarayan S.

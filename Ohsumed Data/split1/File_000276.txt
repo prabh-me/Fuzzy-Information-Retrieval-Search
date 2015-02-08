@@ -1,0 +1,15 @@
+ 40062
+.U
+87077831
+.S
+Cancer 8704; 59(3):415-23
+.M
+Antibodies, Monoclonal/*IM; Antibody Specificity; Antigens, Neoplasm/IM; Human; Immunoenzyme Techniques; Melanocytes/*IM; Melanoma/*IM; Molecular Weight; Neoplasms/IM; Nevus/IM; Proteins/IM; Skin Neoplasms/*IM; Support, Non-U.S. Gov't; Tissue Distribution.
+.T
+Development of MoAb HMSA-2 for melanosomes of human melanoma and its application to immunohistopathologic diagnosis of neoplastic melanocytes.
+.P
+JOURNAL ARTICLE.
+.W
+To characterize the biologic and molecular nature of melanosomal proteins, we recently developed two mouse monoclonal antibodies (MoAbs), human melanosome-associated antigen (HMSA)-1 and HMSA-2, for melanosomes isolated from human malignant melanoma. This study describes the methods of development for MoAb HMSA-2 and the specificity and distribution of antigen(s) reactive with it in normal and pathological tissues. Characteristically, MoAb HMSA-2 was found to detect neoplastic melanocytes on formalin-fixed and paraffin-processed specimens. The reaction patterns for benign and malignant melanocytic tumors were different, i.e., homogeneous reactivity in the dermal cells of common melanocytic nevi but heterogeneous reactivity in the same type of cells in malignant melanoma. MoAb HMSA-2 reacted positively with the epidermal melanocytes in the lesions of dysplastic melanocytic nevi, but not with those of common melanocytic nevi. Reaction products with MoAb HMSA-2 were localized in the cytoplasm. MoAb HMSA-2 did not react with normal melanocytes even on frozen sections. Benign and malignant epithelial and soft tissue tumors of the skin were usually negatively stained with MoAb HMSA-2. Findings indicate that MoAb HMSA-2 is a unique MoAb which identifies neoplastic melanocytes and which can be useful in differentiating each type of melanocytic tumor.
+.A
+Maeda K; Jimbow K.

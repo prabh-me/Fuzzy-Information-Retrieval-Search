@@ -1,0 +1,13 @@
+ 39919
+.U
+87073595
+.S
+Am J Obstet Gynecol 8703; 155(6):1357-9
+.M
+Female; Human; Insulin/*TU; Pregnancy; Pregnancy in Diabetes/*DT.
+.T
+Management of diabetes mellitus [letter]
+.P
+LETTER.
+.A
+Barron WM; Lindheimer MD.

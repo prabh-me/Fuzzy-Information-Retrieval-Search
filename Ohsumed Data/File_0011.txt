@@ -1,0 +1,13 @@
+ 10
+.U
+87049099
+.S
+Am J Emerg Med 8703; 4(6):537-9
+.M
+Adult; Case Report; Electrocardiography/*; Extrasystole/*PP; Female; Human; Male; Middle Age; Tachycardia, Sinus/*PP; Tachycardia, Supraventricular/*PP.
+.T
+Cases in electrocardiography.
+.P
+JOURNAL ARTICLE.
+.A
+Zimmers T.

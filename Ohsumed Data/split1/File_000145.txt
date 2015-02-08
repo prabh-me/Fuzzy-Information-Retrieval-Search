@@ -1,0 +1,15 @@
+ 39931
+.U
+87073655
+.S
+Am J Pathol 8703; 125(2):269-75
+.M
+Adenoma/*PA/SE; Adrenocorticotropic Hormone/AN; Cushing's Syndrome/*PA; Histocytochemistry; Human; Immunosorbent Techniques; Molecular Weight; Neurophysins/*AN; Pituitary Gland, Anterior/*CY; Somatotropin/*SE.
+.T
+Presence of neurophysins in the human pituitary corticotrophs, Cushing's adenomas, and growth hormone-producing adenomas detected by immunohistochemical study.
+.P
+JOURNAL ARTICLE.
+.W
+Neurophysins have been recognized as the carrier proteins of vasopressin and oxytocin. The distribution of neurophysins is immunohistochemically confirmed in the hypothalamus, median eminence, and posterior lobe of the pituitary gland. The authors detected neurophysins in the human corticotrophs and pituitary adenomas with the use of the immunohistochemical method with antiserum to human neurophysins, which did not cross-react with adrenocorticotropic hormone (ACTH), beta-endorphin, and corticotropin-releasing factor. All of ten pituitary glands obtained by autopsy revealed the presence of neurophysin-positive cells in the anterior, intermediate, and the posterior lobes. The neurophysin-positive cells were similar to the corticotrophs in shape and distribution. Simultaneous staining for ACTH and neurophysins in the serial sections revealed that neurophysin-positive cells were also ACTH-positive. One hundred twenty-four cases of pituitary adenoma operated upon were investigated. All of 7 Cushing's adenomas were composed of neurophysin-positive cells. Six tumors with giantism showed sparsely distributed neurophysin-positive cells. No neurophysin-positive cells were observed in any other cases. This study is the first reported evidence of the presence of neurophysins in the human corticotrophs and pituitary adenomas.
+.A
+Kimura N; Andoh N; Sasano N; Sasaki A; Mouri T.

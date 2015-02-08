@@ -1,0 +1,13 @@
+ 39971
+.U
+87074462
+.S
+Ann Intern Med 8703; 106(1):168-9
+.M
+MEDLARS/*EC; Software/*EC; United States.
+.T
+Computer searching of the medical literature [letter]
+.P
+LETTER.
+.A
+Ryan P; Winand D; Bleich HL; Slack WV; Porter D.

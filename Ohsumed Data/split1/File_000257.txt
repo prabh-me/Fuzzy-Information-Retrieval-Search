@@ -1,0 +1,15 @@
+ 40043
+.U
+87077368
+.S
+Br J Surg 8704; 73(12):993-4
+.M
+Bile; Blood; Cholecystectomy; Clinical Trials; Comparative Study; Gallbladder Diseases/*SU; Human; Postoperative Complications/PC; Prospective Studies; Random Allocation; Suction/*; Ultrasonography.
+.T
+Influence of intraperitoneal drains on subhepatic collections following cholecystectomy: a prospective clinical trial.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+In this prospective randomized study, the influence of an intraperitoneal drain on the incidence and clinical significance of subhepatic collections occurring in patients after acute or elective cholecystectomy was assessed by ultrasound examination. A total of 112 patients entered the study, of whom 54 received a drain. There was no significant difference between the drainage and the non-drainage groups with respect to mean age or sex distribution, the number of patients in whom the gallbladder bed was formally closed (27 versus 21) nor in the number of acute cholecystectomies performed in either group (12 versus 13). Ultrasound detected 10 (18 per cent) collections in the drainage group and only one (1.8 per cent) in the non-drainage group (P less than 0.01, chi 2 test). None of the collections required any further treatment and no morbidity occurred that was directly attributable to the presence of the retained fluid. These results suggest that rather than preventing fluid collections, suction drains may predispose to the development of subhepatic collections after cholecystectomy.
+.A
+Monson JR; MacFie J; Irving H; Keane FB; Brennan TG; Tanner WA.

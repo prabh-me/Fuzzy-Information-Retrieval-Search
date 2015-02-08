@@ -1,0 +1,15 @@
+ 39853
+.U
+87071388
+.S
+Urology 8703; 28(6):518-20
+.M
+Adult; Case Report; Diagnosis, Differential; Elephantiasis, Filarial/DI/*EP; Genital Diseases, Male/EP/PS; Human; Lymphedema/*EP; Male; Minnesota; Spermatic Cord/*PS; Wuchereria bancrofti/IP.
+.T
+Genital filariasis in Minnesota.
+.P
+JOURNAL ARTICLE.
+.W
+Genitourinary filariasis is a well-known entity in most tropical areas. However, filariasis cannot be eliminated from the differential diagnosis of testicular, epididymal, or spermatic cord masses in nontropical climes. We report a case of filariasis of the spermatic cord that manifested as an unexplained scrotal mass in a patient in Rochester, Minnesota.
+.A
+Clark WR; Lieber MM.

@@ -1,0 +1,15 @@
+ 39852
+.U
+87071384
+.S
+Urology 8703; 28(6):504-7
+.M
+Adult; Case Report; Constriction, Pathologic/TH; Dilatation/MT; Human; Ileum/SU; Kidney/*TR; Kidney Calculi/*TH; Kidney Calices; Kidney Transplantation/*; Lithotripsy/*MT; Male; Nephrostomy, Percutaneous/*MT; Urinary Diversion/*.
+.T
+Endourologic approach to transplant kidney.
+.P
+JOURNAL ARTICLE.
+.W
+Two significant procedures, namely lithotripsy of staghorn calculus and dilatation of a stenotic calyceal infundibulum, were performed endourologically in a renal allograft drained by an ileal conduit. This is another example of the versatility of these minimally invasive urologic methods.
+.A
+Eshghi M; Smith AD.

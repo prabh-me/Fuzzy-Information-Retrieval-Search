@@ -1,0 +1,15 @@
+ 40009
+.U
+87075161
+.S
+Ann Thorac Surg 8703; 42(6 Suppl):S36-40
+.M
+Cardiovascular Diseases/*SU; Carotid Artery Diseases/*SU; Endarterectomy/*; Human.
+.T
+Asymptomatic carotid disease in patients undergoing major cardiovascular operations: can prophylactic endarterectomy be justified?
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+This article reviews the published experience supporting or refuting the value of prophylactic endarterectomy in patients with asymptomatic carotid disease who are candidates for major cardiovascular operations. Reports of 1,483 patients subjected to staged or concomitant carotid endarterectomy and coronary artery bypass grafting reveal a perioperative stroke rate of 2.9%. Timing of carotid endarterectomy did not influence stroke rate, but staged procedures were associated with a significantly greater incidence of perioperative myocardial infarction and death. Studies of patients undergoing major cardiovascular surgical operations without prophylactic carotid endarterectomy reported a perioperative stroke rate of 2.7%, which is not significantly different from that of patients undergoing prophylactic carotid endarterectomy. However, the author's prospective study of such patients showed a significant incidence of late postoperative neurologic deficits, which are usually transient ischemic attacks. There is no evidence to justify routine prophylactic carotid endarterectomy of asymptomatic carotid disease before major cardiovascular operations. Patients not undergoing endarterectomy, however, should be given careful postoperative follow-up, because transient ischemic attacks may occur that require surgical intervention.
+.A
+Barnes RW.

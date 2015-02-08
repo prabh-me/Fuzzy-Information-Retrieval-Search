@@ -1,0 +1,15 @@
+ 40056
+.U
+87077814
+.S
+Cancer 8704; 59(1):38-42
+.M
+Adolescence; Adult; Antineoplastic Agents, Combined/*AE; Bone Marrow/*TR; Bone Marrow Transplantation/*; Case Report; Cyclophosphamide/AD; Cytarabine/AD; Female; Heart Diseases/*ET/PA; Human; Leukemia/*TH; Myocardium/PA; Pericardium/PA; Support, Non-U.S. Gov't; Whole-Body Irradiation/*AE.
+.T
+Fatal cardiac toxicity in bone marrow transplant patients receiving cytosine arabinoside, cyclophosphamide, and total body irradiation.
+.P
+JOURNAL ARTICLE.
+.W
+Three patients developed fatal cardiac toxicity from the combination of cytosine arabinoside, cyclophosphamide, and total body irradiation while undergoing preparation for a bone marrow transplant. The pattern of the toxicity was unique for this combination of ablative chemotherapy. All three patients had autopsies demonstrating characteristic myocardial and pericardial toxicity. The cardiotoxic effects of this combination may be averted by lowering the dose of the cyclophosphamide.
+.A
+Trigg ME; Finlay JL; Bozdech M; Gilbert E.

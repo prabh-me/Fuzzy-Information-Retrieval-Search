@@ -1,0 +1,13 @@
+ 40050
+.U
+87077744
+.S
+Can Med Assoc J 8704; 136(2):201-3
+.M
+Depressive Disorder/*HI; England; Famous Persons/*; History of Medicine, 18th Cent.; Literature, Modern/*HI.
+.T
+The melancholy of Dr. Samuel Johnson.
+.P
+HISTORICAL ARTICLE; HISTORICAL BIOGRAPHY; JOURNAL ARTICLE.
+.A
+Morrant C.

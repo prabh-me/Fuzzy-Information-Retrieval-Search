@@ -1,0 +1,15 @@
+ 40089
+.U
+87079113
+.S
+Clin Orthop 8704;  (214):175-80
+.M
+Adult; Bone and Bones/TR; Bone Transplantation; Carpal Bones/*IN; Casts, Surgical; Female; Follow-Up Studies; Fractures, Ununited/SU; Human; Male; Pseudarthrosis/*SU; Time Factors; Wound Healing.
+.T
+Scaphoid nonunion treated with the Matti-Russe technique. Long-term results.
+.P
+JOURNAL ARTICLE.
+.W
+Forty-three patients with scaphoid pseudarthrosis were surgically treated using the Matti-Russe technique. Twenty-seven patients were examined seven to 17 years after surgery (mean, 12 years). The interval between trauma and operation of the pseudarthrosis was 40 months. Before operation, all patients were unable to do any work because of pain. Fracture healing was observed in 22 cases (81%). Radiocarpal osteoarthrosis was present in 18 cases, compared with eight before operation. Radial deviation and extension was impaired, and pronation and supination was unaffected, compared with the healthy side. Twenty-four patients were satisfied with the operative result and none felt worse. All patients but one could return to work. The Matti-Russe method proved satisfactory in 24 of 43 patients available for long-term follow-up evaluation.
+.A
+Stark A; Brostrom LA; Svartengren G.

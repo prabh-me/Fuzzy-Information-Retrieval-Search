@@ -1,0 +1,15 @@
+ 40093
+.U
+87079248
+.S
+Clin Perinatol 8704; 13(4):719-39
+.M
+Female; Hemostasis; Heparin/TU; Human; Pregnancy; Pregnancy Complications, Hematologic/*; Pulmonary Embolism/DI/RA/RI; Thromboembolism/*/DT/PP; Thrombophlebitis/DI/RA/RI; Warfarin/TU.
+.T
+Thromboembolic disease in pregnancy.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Suspicion of DVT or thromboembolism is critical to early diagnosis and treatment prior to development of severe or life-threatening pathology. Because the consequences of treatment are long-term inconvenience and risk of major complications, objective studies are necessary to confirm the diagnosis. Radiographic procedures such as angiography and lung scanning provide valuable information with low risk to mother and fetus. However, if the clinical situation is strongly suggestive, treatment with intravenous heparin can be immediately initiated followed by definitive diagnosis. When indicated, anticoagulation can be instituted with relative safety, providing there is careful monitoring. Heparin is unquestionably the drug of choice for treatment and prophylaxis during pregnancy. Because warfarin carries a significant risk to the fetus of anomalies and hemorrhage, its use during pregnancy should be reserved for those circumstances in which the benefits of such therapy outweigh the risks. Finally, awareness of the signs and symptoms of thromboembolism, as well as expeditious treatment, remain the mainstays for prevention of maternal and attendant fetal mortality.
+.A
+Rutherford SE; Phelan JP.

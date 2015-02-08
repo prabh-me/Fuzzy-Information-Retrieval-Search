@@ -1,0 +1,15 @@
+ 40027
+.U
+87076945
+.S
+Blood 8704; 69(1):160-4
+.M
+Antigens, Neoplasm/AN; Antigens, Surface/AN; Cell Differentiation; Gene Expression Regulation; Human; Leukemia, Monocytic, Acute/*GE/IM; Leukemia, Myelocytic, Acute/*GE/IM; Monocytes/*PH; Proto-Oncogene Proteins/*GE; Proto-Oncogenes/*; RNA, Messenger/GE; RNA, Neoplasm/GE; Support, Non-U.S. Gov't.
+.T
+Selective expression of fos proto-oncogene in human acute myelomonocytic and monocytic leukemias: a molecular marker of terminal differentiation.
+.P
+JOURNAL ARTICLE.
+.W
+Expression of human fos proto-oncogene (c-fos) was analyzed in primary cells from 50 untreated acute lymphocytic (ALL) and myeloblastic (AML) leukemias. c-fos RNA, analyzed by blot hybridization, was detected virtually only in myelomonocytic (M4) and monocytic (M5) AML. Both M4 and M5 samples show a strong positive correlation between the amount of c-fos transcripts and the percentage of leukemic cells expressing surface antigens specific for mature monocytes and macrophages. Normal mature monocytes exhibit a detectable level of c-fos RNA, which is virtually unaltered on activation to macrophage differentiation, but is always below that observed in M4 through M5 monocyticlike cells. These data provide evidence that c-fos expression is linked to terminal monocyte and macrophage differentiation in normal and leukemic hemopoiesis.
+.A
+Mavilio F; Testa U; Sposi NM; Petrini M; Pelosi E; Bordignon C; Amadori S; Mandelli F; Peschle C.

@@ -1,0 +1,15 @@
+ 8
+.U
+87049096
+.S
+Am J Emerg Med 8703; 4(6):523-4
+.M
+Case Report; Child, Preschool; Drug Administration Routes; Emergencies; Human; Male; Phenytoin/*AD/BL; Status Epilepticus/BL/*DT; Tibia.
+.T
+Intraosseous infusion of phenytoin.
+.P
+JOURNAL ARTICLE.
+.W
+In the critically ill child, administration of fluids and medications via the intraosseous route often proves life-saving. The authors describe the case of a child with status epilepticus in whom phenytoin was administered via the intraosseous route, and seizure resolution and therapeutic serum levels were achieved. Intraosseous drug administration should be reserved for the rare critically ill child in whom vascular access proves impossible.
+.A
+Walsh-Kelly CM; Berens RJ; Glaeser PW; Losek JD.

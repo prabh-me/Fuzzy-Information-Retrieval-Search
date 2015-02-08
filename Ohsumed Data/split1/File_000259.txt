@@ -1,0 +1,15 @@
+ 40045
+.U
+87077712
+.S
+Can Med Assoc J 8704; 136(1):29-36
+.M
+Antineoplastic Agents, Combined/*TU; Central Nervous System Diseases/PC; Combined Modality Therapy; Human; Lymphoma, Non-Hodgkin's/CL/*DT/RT; Prognosis.
+.T
+Current approaches to the treatment of advanced-stage non-Hodgkin's lymphoma.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Non-Hodgkin's lymphomas (NHLs) are a diverse group of malignant diseases whose clinical behaviour and treatment are distinct from those of Hodgkin's disease. In advanced-stage NHL certain histologic subtypes grow relatively slowly, initially produce few symptoms and, even when untreated, are associated with survival that is usually measured in years. Other, less favourable subtypes grow more rapidly, produce symptoms earlier and result in rapid clinical deterioration and death if aggressive treatment is not begun at the time of diagnosis. Many patients with advanced-stage higher-grade NHL can now expect cure, whereas those with lower-grade NHL cannot. Among the higher-grade lymphomas, factors associated with a poorer prognosis include B symptoms, age greater than 50 years, bulky disease (particularly in the abdomen) and extranodal disease with bone marrow or gastrointestinal involvement. These factors have less effect on prognosis in lower-grade lymphomas. Combination chemotherapy (CT) has been the mainstay of treatment for advanced-stage higher-grade NHL. Newer regimens contain more agents given earlier in the treatment plan. Radiotherapy is a useful supplement to CT in some patients with bulky disease. Most CT regimens have been developed through retrospective uncontrolled studies. Prospective randomized clinical trials must be designed to compare the efficacy of newer, more toxic but seemingly more effective regimens and earlier, less toxic regimens. Such trials should determine which patients may achieve optimal survival results with the least toxic therapy.
+.A
+Rusthoven JJ.

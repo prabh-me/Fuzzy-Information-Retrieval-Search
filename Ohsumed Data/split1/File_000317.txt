@@ -1,0 +1,15 @@
+ 40103
+.U
+87079295
+.S
+Clin Sci 8704; 71(6):665-73
+.M
+Adult; Blood Glucose/ME; Body Weight/DE; Female; Glucose Tolerance Test; Human; Insulin/*BL; Insulin Resistance; Male; Methandrostenolone/*TU; Middle Age; Models, Biological; Support, U.S. Gov't, P.H.S..
+.T
+Insulin action and dynamics modelled in patients taking the anabolic steroid methandienone (Dianabol).
+.P
+JOURNAL ARTICLE.
+.W
+Plasma glucose and insulin concentrations were measured during oral (OGTT) and intravenous (IVGTT) glucose tolerance tests in nine patients off- and on-treatment with the anabolic steroid, methandienone (Dianabol). On-treatment, the tolerance tests showed a markedly increased insulin response accompanied by impairment of glucose tolerance, characteristics normally attributed to insulin resistance. However, fasting plasma glucose (FPG) and insulin (FPI) concentrations were significantly reduced, whereas the pattern normally associated with insulin resistance is for both to be raised. IVGTT glucose and insulin profiles were analysed using an algorithm derived from the minimal models of glucose and insulin dynamics originally proposed by R. Bergman and co-workers. Measures for the following parameters were thus obtained: Si, the sensitivity of glucose disposal to insulin; Sg, net insulin independent glucose disposal; phi 1, the integral concentration of insulin delivered during the first phase of insulin secretion relative to the initial increase in glucose concentration above a model-derived threshold; phi 2, the sensitivity of the rate of rise of insulin concentration in the second phase of insulin secretion to the concentration of glucose above a model-derived threshold; kappa, the fractional clearance rate of insulin; and tau 1/2, the insulin half-life. S1 was significantly reduced on treatment by a factor of 4. Sg, phi 1, phi 2 and tau 1/2 were all significantly increased, and kappa was significantly reduced. The increases in Sg and phi 1 both showed significant correlations with the increase in weight on-treatment. The reduction in FPG and FPI can be explained by the combined effects of the increase in Sg and Dianabol-induced resistance to glucagon.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Godsland IF; Shennan NM; Wynn V.

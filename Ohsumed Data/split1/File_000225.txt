@@ -1,0 +1,15 @@
+ 40011
+.U
+87076097
+.S
+Arch Otolaryngol Head Neck Surg 8704; 113(1):59-62
+.M
+Adult; Female; Helper Cells; Human; HLA-DR Antigens/AN; Immunoenzyme Techniques; Leukocyte Count; Leukocytes/*CL; Lymphocytes/IM; Macrophages; Male; Middle Age; Monocytes; Nasal Mucosa/*CY; Support, Non-U.S. Gov't; T-Lymphocytes/UL.
+.T
+Lymphocyte subsets in normal airway mucosa of the human nose.
+.P
+JOURNAL ARTICLE.
+.W
+The distribution and number of lymphocytes, monocytes/macrophages, and cells expressing HLA-DR antigen were studied in frozen biopsy sections of nasal mucosa from 40 healthy adults, using monoclonal antibody avidin-biotin immunoperoxidase techniques. The lymphocyte to monocyte/macrophage ratio was estimated to be 10:1; the T cell to B cell ratio was 3:1; and the T helper/inducer cell to T suppressor/cytotoxic cell ratio averaged 2.5:1. Regional differences were observed with a relatively increased number of T suppressor/cytotoxic cells around submucosal glands, and a relatively large number of B cells in lymphocyte aggregates in the lamina propria. The HLA-DR antigen was expressed in epithelial cells, suggesting involvement of surface epithelium of human airway in local immune responses.
+.A
+Winther B; Innes DJ Jr; Mills SE; Mygind N; Zito D; Hayden FG.

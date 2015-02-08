@@ -1,0 +1,15 @@
+ 96
+.U
+87049376
+.S
+ASAIO Trans 8703; 32(1):52-7
+.M
+Aluminum/*BL/IP; Blood Proteins/AN; Deferoxamine/*TU; Hemodialysis/*MT; Human; Kinetics; Permeability; Time Factors.
+.T
+Removal of aluminum from chronic dialysis patients by administration of desferrioxamine and dialysis.
+.P
+JOURNAL ARTICLE.
+.W
+In order to perform quantitative in vitro and clinical studies on the removal of Al by the combined therapy of DFO administration and HD, an HPLC system for measuring DFO was established and a leaky membrane with enhanced permeability to middle molecular substances was developed. The DFO infusion caused rises in plasma Al levels (regarded as indicating the elution of accumulated Al) in patients undergoing HD. Plasma levels increased most in long-term patients and those with bone pain. Examination of Al clearances demonstrated that this increased plasma Al content passed through HD membranes at levels of more than 80 micrograms/l, and that the leaky membrane was more effective for removal of Al as well as DFO than the conventional one. Although a 1:1 complex between DFO and Al in an aqueous solution was confirmed, the formation of Al-rich complexes in vivo was suggested. It is concluded that Al-DFO complex formed in vivo can be effectively removed across the leaky membrane.
+.A
+Ono T; Iwamoto N; Kataoka H; Taniguchi Y; Sakai Y; Kunitomo T.

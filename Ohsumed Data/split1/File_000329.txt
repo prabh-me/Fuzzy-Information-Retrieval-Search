@@ -1,0 +1,15 @@
+ 40115
+.U
+87079625
+.S
+Crit Care Med 8704; 15(1):14-9
+.M
+Adolescence; Adult; Aged; Aged, 80 and over; Anoxemia/*TH; Clinical Trials; Comparative Study; Female; Human; Male; Middle Age; Positive-Pressure Respiration/EC/*MT; Prospective Studies; Random Allocation; Support, U.S. Gov't, P.H.S..
+.T
+Titrating positive end-expiratory pressure therapy in patients with early, moderate arterial hypoxemia.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+A prospective randomized study to compare two physiologic end-points for titrating positive end-expiratory pressure (PEEP) was performed in patients with early, moderate arterial hypoxemia after surgery or trauma. All patients initially received 5 cm H2O of PEEP. In group 1 patients, PEEP was increased only if PaO2 decreased below 65 torr on an inspired oxygen fraction (FIO2) of 0.45. PEEP was then added in 2- to 3-cm H2O increments until PaO2 again was above 65 torr. Group 2 patients were treated with incremental PEEP until the PaO2/FIO2 ratio was greater than 300 or physiologic shunt (Qsp/Qt) was less than 0.20. All therapy other than PEEP was similar in the two groups. There were no statistically significant differences in entry PaO2 (mean 85 +/- 11 [SD] and 87 +/- 11 torr in groups 1 and 2, respectively), and Qsp/Qt was 0.22 in each group. Five (28%) of 18 patients in group 1 and 19 (95%) of 20 patients in group 2 received more than 5 cm H2O of PEEP. Between groups 1 and 2 there were no statistically significant differences in days intubated (3.4 +/- 3 vs. 5.3 +/- 5, respectively), ICU days (5.3 +/- 3 vs. 6.6 +/- 5), hospitalization days (26 +/- 24 vs. 28 +/- 24), incidence of pulmonary barotrauma (0/18 vs. 1/20), ICU mortality (22% vs. 20%), or overall mortality (33% vs. 25%). The number of blood gas analyses and cardiac output measurements, and the total hospital charges were also similar in both groups.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Nelson LD; Civetta JM; Hudson-Civetta J.

@@ -1,0 +1,13 @@
+ 80
+.U
+87049350
+.S
+ASAIO Trans 8703; 32(1):418-21
+.M
+Filtration; Human; Mathematics; Membranes, Artificial; Plasmapheresis/*MT.
+.T
+Relationship between Staverman's reflection and sieving coefficients in a plasma fractionator.
+.P
+JOURNAL ARTICLE.
+.A
+Mineshima M; Hasuo Y; Kaneko I; Era K; Agishi T; Ota K; Sakai K.

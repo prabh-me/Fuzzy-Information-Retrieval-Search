@@ -1,0 +1,13 @@
+ 40078
+.U
+87078777
+.S
+Circulation 8704; 75(1):96-100
+.M
+Adrenergic Alpha Receptor Blockaders/AD; Adrenergic Beta Receptor Blockaders/AD; Antihypertensive Agents/AD; Combined Modality Therapy; Diastole/DE; Diuretics/AD; Human; Hypertension/CL/*DT/PP; Negroid Race.
+.T
+Rational therapies for hypertension. Is step 1 of stepped care archaic?
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Dustan HP.

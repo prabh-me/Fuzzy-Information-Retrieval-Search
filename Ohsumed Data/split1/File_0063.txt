@@ -1,0 +1,15 @@
+ 39849
+.U
+87071359
+.S
+Urology 8703; 28(5):404-8
+.M
+Adenocarcinoma/*DT/MO; Antineoplastic Agents, Combined/*TU; Clinical Trials; Comparative Study; Cyclophosphamide/AD; Fluorouracil/AD; Human; Male; Melphalan/AD; Methotrexate/AD; Prednisone/AD; Prostatic Neoplasms/*DT/MO; Random Allocation; Vincristine/AD.
+.T
+Value of cyclophosphamide or melphalan as combined chemotherapy in hormonally unresponsive prostatic carcinoma.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+This prospective randomized study in nonhormonally responsive adenocarcinoma of the prostate shows that response rates to melphalan vs cyclophosphamide groups were virtually identical.
+.A
+Graham SD; Walker A; Cox EB; Laszlo J; Berry WR; Paulson DF.

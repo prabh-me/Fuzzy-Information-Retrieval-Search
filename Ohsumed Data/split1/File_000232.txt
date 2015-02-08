@@ -1,0 +1,15 @@
+ 40018
+.U
+87076264
+.S
+Br Heart J 8704; 56(5):469-72
+.M
+Adrenergic Beta Receptor Agonists/*TU; Aged; Arrhythmia, Sinus/*DT; Clinical Trials; Double-Blind Method; Electrocardiography; Female; Heart Rate; Human; Male; Middle Age; Propanolamines/*TU; Random Allocation; Support, Non-U.S. Gov't.
+.T
+Oral xamoterol in patients with sinoatrial disease.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Twelve patients with sinoatrial disease were assessed while on oral xamoterol (200 mg twice daily) and placebo by a double blind randomised, crossover trial that lasted four weeks. Nine of the patients had been referred for permanent pacing. Xamoterol produced favourable changes in the number of pauses and the mean heart rate in six patients. Another patient deteriorated on xamoterol. Six patients were started on long term xamoterol. Xamoterol produces short term electrocardiographic improvement in some, but not all, patients with symptomatic sinoatrial disease.
+.A
+Tseu FL; Morley CA; Mackintosh AF.

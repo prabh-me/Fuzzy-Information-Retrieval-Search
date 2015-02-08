@@ -1,0 +1,15 @@
+ 40127
+.U
+87079941
+.S
+Dis Colon Rectum 8704; 29(12):899-904
+.M
+Aged; Case Report; Clostridium Infections/*ET; Female; Human; Intestinal Neoplasms/*CO; Intestine, Large/*; Muscular Diseases/*ET.
+.T
+Carcinoma of the large intestine and nontraumatic, metastatic, clostridial myonecrosis.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Traumatic, clostridial myonecrosis is a rare and serious complication of wounds. Nontraumatic, metastatic, clostridial myonecrosis may be caused by carcinoma of the large intestine. Nontraumatic myonecrosis becomes evident with localized pain, generalized toxicity, local signs of inflammation, and crepitation. Serum creatine kinase determinations may be of help in diagnosing patients suspected of having acute myonecrosis. Immediate heroic surgical intervention, usually with demonstration of Clostridium septicum, is mandatory to control the myonecrosis. Appropriate antibiotic therapy is a valuable adjunct to surgical intervention, and penicillin in massive doses appears to be the agent of choice for the clostridia. Hyperbaric oxygen therapy may help in the optimal control. General supportive measures, including frequent blood transfusions, are most important. To save the life of the patient with nontraumatic, metastatic, clostridial myonecrosis, it is necessary, as soon as the patient's general condition permits, to diagnose and eliminate the cause of the myonecrosis. In addition to the case reported, 16 cases have been reported in the literature, making a total of 17. Five patients have survived (survival rate, 29 percent).
+.A
+Furste W; Dolor MC; Rothstein LB; Vest GR.

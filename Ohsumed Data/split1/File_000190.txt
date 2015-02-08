@@ -1,0 +1,15 @@
+ 39976
+.U
+87074557
+.S
+Ann Otol Rhinol Laryngol 8703; 95(6 Pt 1):601-2
+.M
+Antibodies, Monoclonal/DU; Cytodiagnosis; Cytophotometry; Flow Cytometry; Human; Immunoenzyme Techniques; Neoplasms/*DI/PA.
+.T
+The quiet revolution. Techniques of cell biology applied to tissue diagnosis.
+.P
+JOURNAL ARTICLE.
+.W
+In the past decade many of the techniques of cell biology developed in the research laboratory have been applied to tissue diagnosis. Increasing use of electron microscopy has allowed ready differentiation of many neoplasms with an identical appearance under the light microscope. The identification of highly specific antigenic substances in individual cells using monoclonal antibodies in the immunoperoxidase technique has allowed a degree of diagnostic accuracy not previously available in tissue diagnosis. Recent efforts have been directed at more accurately predicting biological behavior on the basis of cellular characteristics. Techniques being introduced include morphometry (computer-assisted image analysis), cytophotometry (measurement of cellular DNA content), flow cytometry (analysis of cells in suspension for DNA content and other physical and chemical properties), scanning electron microscopy, and cytogenetics (the study of cellular chromosomes).
+.A
+van Nostrand AW.

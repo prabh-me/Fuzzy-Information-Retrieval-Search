@@ -1,0 +1,15 @@
+ 40108
+.U
+87079376
+.S
+Clin Lab Med 8704; 6(4):697-706
+.M
+Pathology, Clinical/*ST; Quality Control.
+.T
+Quality assurance in anatomic pathology.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Comprehensive quality assurance in anatomic pathology must address several levels of laboratory operation: procedural/technical issues, the quality of the diagnostic report, and the medical consultative role of the pathologist. Procedural/technical quality control in anatomic pathology differs very little from that practiced in the various sections of clinical pathology. Assessment of the quality of the final report is a major responsibility of the pathologist who renders the diagnosis. Guidelines that systematically address such issues as specimen handling and the content of the diagnostic report are effective in promoting consistency, completeness, and the clinical relevance of the information provided. Quality assessment of the pathologist's consultative role is more difficult to define and implement. However, systematic evaluation and correlative review of all available diagnostic information, appropriate use of consultation and case review, and participation in continuing education and self-assessment activities all may contribute to and help document the quality of services provided. It is important to emphasize the value of flexibility in designing a comprehensive quality assurance program for anatomic pathology. Departments differ markedly in characteristics such as staff size, subspecialty interests, teaching commitments, and volume and type of case material. Nevertheless, the general principles of written organization, systematic monitoring, and documentation of adherence to the program should be followed. Just as the design of the program may benefit from flexibility, the laboratory should be prepared to modify its quality control and assurance techniques and implement corrective measures should surveillance identify problems such as frequent typographic errors, inadequate diagnostic information, or deterioration in correlation between frozen section and final diagnoses. The ultimate objective of all of these efforts is to provide the referring physician with an accurate, clinically relevant diagnostic report, thereby enhancing the pathologist's role as a valued medical consultant.
+.A
+Rickert RR.

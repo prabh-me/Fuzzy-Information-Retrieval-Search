@@ -1,0 +1,15 @@
+ 39925
+.U
+87073613
+.S
+Am J Ophthalmol 8703; 102(6):762-5
+.M
+Aged; Case Report; Cornea/*TR; Corneal Transplantation/*; Female; Graft Rejection; Human; Lenses, Intraocular/*AE; Male; Middle Age; Pigmentation Disorders/*ET; Retinal Pigments/*; Syndrome.
+.T
+Pigment dispersion syndrome in pseudophakic corneal transplants.
+.P
+JOURNAL ARTICLE.
+.W
+We observed the pigment dispersion syndrome in two patients after keratoplasty with posterior chamber intraocular lenses. In addition to a heavily pigmented trabecular mesh-work and iris transilluminating defects, an inferior linear pigmented endothelial line was seen in both patients. One patient developed glaucoma, which was well controlled with medication. Pigment dispersion syndrome in patients with penetrating keratoplasty should not be confused with an allograft reaction but should alert the transplant surgeon that a different process is occurring.
+.A
+Insler MS; Zatzkis SM.

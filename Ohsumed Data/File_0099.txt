@@ -1,0 +1,13 @@
+ 98
+.U
+87049380
+.S
+ASAIO Trans 8703; 32(1):534-7
+.M
+Extracorporeal Circulation/*AE; Female; Human; Infant, Newborn; Infant, Newborn, Diseases/BL/*TH; Male; Oxygen/*BL; Partial Pressure; Respiratory Distress Syndrome/BL/*TH; Thrombocytopenia/*ET.
+.T
+Thrombocytopenia in neonates after extracorporeal membrane oxygenation.
+.P
+JOURNAL ARTICLE.
+.A
+Anderson HL 3d; Cilley RE; Zwischenberger JB; Bartlett RH.

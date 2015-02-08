@@ -1,0 +1,13 @@
+ 30
+.U
+87049281
+.S
+ASAIO Trans 8703; 32(1):138-42
+.M
+Adult; Bilirubin/BL; Female; Fluorescence; Human; Hyperbilirubinemia/ET/*TH; Liver Diseases/*TH; Male; Middle Age; Phototherapy/*; Plasma/*/RE.
+.T
+Innovation in blood purification for hepatic failure: direct photoirradiation of plasma.
+.P
+JOURNAL ARTICLE.
+.A
+Totsune K.

@@ -1,0 +1,15 @@
+ 40124
+.U
+87079798
+.S
+Chest 8704; 91(1):96-9
+.M
+Adolescence; Adult; Female; Human; Immunity, Cellular; Leukocyte Migration-Inhibitory Factors; Methotrexate/*AE; Middle Age; Pneumonia/*CI/IM.
+.T
+Leukocyte migration inhibition in methotrexate-induced pneumonitis. Evidence for an immunologic cell-mediated mechanism.
+.P
+JOURNAL ARTICLE.
+.W
+Methotrexate-induced pneumonitis is a well-known clinical entity, but the mechanism for the induction of the pulmonary disease is ill defined. In three patients with this disorder, evidence was obtained for elaboration of a lymphokine, leukocyte inhibitory factor (LIF), by peripheral blood lymphocytes after incubation with methotrexate (MTX) in the direct leukocyte migration inhibition test. Control lymphocytes from normal subjects, as well as from patients receiving methotrexate but without pneumonitis, failed to elaborate LIF in the presence of the drug in this test. Along with these results, we obtained bronchoalveolar lavage (BAL) cell data displaying high grade lymphocyte alveolitis with a lymphocyte subset inverted ratio. This production of LIF suggests that pneumonitis associated with methotrexate therapy is also associated with a specific cellular immune response to the drug.
+.A
+Akoun GM; Gauthier-Rahman S; Mayaud CM; Touboul JL; Denis MF.

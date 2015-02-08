@@ -1,0 +1,13 @@
+ 76
+.U
+87049346
+.S
+ASAIO Trans 8703; 32(1):401-4
+.M
+Adult; Aged; Blood/*; Burns/PP/*TH; Catheters, Indwelling; Edema/ET/*TH; Female; Heparin/TU; Human; Kidney Failure, Acute/ET/*TH; Male; Middle Age; Ultrafiltration/*.
+.T
+Continuous arteriovenous hemofiltration for the treatment of anasarca and acute renal failure in severely burned patients.
+.P
+JOURNAL ARTICLE.
+.A
+Hubsher J; Olshan AR; Schwartz AB; Zoranski B; DeClement F; Bendlin A; Hensell D; Brezin JH; Krevolin LE; Chinitz JL.

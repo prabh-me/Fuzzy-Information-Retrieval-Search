@@ -1,0 +1,15 @@
+ 39945
+.U
+87073968
+.S
+Am J Surg 8703; 152(6):628-37
+.M
+Abdomen; Adolescence; Amylases/BL; Child; Child, Preschool; Chronic Disease; Female; Human; Male; Morphine/DU; Neostigmine/DU; Pain; Pancreatitis/*DI/SU; Recurrence; Ultrasonography.
+.T
+Beneficial use of an evocative test in chronic relapsing pancreatitis in children.
+.P
+JOURNAL ARTICLE.
+.W
+The true incidence and cause of chronic recurrent pancreatitis in children remains enigmatic because little is known about its early natural history, it is considered only infrequently, and diagnosis is difficult. Chronic recurrent abdominal pain in children continues to be common. To help evaluate the possibility that such pain is related to chronic recurrent pancreatitis, this study used the morphine-prostigmine pancreatic evocative test with the recent addition of concomitant pancreatic ultrasonography to evaluate ductal activity. Fourteen of 67 children studied had positive results and 13 underwent operation, which included 2 partial pancreatectomies and 12 sphincteroplasties in 12 patients. At last follow-up seven were asymptomatic, five were significantly improved, and one who had pancreatography only continued to have pain. The remaining patient, who has not yet operated on, continues to have pain. This series supports the use of the morphine-prostigmine test to determine which patients have abdominal pain that is potentially related to pancreatitis and which patients would benefit from operation.
+.A
+Buntain WL; Buonocore E; Royal SA.

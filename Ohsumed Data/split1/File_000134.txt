@@ -1,0 +1,13 @@
+ 39920
+.U
+87073597
+.S
+Am J Obstet Gynecol 8703; 155(6):1360-1
+.M
+Adhesions/SU; Endoscopy/*; Female; Human; Ultrasonography/*; Uterine Diseases/*SU.
+.T
+Operative hysteroscopy under real-time ultrasonography [letter]
+.P
+LETTER.
+.A
+Shalev E; Zuckerman H.

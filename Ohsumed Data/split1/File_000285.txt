@@ -1,0 +1,13 @@
+ 40071
+.U
+87078757
+.S
+Circulation 8704; 75(1):20-8
+.M
+Brain Death; Heart/*TR; Heart Transplantation/*; Human; Informed Consent/LJ; Organ Procurement/LJ/OG/*TD; Tissue Donors/*; United States.
+.T
+A proposed solution to the present organ donation crisis based on a hard look at the past.
+.P
+JOURNAL ARTICLE.
+.A
+Miller M.

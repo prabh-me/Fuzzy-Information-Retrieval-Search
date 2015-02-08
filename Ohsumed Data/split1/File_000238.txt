@@ -1,0 +1,15 @@
+ 40024
+.U
+87076468
+.S
+Br J Ophthalmol 8704; 70(11):852-5
+.M
+Administration, Topical; Animal; Aqueous Humor/ME; Comparative Study; Cornea/TR; Corneal Transplantation; Cyclosporins/AD/BL/*ME; Injections, Intramuscular; Rabbits.
+.T
+Cyclosporin A: tissue levels following topical and systemic administration to rabbits.
+.P
+JOURNAL ARTICLE.
+.W
+Plasma and aqueous levels of cyclosporin A (CsA) were determined following topical administration of CsA 1% to healthy rabbit eyes and compared with levels obtained when administered to rabbit eyes which had received corneal grafts 7-10 days previously. In addition plasma levels were determined following intramuscular administration of 50 mg CsA and the results compared with those obtained following topical administration. Topical administration to healthy rabbit eyes five times a day for three days resulted in plasma levels of CsA which were similar to those obtained over three days following an intramuscular administration of 50 mg CsA. The plasma levels in both were significantly higher than those obtained following topical administration to rabbit eyes which had received corneal grafts 7-10 days previously. Aqueous levels of CsA were lower than plasma levels, and there was no significant difference between levels obtained when CsA was administered topically to healthy eyes, to eyes which had received corneal grafts, or to the fellow eye.
+.A
+Bell TA; Hunnisett AG.

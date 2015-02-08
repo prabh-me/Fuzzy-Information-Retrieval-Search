@@ -1,0 +1,15 @@
+ 40052
+.U
+87077796
+.S
+Cancer 8704; 59(1):118-27
+.M
+Adenocarcinoma/IM; Adenoma/IM; Antibodies, Monoclonal/BI; Antigenic Determinants/IM; Blood Groups/*IM; Colonic Neoplasms/*IM; Endothelium/IM; Erythrocytes/IM; Histocytochemistry; Human; IgM/BI; Immunoenzyme Techniques; Intestinal Mucosa/IM; Polyps/IM; Rectal Neoplasms/*IM; Support, Non-U.S. Gov't.
+.T
+Immunohistochemical studies of blood group substance H in colorectal tumors using a monoclonal antibody.
+.P
+JOURNAL ARTICLE.
+.W
+With the use of a murine monoclonal antibody with specificity for human blood group substance H, the distribution of this antigen on colorectal carcinomas and adenomatous polyps has been studied by immunohistochemistry. All of the 20 carcinomas studied were found to express H substance regardless of their location in the colon, their pathologic grade, or their clinical stage. Adenomas were variably positive for H substance, and expression of the antigen appeared to correlate with the degree of dysplasia seen on microscopic examination. Normal colonic mucosa, nonadenomatous polyps, and nonepithelial colonic neoplasms studied failed to express H substance. The results suggest that detection of H substance expression may be useful in the diagnosis of colonic malignancies and dysplastic premalignant lesions.
+.A
+Compton C; Wyatt R; Konugres A; Ehrenthal D; Durda P.

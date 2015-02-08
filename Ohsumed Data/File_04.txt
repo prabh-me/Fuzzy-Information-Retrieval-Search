@@ -1,0 +1,15 @@
+ 3
+.U
+87049089
+.S
+Am J Emerg Med 8703; 4(6):501-3
+.M
+Adult; Aircraft/*; Altitude/*; Blood Gas Monitoring, Transcutaneous/*MT; Conjunctiva/*ME; Female; Human; Male; Monitoring, Physiologic/*MT; Regression Analysis; Transportation of Patients/*MT.
+.T
+Transconjunctival oxygen monitoring as a predictor of hypoxemia during helicopter transport.
+.P
+JOURNAL ARTICLE.
+.W
+As the use of helicopters for air transport of critically ill patients increases, the availability of monitoring devices for physiological parameters during flight becomes important. It has long been known that arterial PO2 (PaO2) decreases during unsupplemented, non-pressurized flight. In this study, the authors examined the use of the transconjunctival oxygen (cjO2) monitor for assessing the adequacy of arterial oxygenation during helicopter flight in four healthy volunteers. Arterial PaO2 as measured by conventional blood gas analysis was compared with cjO2 at ground level, 5,000 feet, and 10,000 feet altitude. Mean PaO2 dropped significantly from 93.5 to 81.5 to 58.5 mm Hg, respectively (P less than 0.001, analysis of variance with repeated measures). Mean cjO2 also decreased significantly from 63.8 to 52.0 to 34.8 mm Hg, respectively (P less than 0.001, analysis of variance with repeated measures). Within individual subjects, cjO2 was an accurate predictor of PaO2 (P less than 0.001, multiple regression analysis). The relationship between cjO2 and PaO2 was linear with a regression coefficient of 1.147. The authors conclude that the transconjunctival O2 monitor may be useful for monitoring the adequacy of arterial oxygenation during helicopter flight in hemodynamically stable patients. The results of study also support the use of supplemental oxygen in all patients subjected to helicopter transport.
+.A
+Shufflebarger C; Jehle D; Cottington E; Martin M.

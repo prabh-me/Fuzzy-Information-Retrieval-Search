@@ -1,0 +1,15 @@
+ 39806
+.U
+87070342
+.S
+Surg Neurol 8703; 27(1):87-92
+.M
+Adult; Biopsy/*MT; Brain Neoplasms/*PA/RA; Case Report; Cerebral Angiography; Female; Glioma/*PA/RA; Human; Middle Age; Stereotaxic Techniques/*; Tomography, Emission-Computed/*.
+.T
+Stereotaxic biopsy and positron emission tomography correlation of cerebral gliomas [published erratum appears in Surg Neurol 1987 May;27(5):511]
+.P
+JOURNAL ARTICLE.
+.W
+Computer-directed stereotaxis was used to obtain tissue diagnosis in two cases of cerebral glioma, one low grade, and the other high grade. Both lesions had a similar computed tomographic appearance. Positron emission tomography was performed in each case using [18F]fluorodeoxyglucose. A correlation was made in each case between the metabolic activity of the tumor as measured by positron emission tomography, the radiographic appearance, and the tumor histology.
+.A
+Worthington C; Tyler JL; Villemure JG.

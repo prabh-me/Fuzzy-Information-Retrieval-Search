@@ -1,0 +1,15 @@
+ 40126
+.U
+87079927
+.S
+Dis Colon Rectum 8704; 29(12):836-8
+.M
+Clinical Trials; Follow-Up Studies; Hemorrhoids/*SU; Human; Ligation/MT; Proctoscopy; Prospective Studies; Random Allocation; Rubber; Sigmoidoscopy.
+.T
+Conventional vs. triple rubber band ligation for hemorrhoids. A prospective, randomized trial.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Two hundred five patients with symptomatic first- and second-degree hemorrhoids were randomized to receive either conventional rubber band ligation or triple rubber band ligation. In conventional rubber band ligation, the hemorrhoids were ligated at one primary site per session at intervals of four weeks until symptoms were relieved or when all three hemorrhoids were ligated. In triple rubber band ligation, all three primary hemorrhoids were ligated in a single session. After completion of treatment, the patients were examined every three months, or earlier if symptoms recurred. Both methods were effective in the treatment of early hemorrhoids and the incidence of postligation pain and complications was similar. The advantages of having the treatment completed at the initial visit in triple rubber band ligation are obvious. Furthermore, less treatment sessions were required for triple rubber band ligation to control symptoms than for conventional rubber band ligation. Triple rubber band ligation is more cost-effective and therefore is recommended.
+.A
+Poon GP; Chu KW; Lau WY; Lee JM; Yeung C; Fan ST; Yiu TF; Wong SH; Wong KK.

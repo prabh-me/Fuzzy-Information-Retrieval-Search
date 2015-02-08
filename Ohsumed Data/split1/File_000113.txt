@@ -1,0 +1,15 @@
+ 39899
+.U
+87073482
+.S
+Am J Med 8703; 81(5A):18-22
+.M
+Aerosols; Atropine Derivatives/*PD; Bronchodilator Agents/AE/ME/*PD; Human; Intestinal Absorption/DE; Lung/DE; N-Isopropylatropine/AE/ME/*PD; Parasympatholytics/AE/ME/*PD; Salivation/DE.
+.T
+Clinical pharmacology and toxicology of ipratropium bromide.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Anticholinergic drugs inhibit a variety of intrapulmonary events related to airflow obstruction. When administered as an inhaled aerosol, approximately 90 percent of ipratropium bromide (as with beta-adrenergic aerosols) can be assumed to be swallowed. Peak pharmacologic effects occur prior to any detectable plasma drug concentrations. Ipratropium does not exhibit the well-known toxic effects of atropine, and doses many times those required for maximum therapeutic benefit do not produce any effects on the eye, urinary bladder, heart rate, or mucociliary function. Ipratropium seems to act primarily on large- and intermediate-size airways; beta-adrenergic agents, on the other hand, appear to act primarily on the smaller airways. The drug is a promising addition to the therapeutic armamentarium, and may be especially useful in certain groups of patients whose condition is less responsive to other agents.
+.A
+Cugell DW.

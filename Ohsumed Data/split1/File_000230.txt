@@ -1,0 +1,15 @@
+ 40016
+.U
+87076257
+.S
+Br Heart J 8704; 56(5):428-32
+.M
+Adolescence; Adult; Aged; Blood Pressure/DE; Clinical Trials; Double-Blind Method; Epoprostenol/*AD/AE/TU; Female; Heart Rate/DE; Human; Infusions, Intravenous; Male; Middle Age; Myocardial Infarction/*DT/EN/PP; Random Allocation; Stroke Volume/DE; Support, Non-U.S. Gov't.
+.T
+Epoprostenol sodium (prostacyclin) infusion in acute myocardial infarction.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Epoprostenol (prostacyclin) is a potent inhibitor of platelet aggregation and causes relaxation of vascular smooth muscle. These effects may be beneficial in patients with acute myocardial infarction. The effect of epoprostenol infusion in patients with acute myocardial infarction was evaluated in a randomised double blind study of 45 patients with evidence of myocardial infarction of less than 16 hours' duration. The patients were given a 72 hour infusion of epoprostenol (23) or placebo (22). The maximum dose was 5 ng/kg/min. The mean time to treatment was 8.3 hours (range 3.8-15.9 hours). The mean dose was 4.9 ng/kg/min. The patients were followed until day 30. No significant differences were found between the groups in mortality, development of congestive heart failure, cardiogenic shock, arrhythmias, recurrent chest pain, reinfarction, peak creatine kinase concentration, or the time taken to attain peak creatine kinase concentration. No significant difference in baseline ejection fraction was noted between groups, and no significant change in ejection fraction occurred within each group or between groups. The only significant side effect was the development of facial flushing in the epoprostenol group. In this pilot study epoprostenol was well tolerated by patients with acute myocardial infarction. No benefit from epoprostenol could be demonstrated at the dose range used when the drug was administered within 16 hours of the onset of symptoms.
+.A
+Kiernan FJ; Kluger J; Regnier JC; Rutkowski M; Fieldman A.

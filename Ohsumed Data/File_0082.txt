@@ -1,0 +1,13 @@
+ 81
+.U
+87049351
+.S
+ASAIO Trans 8703; 32(1):42-5
+.M
+Evaluation Studies; Foreign Bodies/*PA; Heart, Artificial/*/AE; Human; Skin/*PA; Support, U.S. Gov't, P.H.S.; Time Factors.
+.T
+The microscopic evaluation of skin buttons used in a long-term human total artificial heart recipient.
+.P
+JOURNAL ARTICLE.
+.A
+Murray KD; Abbott T; DeVries WC; Gaykowski R; Olsen DB.

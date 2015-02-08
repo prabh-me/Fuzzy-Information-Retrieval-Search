@@ -1,0 +1,13 @@
+ 59
+.U
+87049319
+.S
+ASAIO Trans 8703; 32(1):300-4
+.M
+Female; Follow-Up Studies; Hematocrit; Hemodialysis/*MT; Human; Kidney, Artificial; Kinetics; Male; Middle Age; Urea/ME.
+.T
+Long-term experience with routine single-needle dialysis. A review.
+.P
+JOURNAL ARTICLE.
+.A
+Vanholder R; Hoenich N; Bogaert AM; Ringoir S.

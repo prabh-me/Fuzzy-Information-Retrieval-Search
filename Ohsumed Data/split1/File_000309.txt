@@ -1,0 +1,15 @@
+ 40095
+.U
+87079250
+.S
+Clin Perinatol 8704; 13(4):755-63
+.M
+Blood Volume; Female; Hemorrhage/*/ET/TH; Human; Oxygen/TU; Placenta Diseases/CO; Pregnancy; Pregnancy Complications, Cardiovascular/*; Shock/*/DT/TH; Uterine Rupture/CO.
+.T
+Hemorrhagic shock in obstetrics.
+.P
+JOURNAL ARTICLE; REVIEW.
+.W
+Hemorrhage during pregnancy is life threatening to both the mother and her fetus. Physiologic preparation for blood loss at parturition does take place but the wise clinician also prepares for this eventuality. The usual causes of hemorrhage are discussed in this article, as well as a useful clinical approach to priorities in the management steps for obstetric hemorrhage shock are also presented.
+.A
+Hayashi RH.

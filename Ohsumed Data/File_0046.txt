@@ -1,0 +1,13 @@
+ 45
+.U
+87049299
+.S
+ASAIO Trans 8703; 32(1):211-6
+.M
+Angioplasty, Transluminal/AE/*IS/MT; Animal; Dogs; Heart Failure, Congestive/ET/PP/*TH; Heart-Assist Devices; Hemodynamics.
+.T
+Experimental evaluation of extrapulmonary arterial balloon pumping (EPABP) for right heart failure of diverse etiologies.
+.P
+JOURNAL ARTICLE.
+.A
+Miya J; Maeta H; Asakura T; Hori M.

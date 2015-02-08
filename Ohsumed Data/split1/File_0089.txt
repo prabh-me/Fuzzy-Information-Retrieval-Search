@@ -1,0 +1,15 @@
+ 39875
+.U
+87073139
+.S
+Am Heart J 8703; 112(6):1304-8
+.M
+Aorta, Thoracic/*AB/RA; Aortic Arch Syndromes/ET/RA; Child, Preschool; Esophagoscopy; Esophagus/AB/RA; Female; Human; Infant; Male; Manometry; Middle Age; Subtraction Technique/*; Trachea/AB/RA.
+.T
+Digital subtraction angiography in the diagnosis of vascular rings.
+.P
+JOURNAL ARTICLE.
+.W
+Digital subtraction angiography was performed in six patients suspected of having a vascular ring. There were four males and two females. Two patients were less than 6 months of age, two were between 14 and 20 months, and two were ages 4 and 53 years. Four of the six patients had abnormal esophagrams. Five patients underwent peripheral intravenous digital subtraction angiography and a sixth patient underwent digital subtraction angiography via arterial catheterization. In two patients (ages 20 months and 4 years), the presence of a vascular ring was excluded by demonstrating an anatomically normal arch with an anomalous right subclavian artery. In three patients, a right aortic arch was present. Two of these patients had mirror image branching and a left ligamentum arteriosum. The third patient had an aberrant left subclavian artery and a left ligamentum. One patient had an anomalous right subclavian artery and a systemic collateral vessel arising from the aorta, supplying a confluence of vessels in the right lung hilum. In all patients, anatomic definition was accurate with the intravenous injection and there were no complications. In the patient who underwent intra-arterial injection, the dose of contrast was reduced 50% from the dose usually administered. Digital subtraction angiography appears to be a good adjunctive diagnostic method in patients in whom the presence of a vascular ring needs to be confirmed angiographically and obviates the need for arterial catheterization.
+.A
+Otero-Cagide M; Moodie DS; Sterba R; Gill CC.

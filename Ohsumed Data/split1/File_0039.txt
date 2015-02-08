@@ -1,0 +1,13 @@
+ 39825
+.U
+87070594
+.S
+Thorax 8703; 41(9):657-62
+.M
+Animal; Asthma/*PA/PP; Dogs; Human; Inflammation/PA; Respiratory System/*PA.
+.T
+Role of inflammation in the hyperreactivity of the airways in asthma.
+.P
+JOURNAL ARTICLE; REVIEW.
+.A
+Chung KF.

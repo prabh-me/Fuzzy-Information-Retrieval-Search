@@ -1,0 +1,15 @@
+ 39955
+.U
+87074276
+.S
+Angiology 8703; 37(11):810-7
+.M
+Adolescence; Adult; Aged; Aged, 80 and over; Blood Pressure/DE; Clinical Trials; Double-Blind Method; Female; Human; Hypertension/*DT; Ketanserin/*TU; Male; Middle Age; Random Allocation.
+.T
+Double-blind comparison of ketanserin with placebo in patients with essential hypertension.
+.P
+CLINICAL TRIAL; JOURNAL ARTICLE.
+.W
+Two double-blind multicenter trials were performed to compare the antihypertensive action of ketanserin, at an oral dosage of 20 mg three times daily, with that of placebo over a period of four to six weeks. A subset of patients was treated in a crossover fashion for either four weeks (36 patients) or six weeks (24 patients). The patients had essential hypertension, with a diastolic blood pressure greater than or equal to 95 mmHg measured in sitting position at the end of a placebo run-in period of at least one week. In a first trial, 78 of 82 patients completed the four-week study period, where the mean drop of the systolic/diastolic blood pressure was -14/-12 mmHg in the ketanserin group (n = 32) versus -8/-5 mmHg in the placebo group (n = 46). This difference is statistically significant (p = 0.05/p less than 0.01). In 13 patients who after the initial ketanserin treatment were further treated with placebo in crossover for four weeks, the blood pressure rose slightly (+1/+3 mmHg). In the alternative group (n = 23), the blood pressure fell by -10/-7 mmHg after placebo and decreased further by -10/-8 mmHg after ketanserin. In a second trial, 24 patients completed a two by six week crossover treatment. In 12 patients assigned to the sequence placebo-ketanserin, there was a drop of the systolic/diastolic blood pressure by -7/-4 mmHg after placebo and an additional drop by -26/-10 mmHg after ketanserin.(ABSTRACT TRUNCATED AT 250 WORDS)
+.A
+Wellens D; Peeters G; Baeten B; Sieben G; Symoens J.
